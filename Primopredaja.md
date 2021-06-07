@@ -1,36 +1,45 @@
-# split
+###### REPUBLIKA HRVATSKA
 
+###### SPLITSKO-DALMATINSKA ŽUPANIJA
 
- PDF To Markdown Converter
-Debug View
-Result View
-REPUBL I K A HRVATS K A
-SPLITSKO-DALMATINSKA ŽUPANIJA
-GRAD SPLIT
-GRADONAČELNIK
-KLASA: 022 - 05/21-01/
-URBROJ: 2181/01- 09 - 02/3- 21 - 1
+###### GRAD SPLIT
+
+###### GRADONAČELNIK
+
+###### KLASA: 022 - 05/21-01/
+
+###### URBROJ: 2181/01- 09 - 02/3- 21 - 1
+
 Split, 02. lipnja 2021. godine
 
-IZVJEŠĆE
-PRIMOPREDAJA IZVRŠNIH OVLASTI
-GRAD SPLIT
-Predao: Preuzeo:
+###### IZVJEŠĆE
 
-ANDRO KRSTULOVIĆ OPARA IVICA PULJAK
+###### PRIMOPREDAJA IZVRŠNIH OVLASTI
+
+###### GRAD SPLIT
+
+Predao:                    Preuzeo:
+
+**ANDRO KRSTULOVIĆ OPARA** IVICA PULJAK
 
 U Splitu, 7. lipnja 2021.
 
-*P/ 2678165 *
+## *P/ 2678165 *
+
+
+
 Sukladno ZAKONU O POSTUPKU PRIMOPREDAJE VLASTI (Narodne novine br. 94/04;
 17/07; 91/10; i 22/13) članak 10.a dostavljam izvješće iz stavka 1. ovoga članka. U navedenom
 izvješću nalaze se informacije:
 
-o planiranim projektima, mjerama i drugim planiranim aktivnostima
-o započetim, a nedovršenim projektima, mjerama i drugim započetim, a nedovršenim
+- o planiranim projektima, mjerama i drugim planiranim aktivnostima
+- o započetim, a nedovršenim projektima, mjerama i drugim započetim, a nedovršenim
 aktivnostima
-o preuzetim, a nepodmirenim obvezama jedinice lokalne samouprave – Grada Splita.
-SADRŽAJ:
+- o preuzetim, a nepodmirenim obvezama jedinice lokalne samouprave – Grada Splita.
+
+*********************************************************************************************************
+
+**SADRŽAJ:**
 
 URED GRADA....................................................................................................... 5
 
@@ -60,17 +69,21 @@ SLUŽBA ZA GOSPODARSTVO, OBRTNIŠTVO I TURIZAM..................................
 
 SLUŽBA PRAVNIH POSLOVA, ZAŠTITE I ZASTUPANJA...........................................
 
-PRILOZI IZVJEŠĆU:
+**PRILOZI IZVJEŠĆU:**
 
 PLANIRANI PROJEKTI NA GRADSKIM PODRUČJIMA ISTOČNA OBALA I KOPILICA
 
-URED GRADA
+
+
+###### URED GRADA
+
 Odlukom o ustrojstvu Gradske uprave Grada Splita (Službeni glasnik Grada Splita 55/17)
 osnovan je Ured Grada kao jedno od 12 upravnih tijela. Istom odlukom utvrđen je djelokrug
 Ureda Grada, a poslovi su Pravilnikom o unutarnjem redu i načinu rada upravnih tijela Grada
 Splita (Službeni glasnik Grada Splita 5/18 i 61/19) podijeljeni na sedam ustrojstvenih jedinica-
 odsjeka i to:
 
+```
  Odsjek za rad Gradskog vijeća
  Odsjek za pravno normativne poslove i poslove pisarnice i pismohrane
  Odsjek za upravljanje ljudskim potencijalima i pomoćne poslove
@@ -78,18 +91,22 @@ odsjeka i to:
  Odsjek za suradnju s braniteljima i braniteljskim udrugama
  Odsjek za sigurnost i upravljanje kriznim situacijama
  Odsjek za staru gradsku jezgru i baštinu
+```
 U Uredu Grada na dan 1. lipnja 2021. godine zaposleno je 60 službenika i namještenika.
 
 Proračunom Grada Splita za 2021. godinu za aktivnosti koje se provode unutar djelokruga
 Ureda Grada planirano je 119.959.337,00 kuna. Na dan 1. lipnja 2021. godine od planiranog
 iznosa realizirano je 45.241.363,00 kuna.
 
+```
  Odsjek za rad Gradskog vijeća
+```
 U Odsjeku za rad Gradskog vijeća obavljaju se stručni i drugi poslovi pravno-savjetodavne i
 stručno-administrativne naravi koji obuhvaćaju pripremu i stručni pregled općih akata
 pripremljenih za sjednice Gradskoga vijeća, poslove pripreme i organiziranja sjednica Vijeća i
 
-njegovih radnih tijela. Obavljaju se i tajnički poslovi radnih tijela Gradskog vijeća.
+#### njegovih radnih tijela. Obavljaju se i tajnički poslovi radnih tijela Gradskog vijeća.
+
 U Proračunu Grada Splita za 2021. godinu za aktivnosti ovoga Odsjeka planirano je
 4.933.500,00 kuna. Na dan 1. lipnja 2021. godine realizirano je 1.577.496,00 kuna.
 
@@ -98,181 +115,199 @@ U mandatu 2017. - 2021. održane su ukupno 43 sjednice Gradskog vijeća.
 U Gradskom vijeću su zaprimljeni, ali na sjednicama nisu raspravljeni sljedeći prijedlozi čije je
 donošenje u nadležnosti Gradskog vijeća:
 
-Prijedlog statutarne odluke o izmjenama i dopunama Statuta Grada Splita
+1. Prijedlog statutarne odluke o izmjenama i dopunama Statuta Grada Splita
 (predlagatelj Odbor za statut, poslovnik i propise, prijedlog je utvrdio 17. veljače 2021. godine)
-ŽURNO DONOŠENJE
-Prijedlog poslovničke odluke o izmjenama i dopunama Poslovnika Gradskog
+- **ŽURNO DONOŠENJE**
+2. Prijedlog poslovničke odluke o izmjenama i dopunama Poslovnika Gradskog
 vijeća Grada Splita (predlagatelj Odbor za statut, poslovnik i propise, prijedlog je utvrdio 17.
-veljače 2021. godine) - ŽURNO DONOŠENJE
-Prijedlog programa rada Gradskoga vijeća Grada Splita za 2021. godinu
+veljače 2021. godine) - **ŽURNO DONOŠENJE**
+3. Prijedlog programa rada Gradskoga vijeća Grada Splita za 2021. godinu
 (predlagatelj Odbor za pripremu, izradu te predlaganje Programa rada Gradskoga vijeća,
 prijedlog je utvrdio 18. veljače 2021. godine)
-Prijedlog Odluke o izradi Izmjena i dopuna Detaljnog plana uređenja zone
+4. Prijedlog Odluke o izradi Izmjena i dopuna Detaljnog plana uređenja zone
 poslovne namjene i stanovanja (K5) sjeverno od Vukovarske (predlagatelj Gradonačelnik,
 prijedlog je utvrdio 10. ožujka 2021. godine)
-Prijedlog Odluke o izradi Izmjena i dopuna Prostornog plana uređenja Grada
+
+
+5. Prijedlog Odluke o izradi Izmjena i dopuna Prostornog plana uređenja Grada
 Splita(predlagatelj Gradonačelnik, prijedlog je utvrdio 10. ožujka 2021. godine)
-Prijedlog Odluke o izradi Izmjena i dopuna Generalnog urbanističkog plana
+6. Prijedlog Odluke o izradi Izmjena i dopuna Generalnog urbanističkog plana
 Splita(predlagatelj Gradonačelnik, prijedlog je utvrdio 10. ožujka 2021. godine)
-Prijedlog odluke o preoblikovanju javne ustanove Zavod za prostorno uređenje
+7. Prijedlog odluke o preoblikovanju javne ustanove Zavod za prostorno uređenje
 Grada Splita u trgovačko društvo (predlagatelj Gradonačelnik, prijedlog je utvrdio 2. veljače
-godine)
-Prijedlog odluke o postupku i visini naknade za osnivanje prava služnosti u
+2021. godine)
+8. Prijedlog odluke o postupku i visini naknade za osnivanje prava služnosti u
 svrhu izgradnje infrastrukturnih građevina (predlagatelj Gradonačelnik, prijedlog je utvrdio 5.
 veljače 2021. godine)
-Prijedlog Odluke o sprječavanju nepropisnog odbacivanja otada u okoliš na
+9. Prijedlog Odluke o sprječavanju nepropisnog odbacivanja otada u okoliš na
 području Grada Splita (predlagatelj Gradonačelnik, prijedlog je utvrdio 11. ožujka 2021.
 godine)
-Prijedlog Odluke o mogućnosti postave i montaže tipiziranih montažnih
+10. Prijedlog Odluke o mogućnosti postave i montaže tipiziranih montažnih
 zatvorenih boksova za smještaj spremnika za otpad na površinama javne namjene Grada
 Splita(predlagatelj Gradonačelnik, prijedlog je utvrdio 12. veljače 2021. godine)
-zbor članova i zamjenika članova Savjeta mladih Grada Splita (predlagatelj
+11. zbor članova i zamjenika članova Savjeta mladih Grada Splita (predlagatelj
 Komisija za suradnju s mladima, prijedlog je utvrdila 18. veljače 2021. godine
 nakon provedenog Javnog poziva koji je objavljen na internetskim stranicama
 Grada Splita i u Slobodnoj Dalmaciji)
+
+```
 11.1. Izvješće o provjeri formalnih uvjeta prijavljenih kandidata za izbor članova
 Savjeta mladih Grada Splita i njihovih zamjenika
+```
+```
 11 .2. Popis važećih kandidatura za izbor članova Savjeta mladih Grada Splita i
 njihovih zamjenika
 a) Imenovanje Povjerenstva za provođenje postupka izbora članova i zamjenika
 članova Savjeta mladih
 b) Postupak glasovanja za izbor članova i zamjenika članova Savjeta mladih
 c) Izvješće o provedenom glasovanju
-d) Donošenje rješenja o izboru
-Prijedlog zaključka o usvajanju Lokalnog plana provedbe Agende 2030 za
+```
+##### d) Donošenje rješenja o izboru
+
+12. Prijedlog zaključka o usvajanju Lokalnog plana provedbe Agende 2030 za
 održivi razvoj (predlagatelj Gradonačelnik, prijedlog je utvrdio 5. veljače 2021. godine)
-Prijedlog zaključka o usvajanju Izvješća o stanju provedbe Provedbenog plana
+13. Prijedlog zaključka o usvajanju Izvješća o stanju provedbe Provedbenog plana
 unapređenja zaštite od požara za područje Grada Splita u 2020. godini (predlagatelj
 Gradonačelnik, prijedlog je utvrdio 9. veljače 2021. godine)
-Prijedlog zaključka o usvajanju Izvješća o stanju zaštite od požara na području
+14. Prijedlog zaključka o usvajanju Izvješća o stanju zaštite od požara na području
 Grada Splita u 2020. godini (predlagatelj Gradonačelnik, prijedlog je utvrdio 9. veljače 2021.
 godine)
-Prijedlog zaključka o usklađivanju Plana zaštite od požara Grada Splita u
-godini (predlagatelj Gradonačelnik, prijedlog je utvrdio 9. veljače 2021. godine)
-Prijedlog Provedbenog plana unapređenja zaštite od požara za područje
+15. Prijedlog zaključka o usklađivanju Plana zaštite od požara Grada Splita u
+2021. godini (predlagatelj Gradonačelnik, prijedlog je utvrdio 9. veljače 2021. godine)
+
+
+16. Prijedlog Provedbenog plana unapređenja zaštite od požara za područje
 Grada Splita za 2021. godinu (predlagatelj Gradonačelnik, prijedlog je utvrdio 19. veljače 2021.
 godine)
-Prijedlog zaključka o usvajanju Izvješća o izvršenju Plana djelovanja Grada
+17. Prijedlog zaključka o usvajanju Izvješća o izvršenju Plana djelovanja Grada
 Splita u području prirodnih nepogoda za 2020. godinu (predlagatelj Gradonačelnik, prijedlog
 je utvrdio 9. veljače 2021. godine)
-Prijedlog izmjene Srednjoročnog (trogodišnjeg) plana davanja koncesija iz
+18. Prijedlog izmjene Srednjoročnog (trogodišnjeg) plana davanja koncesija iz
 područja komunalnih djelatnosti za razdoblje od 2019. do 2021. godine (predlagatelj
 Gradonačelnik, prijedlog je utvrdio 11. veljače 2021. godine)
-Prijedlog Godišnjeg plana davanja koncesija iz područja komunalnih
+19. Prijedlog Godišnjeg plana davanja koncesija iz područja komunalnih
 djelatnosti na području Grada Splita za 2021. godinu (predlagatelj Gradonačelnik, prijedlog je
 utvrdio 12. veljače 2021. godine)
-Prijedlog odluke o davanju jedne (1) koncesije za obavljanje poslova
+20. Prijedlog odluke o davanju jedne (1) koncesije za obavljanje poslova
 održavanja javnog nužnika „Pistura“ na području grada Splita (predlagatelj Gradonačelnik,
 prijedlog je utvrdio 12. veljače 2021. godine)
-Prijedlog odluke o davanju prethodne suglasnosti na Opće uvjete isporuke
+21. Prijedlog odluke o davanju prethodne suglasnosti na Opće uvjete isporuke
 komunalne usluge obavljanja dimnjačarskih poslova Obrtu za dimnjačarstvo „KOTAO-M“ iz
 Podstrane, Duge Njive 18A (predlagatelj Gradonačelnik, prijedlog je utvrdio 24. veljače 2021.
 godine)
-Prijedlog zaključka o davanju suglasnosti Parkovima i nasadima d.o.o. Split
+22. Prijedlog zaključka o davanju suglasnosti Parkovima i nasadima d.o.o. Split
 za privremeno korištenje gradske površine (predlagatelj Gradonačelnik, prijedlog je utvrdio 5.
 ožujka 2021. godine)
-protekom roka od 60 dana sukladno članku 37. Zakona o zaštiti i očuvanju
-kulturnih dobara o prijedlozima od 23. do 33. Gradsko vijeće se ne očituje
-Prijedlog zaključka o očitovanju na ponudu prava prvokupa kulturnog dobra,
+- protekom roka od 60 dana sukladno **članku 37. Zakona o zaštiti i očuvanju
+kulturnih dobara o prijedlozima od 23. do 33. Gradsko vijeće se ne očituje**
+23. Prijedlog zaključka o očitovanju na ponudu prava prvokupa kulturnog dobra,
 nekretnine – zgrada bez zemljišta na čest. zgr. 2447, 2451, 2449, 2470, 2473, 2474 Z.U. 2964
 K.O. Split, ZK tijelo II – 13. suvlasnički dio s neodređenim omjerom ETAŽNO VLASNIŠTVO
 (E-13), ZK tijelo II – 14. suvlasnički dio s neodređenim omjerom ETAŽNO VLASNIŠTVO (E-
 14), dijelovi zgrade anagrafske oznake Narodni trg 1 (ex Narodni trg 3)
-Prijedlog zaključka o očitovanju na ponudu prava prvokupa kulturnog dobra,
+24. Prijedlog zaključka o očitovanju na ponudu prava prvokupa kulturnog dobra,
 nekretnine sagrađene na čest. zgr. 1904 Z.U. 4738 K.O. Split, ZK tijelo II – 16. suvlasnički dio
 s neodređenim omjerom ETAŽNO VLASNIŠTVO (E-16), u naravi stan na II. katu, označen
 brojem 4, u površini od 71,27 m^2 položen u zgradi anagrafske oznake Krešimirova 3, Split
-Prijedlog zaključka o odricanju na ponudu prava prvokupa kulturnog dobra,
+25. Prijedlog zaključka o odricanju na ponudu prava prvokupa kulturnog dobra,
 nekretnine sagrađene na čest. zem. 9113/1 Z.U. 16090 K.O. Split, na adresi Slavićeva 15 u
 Splitu
-Prijedlog zaključka o odricanju na ponudu prava prvokupa za suvlasnički dio s
+26. Prijedlog zaključka o odricanju na ponudu prava prvokupa za suvlasnički dio s
 neodređenim omjerom (E-12), stan na potkrovlju, čest. zgr. 2167/2 Z.U. 1823 K.O. Split, na
 adresi Klaićeva poljana 1 u Splitu
-Prijedlog zaključka o odricanju na ponudu prava prvokupa za suvlasnički dio s
+27. Prijedlog zaključka o odricanju na ponudu prava prvokupa za suvlasnički dio s
 neodređenim omjerom ETAŽNO VLASNIŠTVO (e-), stan na III. katu, čest. zgr. 2912 ZU 3298,
 K.O. Split na adresi Zagrebačka 9 u Splitu
-Prijedlog zaključka o odricanju na ponudu prava prvokupa za suvlasnički dio s
+
+
+28. Prijedlog zaključka o odricanju na ponudu prava prvokupa za suvlasnički dio s
 neodređenim omjerom (E-7), stan na II. katu, čest. zgr. 2912 ZU 3298, K.O. Split, na adresi
 Zagrebačka 9 u Splitu
-Prijedlog zaključka o odricanju na ponudu prava prvokupa kulturnog dobra,
+29. Prijedlog zaključka o odricanju na ponudu prava prvokupa kulturnog dobra,
 nekretnine sagrađene na čest. zgr. 1902 Z.U. 2773 K.O. Split, na adresi Krešimirova 3 u Splitu
-Prijedlog zaključka o odricanju na ponudu prava prvokupa kulturnog dobra,
+30. Prijedlog zaključka o odricanju na ponudu prava prvokupa kulturnog dobra,
 nekretnine sagrađene na čest. zgr. 1642 Z.U. 3513 K.O. Split, na adresi Obala hrvatskog
 narodnog preporoda 23 u Splitu
-Prijedlog zaključka o odricanju na ponudu prava prvokupa kulturnog dobra,
+31. Prijedlog zaključka o odricanju na ponudu prava prvokupa kulturnog dobra,
 nekretnine sagrađene na čest. zgr. 2602/2 Z.U. 3714 K.O. Split, na adresi Obala hrvatskog
 narodnog preporoda 5 u Splitu
-Prijedlog zaključka o očitovanju na ponudu prava prvokupa kulturnog dobra,
+32. Prijedlog zaključka o očitovanju na ponudu prava prvokupa kulturnog dobra,
 suvlasničkog dijela nekretnine sagrađene na čest.zgr.2545 Z.U. 1810 K.O. Split, na adresi
 Mihovilova širina 13 u Splitu
-Prijedlog zaključka o odricanju na ponudu prava prvokupa kulturnog dobra,
+33. Prijedlog zaključka o odricanju na ponudu prava prvokupa kulturnog dobra,
 nekretnine sagrađene na čest. zgr. 2444Z.U. 2195 K.O. Split u naravi poslovni prostor na
+
 adresi Zadarska 3 u Splitu
 
-Izvješće o uspostavi održivog gospodarenja otpadom na području Grada
+34. Izvješće o uspostavi održivog gospodarenja otpadom na području Grada
 Splita za razdoblje srpanj – prosinac 2020. godine (predlagatelj Gradonačelnik, prijedlog je
 utvrdio 1. ožujka 2021. godine)
-Prijedlog akcijskog plana za sprječavanje vandalizma na području grada Splita
+35. Prijedlog akcijskog plana za sprječavanje vandalizma na području grada Splita
 (predlagatelj Gradonačelnik, prijedlog je utvrdio 4. ožujka 2021. godine)
-Prijedlog Zaključka o razmatranju Izvješća o stanju u prostoru Grada Splita za
+36. Prijedlog Zaključka o razmatranju Izvješća o stanju u prostoru Grada Splita za
 razdoblje od 2015. – 2019. godine (predlagatelj Gradonačelnik, prijedlog je utvrdio 10. ožujka
-godine)
-Izvješće o radu Gradonačelnika Grada Splita za razdoblje od 1. srpnja do 31.
+2021. godine)
+37. Izvješće o radu Gradonačelnika Grada Splita za razdoblje od 1. srpnja do 31.
 prosinca 2020. godine (predlagatelj Gradonačelnik, prijedlog je utvrdio 10. ožujka 2021.
 godine)
-Imenovanje ravnatelja Muzeja Domovinskog rata u Splitu (predlagatelj Odbor
+38. Imenovanje ravnatelja Muzeja Domovinskog rata u Splitu (predlagatelj Odbor
 za izbor i imenovanje, natječaj za izbor ravnatelja Gradsko vijeće je raspisalo 23. prosinca
-koje je objavljeno u Slobodnoj Dalmaciju i na web stranici Grada Splita. S obzirom da
+2020. koje je objavljeno u Slobodnoj Dalmaciju i na web stranici Grada Splita. S obzirom da
 nije održana sjednica Odbora za izbor i imenovanja prijedlog nije utvrđen za Gradsko vijeće.
-Prijedlog rješenja o imenovanju ravnatelja Javne ustanove u kulturi Hrvatski
+39. Prijedlog rješenja o imenovanju ravnatelja Javne ustanove u kulturi Hrvatski
 dom Split (predlagatelj Povjerenstvo za provedbu javnog natječaja za izbor ravnatelja Javne
 ustanove u kulturi Hrvatski dom Split , prijedlog je utvrdilo 10. ožujka 2021. godine na temelju
 natječaja koji je proveden 27. siječnja 2021. godine, objavljen u Narodnim novinama i
 Slobodnoj Dalmaciji)
-Prijedlog rješenja o imenovanju ravnateljice Dječjeg vrtića „Radost“
+40. Prijedlog rješenja o imenovanju ravnateljice Dječjeg vrtića „Radost“
 (predlagatelj Upravno vijeće dječjeg vrtića Radost, prijedlog je utvrdio 8. ožujka 2021. godine
 temeljem natječaja provedenog 25. siječnja 2021. godine)
-Prijedlog zaključka o davanju suglasnosti na sklapanje ugovora sa Split
+
+
+41. Prijedlog zaključka o davanju suglasnosti na sklapanje ugovora sa Split
 parkingom d.o.o. Split o zajedničkom pothvatu radi izgradnje garaže u gradskom kotaru Lokve
 (predlagatelj Gradonačelnik, prijedlog je utvrdio 12. ožujka 2021. godine)
-Prijedlog zaključka o davanju suglasnosti za sklapanje i prihvaćanju teksta
+42. Prijedlog zaključka o davanju suglasnosti za sklapanje i prihvaćanju teksta
 Ugovora o financiranju uređenja građevinskog zemljišta - izgradnja nerazvrstane ceste na
 predjelu Žnjan u Splitu (predlagatelj Gradonačelnik, prijedlog je utvrdio 16. ožujka 2021.
 godine)
-Prijedlog zaključka o davanju suglasnosti za sklapanje i prihvaćanju teksta
+43. Prijedlog zaključka o davanju suglasnosti za sklapanje i prihvaćanju teksta
 Ugovora o financiranju izgradnje dijela nerazvrstane ceste - Tučepske ulice i Jelšanske ulice
 (predlagatelj Gradonačelnik, prijedlog je utvrdio 16. ožujka 2021. godine)
-Informacija o provedenim radnjama u postupku realizacije pojedinačnog
+44. Informacija o provedenim radnjama u postupku realizacije pojedinačnog
 zahvata Trstenik-Mertojak zapad (P11) (predlagatelj Gradonačelnik, prijedlog je utvrdio 12.
 ožujka 2021. godine)
-Prijedlog zaključka o prodaji nekretnina u svrhu formiranja građevinske
+45. Prijedlog zaključka o prodaji nekretnina u svrhu formiranja građevinske
 parcele za izgradnju trgovačkog centra na predjelu Trstenik u Splitu, kao i otkupa nekretnina
 u trasi prometnica OS 2 i OS 3 predmetnog obuhvata (predlagatelj Gradonačelnik, prijedlog je
 utvrdio 26. veljače 2021. godine)
-Prijedlog Zaključka u svezi informacije o namjeri pokretanja urbanističkog
+46. Prijedlog Zaključka u svezi informacije o namjeri pokretanja urbanističkog
 natječaja za područje Gradskog projekta Poljud (GP br.3) (predlagatelj Gradonačelnik,
 prijedlog je utvrdio 10. ožujka 2021. godine)
-Prijedlog odluke o proglašenju komunalne infrastrukture javnim dobrom u
+47. Prijedlog odluke o proglašenju komunalne infrastrukture javnim dobrom u
 općoj uporabi groblje Lovrinac (predlagatelj Gradonačelnik, prijedlog je utvrdio 23. ožujka
-godine)
-Prijedlog zaključka o ukidanju statusa javnog dobra na novoformiranim čest.
+2021. godine)
+48. Prijedlog zaključka o ukidanju statusa javnog dobra na novoformiranim čest.
 zem. 9943/21, 9943/20, 9949/15, 9949/16, 9943/9 i 9949/9 K.O. Split (predlagatelj
 Gradonačelnik, prijedlog je utvrdio 25. ožujka 2021. godine)
-Prijedlog zaključka o prodaji čest. zem. 102/8, čest. zem. 10402/54, čest. zem.
+49. Prijedlog zaključka o prodaji čest. zem. 102/8, čest. zem. 10402/54, čest. zem.
 9939/1 i čest. zem. 104/30 sve k.o. Split (predlagatelj Gradonačelnik, prijedlog je utvrdio 12.
 travnja 2021. godine)
-Prijedlog zaključka o davanju suglasnosti na sklapanje ugovora sa Split
+50. Prijedlog zaključka o davanju suglasnosti na sklapanje ugovora sa Split
 parkingom d.o.o. Split o zajedničkom pothvatu radi gradnje nove garaže (lokacija Dobrilina) te
 rekonstrukcije i nadogradnje postojećih garaža (lokacije Doverska i Odeska) (predlagatelj
 Gradonačelnik, prijedlog je utvrdio 12. travnja 2021. godine)
-Prijedlog zaključka o davanju suglasnosti za provedbu projekta „Modernizacija
+51. Prijedlog zaključka o davanju suglasnosti za provedbu projekta „Modernizacija
 javne rasvjete Grada Splita primjenom model energetske usluge“ (predlagatelj
+
 Gradonačelnik, prijedlog utvrdio 7.rujna 2020. godine (Klasa 303-01/19-01/02, Urbroj:
 2181/01- 09 - 02/1- 20 - 10)
 
-Informacija u svezi „Legalizacije bespravno sagrađenih objekata u Park šumi
+
+52. Informacija u svezi „Legalizacije bespravno sagrađenih objekata u Park šumi
 Marjan s Prijedlogom zaključka (predlagatelj Komisija za urbanizam, prijedlog utvrdila 11.
 veljače 2019. godine (Klasa: 023-01/17-01/26, Urbroj: 2181/01- 09 - 01/5- 19 - 48)
+
 Radna tijela Gradskoga vijeća
 
 Odlukom Vlade RH o raspisivanju izbora za članove predstavničkih tijela jedinica lokalne i
@@ -294,9 +329,12 @@ za potpis između davatelja usluge i naručitelja.
 
 Komisija za imena ulica i trgova i za spomenike
 
+```
 Dovršeni su postupci za slijedeće spomenike (provedeni postupci za odabir idejnog rješenja
 spomenika i donesena Rješenja Gradskoga vijeća Grada Splita o odobrenju postavljanja
 spomenika), a spomenici još nisu postavljeni:
+```
+```
 I. Spomenik Mihovilu Pavlinoviću
 Gradsko poglavarstvo je 2009. godine donijelo Zaključak o usvajanju Programa natječaja za
 izradu idejnog rješenja spomenika Mihovilu Pavlinoviću na Trgu Mihovila Pavlinovića, a 2010.
@@ -306,6 +344,8 @@ Splita.
 Na prijedlog Komisije za imena ulica i trgova i za spomenike, kao ovlaštenog predlagatelja,
 Gradsko vijeće je 2011. godine donijelo Rješenje o odobrenju postavljanja spomenika Mihovilu
 Pavlinoviću u postojećem uređenom parku na Trgu Mihovila Pavlinovića.
+```
+```
 II. Spomenik Fabijanu Kaliterni
 Gradsko poglavarstvo je 2008. godine donijelo Zaključak o usvajanju Programa natječaja za
 izradu idejnog rješenja spomenika Fabijanu Kaliterni, a 2009. godine nakon provedenog
@@ -315,6 +355,8 @@ usluge izrade modela spomenika i uređenja prostora za postav spomenika Fabijanu
 Na prijedlog Komisije za imena ulica i trgova i za spomenike, kao ovlaštenog predlagatelja,
 Gradsko vijeće je 2011. godine donijelo Rješenje o odobrenju postavljanja spomenika Fabijanu
 Kaliterni na sjevernom trgu lokacije velike sportske dvorane na Gripama u Osječkoj ulici.
+```
+
 III. Postavljanje spomenika Markantunu de Dominisu
 Gradsko poglavarstvo je 2009. godine donijelo Zaključak o usvajanju programa natječaja za
 izradu idejnog rješenja spomenika Marku Antunu de Dominisu, unutar Sveučilišnog kampusa
@@ -325,10 +367,11 @@ akademskog kipara Slavomira Drinkovića iz Zagreba.
 Na prijedlog Komisije za imena ulica i trgova i za spomenike, Gradsko vijeće je 2010. godine
 donijelo Rješenje o odobrenju postavljanja spomenika Marku Antunu de Dominisu.
 
-Također su provedeni i završeni postupci natječaja za odabir idejnog Rješenja. Međutim
+- Također su provedeni i završeni postupci natječaja za odabir idejnog Rješenja. Međutim
 zbog primjedbi koje su članovi Komisije ranijih saziva (2009.-2013. i 2013.-2017.) imali na
 idejno rješenje spomenika, do danas nisu donesena Rješenja Gradskoga vijeća o odobrenju
 postavljanja spomenika za slijedeće:
+
 I. Spomenik Jakovu Gotovcu
 Gradsko poglavarstvo je 2008. godine donijelo Zaključak o usvajanju Programa natječaja za
 izradu idejnog rješenja spomenika Jakovu Gotovcu u Gotovčevoj ulici na Pujankama u
@@ -358,88 +401,172 @@ Jeronimu Dalmatincu autora Nikole Vrljića iz Zagreba.
 Budući su u idejnom rješenju predložene dvije lokacije, Komisija je od Povjerenstva
 Gradonačelnika zatražila prijedlog lokacije. Predmet nije dovršen.
 
+
+```
 Procjena troškova izvedbe i postava spomenika prema troškovnicima iz idejnih rješenja i po
 procjeni autora
+```
+```
 Red.
 broj
+```
+```
 Spomenik Izrada
 spomenika
+```
+```
 Postav i
 uređenje
 okoliša
+```
+```
 Autorski
 honorar
-UKUPNO
-1. JAKOVU
-GOTOVCU
-495.000,
+```
+###### UKUPNO
+
+###### 1. JAKOVU
+
+###### GOTOVCU
+
+###### 495.000,
+
+```
 kuna bez
 PDV
-250.000,
+```
+###### 250.000,
+
+```
 kuna
+```
+```
 Nema
 podataka
-745.000,
+```
+###### 745.000,
+
+```
 kuna bez
 PDV
-FABIJANU
-KALITERNI
-400.000,
+```
+2. FABIJANU
+    KALITERNI
+
+###### 400.000,
+
+```
 kuna
 (uključen i
 autor. honor.)
-550.000,
+```
+###### 550.000,
+
+```
 kuna
-950.000,
+```
+###### 950.000,
+
+```
 kuna
-3. MILJENKU SMOJI 230.000,
+```
+###### 3. MILJENKU SMOJI 230.000,
+
+```
 sa PDV
-230.000,
+```
+###### 230.000,
+
+```
 kuna
-JERONIM
-DALMATINAC
-240.000,
+```
+4. JERONIM
+    DALMATINAC
+
+###### 240.000,
+
+```
 kuna bez
 PDV
-90.000,
+```
+###### 90.000,
+
+```
 kuna bez
 PDV
-165.000,
+```
+###### 165.000,
+
+```
 bez PDV
-495.000,
+```
+###### 495.000,
+
+```
 bez PDV
-MIHOVIL
-PAVLINOVIĆ
-547.000,
+```
+5. MIHOVIL
+    PAVLINOVIĆ
+
+###### 547.000,
+
+```
 kuna
-814.000,
+```
+###### 814.000,
+
+```
 kuna
+```
+```
 Nema
 podataka
-1.361.000,
+```
+###### 1.361.000,
+
+```
 kuna
-MARKO ANTUN
-DE DOMINIS
-198.400,
+```
+6. MARKO ANTUN
+    DE DOMINIS
+
+###### 198.400,
+
+```
 kuna bez
 PDV
+```
+```
 Nama
 podataka
-100.000,
+```
+###### 100.000,
+
+```
 kuna bez
 PDV
-294.000,
+```
+###### 294.000,
+
+```
 bez PDV
+```
+```
 UKUPNO 4.075.000,
 kuna prema
 raspoloživim
 podacima
+```
+```
 Navedena je samo procjena troškova onako kako su autori naveli u idejnom rješenju.
 Troškovnici su nepotpuni i rađeni su 2009. godine.
+```
+```
 U realizaciju izrade spomenika i postavljanja spomenika može se ići za: spomenik Mihovilu
 Pavlinoviću, spomenik Fabijanu Kaliterni i spomenik Markantunu de Dominisu, a za spomenike
 Jakovu Gotovcu, Miljenku Smoji i sv. Jeronimu Dalmatincu Komisija novog saziva bi trebala
 dati mišljenje.
+```
 Oprema za elektroničko glasanje
 
 Temeljem Ugovora o nabavi i isporuci opreme za elektroničko glasanje između Grada Splita i
@@ -450,7 +577,10 @@ nastale epidemiološke situacije zbog koje se sjednice Gradskoga vijeća nisu od
 vijećnici za koju je oprema bila predviđena.
 Način korištenje navedene opreme potrebno je propisati Poslovnikom Gradskoga vijeća.
 
+
+```
  Odsjek za pravno normativne poslove i poslove pisarnice i pismohrane
+```
 Odsjek obavlja stručno-savjetodavne poslove za potrebe Gradonačelnika, kontrolira formalno-
 pravnu ispravnost vezano za akte koje donosi Gradonačelnik. Koordinira rad upravnih tijela te
 daje potrebne upute i objašnjenja na izradi i objavi akata Gradonačelnika. Izrađuje akte iz
@@ -474,9 +604,9 @@ svojim Prijedlozima akata za donošenje. Također se izrađuju dopisi – prijed
 predviđeni za donošenje na Gradskom vijeću Grada Splita upućuju u proceduru donošenja.
 Nastavno na navedeno potrebno je odlučiti o:
 
-donošenju ovlaštenja za zamjenike gradonačelnika za obavljanje dijela poslova iz nadležnosti
+- donošenju ovlaštenja za zamjenike gradonačelnika za obavljanje dijela poslova iz nadležnosti
 gradonačelnika
-o prijedlozima koji su u ranijem mandatu upućeni na donošenje Gradskom vijeću. Naime,
+- o prijedlozima koji su u ranijem mandatu upućeni na donošenje Gradskom vijeću. Naime,
 sukladno Poslovniku ovlašteni predlagatelj je Gradonačelnik, a ako Gradonačelnik nije
 predlagatelj tada daje mišljenje na prijedloge drugih ovlaštenih predlagatelja slijedom čega je
 za akte za koje odluči da će ići na raspravu potrebno izraditi novi prijedlog (dati mišljenje), a
@@ -484,35 +614,51 @@ ostale je potrebno vratiti izrađivaču s uputom za daljnje postupanje.
 U Odsjeku se izrađuju prijedlozi za imenovanja iz nadležnosti Gradonačelnika u nadzorne
 odbore trgovačkih društava i upravnih vijeća ustanova. Najveći dio mandata imenovanima
 istječe tijekom listopada i studenog 2021. godine.
+
+```
  Odsjek za upravljanje ljudskim potencijalima i pomoćne poslove
+```
+```
 Unutar Odsjeka obavljaju se stručni poslovi vezani uz radno-pravni status službenika i
 namještenika, upravljanje ljudskim resursima, opći administrativno – personalni poslovi, prate
 se propisi o blagdanima, upotrebi pečata, grba i zastave, a naročito o natpisima na objektima
 i uredima Gradske uprave Grada Splita. Obavljaju se i namještenički poslovi vozača i
 domaćica.
+```
+```
 U Proračunu Grada Splita za 2021.godinu za aktivnosti ovoga Odsjeka planirano je
 59.592.000,00 kuna. Na dan 1. lipnja 2021. godine realizirano je 24.101.986,00 kuna.
+```
+```
 Na dan 13. svibnja 2021. godine u Gradskoj upravi Grada Splita unutar 12 upravnih tijela
 zaposleno je 411 službenika i namještenika od toga 393 na neodređeno i 18 na određeno
 vrijeme.
+```
+```
 Na ugovor o djelu u Uredu Grada angažirano je pet osoba i to četiri savjetnika gradonačelnika
 (Krešimir Budiša – ugovor do 15. lipnja 2021.; Ivica Grubišić – ugovor do 15. lipnja 2021.; Emil
 Zelić – ugovor do 31. srpnja 2021.; Tomislav Gojo – ugovor do 15. lipnja 2021.) te na projektu
+```
+
 implementacije i provođenja obuke upravljanja sustavom radio stanica u Odsjeku za sigurnost
 i krizne situacije Vlatko Bratulić do 31. ožujka 2022. (mjesečni iznos x.xxx,xx kn).
 
 U tijeku je:
 
-Postupak javne nabave za usluge zdravstvenih sistematskih pregleda za djelatnike
-Gradske uprave Grada Splita; procijenjena vrijednost nabave 409.000,00 kn
-Javni natječaj za prijam u Službu za unutarnju reviziju na radno mjesto „unutarnji
-revizor“ – 1 izvršitelj/ica (zakonski rok natječaja: 9. srpnja 2021.)
+- Postupak javne nabave za usluge zdravstvenih sistematskih pregleda za djelatnike
+    Gradske uprave Grada Splita; procijenjena vrijednost nabave 409.000,00 kn
+- Javni natječaj za prijam u Službu za unutarnju reviziju na radno mjesto „unutarnji
+    revizor“ – 1 izvršitelj/ica (zakonski rok natječaja: 9. srpnja 2021.)
+
 Za donošenje je pripremljen novi:
 
-Prijedlog Etičkog kodeksa; po donošenju kojeg je nužno imenovati povjerenika za etiku
-Prijedlog Odluke o radnom vremenu i uredovnim danima u upravnim tijelima Gradske
-uprave Grada Splita
+- Prijedlog Etičkog kodeksa; po donošenju kojeg je nužno imenovati povjerenika za etiku
+- Prijedlog Odluke o radnom vremenu i uredovnim danima u upravnim tijelima Gradske
+    uprave Grada Splita
+
+```
  Odsjek za protokol, promidžbu i međunarodnu suradnju
+```
 Odsjek za protokol, promidžbu i međunarodnu suradnju planira i provodi poslove u vezi
 informiranja i odnosa s javnošću, razvijanja međunarodne suradnje te protokolarne poslove
 koji su u djelokrugu rada Gradskog vijeća i Gradonačelnika i njihove medijske prezentacije.
@@ -520,13 +666,15 @@ Ovaj odsjek surađuje s civilnim društvom, posebno s udrugama građana koje res
 izravno vezane za neko drugo upravno tijelo, a napose, nacionalnim manjinama i njihovim
 legitimnim tijelima, vjerskim zajednicama i udrugama mladih te brine o realizaciji i usklađivanju
 
-programa rada udruga s potrebama i ciljevima Grada.
+#### programa rada udruga s potrebama i ciljevima Grada.
+
 U Proračunu Grada Splita za 2021. godinu za aktivnosti ovoga Odsjeka planirano je
 4.880.300,00 kuna. Na dan 1. lipnja 2021. godine realizirano je 1 .024.124,00 kuna.
 
 Protokolarne obveze do 1.siječnja 2022.
 
-LIPANJ
+###### LIPANJ
+
 22.06. Dan antifašističke borbe
 
 Obilježavamo zajedno sa Splitsko-dalmatinskom županijom i Udrugom antifašističkih boraca i
@@ -539,9 +687,11 @@ te prigodnom svečanosti u Muzeju grada (lani u Galeriji umjetnina zbog epidemio
 
 25.06. Dan neovisnosti – spomendan
 
-SRPANJ
+###### SRPANJ
+
 1 1.07. Dan sjećanja na Srebrenicu U organizaciji Koordinacije bošnjačkih organizacija grada
 Splita i Splitsko-dalmatinske županije.
+
 
 (Udruga Bošnjaka branitelja DRHOGSSDŽ zamolila je Grad Split da se Dan sjećanja na
 Srebrenicu obilježi aplikacijom Cvijeta Srebrenice na fontani ispred sv. Frane. Budući da je
@@ -554,7 +704,8 @@ apliciranje koštalo oko 10.000,00 kn. Svakako je potrebno što prije donijeti o
 
 Odlazak na molitvu i čestitka glavnom splitskom imamu.
 
-KOLOVOZ
+###### KOLOVOZ
+
 05.08. Dan pobjede i domovinske zahvalnosti i Dan hrvatskih branitelja
 
 Obilježavamo dan uoči i to polaganjem vijenaca na groblju Lovrinac (Središnji križ, Groblje
@@ -581,7 +732,8 @@ Obilježava se polaganjem cvijeća na spomen ploču na ulazu u tvrđavu Gripe.
 
 Obilježava se polaganjem vijenca na spomen ploču na Plokitama, Vinkovačka ulica.
 
-RUJAN
+###### RUJAN
+
 06.09. Početak školske godine
 
 Posjet dječjem vrtiću i osnovnoj školi.
@@ -600,11 +752,13 @@ U organizaciji Splitskog saveza športova.
 
 U organizaciji HRM-a i ovisno o mjestu proslave za tu godinu.
 
+
 24.09. Obljetnica pogibije Josipa Vranića
 
 Obilježava se polaganjem vijenca na Kašjunima.
 
-LISTOPAD
+###### LISTOPAD
+
 08.10. Dan Hrvatskog sabora – spomendan
 
 Čestitka predsjedniku Sabora.
@@ -616,7 +770,8 @@ LISTOPAD
 Obilježava se polaganjem lovorovog vijenca na spomen ploču na pročelju Glazbene škole
 Josip Hatze, Ulica kralja Tomislava.
 
-STUDENI
+###### STUDENI
+
 01.11. Svi sveti
 
 Polaganje vijenaca na Gradskom groblju Lovrinac (Središnji križ, Groblje branitelja).
@@ -631,7 +786,8 @@ more sa palube ratnog broda HRM-a.
 
 Obilježava se paljenjem svijeća kod spomenika „Lumin“ na početku Vukovarske ulice.
 
-PROSINAC
+###### PROSINAC
+
 5.12. – 24.12. Predblagdanski obilasci i prijemi u povodu nadolazećih blagdana
 
 24.12. Manifestacija „Splitu s ljubavlju“-podjela besplatnih porcija bakalara
@@ -640,21 +796,25 @@ PROSINAC
 
 31.12. Novogodišnja čestitka – tradicionalno otvorenje izložbe u Fotoklubu Split
 
-SIJEČANJ 2022.
+###### SIJEČANJ 2022.
+
 01.01. Prvorođena beba u novoj godini
 
 Darivanje majke preko bolničkog osoblja
 
-UGOVORNE OBVEZE VEZANE ZA PROTOKOL
+
+###### UGOVORNE OBVEZE VEZANE ZA PROTOKOL
+
 Ugovor s DES-om o nabavi uredskog i protokolarnog materijala (vrijednost 247.760,00 kuna
 bez PDV-a) potpisan je u trajanju od 12 mjeseci i vrijedi do 12. svibnja 2022. godine.
 
 U 2021. godini Proračunom je na poslove protokola planirano 1.000.000,00 kuna, a na dan
 
-lipnja 2021. godine potrošeno je 278.541,00 kuna.
+1. lipnja 2021. godine potrošeno je 278.541,00 kuna.
+
 Odnosi s javnostima
 
-Službena Internet stranica Grada Splita je http://www.split.hr
+Službena Internet stranica Grada Splita je [http://www.split.hr](http://www.split.hr)
 
 Službena Facebook stranica Grada Splita je https://www.facebook.com/21000Split Grad Split
 (službena stranica)
@@ -670,71 +830,80 @@ zahtjeva za pravo na pristup informacijama. Na sve zaprimljene zahtjeve pruženi
 
 odgovori.
 
-UGOVORNE OBVEZE VEZANE ZA ODNOSE S JAVNOSTIMA I ODNOSE S MEDIJIMA
-Medijsko praćenje od strane portala Dalmacija Danas, na snazi do 30. lipnja 2021.
-godine, obuhvaća praćenje gradskih aktivnosti u 2021., neograničen broj Facebook
-objava, povremena LIVE uključenja za važna gradska zbivanja, objavu svih bannera
-koje tijekom godine isporuči Grad Split 5.500 kn mjesečno + PDV
-Medijska suradnja s Hanza mediom d.o.o., na snazi do 30. lipnja 2021. godine, za lipanj
-obuhvaća mjesečnu inventuru gradonačelnika i čestitku povodom Dana antifašističke
-borbe. Ukupna vrijednost polugodišnjeg ugovora 198,700.00 kn + PDV
-Usluga analize podataka te izrade analitičkih izvješća komparacije proračuna JLS te
-medijskog praćenja i izvješćivanja građana za 2021. godinu s Primera orient
-d.o.o./Gradonačelnik.hr. Suradnja dogovorena za čitavu 2021. godinu, ukupna
-vrijednost godišnjeg ugovora 36.000,00 kn
-Održavanje i podrška web stranice Grada Splita s tvrtkom NET MEDIA SISTEMI d.o.o.,
-vrijednost nabave 36.016,00 kn + PDV. Plaćanje po računu svakog mjeseca, suradnja
-dogovorena do 1. ožujka 2022. godine
-Usluga praćenja medijskih objava, s tvrtkom PRESSCUT d.o.o., suradnja dogovorena
-do 5. veljače 2022. godine, plaća se po računu, a ukupna ugovorena vrijednost je
-99.220,80 kn
+###### UGOVORNE OBVEZE VEZANE ZA ODNOSE S JAVNOSTIMA I ODNOSE S MEDIJIMA
+
+- Medijsko praćenje od strane portala Dalmacija Danas, na snazi do 30. lipnja 2021.
+    godine, obuhvaća praćenje gradskih aktivnosti u 2021., neograničen broj Facebook
+    objava, povremena LIVE uključenja za važna gradska zbivanja, objavu svih bannera
+    koje tijekom godine isporuči Grad Split 5.500 kn mjesečno + PDV
+- Medijska suradnja s Hanza mediom d.o.o., na snazi do 30. lipnja 2021. godine, za lipanj
+    obuhvaća mjesečnu inventuru gradonačelnika i čestitku povodom Dana antifašističke
+    borbe. Ukupna vrijednost polugodišnjeg ugovora 198,700.00 kn + PDV
+- Usluga analize podataka te izrade analitičkih izvješća komparacije proračuna JLS te
+    medijskog praćenja i izvješćivanja građana za 2021. godinu s Primera orient
+    d.o.o./Gradonačelnik.hr. Suradnja dogovorena za čitavu 2021. godinu, ukupna
+    vrijednost godišnjeg ugovora 36.000,00 kn
+- Održavanje i podrška web stranice Grada Splita s tvrtkom NET MEDIA SISTEMI d.o.o.,
+    vrijednost nabave 36.016,00 kn + PDV. Plaćanje po računu svakog mjeseca, suradnja
+    dogovorena do 1. ožujka 2022. godine
+- Usluga praćenja medijskih objava, s tvrtkom PRESSCUT d.o.o., suradnja dogovorena
+    do 5. veljače 2022. godine, plaća se po računu, a ukupna ugovorena vrijednost je
+    99.220,80 kn
+
 U Proračunu za tekuću godinu za program Odnosi s javnošću planirano je 1.030.000,00 kuna,
 
 a na dan 1. lipnja 2021. godine potrošeno je 455.326,00 kuna.
 
+
 Međunarodna suradnja
 
-Poziv grada prijatelja u Poljskoj Rzeszowa na konferenciju – „Smart living – good
-practices“ od 6. do 10. rujna 2021. godine. Domaćini pokrivaju troškove boravka 3
-osobe.
-Grad prijatelj iz Ukrajine Odesa slavi 30 godina neovisnosti Ukrajine. Željeli bi da svaki
-grad prijatelj uključujući i Split pošalje jednominutni video čestitke gradonačelnika u
-mp4 formatu do kraja srpnja mjeseca. Dan grada slave 2. rujna i čekaju razvoj situacije
-s Covidom-19 u vezi poziva delegaciji Splita za dan grada.
-Inicijativa Veleposlanstva Republike Hrvatske u Kini za uspostavljanje partnerstva s još
-jednim gradom u Kini, Guangzhouom. Čekaju odgovor gradonačelnika na ovu
-inicijativu
-Grad Split je od kraja 2020. godine član međunarodne organizacije COPPEM
-lipnja 2021. će se održati godišnja skupština u obliku web konferencije
-Očekuje je završna konferencija projekta „Active Local Europe Forum“ 28. i 29.
-listopada 2021. u Leuvenu u Belgiji. Na projektu u ime Grada Splita sudjeluju Igor
-Maretić i Nikola Aleksić.
-Tradicionalni „Međunarodni dan joge“ obilježava se diljem svijeta 21. lipnja. U sklopu
-navedene proslave Veleposlanstvo Indije u RH poziva sve zainteresirane građane da
-se priključe zajedničkom vježbanju joge u dvadesetak gradova diljem Hrvatske.
-Program je namijenjen svim dobnim kategorijama, od najmanjih do seniora. Traži se
-načelni interes Grada Splita.
+- Poziv grada prijatelja u Poljskoj Rzeszowa na konferenciju – „Smart living – good
+    practices“ od 6. do 10. rujna 2021. godine. Domaćini pokrivaju troškove boravka 3
+    osobe.
+- Grad prijatelj iz Ukrajine Odesa slavi 30 godina neovisnosti Ukrajine. Željeli bi da svaki
+    grad prijatelj uključujući i Split pošalje jednominutni video čestitke gradonačelnika u
+    mp4 formatu do kraja srpnja mjeseca. Dan grada slave 2. rujna i čekaju razvoj situacije
+    s Covidom-19 u vezi poziva delegaciji Splita za dan grada.
+- Inicijativa Veleposlanstva Republike Hrvatske u Kini za uspostavljanje partnerstva s još
+    jednim gradom u Kini, Guangzhouom. Čekaju odgovor gradonačelnika na ovu
+    inicijativu
+- Grad Split je od kraja 2020. godine član međunarodne organizacije COPPEM
+    9. lipnja 2021. će se održati godišnja skupština u obliku web konferencije
+- Očekuje je završna konferencija projekta „Active Local Europe Forum“ 28. i 29.
+    listopada 2021. u Leuvenu u Belgiji. Na projektu u ime Grada Splita sudjeluju Igor
+    Maretić i Nikola Aleksić.
+- Tradicionalni „Međunarodni dan joge“ obilježava se diljem svijeta 21. lipnja. U sklopu
+    navedene proslave Veleposlanstvo Indije u RH poziva sve zainteresirane građane da
+    se priključe zajedničkom vježbanju joge u dvadesetak gradova diljem Hrvatske.
+    Program je namijenjen svim dobnim kategorijama, od najmanjih do seniora. Traži se
+    načelni interes Grada Splita.
+
 Tuzemna suradnja
 
-Grad Split je član Udruge gradova. Godišnja članarina u Udruzi gradova planirana je
-u iznosu 235.000,00 kuna i plaća se kvartalno. Gradonačelnik Splita član je
-Predsjedništva Udruge gradova.
+- Grad Split je član Udruge gradova. Godišnja članarina u Udruzi gradova planirana je
+    u iznosu 235.000,00 kuna i plaća se kvartalno. Gradonačelnik Splita član je
+    Predsjedništva Udruge gradova.
+
 Civilno društvo, mladi, nacionalne i vjerske manjine
 
-Ured Grada je sukladno objavljenom Godišnjem planu natječaja, odnosno javnih
-poziva za financiranje programa i projekata koje provode udruge u Gradu Splitu 11.
-ožujka 2021. godine objavio tri natječaja: Natječaj za prijavu projekata od interesa za
-Grad Split u okviru raspoloživih sredstava iz Proračuna Grada Splita za 2021. godinu
-sa projekcijama za 2022.- 2023. godinu; Natječaj za prijavu projekata udruga mladih i
-udruga za mlade za ostvarivanje prava na financijske potpore u okviru raspoloživih
-sredstava iz Proračuna Grada Splita za 2021. godinu sa projekcijama za 2022.- 2023
-godinu; te Natječaj za prijavu projekata udruga nacionalnih manjina koje doprinose
-očuvanju tradicijske kulture u okviru raspoloživih sredstava iz Proračuna Grada Splita
-za 2021. godinu. Administrativna provjera formalnih uvjeta za sva tri Natječaja je
-dovršena kao i faza ocjenjivanja pristiglih prijava. Slijedi potpisivanje Ugovora te isplata
-odobrenih sredstava, a potom zaprimanje izvještaja o izvršenim projektima i evaluacija
-istih.
-Ured za udruge Vlade RH prikuplja i obrađuje podatke o financiranju projekata i
+- Ured Grada je sukladno objavljenom Godišnjem planu natječaja, odnosno javnih
+    poziva za financiranje programa i projekata koje provode udruge u Gradu Splitu 11.
+    ožujka 2021. godine objavio tri natječaja: Natječaj za prijavu projekata od interesa za
+    Grad Split u okviru raspoloživih sredstava iz Proračuna Grada Splita za 2021. godinu
+    sa projekcijama za 2022.- 2023. godinu; Natječaj za prijavu projekata udruga mladih i
+    udruga za mlade za ostvarivanje prava na financijske potpore u okviru raspoloživih
+    sredstava iz Proračuna Grada Splita za 2021. godinu sa projekcijama za 2022.- 2023
+    godinu; te Natječaj za prijavu projekata udruga nacionalnih manjina koje doprinose
+    očuvanju tradicijske kulture u okviru raspoloživih sredstava iz Proračuna Grada Splita
+    za 2021. godinu. Administrativna provjera formalnih uvjeta za sva tri Natječaja je
+    dovršena kao i faza ocjenjivanja pristiglih prijava. Slijedi potpisivanje Ugovora te isplata
+    odobrenih sredstava, a potom zaprimanje izvještaja o izvršenim projektima i evaluacija
+    istih.
+
+
+- Ured za udruge Vlade RH prikuplja i obrađuje podatke o financiranju projekata i
+
+```
 programa organizacija civilnoga društva iz javnih izvora. Svi obveznici primjene Uredbe
 o kriterijima, mjerilima i postupcima financiranja i ugovaranja programa i projekata od
 interesa za opće dobro koje provode udruge (NN 26/15 i 37/21)) pa tako i Grad Split
@@ -745,25 +914,31 @@ svojih nadležnosti Ured Grada će objedinjene podatke od službi gradske uprave
 se odnose na Grad Split dostaviti Vladinom Uredu za udruge RH, putem informacijskog
 sustava e-Izvještavanje OCD. Očekujemo popunjavanje i objedinjavanje podataka u
 narednom periodu.
-Temeljem Uredbe o kriterijima, mjerilima i postupcima financiranja i ugovaranja
-programa i projekata od interesa za opće dobro koje provode udruge (»Narodne
-novine«, broj 26/15 i 37/21) odnosno Izmjena i dopuna iste svi davatelji financijskih
-sredstava obvezni su omogućiti podnošenje cjelokupne prijavne dokumentacije
-elektroničkim putem korištenjem elektroničkog sustava prijavljivanja ili na drugi
-prikladan elektronički način. Svi davatelji financijskih sredstava iz javnih izvora dužni
-su svoje opće akte, smjernice, pravila i druge dokumente kojima se uređuje financiranje
-i ugovaranje programa i projekata uskladiti s odredbama ove Uredbe, u roku od 60
-dana dakle do 16. lipnja 2021. godine. Prema tome potrebno je uskladiti Pravilnik o
-financiranju projekata i programa koje provode udruge u Gradu Splitu („Službeni
-glasnik Grada Splita“ broj 47/15, 6/19).
-Sukladno Zakonu o savjetima mladih („Narodne novine“ broj 41/14) i Odluci o osnivanju
+```
+- Temeljem Uredbe o kriterijima, mjerilima i postupcima financiranja i ugovaranja
+    programa i projekata od interesa za opće dobro koje provode udruge (»Narodne
+    novine«, broj 26/15 i 37/21) odnosno Izmjena i dopuna iste svi davatelji financijskih
+    sredstava obvezni su omogućiti podnošenje cjelokupne prijavne dokumentacije
+    elektroničkim putem korištenjem elektroničkog sustava prijavljivanja ili na drugi
+    prikladan elektronički način. Svi davatelji financijskih sredstava iz javnih izvora dužni
+    su svoje opće akte, smjernice, pravila i druge dokumente kojima se uređuje financiranje
+    i ugovaranje programa i projekata uskladiti s odredbama ove Uredbe, u roku od 60
+    dana dakle do 16. lipnja 2021. godine. Prema tome potrebno je uskladiti Pravilnik o
+    financiranju projekata i programa koje provode udruge u Gradu Splitu („Službeni
+    glasnik Grada Splita“ broj 47/15, 6/19).
+- Sukladno Zakonu o savjetima mladih („Narodne novine“ broj 41/14) i Odluci o osnivanju
+
+```
 Savjeta mladih Grada Splita („Službeni glasnik Grada Splita“ broj 21/14) Grad Split
 provodi izbor članova savjeta mladih i njihovih zamjenika čiji postupak počinje objavom
 javnog poziva za isticanje kandidatura. Tako je Gradsko vijeće Grada Splita je na 41.
 sjednici održanoj 18. prosinca 2020. godine, donijelo Zaključak o utvrđivanju teksta
 Javnog poziva čime je pokrenut postupak izbora članova Savjeta mladih Grada Splita
 i njihovih zamjenika.
-Javni poziv za isticanje kandidature objavljen je 23. prosinca 2020. godine. Rok za
+```
+- Javni poziv za isticanje kandidature objavljen je 23. prosinca 2020. godine. Rok za
+
+```
 podnošenje prijedloga kandidata bio je 22. siječnja 2021. godine. Komisija Gradskog
 vijeća Grada Splita za suradnju s mladima 18. veljače 2021. godine obavila je provjeru
 formalnih uvjeta prijavljenih kandidata za Savjet mladih Grada Splita i sastavila Izvješće
@@ -775,33 +950,39 @@ sazvana 13. travnja 2021. godine, na kojoj je jedna od točaka dnevnog reda izbo
 demografiju i mlade dao je uputu o daljnjem postupanju vezano za proceduru izbora
 članove i zamjenike članova Savjeta mladih navevši da se ona nastavi na prvoj radnoj
 sjednici Gradskog vijeća u novom sazivu.
-Grad Split 12. kolovoza planira obilježiti Međunarodni dan mladih
-U suradnji s Uredom Grada Savjet mladih koordinirao je 2016.g. izradu strateškog
-dokumenta Grada Splita za mlade Gradski program za mlade Grada Splita za razdoblje
-od 2017.-2020. godine. To je dio zakonske obveze definirane člankom 13. Zakona o
-savjetima mladih da, uključivanjem svih bitnih dionika, osmisli, provodi i prati rezultate
-provedbe politike čiji je temeljni cilj unapređenje kvalitete života, društveno-
-gospodarskog položaja, perspektiva i rješavanja ključnih pitanja i tema od interesa za
-mlade. Prije nego se krene u izradu novog strateškog dokumenta za mlade potrebno
-je napraviti evaluaciju trenutnog gradskog programa, čija je izrada u tijeku. Zadatak
-evaluatora je navesti preporuke i prijedloge za izradu novog GPM-a odnosno razraditi
-akcijski plan s prioritetnim mjerama i aktivnostima za provedbu. Potom slijede pripreme
-u izradi novog Gradskog programa za mlade.
-Sukladno Pravilniku o načinu i uvjetima dodjele naknade dijela putnih troškova
-studentima iz programa ERASMUS+ studija sklopljeni su ugovori sa studentima u
-vrijednosti 126.000,00 za ljetni semestar te je za poziv za zimski semestar ostalo na
-raspolaganju 74.000,00 kuna.
-Grad Split partner je udruzi Info zona na prijavi projekta Aktivnosti sudjelovanja mladih
-(KA154) koje je raspisala Agencija za mobilnost i programe Europske unije. Projektne
-aktivnosti kojima smo aplicirali na prijavu usmjerene su na rad Savjeta mladih. Projekt
-je prijavljen 18. svibnja. Rezultate očekujemo u srpnju.
-Konstituiranim vijećima albanske, bošnjačke, crnogorske, makedonske, slovenske i
-srpske nacionalne manjine te predstavnici mađarske nacionalne manjine (2019-2023)
-Grad Split kontinuirano osigurava sredstva za rad vijeća i predstavnika kao i sredstva
-za obavljanje administrativnih poslova sustavom riznice. Zahtjevi se redovito prate te
-se vrše isplate odobrenih sredstava.
-Grad Split planira 10. prosinca obilježiti Međunarodni dan ljudskih prava
+```
+- Grad Split 12. kolovoza planira obilježiti Međunarodni dan mladih
+
+
+- U suradnji s Uredom Grada Savjet mladih koordinirao je 2016.g. izradu strateškog
+    dokumenta Grada Splita za mlade Gradski program za mlade Grada Splita za razdoblje
+    od 2017.-2020. godine. To je dio zakonske obveze definirane člankom 13. Zakona o
+    savjetima mladih da, uključivanjem svih bitnih dionika, osmisli, provodi i prati rezultate
+    provedbe politike čiji je temeljni cilj unapređenje kvalitete života, društveno-
+    gospodarskog položaja, perspektiva i rješavanja ključnih pitanja i tema od interesa za
+    mlade. Prije nego se krene u izradu novog strateškog dokumenta za mlade potrebno
+    je napraviti evaluaciju trenutnog gradskog programa, čija je izrada u tijeku. Zadatak
+    evaluatora je navesti preporuke i prijedloge za izradu novog GPM-a odnosno razraditi
+    akcijski plan s prioritetnim mjerama i aktivnostima za provedbu. Potom slijede pripreme
+    u izradi novog Gradskog programa za mlade.
+- Sukladno Pravilniku o načinu i uvjetima dodjele naknade dijela putnih troškova
+    studentima iz programa ERASMUS+ studija sklopljeni su ugovori sa studentima u
+    vrijednosti 126.000,00 za ljetni semestar te je za poziv za zimski semestar ostalo na
+    raspolaganju 74.000,00 kuna.
+- Grad Split partner je udruzi Info zona na prijavi projekta Aktivnosti sudjelovanja mladih
+    (KA154) koje je raspisala Agencija za mobilnost i programe Europske unije. Projektne
+    aktivnosti kojima smo aplicirali na prijavu usmjerene su na rad Savjeta mladih. Projekt
+    je prijavljen 18. svibnja. Rezultate očekujemo u srpnju.
+- Konstituiranim vijećima albanske, bošnjačke, crnogorske, makedonske, slovenske i
+    srpske nacionalne manjine te predstavnici mađarske nacionalne manjine (2019-2023)
+    Grad Split kontinuirano osigurava sredstva za rad vijeća i predstavnika kao i sredstva
+    za obavljanje administrativnih poslova sustavom riznice. Zahtjevi se redovito prate te
+    se vrše isplate odobrenih sredstava.
+- Grad Split planira 10. prosinca obilježiti Međunarodni dan ljudskih prava
+
+```
  Odsjek za suradnju s braniteljima i braniteljskim udrugama
+```
 U ovom odsjeku obavljaju se poslovi u dijelu skrbi o pravima branitelja, obitelji poginulih
 branitelja (roditelja, udovica i djece), hrvatskih ratnih vojnih invalida i članova njihovih obitelji u
 okviru obveza Grada utvrđenih zakonima i drugim aktima. Odsjek prati i pomaže u ostvarivanju
@@ -816,8 +997,12 @@ Udruge hrvatskih branitelja
 Prema Planu javnih natječaja Grada Splita Odsjek za suradnju s braniteljima i braniteljskim
 udrugama objavio je mrežnim stranicama Grada Splita dana 31. ožujka 2021. dva natječaja:
 
+```
  Natječaj iz područja Socijalna i zdravstvena zaštita , unaprjeđenje zdravlj a i
 kvalitete života hrvatskih branitelja i članova njihovih obitelji objavljen je
+```
+
+```
 dana 31. ožujka 2021. godine. Na objavljeni natječaj 14 udruga je prijavilo 16
 projekata. Povjerenstvo je utvrdilo da jedna udruga nije priložila potvrdu
 Ministarstva branitelja te je odbilo njenu prijavu; ostalih 15 projekata udovoljava
@@ -825,9 +1010,11 @@ propisanim/administrativnim uvjetima te su proslijeđeni Povjerenstvu za
 ocjenjivanje kvalitete programa/projekata.
  Natječaj iz područja Zaštita digniteta Domovinskog rata i obilježavanje
 zn ačajnih događaja i mjesta iz Domovinskog rata objavljen je dana 31. ožujka
-Upisnikom je utvrđeno da je 25 udruga branitelja prijavilo 43 projekta te je
+```
+2021. Upisnikom je utvrđeno da je 25 udruga branitelja prijavilo 43 projekta te je
 u tijeku pregled dokumentacije od strane Povjerenstva za ocjenu propisanih
 administrativnih uvjeta.
+
 Od planiranih 840.000,00 kuna za natječaj iz područja Zaštita digniteta Domovinskog rata i
 obilježavanje značajnih događaja i mjesta iz Domovinskog rata predviđeno je 660.000,00
 kuna. Za natječaj iz područja Socijalna i zdravstvena zaštita, unaprjeđenje zdravlja i kvalitete
@@ -871,6 +1058,7 @@ Grad Split je raspisao postupak javne nabave za stacionarnu medicinsku rehabilit
 Otvaranje ponuda bilo je 25. svibnja 2021. godine. Nije se javila niti jedna ustanova te će biti
 poništen postupak javne nabave i ponovno raspisan.
 
+
 Predviđena sredstva: 130.000,00 kuna.
 
 Trošak kupnje grobnog mjesta
@@ -889,7 +1077,8 @@ Splita. Objava javnog poziva planirana je u listopadu. Nakon okončanja javnog p
 podnesene prijave i ponude, zaključkom Gradonačelnika odobrava se organizacija programa
 i dodjela sredstava. Planirana sredstva su 100.000, 00 kuna, a realizacija projekta je u prosincu
 
-godine.
+2021. godine.
+
 Stambeno zbrinjavanje branitelja
 
 Gradonačelnik je početkom 2021. godine imenovao Radnu skupinu za izgradnju nove zgrade
@@ -909,7 +1098,10 @@ budući nisu izvedeni pristupni putevi. U tih pet zgrada nalaze se ukupno 33 sta
 
 Kad zgrade dobiju uporabnu dozvolu bit će moguća prodaja stanova korisnicima.
 
+
+```
  Odsjek za sigurnost i upravljanje kriznim situacijama
+```
 Odsjek za sigurnost i upravljanje kriznim situacijama obavlja poslove koji se odnose na:
 planiranje, razvoj i učinkovito funkcioniranje i financiranje sustava civilne zaštite, zaštite od
 požara, elementarnih nepogoda i vatrogastva, te koordinira djelovanja operativnih snaga
@@ -917,10 +1109,12 @@ sustava civilne zaštite u slučaju velikih nesreća i katastrofa. Planira i pra
 u okviru radnih prostorija i objekata Gradske uprave i druge poslove koji su mu stavljeni u
 nadležnost. Izrađuje nacrte prijedloga planova i drugih akata iz ove oblasti i sudjeluje u njihovoj
 
-izradi, radi usavršavanja, unapređenja i donošenje mjera iz navedenih oblasti.
+#### izradi, radi usavršavanja, unapređenja i donošenje mjera iz navedenih oblasti.
+
 U Proračunu Grada Splita za 2021.godinu za aktivnosti ovoga Odsjeka planirano je
 
-41.543.537,00 kuna. Na dan 1. lipnja 2021. godine realizirano je 17.023.084,00 kuna.
+#### 41.543.537,00 kuna. Na dan 1. lipnja 2021. godine realizirano je 17.023.084,00 kuna.
+
 Civilna zaštita:
 
 Zakonom o sustavu civilne zaštite („Narodne novine“, br. 82/15, 118/18 i 20/21) jedinice
@@ -960,16 +1154,18 @@ razdoblje od 2018. do 2022. godine
 
 Svake godine donose se sljedeći akti:
 
-Operativni plan za evakuaciju i zbrinjavanje turista na području grada Splita
-Analiza stanja sustava CZ i Plan razvoja sustava CZ na području grada Splita
-Plan vježbi civilne zaštite s elaboratima.
+- Operativni plan za evakuaciju i zbrinjavanje turista na području grada Splita
+- Analiza stanja sustava CZ i Plan razvoja sustava CZ na području grada Splita
+- Plan vježbi civilne zaštite s elaboratima.
 NAPOMENA: Zbog pandemije koronavirusa neke vježbe morale su se odgoditi.
+
 Odluka o osnivanju Stožera CZ Grada Splita donesena je 12. svibnja 2016. g. („Službeni
 
 glasnik Grada Splita“, br. 29/16).
 Poslovnik o radu Stožera CZ Grada Splita donesen je 26. srpnja 2017. g. („Službeni glasnik
 
 Grada Splita“, br. 33/17).
+
 
 Rješenje o imenovanju članova Stožera kojim se Nino Vela imenuje za načelnika Stožera
 
@@ -981,7 +1177,8 @@ osposobljavanje pripadnika sustava civilne zaštite Grada Splita. Obuka povjeren
 
 povjerenika i pripadnika postrojbi opće namjene provedena je krajem listopada i studenog
 
-godine u Regionalnom nastavnom centru CZ u Divuljama uz poštivanje i pridržavanje
+2020. godine u Regionalnom nastavnom centru CZ u Divuljama uz poštivanje i pridržavanje
+
 epidemioloških mjera i ograničenja broja ljudi. Grad Split izvršio je pozivanje pripadnika na
 
 osposobljavanje, te osigurao prijevoz i zaštitnu opremu, prehranu i refundaciju plaća.
@@ -1006,18 +1203,27 @@ OPREMANJE CZ: U razdoblju od 2020. do 2021. g. za postrojbe civilne zaštite Gra
 nabavljena je sljedeća oprema: 250 polo majica kratkih rukava sa obilježjima, 250 komada
 radnih jaketa sa obilježjima, 700 komada zaštitnih maski sa obilježjima, 120 komada zaštitnih
 
-plinskih maski (Full face) te zaštitnih 40 signalizirajućih traka s natpisom „civilna zaštita“.
+plinskih maski (Full face) te zaštitnih 40 signalizirajućih traka s natpisom _„civilna zaštita“._
 Također, od Ravnateljstva CZ kao donaciju dobili smo 60 kombinezona, kapa, prsluka i
 
 pojaseva za pripadnike postrojbi opće namjene.
 
+
 Stanje popunjenosti postrojbi civilne zaštite Grada Splita:
 
+```
 Red.
 br.
+```
+```
 Gradski kotar
-POV ZPOV PON
+```
+###### POV ZPOV PON
+
+```
 Trenutno Potrebno Trenutno Potrebno Trenutno Potrebno
+```
+```
 1 Bačvice 13 11 12 11 13 10
 2 Blatine-Škrape 12 9 0 9 7 10
 3 Bol 0 16 0 16 15 10
@@ -1046,24 +1252,35 @@ Trenutno Potrebno Trenutno Potrebno Trenutno Potrebno
 26 Visoka 0 8 0 8 12 10
 27 Žnjan 7 9 7 9 15 10
 295 268 250 268 376 270
+```
+```
 Red.
 br. Mjesni odbor^
-POV ZPOV PON
+```
+###### POV ZPOV PON
+
+```
 Trenutno Procjena Trenutno Procjena Trenutno Procjena
+```
+```
 1 Donje Sitno 1 1 1 1 5 10
 2 Gornje Sitno 1 1 1 1 5 10
 3 Kamen 4 2 3 2 7 10
+```
+
+```
 4 Slatine 2 1 2 1 1 10
 5 Srinjine 3 2 3 2 10 10
 6 Stobreč 8 4 8 4 20 10
 7 Žrnovnica 5 5 5 5 9 10
+```
 (^24 16 23 16 57 70)
 (^319 284 273 284 433 340)
 (^) 112,32% 96,13%
 104,23%^ 127,35%^
 POV - Povjerenici
-ZPOV – Zamjenici povjerenika
-PON – Postrojba opće namjene
+ZPOV **_–_** Zamjenici povjerenika
+PON **_– Postrojba opće namjene_**
 Sustav veza civilne zaštite Grada Splita
 Grad Split je u 2021. godini od tvrtke Pel d.o.o. nabavio radio uređaje u vrijednosti 124.812,50
 kn i to 15 ručnih radio uređaja za potrebe članova Stožera civilne zaštite Grada Splita s
@@ -1092,6 +1309,7 @@ procjena stanja i prognoza izrađenog od Hrvatskog šumarskog instituta. Zamjeni
 dalmatinskog župana po ovlaštenju župana donio je 27. svibnja 2021. godine Odluku o
 prestanku izravne opasnosti od nastanka prirodne nepogode na području gradskih kotareva:
 Meje, Varoš i Spinut-lokalitet park šuma Marjan.
+
 
 Područje Grada Splita zahvatila je elementarna nepogoda uzrokovana požarom koji je pravnim
 i fizičkim osobama nanio štete na građevinama, opremi, dugogodišnjim nasadima, šumama,
@@ -1127,7 +1345,8 @@ spašavanja na području grada Splita za 2021. godinu („Službeni glasnik Grad
 
 u iznosu od 2.450.000,00 kuna. Grad je temeljem Ugovora Hrvatskoj gorskoj službi spašavanja
 
-Stanica Split za prva dva kvartala 2021. godine isplatio iznos od 1.225.000,00 kuna. Preostali
+- Stanica Split za prva dva kvartala 2021. godine isplatio iznos od 1.225.000,00 kuna. Preostali
+
 iznos od 1.225.000,00 kuna bit će isplaćen tijekom trećeg i četvrtog kvartala 2021. godine,
 
 nakon provedene kontrole na licu mjesta i ukoliko polugodišnje izvješće bude uredno i
@@ -1143,13 +1362,15 @@ plana Vatrogasne zajednice Grada Splita za 2021. godinu imaju sklopljen Ugovor o
 financiranju redovne djelatnosti i opremanju dobrovoljnih vatrogasnih društava i vatrogasne
 zajednice grada Splita, nabavci vatrogasnih vozila i sufinanciranju sezonskih vatrogasaca za
 
-godinu na iznos od 8.247.012,00 kuna. Grad je temeljem Ugovora Vatrogasnoj zajednici
+2021. godinu na iznos od 8.247.012,00 kuna. Grad je temeljem Ugovora Vatrogasnoj zajednici
 za prva dva kvartala 2021. godine isplatio iznos od 4.219,506,00 kuna. Preostali iznos od
+
 4.027.506,00 kuna bit će isplaćen tijekom trećeg i četvrtog kvartala 2021. godine, nakon
 provedene kontrole na licu mjesta i ukoliko tromjesečna izvješća budu uredna i potpuna.
 
 Isplatom spomenutog preostalog iznosa podmirit će se i dugovanje Grada Splita prema
 Vatrogasnoj zajednici za sredstva neisplaćena u periodu 2013.-2016. godina.
+
 
 Temeljem Zaključka o usvajanju Programa rada i Financijskog plana Vatrogasne zajednice
 
@@ -1187,34 +1408,40 @@ Iste je izradila ovlaštene tvrtka Inspekt d.o.o. iz Zagreba.
 Svake godine doneseni su akti propisani Zakonom o zaštiti od požara („Narodne novine“, br.
 92/10):
 
-Provedbeni plan unapređenja zaštite od požara za područje grada Splita,
-Zaključak o usvajanju Izvješća o stanju provedbe godišnjeg provedbenog plana unapređenja
+- Provedbeni plan unapređenja zaštite od požara za područje grada Splita,
+- Zaključak o usvajanju Izvješća o stanju provedbe godišnjeg provedbenog plana unapređenja
+
 zaštite od požara za područje grada Splita,
 
-Zaključak o usklađivanju Plana zaštite od požara grada Splita,
-Zaključak o usvajanju Izvješća o stanju zaštite od požara na području grada Splita.
+- Zaključak o usklađivanju Plana zaštite od požara grada Splita,
+- Zaključak o usvajanju Izvješća o stanju zaštite od požara na području grada Splita.
 Svake godine doneseni su akti vezanih uz Program aktivnosti u provedbi posebnih mjera
+
 zaštite od požara od interesa za Republiku Hrvatsku:
 
-Plan motrenja, čuvanja i ophodnje otvorenog prostora i građevina za koje prijeti povećana
+- Plan motrenja, čuvanja i ophodnje otvorenog prostora i građevina za koje prijeti povećana
+
 opasnost od nastajanja i širenja požara na području grada Splita,
 
-Plan aktivnog uključenja svih subjekata zaštite od požara na području grada Splita
-Plan pristupnih putova za interventna vozila na području GS
-Plan operativne provedbe Programa aktivnosti u provedbi posebnih mjera zaštite od požara
+- Plan aktivnog uključenja svih subjekata zaštite od požara na području grada Splita
+- Plan pristupnih putova za interventna vozila na području GS
+- Plan operativne provedbe Programa aktivnosti u provedbi posebnih mjera zaštite od požara
 od interesa za Republiku Hrvatsku za područje grada Splita,
-Popis zapovjedno-koordinacijskih mjesta,
-Zaključak o osiguranju sredstava za rad sezonskih vatrogasaca za ljetnu protupožarnu
+- Popis zapovjedno-koordinacijskih mjesta,
+- Zaključak o osiguranju sredstava za rad sezonskih vatrogasaca za ljetnu protupožarnu
+
 sezonu,
 
-Plan rada Stožera civilne zaštite Grada Splita za požarnu sezonu,
-Financijski plan osiguranih sredstava za provođenje zadaća tijekom požarne sezone.
+- Plan rada Stožera civilne zaštite Grada Splita za požarnu sezonu,
+- Financijski plan osiguranih sredstava za provođenje zadaća tijekom požarne sezone.
+
 Video nadzor na javnim površinama:
 
 Grad Split ima instaliran sustav video nadzora javnih površina na 13 lokacija u staroj gradskoj
 jezgri.. Kamere su postavljene na: Trumbićeva obala (uža lokacija Matejuška), Trumbićeva
 
 obala (uža lokacija ispred crkve sv. Frane), Marmontova ulica (uža lokacija prema Tončićevoj
+
 
 ulici), Trg Gaje Bulata (ispred kazališta), Ulica Kralja Tomislava (uža lokacija: ispred ljekarne),
 
@@ -1277,6 +1504,7 @@ Stobreč, Slatine Mali porat, Slatine Veliki porat, Slatine Piramida, Slatine Di
 Jelačića, Slatine Liveli 1, Slatine Liveli 2, Slatine Liveli 3, Slatine Zvonimirova obala, Prva voda-
 Marjan, Kaštelet 1, Kaštelet 2, Invalidska Bene i Lubinski porat u dužini od ukupno 5240 m.
 
+
 Najveći ukupni iznos koji je Grad dužan platiti na temelju ovog Ugovora iznosi 184.525,00 kn.
 
 Obračun i naplata ukupno ugovorene cijene za uslugu iz ovog Ugovora vršit će se po fazama
@@ -1289,17 +1517,19 @@ zlouporabe opojnih droga i drugih sredstava ovisnosti, vandalizma, vršnjačkog 
 oblika rizičnog ponašanja „Zajedno više možemo“, namijenjen učenicima 4., 5., te roditeljima
 učenika 6. razreda osnovnih škola, koji se sastoji od 4 komponente:
 
-„Mogu ako hoću-1“ (MAH 1),
-„Sajam mogućnosti“,
-„Prevencija i alternativa-1“ (PIA 1),
-„Mogu ako hoću-2“ (MAH 2).
+- „Mogu ako hoću-1“ (MAH 1),
+- „Sajam mogućnosti“,
+- „Prevencija i alternativa-1“ (PIA 1),
+- „Mogu ako hoću-2“ (MAH 2).
 Grad Split godišnje osigurava realizaciju Programa sredstvima u iznosu do 40.000 kn.
 Za 2021.godinu zbog epidemije Covid 19 i nemogućnosti ulaska u škole s programom, nije
 potpisan ugovor s PU Splitsko-dalmatinskom.
+
 Temeljem Zaključka KLASA:215-01/18-01/1, URBROJ:2181/01- 09 - 02/3- 20 - 50 od 4. prosinca
 
-godine („Službenom glasniku Grada Splita“ broj 66/20) Grad Split je isplatio iznos od
+2020. godine („Službenom glasniku Grada Splita“ broj 66/20) Grad Split je isplatio iznos od
 5.000,00 kuna za financijsku potporu jačanja dostupnosti i vidljivosti aplikacije SeftyNet Udruzi
+
 mladih programer DUMP.
 Zaključkom KLASA:215-01/18-01/1, URBROJ:2181/01-09/3- 21 - 55 od 9. ožujka 2021. godine
 
@@ -1321,25 +1551,31 @@ smiren i raditi ispravno. Odobrena sredstava iznose 3.190,00 kn.
 
 Do kraja 2021. godine potrebno je izraditi ili krenuti u izradu slijedećih akta:
 
-Procjena rizika od velikih nesreća za Grad Split – Odluka o donošenju Procjene
-GV 29. siječnja 2019.godine (SL GS 04/19)
-Kraljem ljeta trebalo bi krenuti u reviziju!
+1. Procjena rizika od velikih nesreća za Grad Split – Odluka o donošenju Procjene
+    GV 29. siječnja 2019.godine (SL GS 04/19)
+    Kraljem ljeta trebalo bi krenuti u reviziju!
+
+```
 Sukladno čl. 8. stavak 2. i 3. Pravilnika o smjernicama za izradu procjene rizika od
 katastrofa i velikih nesreća za područje RH i JP(R) S (NN 65/16) Procjena rizika od
 velikih nesreća izrađuje se najmanje jednom u tri godine ili češće ukoliko u
 trogodišnjem periodu nastupi značajna promjena ulaznih parametara u korištenim
 scenarijima i postupcima analiziranja rizika, te ako se prepozna nova prijetnja.
-Smjernice za organizaciju i razvoj sustava civilne zaštite na području Grada Splita
-za razdoblje od 2018. do 2022. godine (SG GS 57/17)
-Plan djelovanja u području prirodnih nepogoda za 2021. godinu – izrađuje Gradsko
-povjerenstvo za procjenu šteta od prirodnih nepogoda, a GV ga do 30. studenog
-tekuće godine donosi za slijedeću kalendarsku godinu.
-Izvršno tijelo JLPRS podnosi predstavničkom tijelu JLPRS do 31. ožujka tekuće
-godine izvješće o izvršenju Plana djelovanja za proteklu kalendarsku godinu.
-Analize stanja sustava civilne zaštite Grada Splita u 2020. godini i Plan razvoja
-sustava civilne zaštite za 2021. godinu s financijskim učincima za trogodišnje
-razdoblje
-Plan vježbi civilne zaštite za 2022. godinu i izrada elaborata za vježbu
+```
+2. Smjernice za organizaciju i razvoj sustava civilne zaštite na području Grada Splita
+    za razdoblje od 2018. do 2022. godine (SG GS 57/17)
+
+
+3. Plan djelovanja u području prirodnih nepogoda za 2021. godinu – izrađuje Gradsko
+    povjerenstvo za procjenu šteta od prirodnih nepogoda, a GV ga do 30. studenog
+    tekuće godine donosi za slijedeću kalendarsku godinu.
+    Izvršno tijelo JLPRS podnosi predstavničkom tijelu JLPRS do 31. ožujka tekuće
+    godine izvješće o izvršenju Plana djelovanja za proteklu kalendarsku godinu.
+4. Analize stanja sustava civilne zaštite Grada Splita u 2020. godini i Plan razvoja
+    sustava civilne zaštite za 2021. godinu s financijskim učincima za trogodišnje
+    razdoblje
+5. Plan vježbi civilne zaštite za 2022. godinu i izrada elaborata za vježbu
+
 Grad Split je partner Šefovima kuhinja europskih i mediteranskih regija u EU projektu
 „Upravljanje i provođenje organizirane prehrane u kriznim situacijama“ u dijelu aktivnosti
 mapiranja potreba za organiziranom prehranom većeg ili velikog broja sugrađana u kriznim
@@ -1349,7 +1585,9 @@ uvjete. Kao mjerljiv ishod ove aktivnosti bi bio protokol organizacije prehrane 
 broja građana grada Splita u kriznim situacijama. Projekt je prijavljen u veljači 2021.godine,
 još se čekaju rezultati.
 
+```
  Odsjek za staru gradsku jezgru i baštinu
+```
 U okviru ovog odsjeka obavljaju se stručni i drugi poslovi na obnovi, zaštiti i očuvanju povijesne
 jezgre i ostalog graditeljskog nasljeđa. Osnovni zadatak Odsjeka je planiranje i koordiniranje
 obnove i revitalizacije splitske povijesne jezgre, kao i provođenje sanacijskih i konzervatorskih
@@ -1377,6 +1615,7 @@ njima predan na daljnje korištenje i postupanje. Također u koordinaciji s Odsj
 površine Upravnog odjela za komunalno gospodarstvo izrađena je Studija urbane opreme.
 
 Izrađen je Idejni projekt, radionički nacrti i troškovnik za nove vratnice na ulazima u Podrume.
+
 
 Nakon sklapanja Ugovora o preuzimanju objekta Zgrade starog vodovoda između Grada Splita
 i Vodovoda i kanalizacije d.o.o. u svrhu osnivanja Muzeja vode i prezentacije antičkog
@@ -1440,6 +1679,7 @@ Konzervatorskim odjelom.
 
 Naručena je podna vanjska rasvjeta za zgradu HNK u sklopu obnove Trga Gaje Bulata.
 
+
 Čišćenje šaranih zidova
 Prema godišnjim ugovorima sustavno se provodilo čišćenje grafita u staroj gradskoj jezgri.
 
@@ -1501,6 +1741,7 @@ Izrada Plana upravljanja
 Izrađeni su prikazi javnih površina s ucrtanim lokacijama za reklame i za štekate za potrebe
 izrade Odluke o komunalnom redu.
 
+
 Izrađen je Elaborat plana sigurnosnih mjera Dioklecijanovih podruma.
 
 Zaključkom Gradonačelnika osnovana je komisija za pregled Nacrta prijedloga Plana
@@ -1558,6 +1799,7 @@ njen završetak za tri mjeseca. Studija je preduvjet za izradu daljnje dokumenta
 izvedbenog projekta uređenja i postava u objektu bivše blagajne ViK-a koja obuhvaća
 kompletnu zgradu, prizemlje i cisterne. Nakon izrade studije pokreće se postupak nabave
 glavnog i izvedbenog projekta.
+
 
 Naručena je izrada projekta konstruktivne sanacije antičkog luka u Dominisovoj ulici 49.662,00
 kn. Nakon izrade projektne dokumentacije pokrenut će se postupak nabave radova sanacije
@@ -1620,6 +1862,7 @@ Projekt obnove perimetralnih zidova Dioklecijanove palače nastavlja se sanacijo
 prezentacijom južnog i istočnog zida. Nakon trećeg ciklusa radova na južnom zidu u sklopu
 istraživačkih sondi otkriveni su antički stupovi u punoj visini, te se na zahtjev nadležnog
 konzervatora planira izrada projekta obnove pročelja s prezentacijom nekadašnje carske lože
+
 
 na dijelu kriptoportika uz jugoistočnu kulu. Također je u planu nabava troškovnika za preostali
 dio južnog zida.
@@ -1684,24 +1927,33 @@ utvrđenog lošijeg stanja zidova zvonika.
 
 Proračun: 600.000,00 kn
 
+
 Potrošeno/ovjereno: 0 kn (na dan 20.05.2021.)
 
 Ugovoreno/naručeno usluga/radova koji nisu naplaćeni: 350.000 kn (na dan 20.05.2021.)
 
 Aktivnosti koje nisu vezane uz Plan proračuna:
 
-Pripremljen je Prijedlog nacrta pravilnika za provođenje programa sanacije i obnove
-krovova i pročelja građevina na području stare gradske jezgre grada Splita
-Suradnja na pripremi dokumentacije za izradu Plana upravljanja starom gradskom
-jezgrom sa Službom za međunarodne i EU projekte obzirom da su sredstva za njegovu
-izradu osigurana u ITU projektu „Palača života, grad mijena“.
-Suradnja s Muzejom grada Splita u obnovi podruma Dioklecijanove palače
-Suradnja s Odsjekom za javne površine u sklopu komisija za štekate i za reklame.
+- Pripremljen je Prijedlog nacrta pravilnika za provođenje programa sanacije i obnove
+    krovova i pročelja građevina na području stare gradske jezgre grada Splita
+- Suradnja na pripremi dokumentacije za izradu Plana upravljanja starom gradskom
+    jezgrom sa Službom za međunarodne i EU projekte obzirom da su sredstva za njegovu
+    izradu osigurana u ITU projektu „Palača života, grad mijena“.
+- Suradnja s Muzejom grada Splita u obnovi podruma Dioklecijanove palače
+- Suradnja s Odsjekom za javne površine u sklopu komisija za štekate i za reklame.
+
+```
  Iako ne spada u djelokrug Ureda Grada ovo upravno tijelo komunicira sa Popisnim
 povjerenstvom SDŽ na organizaciji popisa stanovništva 2021.
-PROČELNICA
+```
+###### PROČELNICA
+
+```
 Marina Protić
-SLUŽBA ZA UNUTARNJU REVIZIJU
+```
+
+###### SLUŽBA ZA UNUTARNJU REVIZIJU
+
 Prema Uputi Ministarstva financija za Izradu Izjave o fiskalnoj odgovornosti svake godine se
 izrađuje Mišljenje unutarnje revizije o sustavu unutarnjih kontrola za područja koja su bila
 revidirana u prethodnoj godini u roku propisanom i dostavlja revidiranim subjektima kako bi ga
@@ -1722,7 +1974,8 @@ usluga u skladu s odredbama Naputka o stalnom stručnom usavršavanju ovlašteni
 revizora za javni sektor (Narodne novine, 24/16). Na poziv Ministarstva financija svake godine
 se revizori odazivaju i pohađaju izobrazbu.
 
-godina
+- 2017. godina
+
 U razdoblju od lipnja do prosinca 2017. g. Služba za unutarnju reviziju provela je pet revizija
 prema Godišnjem planu rada unutarnje revizije za tekuću godinu. Provedene su sve revizije
 predviđene Godišnjim planom rada unutarnje revizije za 2017. godinu.
@@ -1730,14 +1983,16 @@ predviđene Godišnjim planom rada unutarnje revizije za 2017. godinu.
 U nastavku se navode provedene pojedinačne revizije s preporukama koje su date i nalaze se
 u Planovima djelovanja za svaku od revizija i naznakom provedbe preporuke:
 
-- Revizija br.2/17: Izvršavanje financijskih planova kod proračunskog korisnika
+**- Revizija br.2/17: Izvršavanje financijskih planova kod proračunskog korisnika**
 Muzej grada Splita.
 
 Preporuke:
 
+```
  Potrebno je donositi Financijski plan, Izmjene i dopune financijskog plana, Izmjene i
 dopune Plana nabave prema propisanoj proceduri, sa svim propisanim dijelovima.
-PROVEDENA
+```
+- PROVEDENA
  Potrebno je postupiti prema nalozima Odjela za prosvjetu, kulturu, informiranje, šport i
 tehničku kulturu, Službe za društvene djelatnosti, Ureda državne uprave u Splitsko-
 dalmatinskoj županiji u predmetu nadzora nad zakonitošću rada i općih akata Muzeja
@@ -1750,6 +2005,9 @@ svojim proračunskim korisnicima. - PROVEDENA
 registru proračunskih i izvanproračunskih korisnika (za svako potvrdno odgovoreno
 pitanje treba postojati referenca i dokumentacija koja potvrđuje isto) kao i Izjavu o
 fiskalnoj odgovornosti. - PROVEDENA
+
+
+```
  Potrebno je izraditi interne procedure (procedura stvaranja ugovornih obveza,
 procedura zaprimanja, provjere i pravovremenog plaćanja računa te procedura naplate
 prihoda) prema Zakonu o fiskalnoj odgovornosti i javno ih objaviti. - PROVEDENA
@@ -1778,11 +2036,13 @@ u kulturi te je objaviti. - PROVEDENA
  Potrebno je izrađivati Izmjene i dopune Plana nabave, usklađene sa Financijskim
 planom. Potrebno je provoditi postupke bagatelnih nabava sukladno odredbama
 Odluke o provedbi postupaka javne nabave bagatelne vrijednosti. - PROVEDENA
-- Revizija br.4/17: Računovodstvo trgovačkog društva - autorski ugovori i ugovori
+```
+**-** Revizija br.4/17: **Računovodstvo trgovačkog društva** - autorski ugovori i ugovori
 o djelu (horizontalna revizija)
 
 Preporuke:
 
+```
  Potrebno je voditi računa da se pri sklapanja ugovora o djelu ugovor sklapa za isporuku
 djela prema odredbama Zakona o obveznim odnosima te da takav ugovor ne može
 imati obilježja ugovora o radu. – svi direktori t.d. - PROVEDENA
@@ -1792,32 +2052,41 @@ određeno vrijeme, nego do nastupa roka. - pročelnik nadležnog tijela gradske 
 PROVEDENA
  Potrebno je potrebno je provoditi interne procedure kontrole izvršenja ugovora prije
 isplate. - svi direktori t.d. - PROVEDENA
-- Revizija br.5/17: Javna nabava trgovačkog društva (horizontalna revizija)
+```
+**-** Revizija br.5/17: **Javna nabava trgovačkog društva (horizontalna revizija)**
 
 Preporuke:
 
+```
  Potrebno je koristiti Odluku o početku postupka javne nabave na način da se navede
 procijenjena vrijednost nabave te se imenuju predstavnici naručitelja zaduženi za
 provođenje postupka (osobe s certifikatom), pripremu dokumentacije za nadmetanje,
 praćenje izvršenja ugovora.- Direktori trgovačkih društava Promet d.o.o. i Čistoća
 d.o.o. - PROVEDENA
+```
+
+```
  Potrebno je dosljedno provoditi interne odluke kojima je propisana procedura nabave
 kada se ne radi o javnim nabavama čiji je postupak propisan Zakonom o javnoj nabavi.-
 Direktor trgovačkog društva Promet d.o.o. - PROVEDENA
-- Revizija br.6/17: Izvršavanje proračuna - Manđerova ulica
+```
+**-** Revizija br.6/17: **Izvršavanje proračuna** - **Manđerova ulica**
 
 Preporuke:
 
+```
  Potrebno je detaljno planirati projekte prije izrade programa i financijskih planova, a da
 isti mogu biti dobra podloga za izradu Proračuna kako bi se na vrijeme osigurala
 dostatna sredstva za projekte i ne bi došlo do nenamjenskog trošenja sredstava. -
 PROVEDENA
  Potrebno je izvršiti ovjeru računa prije izrade Naredbe za izvršenje proračuna jer se
 ista ne može izvršiti bez prethodne ovjere računa. - PROVEDENA
-- Revizija br.7/17: Naplata proračunskih prihoda - komunalni doprinos
+```
+**- Revizija br.7/17: Naplata proračunskih prihoda** - komunalni doprinos
 
 Preporuke:
 
+```
  U Proračunu je potrebno zasebno iskazivati značajne prihode Grada (zasebno
 komunalnu naknadu i zasebno komunalni doprinos) kako bi Proračun bio
 transparentan i podaci o visini prihoda usporedivi. - PROVEDENA
@@ -1826,49 +2095,62 @@ izrađivati rješenja sukladno Zakonu i Uredbi, voditi predmete ažurno u aplika
 a. - PROVEDENA
  Potrebno je u Produkciji vršiti izmjene prema donesenim Rješenjima. - PROVEDENA
  Potrebno je pridržavati se Plana ovrha. - PROVEDENA
-godina
+```
+- 2018. godina
+
 U 2018. g. Služba za unutarnju reviziju provela je devet revizija prema Godišnjem planu rada
 unutarnje revizije za tekuću godinu te uz njih provela jednu ''ad hoc'' reviziju.
 
 U nastavku se navode provedene pojedinačne revizije s preporukama koje su date i nalaze se
 u Planovima djelovanja za svaku od revizija i naznakom provedbe preporuke:
 
-- Revizija br. 1 /18: Studentske stipendije
+**-** Revizija br. 1 /18: Studentske stipendije
 
 Preporuke:
 
+```
  Potrebno je izraditi opis poslovnog procesa za Mapu procesa Grada Splita. – NIJE
 PROVEDENA - zatraženo produženje roka zbog izrade iso standarda
-- Revizija br. 2 /18: Udžbenici
+```
+**-** Revizija br. 2 /18: **Udžbenici**
 
 Preporuke:
 
+```
  Potrebno je izraditi opis poslovnog procesa za Mapu procesa Grada Splita, razraditi
 pisanu proceduru za provođenje postupka te dopuniti Plan nabave i pripremiti potrebnu
 dokumentaciju za nabavu. – NIJE PROVEDENA - zatraženo produženje roka zbog
 izrade iso standarda
  Potrebno je vršiti isplate temeljem internih akata i odluka. - PROVEDENA
-- Revizija br. 3 /18: Pomoći za podmirenje troškova stanovanja
+```
+
+**-** Revizija br. 3 /18: **Pomoći za podmirenje troškova stanovanja**
 
 Preporuke:
 
+```
  Potrebno je izraditi opis poslovnog procesa za Knjigu poslovnih procesa Grada Splita.
-NIJE PROVEDENA - zatraženo produženje roka zbog izrade iso standarda
+```
+- NIJE PROVEDENA - zatraženo produženje roka zbog izrade iso standarda
  Potrebno je s većom pažnjom vršiti izračun visine prava na naknadu za troškove
 stanovanja, izvoditi dokaze uzimanjem izjava stranke u postupku gdje je to potrebno te
 bolje izrađivati obrazloženja rješenja. -PROVEDENA
  Potrebno je razraditi kriterije za određivanje visine plaćanja troška pojedinom
 poslovnom subjektu do ukupne visine pomoći za stanovanje. - PROVEDENA
-Revizija br.4/18: Revizija procesa izvršenja plaćanja u Projektu FREIGHT TAILS
+- Revizija **br.4/18: Revizija procesa izvršenja plaćanja u Projektu FREIGHT TAILS**
+
 Preporuke:
 
+```
  Potrebno je izraditi opis poslovnog procesa za Knjigu procesa Grada Splita (s
 poslovnim ciljem procesa, opisom aktivnosti procesa, uspostavljenim kontrolama u
 procesu i rizicima). – NIJE PROVEDENA-zatraženo produženje roka zbog izrade iso
 standarda
- R5/18- Izvršavanje financijskih planova kod proračunskog korisnika – Gradska
-knjižnica Marka Marulića Split
+```
+ R5/18- **Izvršavanje financijskih planova kod proračunskog korisnika –** Gradska
+**knjižnica Marka Marulića Split**
 
+```
  Potrebno je izvršiti uvid u sve ugovore o zakupu za poslovne prostore (zaključke i sl.)
 koji se odnose na poslovne prostore koje koristi Knjižnica. Ukoliko su istekli rokovi
 važenja ugovora izraditi nove. Potrebno je ažurirati evidenciju poslovnih prostora.. -
@@ -1881,135 +2163,145 @@ izvještajima prema nalogu Državnog ureda za reviziju.. - PROVEDENA
  Potrebno je pri ispunjavanju Upitnika o fiskalnoj odgovornosti za obveznike utvrđene
 u registru proračunskih i izvanproračunskih korisnika voditi računa o tome koja pitanja
 su primjenjiva za instituciju.. - PROVEDENA
-- Revizija br. 6 /18: Izvršavanje financijskih planova kod izvanproračunskog
-korisnika- Ustanova za zapošljavanje, rad i profesionalnu rehabilitaciju osoba s
+```
+**-** Revizija br. 6 /18: **Izvršavanje financijskih planova kod izvanproračunskog**
+korisnika- **Ustanova za zapošljavanje, rad i profesionalnu rehabilitaciju osoba s**
 invaliditetom DES (''ad hoc'' revizija).
 
 Preporuke:
 
-- Potrebno je izrađivati Plan poslovanja na način da sadrži sažetak djelokruga rada,
-obrazloženja plana po dijelovima, zakonske i druge podloge na kojima se zasnivaju,
-usklađene ciljeve, strategiju i aktivnosti s dokumentima dugoročnog razvoja,
-ishodište i pokazatelje na kojima se zasnivaju izračuni i ocjene potrebnih sredstava
-za provođenje, izvještaj o postignutim ciljevima i rezultatima temeljenim na
-pokazateljima uspješnosti u prethodnoj godini te ostala obrazloženja i dokumentaciju.
-- PROVEDENA
+**-** Potrebno je izrađivati Plan poslovanja na način da sadrži sažetak djelokruga rada,
+    obrazloženja plana po dijelovima, zakonske i druge podloge na kojima se zasnivaju,
+    usklađene ciljeve, strategiju i aktivnosti s dokumentima dugoročnog razvoja,
+    ishodište i pokazatelje na kojima se zasnivaju izračuni i ocjene potrebnih sredstava
+    za provođenje, izvještaj o postignutim ciljevima i rezultatima temeljenim na
+    pokazateljima uspješnosti u prethodnoj godini te ostala obrazloženja i dokumentaciju.
+    - PROVEDENA
+- Plan nabave mora biti cjelovit, usklađen s Planom poslovanja i obuhvaćati sve
+    nabave sukladno Zakonu o javnoj nabavi. - PROVEDENA
 
-Plan nabave mora biti cjelovit, usklađen s Planom poslovanja i obuhvaćati sve
-nabave sukladno Zakonu o javnoj nabavi. - PROVEDENA
-Potrebno je izrađivati bilješke uz financijska izvješća. - PROVEDENA
-Potrebno je pri ispunjavanju Upitnika o fiskalnoj odgovornosti voditi računa o
-tome koja pitanja su primjenjiva za Ustanovu. - PROVEDENA
-Potrebno je da Upravni odjel za socijalnu skrb, zdravstvenu zaštitu i demografiju
-redovito provodi kontrole. - PROVEDENA
-Potrebno je smanjiti broj žiro računa, da se oni ne otvaraju u različitim poslovnim
-bankama radi preglednosti poslovanja, provoditi postupke javne nabave za
-usluge banaka. - PROVEDENA
-Potrebno je omogućiti da interni revizor obavlja poslove revizora kako je to
-propisano Zakonom o sustavu unutarnjih kontrola u javnom sektoru i
-Pravilnikom o reviziji. -PROVEDENA
-Potrebno je poštivati odredbe Zakona o radu pri sklapanju ugovora o radu na
-određeno vrijeme. Za obavljanje poslova radnih mjesta ne mogu se sklapati
-ugovori o djelu. - PROVEDENA
-Potrebno je izraditi proceduru za davanje pisane suglasnosti gradonačelnika
-Grada Splita za zapošljavanje u Ustanovi. - PROVEDENA
-Potrebno je da se svako zapošljavanje u Ustanovi temelji na pisanoj suglasnosti
-gradonačelnika Grada Splita za zapošljavanje u formi Zaključka. - PROVEDENA
-Potrebno je uskladiti Pravilnik o radu s Zakonom o radu te odrediti osnovnu
-plaću na način da se zadovolji visina minimalne propisane plaće radnika. -
-PROVEDENA
-Potrebno je isplaćivati dar za Sv. Nikolu djeci radnika kako je to i propisano
-Pravilnikom o radu. - PROVEDENA
-Potrebno je materijalna prava radnika isplaćivati u skladu s Pravilnikom o radu.
-PROVEDENA
-Potrebno je detaljno propisati kriterije i proceduru za davanje stimulativnog
-dijela plaće, a isti nije opravdano isplaćivati kada Ustanova posluje s gubitkom
-jer za to nema opravdanja. - PROVEDENA
-Potrebno je pridržavati se Pravilnika o unutarnjem ustrojstvu i sistematizaciji
-radnih mjesta te ne sklapati anekse ugovora o radu s radnicima za poslove čije
-je obavljanje Pravilnikom predviđeno obavljanjem poslova drugog radnog
-mjesta. - PROVEDENA
-Potrebno je radno vrijeme određivati u skladu s Zakonom o radu i voditi
-evidenciju o prisutnosti radnika u skladu s propisima. - PROVEDENA
-Potrebno je propisati internim aktima korištenje službenih automobila te
-korištenje mobilnih telefona. - PROVEDENA
-Potrebno je Plan nabave izrađivati u skladu s Financijskim planom. -
-PROVEDENA
-- Potrebno je provoditi Zakon o javnoj nabavi. - PROVEDENA
-Potrebno je jednostavne nabave provoditi prema Pravilniku o provedbi
-postupaka javne nabave kojim se uređuje provedba postupaka javne nabave
-roba i usluga procijenjene vrijednosti od 70.000,00 kuna do 200.000,00 kuna
-(bez PDV-a) i nabave radova procijenjene vrijednosti od 70.000,00 kuna do
-500.000,00 kuna (bez PDV-a). - PROVEDENA
-- Revizija br. 7 /18: Provedba postupaka javne nabave
-Nije bilo preporuka, sustav kontrola je ocijenjen kao zadovoljavajući za ovaj
+
+- Potrebno je izrađivati bilješke uz financijska izvješća. - PROVEDENA
+- Potrebno je pri ispunjavanju Upitnika o fiskalnoj odgovornosti voditi računa o
+    tome koja pitanja su primjenjiva za Ustanovu. - PROVEDENA
+- Potrebno je da Upravni odjel za socijalnu skrb, zdravstvenu zaštitu i demografiju
+    redovito provodi kontrole. - PROVEDENA
+- Potrebno je smanjiti broj žiro računa, da se oni ne otvaraju u različitim poslovnim
+    bankama radi preglednosti poslovanja, provoditi postupke javne nabave za
+    usluge banaka. - PROVEDENA
+- Potrebno je omogućiti da interni revizor obavlja poslove revizora kako je to
+    propisano Zakonom o sustavu unutarnjih kontrola u javnom sektoru i
+    Pravilnikom o reviziji. -PROVEDENA
+- Potrebno je poštivati odredbe Zakona o radu pri sklapanju ugovora o radu na
+    određeno vrijeme. Za obavljanje poslova radnih mjesta ne mogu se sklapati
+    ugovori o djelu. - PROVEDENA
+- Potrebno je izraditi proceduru za davanje pisane suglasnosti gradonačelnika
+    Grada Splita za zapošljavanje u Ustanovi. - PROVEDENA
+- Potrebno je da se svako zapošljavanje u Ustanovi temelji na pisanoj suglasnosti
+    gradonačelnika Grada Splita za zapošljavanje u formi Zaključka. - PROVEDENA
+- Potrebno je uskladiti Pravilnik o radu s Zakonom o radu te odrediti osnovnu
+    plaću na način da se zadovolji visina minimalne propisane plaće radnika. -
+    PROVEDENA
+- Potrebno je isplaćivati dar za Sv. Nikolu djeci radnika kako je to i propisano
+    Pravilnikom o radu. - PROVEDENA
+- Potrebno je materijalna prava radnika isplaćivati u skladu s Pravilnikom o radu.
+    - PROVEDENA
+- Potrebno je detaljno propisati kriterije i proceduru za davanje stimulativnog
+    dijela plaće, a isti nije opravdano isplaćivati kada Ustanova posluje s gubitkom
+    jer za to nema opravdanja. - PROVEDENA
+- Potrebno je pridržavati se Pravilnika o unutarnjem ustrojstvu i sistematizaciji
+    radnih mjesta te ne sklapati anekse ugovora o radu s radnicima za poslove čije
+    je obavljanje Pravilnikom predviđeno obavljanjem poslova drugog radnog
+    mjesta. - PROVEDENA
+- Potrebno je radno vrijeme određivati u skladu s Zakonom o radu i voditi
+    evidenciju o prisutnosti radnika u skladu s propisima. - PROVEDENA
+- Potrebno je propisati internim aktima korištenje službenih automobila te
+    korištenje mobilnih telefona. - PROVEDENA
+- Potrebno je Plan nabave izrađivati u skladu s Financijskim planom. -
+    PROVEDENA
+**-** Potrebno je provoditi Zakon o javnoj nabavi. - PROVEDENA
+
+
+- Potrebno je jednostavne nabave provoditi prema Pravilniku o provedbi
+    postupaka javne nabave kojim se uređuje provedba postupaka javne nabave
+    roba i usluga procijenjene vrijednosti od 70.000,00 kuna do 200.000,00 kuna
+    (bez PDV-a) i nabave radova procijenjene vrijednosti od 70.000,00 kuna do
+    500.000,00 kuna (bez PDV-a). - PROVEDENA
+**-** Revizija br. 7 /18: Provedba postupaka javne nabave
+- Nije bilo preporuka, sustav kontrola je ocijenjen kao zadovoljavajući za ovaj
 poslovni proces.
-- Revizija br. 8 /18: Naplata proračunskih prihoda –zakup javnih površina
+**-** Revizija br. 8 /18: **Naplata proračunskih prihoda –zakup javnih površina**
+
 Preporuke:
 
-Potrebno je ažurirati poslovni proces u Knjizi poslovnih procesa Grada. –NIJE
-PROVEDENA-zatraženo produženje roka zbog izrade iso standarda
-Potrebno je provesti naloge Državnog ureda za reviziju- uskladiti Odluku o
-davanju u zakup javnih površina i neizgrađenog građevinskog zemljišta u
-vlasništvu Grada za postavljanje kioska, štekata, štandova, pokretnih naprava i
-drugo s propisima te provoditi postupak davanja u zakup javnih površina u
-skladu s propisima. - PROVEDENA
-Potrebno je provesti javni natječaj za davanje u zakup javnih površina za
-postavljanje kioska. -PROVEDENA
-Potrebno je voditi spise prema Zakonu o općem upravnom postupku. -
-PROVEDENA
-Potrebno je uvesti dodatnu mjeru kontrole na način da Odsjek za gospodarenje
-imovinom Upravnom odjelu za financijsko upravljanje i kontroling dostavlja sve
-potpisane ugovore. - PROVEDENA
-Potrebno je da Upravni odjel za financijsko upravljanje i kontroling vrši kontrolu
-zaduživanja i dospijeća po dostavljenim im ugovorima. -PROVEDENA
-Revizija br. 9 /18: Stanje sudskih sporova
+- Potrebno je ažurirati poslovni proces u Knjizi poslovnih procesa Grada. –NIJE
+    PROVEDENA-zatraženo produženje roka zbog izrade iso standarda
+- Potrebno je provesti naloge Državnog ureda za reviziju- uskladiti Odluku o
+    davanju u zakup javnih površina i neizgrađenog građevinskog zemljišta u
+    vlasništvu Grada za postavljanje kioska, štekata, štandova, pokretnih naprava i
+    drugo s propisima te provoditi postupak davanja u zakup javnih površina u
+    skladu s propisima. - PROVEDENA
+- Potrebno je provesti javni natječaj za davanje u zakup javnih površina za
+    postavljanje kioska. -PROVEDENA
+- Potrebno je voditi spise prema Zakonu o općem upravnom postupku. -
+    PROVEDENA
+- Potrebno je uvesti dodatnu mjeru kontrole na način da Odsjek za gospodarenje
+    imovinom Upravnom odjelu za financijsko upravljanje i kontroling dostavlja sve
+    potpisane ugovore. - PROVEDENA
+- Potrebno je da Upravni odjel za financijsko upravljanje i kontroling vrši kontrolu
+    zaduživanja i dospijeća po dostavljenim im ugovorima. -PROVEDENA
+- Revizija br. 9 /18: Stanje sudskih sporova
+
 Preporuke:
 
-Potrebno je izraditi opis poslovnog procesa za Knjigu poslovnih procesa
-Grada Splita. – NIJE PROVEDENA-zatraženo produženje roka zbog izrade iso
-standarda
-Potrebno je uvesti eGOP u rad Službe, dodijeliti Službi klasifikacijske oznake te
-za nove predmete otvarati svaki put novi predmet. S obzirom na djelokrug rada
-ove Službe uputno je zadužiti samo jednu osobu u Pisarnici za rad s pismenima
-Službe. - PROVEDENA
-Potrebno je koristiti pečat u internoj pisanoj komunikaciji. - PROVEDENA
-Potrebna je bolja suradnja svih upravnih tijela s Odsjekom za zaštitu imovine i
-prava. - PROVEDENA
-Potrebno je predmete koji su nepotpuni dopuniti kad Služba bude u mogućnosti
-(po povratku predmeta sa žalbenog suda). - PROVEDENA
-Potrebno je od odvjetnika koji zastupaju Grad zatražiti izvješća o stanju u
-predmetima i obavljenim radnjama, tražiti preslike sudskih odluka. -
-PROVEDENA
-Potrebno je sukladno Zakonu o lokalnoj i područnoj (regionalnoj) samoupravi o
-podnošenju tužbi vrijednosti predmeta spora od preko 1.000.000,00 kuna tražiti
-odluku Gradskog vijeća Grada Splita. -PROVEDENA
-Potrebno je izraditi kriterije za davanje punomoći za zastupanje Grada
-odvjetnicima.-NIJE PROVEDENA
-Potreban je timski rad upravnih tijela kada se izrađuju nagodbe, a ključno je da
-one riješe problem u cijelosti, a ne samo dio potraživanja. - PROVEDENA
-Potrebno je Naredbe za izvršenje Proračuna ispunjavati na način da je moguće
-utvrditi koji su potpisnici Naredbe, a ne da se ovjeravaju samo stavljanjem
-parafa. - PROVEDENA
-Potrebno je plaćanja izvršavati temeljem ispravne računovodstvene
-dokumentacije, a nakon provedenih prethodnih kontrola. - PROVEDENA
-Potrebno je da podaci u Glavnoj knjizi u Produkciji budu istovjetni podacima
-računovodstvene dokumentacije. - PROVEDENA
-Potrebno je da pročelnik iz čijeg se razdjela vrši plaćanje ovjerava Naredbe za
-izvršenje Proračuna te prati izvršenje ugovora, ako se vrši plaćanje iz razdjela
-za koje on odgovara. - PROVEDENA
-Revizija br. 10 /18 Poslovanje trgovačkog društva Parkovi i nasadi d.o.o. -
-računovodstvo - revizija procesa službenih putovanja i isplate naknade za prijevoz
+- Potrebno je izraditi opis poslovnog procesa za Knjigu poslovnih procesa
+    Grada Splita. – NIJE PROVEDENA-zatraženo produženje roka zbog izrade iso
+    standarda
+- Potrebno je uvesti eGOP u rad Službe, dodijeliti Službi klasifikacijske oznake te
+    za nove predmete otvarati svaki put novi predmet. S obzirom na djelokrug rada
+    ove Službe uputno je zadužiti samo jednu osobu u Pisarnici za rad s pismenima
+    Službe. - PROVEDENA
+- Potrebno je koristiti pečat u internoj pisanoj komunikaciji. - PROVEDENA
+- Potrebna je bolja suradnja svih upravnih tijela s Odsjekom za zaštitu imovine i
+    prava. - PROVEDENA
+- Potrebno je predmete koji su nepotpuni dopuniti kad Služba bude u mogućnosti
+    (po povratku predmeta sa žalbenog suda). - PROVEDENA
+- Potrebno je od odvjetnika koji zastupaju Grad zatražiti izvješća o stanju u
+    predmetima i obavljenim radnjama, tražiti preslike sudskih odluka. -
+    PROVEDENA
+- Potrebno je sukladno Zakonu o lokalnoj i područnoj (regionalnoj) samoupravi o
+    podnošenju tužbi vrijednosti predmeta spora od preko 1.000.000,00 kuna tražiti
+    odluku Gradskog vijeća Grada Splita. -PROVEDENA
+
+
+- Potrebno je izraditi kriterije za davanje punomoći za zastupanje Grada
+    odvjetnicima.-NIJE PROVEDENA
+- Potreban je timski rad upravnih tijela kada se izrađuju nagodbe, a ključno je da
+    one riješe problem u cijelosti, a ne samo dio potraživanja. - PROVEDENA
+- Potrebno je Naredbe za izvršenje Proračuna ispunjavati na način da je moguće
+    utvrditi koji su potpisnici Naredbe, a ne da se ovjeravaju samo stavljanjem
+    parafa. - PROVEDENA
+- Potrebno je plaćanja izvršavati temeljem ispravne računovodstvene
+    dokumentacije, a nakon provedenih prethodnih kontrola. - PROVEDENA
+- Potrebno je da podaci u Glavnoj knjizi u Produkciji budu istovjetni podacima
+    računovodstvene dokumentacije. - PROVEDENA
+- Potrebno je da pročelnik iz čijeg se razdjela vrši plaćanje ovjerava Naredbe za
+    izvršenje Proračuna te prati izvršenje ugovora, ako se vrši plaćanje iz razdjela
+    za koje on odgovara. - PROVEDENA
+- Revizija br. 10 /18 **Poslovanje trgovačkog društva Parkovi i nasadi d.o.o.** -
+**računovodstvo** - **revizija procesa službenih putovanja i isplate naknade za prijevoz**
+
 Preporuke:
 
-Potrebno je izvršavati isplate akontacije prema Nalozima za službena putovanja na
-tekući račun radnika, umjesto isplata putem blagajne, kako bi se proces ubrzao i
-otklonile mogućnosti isplata neodgovarajućim osobama. - PROVEDENA
-Potrebno je izvršavati isplate prema obračunatim troškovima Naloga za službena
-putovanja na tekući račun radnika, umjesto isplata putem blagajne, kako bi se
-proces ubrzao i otklonile mogućnosti isplata neodgovarajućim osobama. –
-PROVEDENA.
-godina
+- Potrebno je izvršavati isplate akontacije prema Nalozima za službena putovanja na
+    tekući račun radnika, umjesto isplata putem blagajne, kako bi se proces ubrzao i
+    otklonile mogućnosti isplata neodgovarajućim osobama. - PROVEDENA
+- Potrebno je izvršavati isplate prema obračunatim troškovima Naloga za službena
+    putovanja na tekući račun radnika, umjesto isplata putem blagajne, kako bi se
+    proces ubrzao i otklonile mogućnosti isplata neodgovarajućim osobama. –
+    PROVEDENA.
+- 2019. godina
+
 U 2019. godini Služba za unutarnju reviziju provela je je pet revizija prema terminskom planu
 Godišnjeg plana Službe za unutarnju reviziju za 2019. g. te tri ''ad hoc'' revizije po Nalogu
 gradonačelnika. U nastavku se navode provedene pojedinačne revizije provedene prema
@@ -2017,24 +2309,28 @@ Godišnjem planu rada unutarnje revizije za 2019. godinu, te tri ''ad hoc'' revi
 gradonačelnika za provođenjem revizije, u izvještajnom razdoblju s preporukama koje su date
 i nalaze se u Planovima djelovanja za svaku od revizija s naznakom provedbe preporuka:
 
-- Revizija br. 1 /1 9 : Revizija procesa izvršenja plaćanja u Projektu S pomoćnikom
+**-** Revizija br. 1 /1 9 : Revizija procesa **izvršenja plaćanja u Projektu S pomoćnikom**
 mogu bolje III.
-- Nije bilo preporuka. Nisu utvrđene slabosti ili nepravilnosti.
-- Revizija br. 2 /1 9 : Izvršavanje financijskih planova kod proračunskog korisnika -
+    - Nije bilo preporuka. Nisu utvrđene slabosti ili nepravilnosti.
+**-** Revizija br. 2 /1 9 : **Izvršavanje financijskih planova kod proračunskog korisnika** -
 Galerija umjetnina
 
 Preporuke:
 
+```
  Potrebno je donositi izmjene i dopune Financijskog plana. - PROVEDENA
  Potrebno je uskladiti interne akte sa Zakonima, Kolektivnim ugovorom i internim
 aktima. - PROVEDENA
  Potrebno je izvršavati isplate prema obračunatim troškovima Naloga za službena
 putovanja na tekući račun radnika, umjesto isplata putem blagajne, kako bi se proces
 ubrzao i otklonile mogućnosti isplata neodgovarajućim osobama. - PROVEDENA
-- Revizija br. 3 /1 9 : Troškovi prijevoza i korištenje službenog mobitela
+```
+
+**-** Revizija br. 3 /1 9 : **Troškovi prijevoza i korištenje službenog mobitela**
 
 Preporuke:
 
+```
  Potrebno je u skladu sa zakonom i internim aktima donositi Rješenje za svakog
 službenika ili namještenika o visini putnih troškova, a na temelju istoga isplaćivati putne
 troškove. - PROVEDENA
@@ -2049,11 +2345,13 @@ PROVEDENA
  Potrebno je ažurirati dostavljeni Popis jer se u postojećem pogrešno navodi zaduženje
 službenog mobilnog telefona za neke službenike koji su isti razdužili. – NIJE
 PROVEDENA
-- Revizija br. 4 /1 9 : ''ad hoc'' Revizija poslovanja Centra za kulturu i cjeloživotno
-obrazovanje Zlatna vrata (ustanove kojoj je osnivač i vlasnik Grad)
+```
+**-** Revizija br. 4 /1 9 : ''ad hoc'' **Revizija poslovanja Centra za kulturu i cjeloživotno
+obrazovanje Zlatna vrata (ustanove kojoj je osnivač i vlasnik Grad)**
 
 Preporuke:
 
+```
  Potrebno je izrađivati financijski plan za trogodišnje razdoblje, donositi izmjene i
 dopune Financijskog plana te Plan nabave mora biti usklađen s Financijskim planom.
 Svaku izmjenu i dopunu treba objavljivati na mrežnim stranicama. - PROVEDENA
@@ -2083,8 +2381,12 @@ utvrđeno u ostalim ustanovama u kulturi Grada Splita. –NIJE PROVEDENA
 vrijeme prema Zakonu o radu i Pravilniku o radu. - PROVEDENA
  Potrebno je obračunavati troškove prijevoza na posao i s posla temeljem donesene
 Odluke o isplati putnih troškova djelatnicima- na posao i s posla. - PROVEDENA
+```
+
+```
  Potrebno je Odluke o korištenju godišnjeg odmora donositi u skladu s Zakonom o radu.
-PROVEDENA
+```
+- PROVEDENA
  Potrebno je donijeti Pravilnik o radu koji mora biti u skladu s važećim Zakonom o radu
 i kolektivnim ugovorom. – NIJE PROVEDENA
  Potrebno je vršiti isplate proračunskim /izvanproračunskim korisnicima temeljem
@@ -2101,7 +2403,7 @@ propisati da su se zaposlenici dužni koristiti mobilnim telefonima za službene
 okviru tarifa, a da će prekoračenje biti obračunato i obustavljeno prilikom obračuna
 plaće ukoliko sami ne izvrše uplatu dužnog iznosa. - PROVEDENA
  U Dnevnik glavne knjige potrebno je unositi opise knjiženja za svako izvršeno knjiženje.
-PROVEDENA
+- PROVEDENA
  Potrebno je sklapati ugovore ovisno o pravnoj prirodi posla, ugovor o djelu ne može
 zamjenjivati ugovor o radu, a ni ugovor o autorskom djelu ugovor o djelu. U nedoumici
 radi li se o autorskom djelu moguća je provjera kod Državnog zavoda za intelektualno
@@ -2114,9 +2416,11 @@ evidencije vrše isplate honorara. - PROVEDENA
  Potrebno je čuvati cjelokupnu dokumentaciju jednostavnih nabava (zapisnike i sve
 ponude u cijelosti) u propisanom roku Pravilnikom o provedbi postupaka jednostavne
 nabave. - PROVEDENA
-- Revizija br. 5 /1 9 : Naplata po kaznama komunalnih redara
+**-** Revizija br. 5 /1 9 : Naplata po kaznama komunalnih redara
+
 Preporuke:
 
+```
  Potrebno je, voditi predmete ažurno u aplikaciji eGOP-a te Produkciji. -PROVEDENA
  Potrebno je vršiti razvođenje završenih predmeta, zatvarati ih te ih slati u arhivu. -
 PROVEDENA
@@ -2126,18 +2430,23 @@ dostavljenim obaveznim prekršajnim nalozima, dostavnicama, rješenjima Prekrša
 suda. - PROVEDENA
  Potrebno je da službenici Odsjeka za redarstvo vode spise sukladno zakonskim
 odredbama. - PROVEDENA
-- Revizija br. 6 /19: Izvršavanje financijskih planova kod proračunskog korisnika
-JU Športski objekti Split
+```
+**-** Revizija br. 6 /19: **Izvršavanje financijskih planova kod proračunskog korisnika
+JU Športski objekti Split**
 
 Preporuke:
 
+```
  Potrebno je donositi izmjene i dopune Plana nabave koji mora biti usklađen s
 Financijskim planom. - PROVEDENA
-Revizija br.7/19- Revizija poslovanja Javne ustanove za upravljanje Park šumom Marjan
-(“ad hoc”)
+```
+
+Revizija br.7/19- **Revizija poslovanja Javne ustanove za upravljanje Park šumom Marjan
+(“ad hoc”)**
 
 Preporuke:
 
+```
  Potrebno je donijeti izmjene internih akata prema planu Godišnjeg programa zaštite,
 održavanja, očuvanja, promicanja i korištenja zaštićenih područja 2018. Javne
 ustanove za upravljanje Park – šumom Marjan. - PROVEDENA
@@ -2184,28 +2493,31 @@ je propisano korištenje automobila u službene svrhe Odlukom je to popisano od 
 24 sati. - PROVEDENA
  Potrebno je pojedinačna Rješenja o korištenju godišnjeg odmora donositi u skladu s
 Odlukom o rasporedu korištenja godišnjeg odmora. – PROVEDENA
-- Revizija br.8/19- Revizija poslovanja HNK na dan primopredaje (“ad hoc”)
+```
+
+**-** Revizija br.8/19- **Revizija poslovanja HNK na dan primopredaje (“ad hoc”)**
 
 Preporuke:
 
-Potrebno je program i Financijski plan na godišnjoj razini izrađivati u skladu s
-financijskim mogućnostima budući da je neophodno otkloniti prenesene gubitke
-izradom plana sanacije gubitaka. - PROVEDENA
-Potrebno je izraditi plan otklanjanja gubitka od 2021. godine. – NIJE
-PROVEDENA - zatraženo je produženje roka radi krize uzrokovane
-pandemijom
-Potrebno je objaviti na internet stranici Ustanove tri obvezne procedure prema
-Zakonu o fiskalnoj odgovornosti. - PROVEDENA
-Potrebno je planirati visinu financijskih sredstava po izvedbi i sukladno
-Financijskom planu izraditi program koji odobrava kazališno vijeće. -
-PROVEDENA
-Potrebno je popuniti radna mjesta do optimalne razine za izvođenje programa
-u ansamblima budući da je to ekonomski isplativije jer bi se smanjili troškovi za
-autorske honorare i ugovore o djelu, a istovremeno otklonili rizici nemogućnosti
-izvođenja predstava zbog nedostupnosti pojedinih umjetnika. – NIJE
-PROVEDENA - zatraženo je produženje roka radi krize uzrokovane
-pandemijom.
-godina
+- Potrebno je program i Financijski plan na godišnjoj razini izrađivati u skladu s
+    financijskim mogućnostima budući da je neophodno otkloniti prenesene gubitke
+    izradom plana sanacije gubitaka. - PROVEDENA
+- Potrebno je izraditi plan otklanjanja gubitka od 2021. godine. – NIJE
+    PROVEDENA - zatraženo je produženje roka radi krize uzrokovane
+    pandemijom
+- Potrebno je objaviti na internet stranici Ustanove tri obvezne procedure prema
+    Zakonu o fiskalnoj odgovornosti. - PROVEDENA
+- Potrebno je planirati visinu financijskih sredstava po izvedbi i sukladno
+    Financijskom planu izraditi program koji odobrava kazališno vijeće. -
+    PROVEDENA
+- Potrebno je popuniti radna mjesta do optimalne razine za izvođenje programa
+    u ansamblima budući da je to ekonomski isplativije jer bi se smanjili troškovi za
+    autorske honorare i ugovore o djelu, a istovremeno otklonili rizici nemogućnosti
+    izvođenja predstava zbog nedostupnosti pojedinih umjetnika. – NIJE
+    PROVEDENA - zatraženo je produženje roka radi krize uzrokovane
+    pandemijom.
+- 2020. godina
+
 U 2020. godini Služba za unutarnju reviziju provela je je sedam revizija prema terminskom
 planu Godišnjeg plana Službe za unutarnju reviziju za 2020. g u tročlanom timu sastavljenom
 od voditeljice tima i dvije revizorice.
@@ -2222,87 +2534,98 @@ planu za 2020. g. R9/20 - Upravljanje i raspolaganje nogometnim stadionima i igr
 prioritet budući da je bila predmet revizije Državnog ureda za reviziju te se prati provedba
 naloga i preporuka Državnog ureda za reviziju. Posljednje dvije revizije iz Godišnjeg plana za
 
-g. su planirane za provođenje Godišnjim planom za 2021. g. kao prve dvije revizije.
+2020. g. su planirane za provođenje Godišnjim planom za 2021. g. kao prve dvije revizije.
+
 U nastavku se navode sve provedene pojedinačne revizije prema Godišnjem planu rada
 unutarnje revizije za 2020. godinu u izvještajnom razdoblju s preporukama za revizije koje su
 okončane koje su date i nalaze se u Planovima djelovanja za svaku od revizija s naznakom
 provedbe preporuka:
 
- Revizija br.1/20: Naplata proračunskih prihoda i izvršavanje namjenskih rashoda
+ **Revizija br.1/20: Naplata proračunskih prihoda i izvršavanje namjenskih rashoda**
 
-spomeničke rente
+- **spomeničke rente**
+
 Preporuka:
 
+```
  Potrebno je izvršavati planirane rashode namjenskog prihoda – spomeničke rente
 kako je i planirano Proračunom i projekcijama.. - PROVEDENA
-- Revizija br.2/20: Evidencije - prekovremeni rad
+```
+
+**-** Revizija br.2/20: Evidencije - prekovremeni rad
 
 Preporuke:
 
+```
  Pročelnici odgovaraju za organizaciju rada unutar ustrojstvene jedinice koju vode te u
 cilju učinkovitije organizacije posla i ravnomjernije raspodjele posla trebaju izvršiti
 preraspodjelu poslova na raspoložive službenike/namještenike kako bi se potrebe za
 prekovremenim radom svele na najmanju moguću mjeru u okviru zakonskih propisa.
-NIJE PROVEDENA
+```
+- NIJE PROVEDENA
  Upute gradonačelnika za prethodnim odobravanjem prekovremenog rada od strane
 nadređenih su jasne i potrebno je pridržavati se istih. – NIJE PROVEDENA
-- Revizija br.3/20: Trgovačka društva u vlasništvu Grada Splita Split parking d.o.o.
+**- Revizija br.3/20: Trgovačka društva u vlasništvu Grada Splita Split parking d.o.o.**
 i Promet d.o.o. - prisilna naplata
+
 Upućene su obavijesti o početku revizije direktorima trgovačkih društava te pročelnicima
 Upravnog odjela za komunalno gospodarstvo, redarstvo i mjesnu samoupravu i Upravnog
 odjela za financijsko upravljanje i kontroling te se čeka dostava obavijesti o dijelovima
 poslovnog procesa koji se obavljaju u njihovim jedinicama te relevantne dokumentacije koja je
 zatražena. - PROVEDENA
 
-- Revizija br.3/20: Trgovačka društva u vlasništvu Grada Splita Split parking d.o.o.
+**- Revizija br.3/20: Trgovačka društva u vlasništvu Grada Splita Split parking d.o.o.**
 i Promet d.o.o. - prisilna naplata
 
 Preporuke:
 
-Potrebno je da trgovačko društvo Promet d.o.o. dostavi Gradu sve zahtjeve za
-pokretanje prekršajnog postupka za kazne u 2019. g. i 2020. g te da ubuduće iste
-dostavlja protekom svakog kvartala (svaka tri mjeseca) kako bi se ubrzala obrada
-predmeta, osiguralo pravodobno izdavanje Obaveznih prekršajnih naloga i otklonila
-mogućnost zastare. - PROVEDENA
-Potrebno je pravodobno provoditi prekršajni postupak i osigurati pravodobno
-izdavanje Obaveznih prekršajnih naloga unutar propisanih zastarnih rokova, kako
-bi se mogla vršiti prisilna naplata pravodobno. – NIJE PROVEDENA - zatraženo
-produženje roka
-Potrebno je izvršiti integraciju za ovu vrstu prihoda između Produkcije i Libusofta te
-obavljanje ovog poslovnog procesa te omogućiti službenicima Upravnog odjela za
-komunalno gospodarstvo, redarstvo i mjesnu samoupravu (zaduživanje, praćenje
-naplate po OPN-u) ubuduće unutar Libusofta. Do integracije potrebno je osigurati
-pravodobnu naplatu prihoda u aplikaciji Produkcija. – NIJE PROVEDENA -
-zatraženo produženje roka
-Potrebno je unutar Upravnog odjela za komunalno gospodarstvo, redarstvo i
-mjesnu samoupravu predvidjeti poslove izdavanja općeg prekršajnog naloga i
-praćenje prekršajnog postupka na način da je za te poslove odgovoran službenik
-pravne struke s odgovarajućim radnim stažem u struci. – NIJE PROVEDENA -
-zatraženo produženje roka
-Potrebno je vršiti pravodobno prisilnu naplatu prihoda od kazni. – NIJE
-PROVEDENA - zatraženo produženje roka
-- Revizija br.4/20: Izvršavanje financijskih planova kod proračunskog korisnika u
-kulturi – Gradsko kazalište lutaka Split
+- Potrebno je da trgovačko društvo Promet d.o.o. dostavi Gradu sve zahtjeve za
+    pokretanje prekršajnog postupka za kazne u 2019. g. i 2020. g te da ubuduće iste
+    dostavlja protekom svakog kvartala (svaka tri mjeseca) kako bi se ubrzala obrada
+    predmeta, osiguralo pravodobno izdavanje Obaveznih prekršajnih naloga i otklonila
+    mogućnost zastare. - PROVEDENA
+- Potrebno je pravodobno provoditi prekršajni postupak i osigurati pravodobno
+    izdavanje Obaveznih prekršajnih naloga unutar propisanih zastarnih rokova, kako
+    bi se mogla vršiti prisilna naplata pravodobno. – NIJE PROVEDENA - zatraženo
+    produženje roka
+- Potrebno je izvršiti integraciju za ovu vrstu prihoda između Produkcije i Libusofta te
+    obavljanje ovog poslovnog procesa te omogućiti službenicima Upravnog odjela za
+    komunalno gospodarstvo, redarstvo i mjesnu samoupravu (zaduživanje, praćenje
+    naplate po OPN-u) ubuduće unutar Libusofta. Do integracije potrebno je osigurati
+    pravodobnu naplatu prihoda u aplikaciji Produkcija. – NIJE PROVEDENA -
+    zatraženo produženje roka
+- Potrebno je unutar Upravnog odjela za komunalno gospodarstvo, redarstvo i
+    mjesnu samoupravu predvidjeti poslove izdavanja općeg prekršajnog naloga i
+    praćenje prekršajnog postupka na način da je za te poslove odgovoran službenik
+    pravne struke s odgovarajućim radnim stažem u struci. – NIJE PROVEDENA -
+    zatraženo produženje roka
+- Potrebno je vršiti pravodobno prisilnu naplatu prihoda od kazni. – NIJE
+    PROVEDENA - zatraženo produženje roka
+**- Revizija br.4/20: Izvršavanje financijskih planova kod proračunskog korisnika u**
+kulturi **– Gradsko kazalište lutaka Split**
+
 Revizijski tim je temeljem obavljenog pregleda dokumentacije utvrdio da Ustanova postupa u
 skladu s važećim zakonskim propisima pri sastavljanju financijskih izvješća. Postojeći sustav
 unutarnjih kontrola u procesu izvršavanje financijskih planova je zadovoljavajući, uključujući
 
+
 sustav kontrola u računovodstvu i procesima nabave, te nije bilo potrebe za davanjem
 preporuka.
 
-- Revizija br.5/20: Trgovačka društva u vlasništvu Grada Splita - Splitska obala
+**- Revizija br.5/20: Trgovačka društva u vlasništvu Grada Splita** - Splitska obala
 d.o.o.
 
 Preporuke:
 
-Potrebno je pri provođenju postupaka javne nabave razdvojiti funkcije
-pripreme teh. specifikacije nabave (izrada troškovnika i sl.) i praćenja
-realizacije ugovora po provedenim nabavama kako bi s povećala
-transparentnost procesa. –PROVEDENA
-Potrebno je u ugovore po provedenim nabavama imenovati osobe zadužene za
-praćenje realizacije na strani naručitelja. – PROVEDENA
-- Revizija br.6/20: Trgovačka društva u vlasništvu Grada Splita - SPALATUM
-D.M.C. d.o.o. turistička agencija
+- Potrebno je pri provođenju postupaka javne nabave razdvojiti funkcije
+    pripreme teh. specifikacije nabave (izrada troškovnika i sl.) i praćenja
+    realizacije ugovora po provedenim nabavama kako bi s povećala
+    transparentnost procesa. –PROVEDENA
+- Potrebno je u ugovore po provedenim nabavama imenovati osobe zadužene za
+    praćenje realizacije na strani naručitelja. – PROVEDENA
+**- Revizija br.6/20: Trgovačka društva u vlasništvu Grada Splita** - SPALATUM
+**D.M.C. d.o.o. turistička agencija**
+
 Revizijski tim je temeljem obavljenog pregleda dokumentacije i izvršenih intervjua utvrdio da
 Društvo postupa u cijelosti u skladu s važećim zakonskim propisima pri sastavljanju
 financijskih izvješća. Postojeći sustav unutarnjih kontrola u procesu je zadovoljavajući. Sustav
@@ -2315,15 +2638,16 @@ knjige i vršenje transakcija.
 
 Preporuke:
 
-Potrebno je omogućiti praćenje plaćanja od podnošenja zahtjeva, ovjere pa do
-provedbe plaćanja, uz prikaz koliko sredstava je predviđeno ugovorom, koliko
-je potrošeno izvršenim plaćanjima i koliko je sredstava preostalo po ugovoru,
-integriranjem aplikacije e-račun u modul Spin aplikacije e-gop kako bi se
-osiguralo postojanje revizijskog traga. – NIJE PROVEDENA-zatraženo
-produženje roka do 01.01.2022.g.
-Službi za unutarnju reviziju potrebno je omogućiti rad u svim aplikacijama–NIJE
-PROVEDENA-zatraženo produženje roka do 01.01.2022.g.
-godina
+- Potrebno je omogućiti praćenje plaćanja od podnošenja zahtjeva, ovjere pa do
+    provedbe plaćanja, uz prikaz koliko sredstava je predviđeno ugovorom, koliko
+    je potrošeno izvršenim plaćanjima i koliko je sredstava preostalo po ugovoru,
+    integriranjem aplikacije e-račun u modul Spin aplikacije e-gop kako bi se
+    osiguralo postojanje revizijskog traga. – NIJE PROVEDENA-zatraženo
+    produženje roka do 01.01.2022.g.
+- Službi za unutarnju reviziju potrebno je omogućiti rad u svim aplikacijama–NIJE
+    PROVEDENA-zatraženo produženje roka do 01.01.2022.g.
+- 2021. godina
+
 U 202 1. godini Služba za unutarnju reviziju pokrenula je pet revizija prema terminskom planu
 Godišnjeg plana Službe za unutarnju reviziju za 202 1. g. i uputi Ministarstva financija da se
 revizije provode prema dostupnosti revidiranih subjekata uslijed korona krize.
@@ -2331,7 +2655,9 @@ revizije provode prema dostupnosti revidiranih subjekata uslijed korona krize.
 U nastavku se navode sve pokrenute pojedinačne revizije prema Godišnjem planu rada
 unutarnje revizije za 202 1. godinu s navođenjem faze u obavljanju pojedinačne revizije:
 
-R1/2021 - Plaćanja obveza s računa Grada (po nalogu Vlade RH za 2020.g.)
+
+- R1/2021 - **Plaćanja obveza s računa Grada** (po nalogu Vlade RH za 2020.g.)
+
 Revizija je pokrenuta 19. veljače 2021. g. Upućena je obavijest o pokretanju revizije pročelnici
 po ovlaštenju Upravnog odjela za financijsko upravljanje i kontroling te je zatražena
 dokumentacija za testiranje plaćanja u 2020. godini. Završena je faza pripremne aktivnosti i
@@ -2340,8 +2666,9 @@ preliminarnu procjenu rizika te izradu Plana i programa obavljanja pojedinačne 
 dostava kompletne dokumentacije od Upravnog odjela za financijsko upravljanje i kontroling
 za testiranje kako bi se provela faza procjene sustava unutarnjih kontrola.
 
-R2/2021 - Upravljanje i raspolaganje nogometnim stadionima i igralištima (po
-nalogu Državnog ureda za revi ziju za 2020.g.)
+- R2/2021 **- Upravljanje i raspolaganje nogometnim stadionima i igralištima (po**
+    **nalogu Državnog ureda za revi** ziju za 2020.g.)
+
 Revizija je pokrenuta 19. veljače 2021. g. Upućena je obavijest o pokretanju revizije pročelniku
 Službe za društvene djelatnosti te je zatraženo određivanje kontakt osobe. Dana 24. ožujka
 zatražena je od Voditelja odsjeka za sport dokumentacija za testiranje i informacije za reviziju.
@@ -2351,20 +2678,23 @@ obavljanja pojedinačne revizije. Dokumentacija je dostavljena 14.05.2021. g. te
 faza procjene sustava unutarnjih kontrola i izrađen je nacrt revizijskog izvješća koji je
 dostavljen revidiranom subjektu na očitovanje.
 
-R3/2021 - Revizija upravljanja i raspolaganja nekretninama Grada (po nalogu
-Vlade RH za 2021.g.)
+- R3/2021 - Revizija upravljanja i raspolaganja nekretninama Grada (po nalogu
+    Vlade RH za 2021.g.)
+
 Revizija je fazi pripremne aktivnosti i preliminarne procjene rizika koja uključuje prikupljanje
 informacija o procesu koji se revidira analizom dokumentacije, analizom raspoloživih baza
 podataka i informacijskih sustava, održavanjem preliminarnih sastanaka, utvrđivanjem opisa
 procesa i kontrolnih točaka te usporedbe sa objavljenim poslovnim procesima iz Mape
 proslovnih procesa.
 
-R4/2021 - Komunalni doprinos
+- R4/2021 - Komunalni doprinos
+
 Revizija je pokrenuta 15.04.2021.g. Revidirani subjekti su dostavili svu zatraženu
 dokumentaciju za testiranje na vrijeme. Revizija je fazi izvještavanja o rezultatima o provedenoj
 reviziji. Izrađen je Nacrt revizijskog izvješća i dostavljen revidiranim subjektima na očitovanje.
 
-R5/2021 - Jednostavne n abave u proračunskim korisnicima –Osnovne škole
+- R5/2021 - Jednostavne n **abave u proračunskim korisnicima –Osnovne škole**
+
 Revizija je fazi pripremne aktivnosti i preliminarne procjene rizika koja uključuje prikupljanje
 informacija o procesu koji se revidira analizom dokumentacije, analizom raspoloživih baza
 podataka i informacijskih sustava, održavanjem preliminarnih sastanaka, utvrđivanjem opisa
@@ -2372,7 +2702,9 @@ procesa i kontrolnih točaka. Dana 28.04.2021.g. kontakt osoba određena od pro�
 Službe za društvenu djelatnost zatražila je dostavu potrebne dokumentacije za prvu fazu
 provođenja ove revizije od osnovnih škola.
 
-REKAPITULACIJA:
+
+###### REKAPITULACIJA:
+
 2017.g. - 5 provedenih revizija;
 
 2018.g. - 10 provedenih revizija (9 prema Planu i 1 ''ad hoc'');
@@ -2383,16 +2715,23 @@ REKAPITULACIJA:
 
 2021.g. - 5 revizija u tijeku.
 
-PROČELNICA
+###### PROČELNICA
+
+```
 Alma Peroš
-SLUŽBA ZA DRUŠTVENE DJELATNOSTI
+```
+
+###### SLUŽBA ZA DRUŠTVENE DJELATNOSTI
+
 Odsjek za prosvjetu i tehničku kulturu
 
 U mandatnom razdoblju od 2017. - 2021. godine realizirani su slijedeći projekti:
 
-PREDŠKOLSKI ODGOJ
-EU PROJEKTI - Unaprjeđenje usluga za djecu u sustavu ranog i predškolskog odgoja
+###### PREDŠKOLSKI ODGOJ
+
+- EU PROJEKTI - **Unaprjeđenje usluga za djecu u sustavu ranog i predškolskog odgoja**
 i obrazovanja (ukupna vrijednost realiziranih sredstava: 27.723.236,14 kuna)
+
 (razdoblje provedbe : 04.09.2018. – 04.01.2021.)
 
 Projekt: VRTIĆ PO MJERI SUVREMENE OBITELJI 1 (od 04.09.2018. – 04.01.2021.)
@@ -2405,50 +2744,56 @@ Projekt: VRTIĆ PO MJERI SUVREMENE OBITELJI 2 (od 04.09.2018. – 04.01.2021.)
 Iznos sufinanciran od strane EU: 13.971.799,92 kn (100%)
 Nositelj: DV Cvit Mediterana / Partneri: DV Grigor Vitez i Grad Split
 
-PROJEKT ULAGANJA U OBJEKTE DJEČJIH VRTIĆA - za realizaciju odobrenih
+- 2018. - **PROJEKT ULAGANJA U OBJEKTE DJEČJIH VRTIĆA** - za realizaciju odobrenih
 projekata za sanaciju objekata dječjih vrtića Gradu Splitu isplaćen je iznos od 1.175.830 kuna
 od ukupno 1.333.952 kuna odobrenih sredstava.
-2018.g. - NATJEČAJ HEP OPSKRBE "ZelEN" - za energetsku obnovu Dječjeg vrtića
+- 2018.g. - **NATJEČAJ HEP OPSKRBE "ZelEN"** - za energetsku obnovu Dječjeg vrtića
 Morski konjić u Slatinama Gradu Splitu su odobrena bespovratna sredstva u iznosu
 560.000,00 kuna.
-2018.g. - SANACIJA OBJEKATA DJEČJIH VRTIĆA - sredstvima grada Splita - u
+- 2018.g. - **SANACIJA OBJEKATA DJEČJIH VRTIĆA** - sredstvima grada Splita - u
 ustanovama predškolskog odgoja u vlasništvu Grada Splita izvršeni su radovi sanacije
 objekata i iznosu od 2.631.697,52 kuna.
-2019.g. - PLINOFIKACIJA DV MALI PRINC - Početkom 2019. godine na gradski plin spojen
+- 2019.g. - PLINOFIKACIJA DV MALI PRINC - Početkom 2019. godine na gradski plin spojen
 je prvi dječji vrtić u Splitu, DV Mali princ ukupne vrijednosti radova 312.432,50 kuna.
-REKONSTRUKCIJA I DOGRADNJA DV RUŽMARIN (realizacija 2019.-2021.) - vrijednost
+- **REKONSTRUKCIJA I DOGRADNJA DV RUŽMARIN** (realizacija 2019.-2021.) - vrijednost
 investicije 23.000.000,00 kuna.
-DV MASLINA - KILA - (realizacija 2019.-2020.) vrijednost investicije je 9.300.000,00 kuna.
+- DV MASLINA - KILA - (realizacija 2019.-2020.) vrijednost investicije je 9.300.000,00 kuna.
+
 Novi Dječji vrtić Maslina je od početka nove pedagoške 2020./2021. godine započeo s radom
 u 2 jasličke i 2 vrtićke skupine.
 
-ENERGETSKA OBNOVA DV LATICA - 2020.- Ukupna vrijednost radova energetske
-obnove DV Latica je 852.926,25 kuna s PDV-om.
-2020.g. IZJEDNAČAVANJE CIJENA GRADSKIH I PRIVATNIH i VJERSKIH DJEČJIH
-VRTIĆA NA PODRUČJU GRADA SPLITA
-Gradsko Vijeće Grada Splita u svibnju 2020. godine usvojilo je Odluku o načinu i
-uvjetima sufinanciranja programa dječjih vrtića u vlasništvu fizičkih osoba, udruga i
-vjerskih zajednica na području Grada Splita.
 
-OSNOVNO ŠKOLSTVO
-EU PROJEKT „S pomoćnikom mogu bolje III”
+- ENERGETSKA OBNOVA DV LATICA - 2020.- Ukupna vrijednost radova energetske
+obnove DV Latica je 852.926,25 kuna s PDV-om.
+- **2020.g. IZJEDNAČAVANJE CIJENA GRADSKIH I PRIVATNIH i VJERSKIH DJEČJIH
+VRTIĆA NA PODRUČJU GRADA** SPLITA
+
+Gradsko Vijeće Grada Splita u svibnju 2020. godine usvojilo je **Odluku o načinu i
+uvjetima sufinanciranja programa dječjih vrtića u vlasništvu fizičkih osoba, udruga i**
+vjerskih zajednica **na području Grada Splita.**
+
+###### OSNOVNO ŠKOLSTVO
+
+- **EU PROJEKT „S pomoćnikom mogu bolje III”**
+
 (početak realizacije 01.08.2017)
 
-Program: Osiguravanje pomoćnika u nastavi i stručnih komunikacijskih posrednika
-učenicima s teškoćama u razvoju u osnovnoškolskim i srednjoškolskim odgojno -
+Program: **Osiguravanje pomoćnika u nastavi i stručnih komunikacijskih posrednika
+učenicima s teškoćama u razvoju u osnovnoškolskim i srednjoškolskim odgojno** -
 obrazovnim ustanovama, faza III
 
-Aplikant (glavni partner): Grad Split
-Partneri: 25 osnovnih škola Grada Splita
-Trajanje projekta: 01.08.2017.-31.07.2021. (48 mjeseci)
-Ukupni budžet: 16.308.648,00 (HRK)
-Projektni budžet Grada Splita: 10.000.000,00 (HRK)
-Bespovratna sredstva: 61,32%
-Aktivnosti:
-U šk. god. 2018./2019. osigurana potpora 133 pomoćnika u nastavi za 152 učenika s
+- Aplikant (glavni partner): Grad Split
+- Partneri: 25 osnovnih škola Grada Splita
+- Trajanje projekta: 01.08.2017.-31.07.2021. (48 mjeseci)
+- Ukupni budžet: 16.308.648,00 (HRK)
+- Projektni budžet Grada Splita: 10.000.000,00 (HRK)
+- Bespovratna sredstva: 61,32%
+- Aktivnosti:
+- U šk. god. 2018./2019. osigurana potpora 133 pomoćnika u nastavi za 152 učenika s
 teškoćama u razvoju u osnovnoškolskim odgojno-obrazovnim ustanovama Grada Splita, a sve
 u cilju poboljšanja njihovih obrazovnih postignuća, socijalne integracije, emocionalnog
 funkcioniranja, osamostaljenja, razvijanja osjećaja pripadnosti i samopoštovanja;
+
 Prijava projekta „S pomoćnikom mogu bolje III” za sufinanciranje iz sredstava Fonda za
 sufinanciranje provedbe EU projekata na regionalnoj i lokalnoj razini
 
@@ -2456,71 +2801,84 @@ Aplikant (glavni partner): Grad Split
 
 Odobrena sredstva: 3.785.188,80 kn
 
-U šk.god. 2019./2020. osigurana je potpora 127 pomoćnika u nastavi i 4 stručno
+- U šk.god. 2019./2020. osigurana je potpora 127 pomoćnika u nastavi i 4 stručno
 komunikacijska posrednika za 154 učenika s teškoćama u razvoju,
-U šk.god. 2020./2021. u osnovnim školama Grada Splita osigurana je potpora 136 pomoćnika
+- U šk.god. 2020./2021. u osnovnim školama Grada Splita osigurana je potpora 136 pomoćnika
 u nastavi i 4 stručno komunikacijska posrednika za 162 učenika s teškoćama u razvoju.
-POMOĆNICI U NASTAVI - Sredstva Grada Splita
+
+**POMOĆNICI U NASTAVI** - Sredstva Grada Splita
 
 U skladu sa svojim proračunskim mogućnostima i idejom inkluzivnog obrazovanja Grad Split
 financira pomoćnike u nastavi za učenike s teškoćama koji nisu ispunili uvjete za uključivanje
 u EU projekt, a pomoćnik im je sukladno odluci Povjerenstva za utvrđivanje kriterija za
 angažiranje suradnika u odgojno-obrazovnom radu potreban.
 
+
 Za ovu namjenu iz Proračuna Grada Splita izdvojena su sredstva od 2017.-2020. u iznosu od
 5.529.994 kuna.
 
-Redovito i kapitalno održavanje OŠ (2017. - 2020.) – realizacija u iznosu od 19.469.022
+- Redovito **i kapitalno održavanje OŠ (2017.** - 2020.) **–** realizacija u iznosu od 19.469.022
 kuna
-Nabava namještaja, računalne i ostale opreme za OŠ (2017.-2020.) – realizacija u iznosu
+- **Nabava namještaja, računalne i** ostale opreme **za OŠ** (2017.-2020.) **–** realizacija u iznosu
 od 3.327.687 kuna
-IZGRADNJA OŠ ŽNJAN PAZDIGRAD (2017.g.)
+- **IZGRADNJA OŠ ŽNJAN PAZDIGRAD** (2017.g.)
+
 Prva nova osnovna škola sagrađena nakon 25 godina u Splitu je u rujnu 2017. g. otvorila vrata
 i projektirana je za ukupno 780 učenika u dvosmjenskom izvođenju nastave.
 Nositelj investicije: Grad Split
-Ukupni budžet: 130.000.000 (HRK)
-Budžet Grada S plita: 100.000.000 (HRK)
+**Ukupni budžet:** 130.000.000 (HRK)
+**Budžet Grada S** plita: 100.000.000 (HRK)
 Bespovratna sredstva (MZO): 30.000.000 (HRK)
 
-REKONSTRUKCIJA I DOGRADNJA OŠ PUJANKI (2018.g.- 2020.)
+- **REKONSTRUKCIJA I DOGRADNJA OŠ PUJANKI** (2018.g.- 2020.)
+
 U svibnju 2018.g započeli radovi na dogradnji i rekonstrukciji čime je Osnovna škola Pujanki
 dobila 8 novih učionica, 2 sobe za produženi boravak, 4 kabineta, blagovaonicu, kuhinju kao i
 natkriveno parkiralište i školsko igralište.
 Nositelj investicije: Grad Split
-Ukupni budžet: 33.500.000,00 kuna
+**Ukupni budžet:** 33.500.000,00 kuna
 
-DOGRADNJA OŠ MEJAŠI (2018.g.- 2019.g.)
+- **DOGRADNJA OŠ MEJAŠI** (2018.g.- 2019.g.)
+
 U studenom 2018.g započeli su radovi na dogradnji škole koji su završeni već šest mjeseci
 kasnije čime je Osnovna škola Mejaši dobila tri nove učionice, dva kabineta te pomoćne
 prostorije na dodatnih 360 metara četvornih površine.
 Nositelj investicije: Grad Split
-Ukupni budžet: 3.054.315,64 kuna
+**Ukupni budžet:** 3.054.315,64 kuna
 
-- DOGRADNJA OŠ KAMEN ŠINE (2019.)
+###### - DOGRADNJA OŠ KAMEN ŠINE (2019.)
+
 Kako bi se riješili prostorni problemi Osnovne škole Kamen-Šine te omogućio prelazak sa rada
 u tri smjene na rad u dvije smjene, bilo je nužno izvršiti rekonstrukciju i dogradnju OŠ Kamen
 Šine. Dograđeno je istočno krilo školske zgrade s 8 novih učionica, kuhinjom i blagovaonicom
 za program produženog boravka i školsko košarkaško igralište.
 Nositelj investicije: Grad Split
-Ukupni budžet: 23.763.740,00 kuna
+**Ukupni budžet:** 23.763.740,00 kuna
 
-PLINOFIKACIJA OSNOVNIH ŠKOLA - (2019.)na gradski plin spojene su OŠ Ravne Njive –
+- **PLINOFIKACIJA OSNOVNIH ŠKOLA** - (2019.)na gradski plin spojene su OŠ Ravne Njive –
 Neslanovac i OŠ Plokite, ukupna vrijednost investicija 540 .9 54 , 53 kuna.
-- UREĐENJE PROSTORA CENTRA ZA AUTIZAM (2020.)
+
+
+###### - UREĐENJE PROSTORA CENTRA ZA AUTIZAM (2020.)
+
 Prostori Centra za autizam Split koji radi na tri lokacije (Rendićeva 6, Fra Bonina 8 i Ulica 7.
 Kaštela 8) su rekonstruirani, a vrijednost investicija je ukupno 3.225.000,00 kuna.
 
-2020.- UREĐENJE KNJIŽNICE, MULTIM.CENTRA I PARK.OŠ BRDA
+###### 2020.- UREĐENJE KNJIŽNICE, MULTIM.CENTRA I PARK.OŠ BRDA
+
 Rekonstrukcijom OŠ Brda je uređena knjižnica, multimedijalni centar i školsko parkiralište, a
 ukupna vrijednost investicije je 4.600.000,00 kuna.
 
-- OPREMANJE PAMETNIH UČIONICA
-godina: korišteno je ukupno 995.580,00 kn za opremanje 28 osnovnih škola pametnim
+###### - OPREMANJE PAMETNIH UČIONICA
+
+2018. godina: korišteno je ukupno 995.580,00 kn za opremanje 28 osnovnih škola pametnim
 pločama i drugim interaktivnim sredstvima
 U 2019. i 2020. godini za opremanje pametnih učionica u proračunu Grada Splita osigurana
 su sredstva u visinu od po 1.000.000,00 kn koja su namjenski korištena za opremanje 29
 osnovnoškolskih ustanova pametnim pločama i drugim interaktivnim sredstvima.
-NABAVKA UDŽBENIKA I D RUGIH OBRAZOVNIH MATERIJALA
+
+###### NABAVKA UDŽBENIKA I D RUGIH OBRAZOVNIH MATERIJALA
+
 U 2017. godini za sufinanciranje udžbenika i dopunskih nastavnih pomagala za 3.927 učenika
 osnovnih škola s prebivalištem na području Grada Splita izdvojeno je 1.958.500,00 kuna.
 U 2018. godini za sufinanciranje udžbenika i dopunskih nastavnih pomagala za 13.700 učenika
@@ -2532,7 +2890,8 @@ U 2020. godini za kupnju drugih obrazovnih materijala za 13521 učenika osnovnih
 Splita i za 97 učenika s prebivalištem na području Grada Splita koji su upisani u OŠ Vjekoslava
 Paraća u Solinu iz proračuna je korišteno 5.000.000,00 kuna.
 
-SUFINANCIRANJE PRODUŽENOG BORAVKA I CJELODNEVNE NASTAVE
+###### SUFINANCIRANJE PRODUŽENOG BORAVKA I CJELODNEVNE NASTAVE
+
 2018./2019. - Zaključkom o sufinanciranju produženog boravka i cjelodnevne nastave u
 osnovnim školama MEJE, SPINUT, MANUŠ, SPLIT 3, POJIŠAN, RAVNE NJIVE, DOBRI i
 ŽNJAN-PAZDIGRAD sredstvima proračuna Grada Splita za školsku godinu 2018./2019.g.
@@ -2545,45 +2904,52 @@ PAZDIGRAD, OŠ BOL, KAMEN –ŠINE, KMAN-KOCUNAR, OŠ PUJANKI, SKALICE, a od
 školske 2021./2022. godine i u OŠ LOKVE – GRIPE.
 U Proračunu grada Splita za 2021. godinu planiran je iznos od 6.756.500,00 kuna
 
-STIPENDIRANJE NADARENIH UČENIKA I STUDENATA
+
+###### STIPENDIRANJE NADARENIH UČENIKA I STUDENATA
+
 Grad Split je u 2017. godini financirao nadarene učenike i studente s ukupno 2.105.618,50 kn,
 u 2018.g. iznos financijskih sredstava za stipendije je porastao na 3.420.895,78 kn, u 2019.
 g. proračunom je osigurano 3.800.000,00 kn,u 2020.g. 3.800.000 kuna, a u 2021. G. 3.900.000
 kuna.
 
-PROJEKTI U TIJEKU I PROJEKTI KOJE TREBA REALIZIRATI:
-OSNOVNO ŠKOLSTVO
-Kapitalna ulaganja u objekte – decentralizirana sredstva:
-Plan ulaganja za 2021.- u izradi
-Projekti koji su u tijeku:
-Sanacija male športske dvorane OŠ Brda,
-Rekonstrukcija i opremanje dvije učionice u OŠ Spinut,
-Izgradnja pješačkog prilaza sa sjeverne strane OŠ Skalice,
-Zamjena rasvjetnih tijela na prvom katu OŠ Lokve-Gripe)
-realizacija projekta Uređenje dvorišta OŠ Srinjine
-Rekonstrukcija hidrantske mreže OŠ Spinut
-Ugovorena je do kraja 2021. godine usluga tehničke zaštite svih osnovnoškolskih
-ustanova Grada Splita
-U postupku ugovaranja su radovi uređenja zelene površine u okolišu OŠ Mejaši
-Potrebno je ugovoriti uslugu organiziranog prijevoza učenika OŠ Žrnovnica, OŠ
-Srinjine, OŠ Mejaši i OŠ Ravne njive-Neslanovac za slijedeću školsku godinu
-Potrebno je pokrenuti postupke nabave projektne dokumentacije za nadogradnju OŠ
-Ravne njive-Neslanovac
-Potrebno je riješiti pitanje zemljišta za projekt Izgradnja OŠ Centar za autizam.
-Stipendiranje učenika i studenata - za akademsku godinu 2021./2022. natječaj u
-listopadu 2021.g.
-Sufinanciranje produženog boravka u 17 osnovnih škola - nastavak projekta
-Nabavka udžbenika i pribora - sredstva planirana u proračunu 5.000.000 kuna –
-realizacija lipanj-rujan 2021.g.
-ENERGETSKE OBNOVE OSNOVNIH ŠKOLA - u tijeku
+###### PROJEKTI U TIJEKU I PROJEKTI KOJE TREBA REALIZIRATI:
 
-Energetska obnova Osnovne škole POJIŠAN – izvođenje radova u periodu nakon
+###### OSNOVNO ŠKOLSTVO
+
+- Kapitalna ulaganja u objekte **–** decentralizirana sredstva:
+    Plan ulaganja za 2021.- u izradi
+- Projekti koji su u tijeku:
+    - Sanacija male športske dvorane OŠ Brda,
+    - Rekonstrukcija i opremanje dvije učionice u OŠ Spinut,
+    - Izgradnja pješačkog prilaza sa sjeverne strane OŠ Skalice,
+    - Zamjena rasvjetnih tijela na prvom katu OŠ Lokve-Gripe)
+    - realizacija projekta Uređenje dvorišta OŠ Srinjine
+    - Rekonstrukcija hidrantske mreže OŠ Spinut
+- Ugovorena je do kraja 2021. godine usluga tehničke zaštite svih osnovnoškolskih
+    ustanova Grada Splita
+- U postupku ugovaranja su radovi uređenja zelene površine u okolišu OŠ Mejaši
+- Potrebno je ugovoriti uslugu organiziranog prijevoza učenika OŠ Žrnovnica, OŠ
+    Srinjine, OŠ Mejaši i OŠ Ravne njive-Neslanovac za slijedeću školsku godinu
+- Potrebno je pokrenuti postupke nabave projektne dokumentacije za nadogradnju OŠ
+    Ravne njive-Neslanovac
+- Potrebno je riješiti pitanje zemljišta za projekt Izgradnja OŠ Centar za autizam.
+- **Stipendiranje učenika i studenata** - za akademsku godinu 2021./2022. natječaj u
+    listopadu 2021.g.
+- **Sufinanciranje produženog boravka u 17 osnovnih škola** - nastavak projekta
+- **Nabavka udžbenika i pribora** - sredstva planirana u proračunu 5.000.000 kuna –
+    realizacija lipanj-rujan 2021.g.
+
+
+**ENERGETSKE OBNOVE OSNOVNIH ŠKOLA** - u tijeku
+
+2021. Energetska obnova **Osnovne škole POJIŠAN** – izvođenje radova u periodu nakon
 završetka nastave, lipanj-rujan 2021. godine. Za izvođenje radova u Proračunu za 2021.
 planiran je iznos od 8.400.000,00 kn.
-Energetska obnova Osnovne škole MERTOJAK – izvođenje radova u periodu nakon
+2021. Energetska obnova **Osnovne škole MERTOJAK** – izvođenje radova u periodu nakon
 završetka nastave, lipanj-rujan 2021. godine. Za izvođenje radova u Proračunu za 2021.
 planiran je iznos od 5.100.000,00 kn.
-2021.g EU PROJEKT „S pomoćnikom mogu bolje III” - u tijeku
+
+2021.g **EU PROJEKT „S pomoćnikom mogu bolje III”** - u tijeku
 
 (realizacija od 01.08.2017.-31.07.2021. - 48 mjeseci)
 
@@ -2591,25 +2957,27 @@ PROGRAM: Osiguravanje pomoćnika u nastavi i stručnih komunikacijskih posrednik
 učenicima s teškoćama u razvoju u osnovnoškolskim i srednjoškolskim odgojno-obrazovnim
 ustanovama, faza IV
 
-2021.g. POM OĆNICI U NASTAVI - SREDSTVA GRADA SPLITA- u tijeku
+2021.g. POM **OĆNICI U NASTAVI** - SREDSTVA GRADA SPLITA- u tijeku
 
 U skladu sa svojim proračunskim mogućnostima i idejom inkluzivnog obrazovanja Grad Split
 financira pomoćnike u nastavi za učenike s teškoćama koji nisu ispunili uvjete za uključivanje
 u EU projekt, a pomoćnik im je sukladno odluci Povjerenstva za utvrđivanje kriterija za
 angažiranje suradnika u odgojno-obrazovnom radu potreban.
 
-PREDŠKOLSKI ODGOJ
-ENERGETSKA OBNOVA DV MANDALINA – u tijeku
+###### PREDŠKOLSKI ODGOJ
+
+ENERGETSKA OBNOVA DV MANDALINA **–** u tijeku
 
 2021 .- očekivani rok dovršetka radova je kolovoz 2021. godine. Za izvođenje radova u
 Proračunu za 2021. planiran iznos od 2.200.000,00 kn.
 
-2021.g. IZGRADNJA DV PUJANKI – potrebno je započeti postupak izrade projektne
+2021.g. IZGRADNJA DV PUJANKI **–** potrebno je započeti postupak izrade projektne
 dokumentacije, a u Proračunu Grada Splita planiran je iznos od 680.000 kuna.
 
-2021.g. IZJE DNAČAVANJE CIJENA GRADSKIH I PRIVATNIH i VJERSKIH DJEČJIH
-VRTIĆA NA PODRUČJU GRADA SPLITA – za navedenu namjenu planiran je iznos od
+2021.g. IZJE **DNAČAVANJE CIJENA GRADSKIH I PRIVATNIH i VJERSKIH DJEČJIH
+VRTIĆA NA PODRUČJU GRADA SPLITA –** za navedenu namjenu planiran je iznos od
 34.440.000 kuna- projekt se realizira
+
 
 Odsjek za kulturu
 
@@ -2620,6 +2988,7 @@ neprofitnih organizacija i pojedinaca.
 
 Služba je u izvještajnom razdoblju provodila veliki broj projekata, od kojih ističemo:
 
+```
  Uređenje Koncertne dvorane/Hrvatski dom u Tončićevoj 1 – projekt je uspješno
 priveden kraju i dvorana je dodijeljena na upravljanje ustanovi Hrvatski dom Split,
 svečano otvaranje održano je 19. 12. 2020.;
@@ -2634,6 +3003,7 @@ izložbe „Judita 500“ koja je otvorena 6. svibnja 2021., nakon čega Služba
 preuzima upravljanje Vijećnicom.
  Riješeni su imovinsko-pravni problemi oko Dioklecijanovih podruma, te je Ministarstvo
 kulture i medija RH dodijelilo Podrume Gradu Splitu na upravljanje.
+```
 Ustanove u kulturi Grada Splita poslovale su sukladno svojim financijskim i programskim
 planovima, a 2020. godine su se susrele i uspješno se nosile s pandemijom Covida-19.
 
@@ -2660,6 +3030,7 @@ koje je potrebno napraviti predprodukciju. Snimljeno je pet filmova od koji je j
 popularnoj igri s lopticom po kojoj je poznata ne samo plaža Bačvice, nego i Split. Očekuje se
 nastavak radova na novom stalnom postavu muzeja.
 
+
 Galerija umjetnina kao specijalizirani umjetnički muzej s područjem djelovanja u vizualnim
 umjetnostima, uz stalni postav zbirke koja obuhvaća raspon od 14. stoljeća do današnje
 produkcije, u svoja dva izložbena prostora i atriju muzeja organizira dinamičnu izmjenu
@@ -2676,7 +3047,7 @@ urbanističkog i krajobraznog rješenja dogradnje III. faze Galerije umjetnina, 
 realizacija natječaja u organizaciji Grada Splita i DAS-a, no uslijed pandemije nije realiziran te
 ga je potrebno ponovo aktualizirati.
 
-Prirodoslovni muzej i Zoološki vr t prvenstveno se bavi sabiranjem, zaštitom, istraživanjem,
+**Prirodoslovni muzej i Zoološki vr** t prvenstveno se bavi sabiranjem, zaštitom, istraživanjem,
 izlaganjem te stručnom i znanstvenom obradom faunističkog, botaničkog, geološko-
 paleontološkog i mineraloškog materijala, prvenstveno iz Dalmacije – kao i trajnom zaštitom
 muzejske građe, muzejske dokumentacije, muzejskih lokaliteta i nalazišta, te njihovom
@@ -2706,7 +3077,8 @@ privremenim prostorijama koje prvenstveno služe za skupljanje i obradu muzejske
 Muzej nema stalni ni privremeni postav, Muzej nema posjetitelja. Planirano je pronaći novi
 prostor u kojem bi se smjestio Muzej te početi s izradom stalnog postava u tom prostoru.
 
-Hrvatsko narodno kazalište Split je za svoje operne, baletne i dramske programe u 2017.
+
+**Hrvatsko narodno kazalište Split** je za svoje operne, baletne i dramske programe u 2017.
 godini imalo 73.542 gledatelja, u 2018. godini 74.588 gledatelja, a u 2019. godini 75.642
 gledatelja. Dakle uzlazni trend je jasno vidljiv do pandemijske 2020. godine kada bilježimo
 31.156 gledatelja, a u ovoj godini do danas otprilike 2.000 gledatelja, koja brojka bi bila puno
@@ -2743,7 +3115,7 @@ rasteretilo preopterećenost velike scene HNK Split trima umjetničkim ansamblim
 postojećem idejnom rješenju trebalo bi sprovesti izradu glavnog i izvedbenog projekta te
 pristupiti realizaciji izgradnje.
 
-Gradsko kazalište lutaka Osnovna djelatnost Gradskog kazališta lutaka Split je umjetničko i
+**Gradsko kazalište lutaka** Osnovna djelatnost Gradskog kazališta lutaka Split je umjetničko i
 književno stvaralaštvo i izvođenje lutkarskih i drugih scenskih djela, te organiziranje gostovanja
 drugih kazališta i festivala. Osim programa u Splitu, GKL nastupa u brojnim manjim mjestima
 u našoj županiji, a važno je naglasiti kako je dobitnik brojnih nagrada za svoj rad. U
@@ -2754,8 +3126,9 @@ projektnog zadatka za projekt osiguranja pristupa gledalištu osobama sa smanjen
 pokretljivošću. Potrebno je osigurati prostor za izradu scenografije i lutaka, kao i prostorije za
 probe, budući GKL ne raspolaže niti jednom pomoćnom prostorijom.
 
-Gradsko kazalište mladih javna je ustanova u kulturi Grada Splita koja 2023. godine slavi
+**Gradsko kazalište mladih** javna je ustanova u kulturi Grada Splita koja 2023. godine slavi
 80 godina postojanja. Osnovna djelatnost ustanove jest kazališna, no unutar svog rada
+
 
 Kazalište organizira i pedagoški rad s djecom i mladima kroz Dječji dramski studio te
 Dramski studio za mladež. U izvještajnom periodu, uz ostvarene sve kazališne predstave,
@@ -2779,7 +3152,7 @@ u publici je bilo 2.000 posjetitelja. Svi sadržaji su producirani u prijenosu u
 kanala i FB stranice, gdje je bilo 13.000 on-line posjetitelja. Za prvu sezonu prosjek iznosi 2,37
 događaja tjedno.
 
-Gradska knjižnica Marka Marulića djeluje u skladu s općim ciljevima Knjižnice, kao i
+**Gradska knjižnica Marka Marulića** djeluje u skladu s općim ciljevima Knjižnice, kao i
 njezinom matičnom ulogom za Splitsko-dalmatinsku županiju. Konstantno se radi na dobrim
 praksama u razvijanju i jačanju njezine funkcije informacijskog, obrazovnog, kulturnog i
 multimedijalnog središta Splita i Splitsko-dalmatinske županije. U tijeku je projekt opremanja
@@ -2806,6 +3179,7 @@ udruga mladih te Festivalom mediteranskog filma Split. U sklopu tog projekta ure
 i južna fasada prostora pod nazivom „Razred“ od 205 m2, a namjena je da bude dijeljeni
 prostor info-edukacijskog sadržaja. Trenutno MKC u partnerskom odnosu s Platformom doma
 
+
 mladih, provodi jednogodišnji projekt „Umjetnost i kultura online“ (ožujak 2021. do ožujka
 2022.), kojem je Ministarstvo kulture RH alokacijom Europskog socijalnog fonda dodijelilo
 sredstva kroz natječajni poziv „Umjetnost i kultura online“. Cilj projekta je poboljšati interaktivan
@@ -2814,14 +3188,14 @@ uključivanju mladih kroz razvoj socijalnih i kreativnih vještina, ali i izgrad
 kao cjeline. Dugogodišnji problem potrebe konačnog uređenja Doma mladih se do sada
 parcijalno rješavao, ali u budućnosti će nadamo se biti moguće dovršiti uređenje ovog objekta.
 
-Centa r za kulturu i cjeloživotno obrazovanje Zlatna vrata provodi obrazovne programe,
+Centa **r za kulturu i cjeloživotno obrazovanje Zlatna vrata** provodi obrazovne programe,
 verificirane i neverificirane, i radi brojne programe u kulturi, naročito filmske projekcije i izložbe.
 U izvještajnom razdoblju instaliran je lift za osobe s otežanim kretanjem, u dijelu objekta
 izmijenjeni su prozori i podovi. U 2019. g. provedena je digitalizacija Ljetnog kina Bačvice s
 cijenom 350.000 kuna, a godinu kasnije nešto manji iznos uložen je u elektro radove i rasvjetu
 kina Bačvice. I ove godine planirane su investicije u kino Bačvice.
 
-Javna ustanova Park šuma Marjan provodi projekt „Marjan brdo prošlosti – oaza budućnosti“
+**Javna ustanova Park šuma Marjan** provodi projekt „Marjan brdo prošlosti – oaza budućnosti“
 kojim će se urediti Botanički vrt, rekonstruirati osmatračnica na Sedlu, nabaviti električni
 autobus za posjetitelje, urediti biciklističke i pješačke staze, obnoviti Dječje selo itd., za kojeg
 je osigurano 15,8 milijuna kuna bespovratnih EU sredstava.
@@ -2836,128 +3210,179 @@ i izrada projektne dokumentacije), sanacija nerazvrstane ceste kod crkve Svetog 
 sanacija piknik zona. Također, Grad Split osigurao je sredstva Javnoj ustanovi za nabavu
 kamiona s dizalicom za prijevoz radnika.
 
-Odsjek za šport
+
+**Odsjek za šport**
 
 Radovi na športskim objektima u razdoblju 2017.-2021.
 
-GODINA
-HNK HAJDUK Ulaganje u Gradski stadion
-OVK POŠK Sanacija krovišta
-SPORTSKI OBJEKTI Sitni popravci na objektima
-SVEUKUPNO 2017:
-10.268.000,00
-2018. GODINA
-GK MEJAŠI Izgradnja igrališta – zemljani radovi
-GK MEJAŠI Izgradnja “kaveza“ za m. nogomet
-MO KAMEN Cjelovito uređenje ŠRC-a /izgradnja
-rasvjete, sanacija zaštitnih ograda,
-izgradnja “kaveza“ za mali nogomet
-GK BOL Ugradnja elastične podloge na
-košarkaškom igralištu
-GK SPLIT 3 Asfaltiranje košarkaškog igrališta
-GK RAVNE NJIVE Ugradnja zaštitnih mreža
-KOŠARKAŠKI KLUB SPLIT Renoviranje vanjskih košarkaških
-igrališta
-KOŠARKAŠKI KLUB SPLIT Rekonstrukcija rasvjete u dvorani
-ŠPORTSKO DRUŠTVO
-JADRAN
+2017. GODINA
+    1. HNK HAJDUK Ulaganje u Gradski stadion
+    2. OVK POŠK Sanacija krovišta
+    3. SPORTSKI OBJEKTI Sitni popravci na objektima
+
+###### SVEUKUPNO 2017:
+
+###### 10.268.000,00
+
+###### 2018. GODINA
+
+1. GK MEJAŠI Izgradnja igrališta – zemljani radovi
+2. GK MEJAŠI Izgradnja “kaveza“ za m. nogomet
+3. MO KAMEN Cjelovito uređenje ŠRC-a /izgradnja
+    rasvjete, sanacija zaštitnih ograda,
+    izgradnja “kaveza“ za mali nogomet
+4. GK BOL Ugradnja elastične podloge na
+    košarkaškom igralištu
+5. GK SPLIT 3 Asfaltiranje košarkaškog igrališta
+6. GK RAVNE NJIVE Ugradnja zaštitnih mreža
+7. KOŠARKAŠKI KLUB SPLIT Renoviranje vanjskih košarkaških
+    igrališta
+8. KOŠARKAŠKI KLUB SPLIT Rekonstrukcija rasvjete u dvorani
+9. ŠPORTSKO DRUŠTVO
+    JADRAN
+
+```
 Rekonstrukcija kotlovnice
-10. PLESNI KLUB AMBER,
-TAEKWONDO MARJAN,
-BOKS KLUB MARJAN,
-KICKBOXING KLUB
-MORNAR, SK KOLO
-INVALIDI, PLIVAČKO –
-VATERPOLSKO DRUŠTVO
-MORNAR
+```
+###### 10. PLESNI KLUB AMBER,
+
+###### TAEKWONDO MARJAN,
+
+###### BOKS KLUB MARJAN,
+
+###### KICKBOXING KLUB
+
+###### MORNAR, SK KOLO
+
+###### INVALIDI, PLIVAČKO –
+
+###### VATERPOLSKO DRUŠTVO
+
+###### MORNAR
+
+```
 Sitni popravci na objektima
-Gradski kotarevi – Mjesni
-odbori
+```
+11. Gradski kotarevi – Mjesni
+    odbori
+
+```
 Sitni popravci na igralištima
-SVEUKUPNO 2018:
-2.740.000,00
-2019. GODINA
-MEJAŠI Izgradnja ŠRC-a /zemljani radovi,
-betonski, asfaltni, rasvjeta, zaštitne
-ograde, umjetna trava, elastična
-podloga za košarku/
-BAČVICE
-Umjetna trava, elastična podloga za
-košarku, zaštitne ograde
-SPLIT 3 Elastična podloga za košarku,
-rasvjeta, tribine
-BRDA
-Elastična podloga za košarku,
-zaštitne ograde
-MERTOJAK Elastična podloga za košarku
-SRINJINE Umjetna trava
-RAVNE NIVE Umjetna trava
-ŽRNOVNICA Umjetna trava
-GORNE SITNO Umjetna trava
-LOVRET Street workout
-NESLANOVAC Ograde boćališta
-KACUNAR Ograde boćališta
-UDR. BOĆARA BRANITELJ Ograde boćališta
-KAMEN Street workout, ograde boćališta
-KOŠARKAŠKI KLUB SPLIT LED rasvjeta, display, zaštitne
+```
+###### SVEUKUPNO 2018:
+
+###### 2.740.000,00
+
+
+###### 2019. GODINA
+
+1. MEJAŠI Izgradnja ŠRC-a /zemljani radovi,
+    betonski, asfaltni, rasvjeta, zaštitne
+    ograde, umjetna trava, elastična
+    podloga za košarku/
+2. BAČVICE
+    Umjetna trava, elastična podloga za
+    košarku, zaštitne ograde
+3. SPLIT 3 Elastična podloga za košarku,
+    rasvjeta, tribine
+4. BRDA
+    Elastična podloga za košarku,
+    zaštitne ograde
+5. MERTOJAK Elastična podloga za košarku
+6. SRINJINE Umjetna trava
+7. RAVNE NIVE Umjetna trava
+8. ŽRNOVNICA Umjetna trava
+9. GORNE SITNO Umjetna trava
+10. LOVRET Street workout
+11. NESLANOVAC Ograde boćališta
+12. KACUNAR Ograde boćališta
+13. UDR. BOĆARA BRANITELJ Ograde boćališta
+14. KAMEN Street workout, ograde boćališta
+15. KOŠARKAŠKI KLUB SPLIT LED rasvjeta, display, zaštitne
 ograde
-HNK HAJDUK Sanacija toplinske podstanice
-NK PRIMORAC Rasvjeta
-NK DALMATINAC Umjetna trava, bojanje ograde i
+16. HNK HAJDUK Sanacija toplinske podstanice
+17. NK PRIMORAC Rasvjeta
+18. NK DALMATINAC Umjetna trava, bojanje ograde i
 objekta
-Sitni popravci, projekti,
+19. Sitni popravci, projekti,
 geodetski radovi, nadzor
+
+```
 SVEUKUPNO 2019: 4.842.000,00
-2020. GODINA
-VISOKA Ugradnja umjetne trave, elastične podloge i ograda
-KAMEN Ugradnja umjetne trave
-KMAN Ugradnja umjetne trave
-SITNO DONJE Ugradnja umjetne trave i zaštitnih ograda
-PUJANKE Ugradnja elastične podloge i zaštitnih ograda
-ŽNJAN Ugradnja elastične podloge i zaštitnih ograda
-BRDA Ugradnja elastične podloge
-RAVNE NJIVE Asfaltiranje igrališta, ugradnja zaštitnih ograda
-SPLIT 3 Ugradnja zaštitnih ograda
-BAČVICE Izgradnja betonskih tribina i staza
-BLATINE ŠKRAPE Izgradnja kaveza za mali nogomet
-PLOKITE Ugradnja zaštitnih ograda
-NK POLJIČANIN 1921 Sanacija svlačionica
-KK SPLIT Opremanje teretane
-UKUPNO: 2.113.308,00
-OBJEKTI KOJIMA UPRAVLJAJU KLUBOVI U VEĆINSKOM VLASNIŠTVU GRADA
-KOŠARKAŠKI KLUB SPLIT – izmjena parketa, uređenje teretane
-HNK HAJDUK - ulaganje u stadion
-UKUPNO: 3.205.000,00
-SVEUKUPNO 2020: 5.318.308,00
-2021. GODINA – PROJEKTI ZAVRŠENI ILI U TIJEKU
-LUČAC-MANUŠ - umjetna trava, koš. podloga, ograde
-SLATINE - ograde, street workout
-TRSTENIK - “kavez“, street workout, ograde, rasvjeta
-PUJANKE - koš. podloga, ograde, rasvjeta
-MEJAŠI - izgradnja ŠRC-a – projektna dokumentacija, street workout
-KOPILICA – uređenje športskog igrališta
-LOKVE – street workout
-SUĆIDAR – umjetna podloga na košarkaškom igralištu
-NESLANOVAC – street workout
-SPORTSKA AKADEMIJA SPARTA – umjetna trava, ograde, zaštitne obloge
-ŠRC VAROŠ – umjetna trava na malonogometnom igralištu, zaštitne ograde,
-elastična podloga na košarkaškom igralištu
-ŠRC SIROBUJA – zaštitne ograde
-KMAN - boćalište
-UKUPNO: 2.500.000,00
-KLUBOVI
-HRV. VESLAČKI K. MORNAR - sanacija hangara
-RAGBI KL. NADA - ugradnja sustava za zalijevanje
-RUKOMETNO IGRALIŠTE – GRIPE - podloga
-BAZEN ŠD JADRAN - natkrivanje otvorenog bazena
+```
+
+###### 2020. GODINA
+
+1. VISOKA Ugradnja umjetne trave, elastične podloge i ograda
+2. KAMEN Ugradnja umjetne trave
+3. KMAN Ugradnja umjetne trave
+4. SITNO DONJE Ugradnja umjetne trave i zaštitnih ograda
+5. PUJANKE Ugradnja elastične podloge i zaštitnih ograda
+6. ŽNJAN Ugradnja elastične podloge i zaštitnih ograda
+7. BRDA Ugradnja elastične podloge
+8. RAVNE NJIVE Asfaltiranje igrališta, ugradnja zaštitnih ograda
+9. SPLIT 3 Ugradnja zaštitnih ograda
+10. BAČVICE Izgradnja betonskih tribina i staza
+11. BLATINE ŠKRAPE Izgradnja kaveza za mali nogomet
+12. PLOKITE Ugradnja zaštitnih ograda
+13. NK POLJIČANIN 1921 Sanacija svlačionica
+14. KK SPLIT Opremanje teretane
+
+###### UKUPNO: 2.113.308,00
+
+###### OBJEKTI KOJIMA UPRAVLJAJU KLUBOVI U VEĆINSKOM VLASNIŠTVU GRADA
+
+1. KOŠARKAŠKI KLUB SPLIT – izmjena parketa, uređenje teretane
+2. HNK HAJDUK - ulaganje u stadion
+
+###### UKUPNO: 3.205.000,00
+
+###### SVEUKUPNO 2020: 5.318.308,00
+
+
+###### 2021. GODINA – PROJEKTI ZAVRŠENI ILI U TIJEKU
+
+1. LUČAC-MANUŠ - umjetna trava, koš. podloga, ograde
+2. SLATINE - ograde, street workout
+3. TRSTENIK - “kavez“, street workout, ograde, rasvjeta
+4. PUJANKE - koš. podloga, ograde, rasvjeta
+5. MEJAŠI - izgradnja ŠRC-a – projektna dokumentacija, street workout
+6. KOPILICA – uređenje športskog igrališta
+7. LOKVE – street workout
+8. SUĆIDAR – umjetna podloga na košarkaškom igralištu
+9. NESLANOVAC – street workout
+10. SPORTSKA AKADEMIJA SPARTA – umjetna trava, ograde, zaštitne obloge
+11. ŠRC VAROŠ – umjetna trava na malonogometnom igralištu, zaštitne ograde,
+    elastična podloga na košarkaškom igralištu
+12. ŠRC SIROBUJA – zaštitne ograde
+13. KMAN - boćalište
+
+###### UKUPNO: 2.500.000,00
+
+###### KLUBOVI
+
+1. HRV. VESLAČKI K. MORNAR - sanacija hangara
+2. RAGBI KL. NADA - ugradnja sustava za zalijevanje
+3. RUKOMETNO IGRALIŠTE – GRIPE - podloga
+4. BAZEN ŠD JADRAN - natkrivanje otvorenog bazena
+
+```
 UKUPNO: 11.100.000,00
-KLUBOVI U VEĆ INSKOM VLASNIŠTVU GRADA
-HNK HAJDUK - Ulaganje u gradski stadion 10.500.000,00
-KK SPLIT - Uređenje svlačionica dvorane KK Split 1.000.000,00
-UKUPNO: 11.500.000,00
-SVEUKUPNO 2021: 25.100.000,00
+```
+
+###### KLUBOVI U VEĆ INSKOM VLASNIŠTVU GRADA
+
+1. HNK HAJDUK - Ulaganje u gradski stadion 10.500.000,00
+2. KK SPLIT - Uređenje svlačionica dvorane KK Split 1.000.000,00
+
+###### UKUPNO: 11.500.000,00
+
+###### SVEUKUPNO 2021: 25.100.000,00
+
+```
 SVEUKUPNO (2017-2021 godina): 48.268.308,00
-Međunarodna na tjecanja u 2021. i 2022. godini
+```
+**Međunarodna na** tjecanja u 2021. i 2022. godini
 
 Olimpijski kvalifikacijski turnir u košarci za odlazak na Olimpijske igre u Tokiju održat će se u
 Splitu – Spaladium arena, od 29. lipnja do 04. srpnja 2021. godine. Za navedeno natjecanje
@@ -2967,7 +3392,8 @@ Europsko prvenstvo u vaterpolu održat će se u Splitu – Spaladium arena u lje
 godine. Za navedeno natjecanje u Proračunu Grada Splita za 2021. godinu osiguran je iznos
 od 800.000,00 kn s projekcijama za 2022. godinu od 2.300.000,00 kn.
 
-SPLITSKI SAVEZ ŠPORTOVA
+###### SPLITSKI SAVEZ ŠPORTOVA
+
 Splitski savez športova je krovna sportska udruga koja skrbi o splitskom sportu, kako je to
 propisano Zakonom o sportu, a svrha postojanja Saveza je dobrobit svih njegovih članova i
 društva u cjelini. Cilj Saveza je da svojim djelovanjem pridonosi razvitku, promicanju i
@@ -2976,6 +3402,7 @@ unapređenju športa u gradu Splitu, te širenju olimpijskih ideala i jačanju o
 Područje djelovanja Saveza, sukladno ciljevima, je unapređenje sporta. Za ostvarivanje svojih
 ciljeva Savez obavlja sljedeće djelatnosti:
 
+```
  usklađuje aktivnosti svojih članova,
  potiče i promiče šport u skladu s Nacionalnim programom športa, osobito šport djece,
 mladeži, studenata, šport gluhih i osoba s invaliditetom, te športske rekreacije,
@@ -2983,6 +3410,9 @@ mladeži, studenata, šport gluhih i osoba s invaliditetom, te športske rekreac
  objedinjuje i usklađuje program športa svojih članica,
  predlaže program javnih potreba u športu za koje se sredstva osiguravaju u
 proračunu Grada,
+```
+
+```
  raspolaže sredstvima namijenjenim za zadovoljavanje javnih potreba u športu i
 odgovara za njihovo namjensko korištenje,
  skrbi o vrhunskim športašima u stvaranju optimalnih uvjeta za njihovu pripremu i
@@ -3005,6 +3435,7 @@ djelatnosti Saveza,
  skrbi o izdavanju športskih publikacija,
  obavlja i druge poslove utvrđene Zakonom o športu, Zakonom o udrugama i drugim
 propisima te ovim Statutom.
+```
 Sredstva za izvršenje programa zadovoljavanja javnih potreba u športu Grad prenosi na račun
 Savez, a Savez temeljem razdjela na račun svojih članova. Član odgovara za namjensko
 korištenje sredstava namijenjenih za zadovoljavanje javnih potreba u športu. U okviru svojih
@@ -3033,11 +3464,14 @@ Statut Saveza te novi pravilnik o financiranju splitskog sporta koji će sasvim 
 daljnjoj transparentnosti procesa u našem Savezu, i dobar dio aktivnosti u svezi istih je već
 napravljeno.
 
+
 U protekle četiri godine Split je bio domaćin značajnih sportskih priredbi te su usprkos
 pandemiji korona virusa splitski sportaši postigli respektabilne rezultate kako slijedi:
 
-ZNAČAJNE SPORTSKE PRIREDBE :
-2017.
+###### ZNAČAJNE SPORTSKE PRIREDBE :
+
+###### 2017.
+
 Europsko prvenstvo u dizanju utega
 
 Studentske sportske igre - Eusa Split 2017.
@@ -3050,7 +3484,8 @@ Europske kvalifikacije za Olimpijske igre mladih 2018.
 
 Kongres Europske gimnastičke federacije
 
-2018.
+###### 2018.
+
 Europsko prvenstvo u rukometu
 
 Međunarodna ragbi utakmica - europski kup nacija: Hrvatska - Cipar
@@ -3059,39 +3494,48 @@ Talenti i dual karijera u sportu -međunarodna konferencija
 
 Doček hrvatske nogometne reprezentacije na Rivi
 
-2019.
+###### 2019.
+
 Svjetsko prvenstvo za mlade u klasi Laser standard i Laser radial
 
-Splitski polumaraton
+19. Splitski polumaraton
+
 Strateško planiranje i upravljanje razvojem sporta - 2. Međunarodna konferencija
 
-2020.
-Splitski maraton
+###### 2020.
+
+20. Splitski maraton
+
 ATP challenger tour - Split open
 
 Međunarodna nogometna utakmica - UEFA Liga nacija: Hrvatska - Portugal
 
-2021.
+###### 2021.
+
 Svjetski kup jedrenja na dasci
 
 Europski bacački kup
 
-OI TOKIO
+
+###### OI TOKIO
+
 Za Olimpijske igre u Tokiju do sada su plasman izborili:
 
-Atletika Filip Mihaljević
-Gimnastika Ana Đerek
-Jedrenje Tonči Stipanović
-Jedrenje Elena Vorobeva
-Plivanje Marin Mogić
-Plivanje Franko Grgić
-Taekwondo Toni Kanaet
-Taekwondo Matea Jelić
-Taekwondo Ivan Šapina
+1. Atletika Filip Mihaljević
+2. Gimnastika Ana Đerek
+3. Jedrenje Tonči Stipanović
+4. Jedrenje Elena Vorobeva
+5. Plivanje Marin Mogić
+6. Plivanje Franko Grgić
+7. Taekwondo Toni Kanaet
+8. Taekwondo Matea Jelić
+9. Taekwondo Ivan Šapina
+
 Kako olimpijske kvalifikacije još traju naša su očekivanja da će na OI U Tokiju nastupiti od 1 2
 do 14 splitskih sportaša.
 
-JAVNA USTANOVA ŠPORTSKI OBJEKTI - SPLIT
+###### JAVNA USTANOVA ŠPORTSKI OBJEKTI - SPLIT
+
 Izvješće o aktivnostima Javne ustanove Športski objekti-Split za period od 01.01.2018. –
 15.05.2021.g.
 
@@ -3101,64 +3545,78 @@ Ustanova je osnovana 18. ožujka 1997. godine.
 
 Ustanova upravlja sljedećim športskim centrima:
 
-Športski centar Gripe
-Športski centar Bazeni Poljud
-Centar za streljačke sportove „Stobreč“
-Teniski centar Firule
-ŠC Park mladeži
-Teniski tereni pri športskom rekreacijskom centru Bačvice
-ŠC Bazen Zenta
-ŠC Pricviće Žrnovnica
+1. Športski centar Gripe
+2. Športski centar Bazeni Poljud
+3. Centar za streljačke sportove „Stobreč“
+4. Teniski centar Firule
+5. ŠC Park mladeži
+6. Teniski tereni pri športskom rekreacijskom centru Bačvice
+7. ŠC Bazen Zenta
+8. ŠC Pricviće Žrnovnica
+
 Djelatnost Ustanove je:
 
-održavanje, upravljanje i organiziranje korištenja športskih objekata i drugih
-nekretnina,
-organiziranje, pripremanje i izvođenje poduke djece, mladeži i građana u športskim i
-športsko-rekreativnim aktivnostima,
-organiziranje i pružanje različitih usluga u području športa i posebnih oblika
-zdravstvene zaštite sportaša te funkcionalne dijagnostike,
-organiziranje i održavanje izložaba, sajmova, prezentacija, predavanja tečajeva i
-seminara,
-organiziranje i razvijanje odgovarajućih gospodarskih aktivnosti na slobodnim
-pratećim prostorima i nekretninama: zakup poslovnih prostora, oglašavanje,
-upravljanje parking prostorom kao sastavnim dijelom športskih centara, glazbeno-
-scenska djelatnost, kulturna događanja, različite manifestacije, sajmovi i dr.
+- održavanje, upravljanje i organiziranje korištenja športskih objekata i drugih
+    nekretnina,
+- organiziranje, pripremanje i izvođenje poduke djece, mladeži i građana u športskim i
+    športsko-rekreativnim aktivnostima,
+
+
+- organiziranje i pružanje različitih usluga u području športa i posebnih oblika
+    zdravstvene zaštite sportaša te funkcionalne dijagnostike,
+- organiziranje i održavanje izložaba, sajmova, prezentacija, predavanja tečajeva i
+    seminara,
+- organiziranje i razvijanje odgovarajućih gospodarskih aktivnosti na slobodnim
+    pratećim prostorima i nekretninama: zakup poslovnih prostora, oglašavanje,
+    upravljanje parking prostorom kao sastavnim dijelom športskih centara, glazbeno-
+    scenska djelatnost, kulturna događanja, različite manifestacije, sajmovi i dr.
+
 Pored navedenih djelatnosti, Ustanova može obavljati i druge djelatnosti u manjem obujmu
 ako pridonose iskorištavanju prostornih i kadrovskih kapaciteta.
 
-INVESTICIJSKI PROJEKTI I PROGRAMI JAVNE USTANOVE ŠPORTSKI OBJEKTI -
-SPLIT
+###### INVESTICIJSKI PROJEKTI I PROGRAMI JAVNE USTANOVE ŠPORTSKI OBJEKTI -
+
+###### SPLIT
+
 U razdoblju 2018.-2021. godine realizirana su 34 investicijska projekta od kojih ističemo:
 
-Energetska obnova Bazeni Poljud, dovršeno 31.10.2018.g.
-Dobava i montaža novog parketa na polivalentnoj dvorani ŠC Bazeni Poljud -
-2019.g.
-Rekonstrukcija zemljanih teniskih terena br. 1 i 2 na TC Firule - 2021.g.
-Sanacija dva zemljana teniska terena, rasvjete, video nadzora, ograda i
-okoliša na TT ŠRC Bačvice - 2018.g.
-Ugradnja invalidskog lifta na ŠC Gripe 2020.g. u sklopu
+- Energetska obnova Bazeni Poljud, dovršeno 31.10.2018.g.
+- Dobava i montaža novog parketa na polivalentnoj dvorani ŠC Bazeni Poljud -
+    2019.g.
+- Rekonstrukcija zemljanih teniskih terena br. 1 i 2 na TC Firule - 2021.g.
+- Sanacija dva zemljana teniska terena, rasvjete, video nadzora, ograda i
+    okoliša na TT ŠRC Bačvice - 2018.g.
+- Ugradnja invalidskog lifta na ŠC Gripe 2020.g. u sklopu
+
+```
 Projekta „Paraolimpijska škola za mlade osobe s invaliditetom“. Športski
 savez invalida grada Splita u partnerstvu s JUŠO Split i gradom Splitom.
 Ukupna vrijednost projekta 1.500.000,00 kn
-ULTRA MUSIC FESTIVAL 2019.g. na SC Park mladeži – u 2020.g. nije
-održan zbog COVID 19
-Rekonstrukcija svlačionica i pomoćnih prostorija ŠRC Pricviće Žrnovnica
-(200.000 kn financira SD Županija) -2021.g.
-ATP Challenger TC Firule 2020.g. i dva Challengera 2021.g.
-Europski seniorski atletski bacački kup za žene i muškarce ŠC Park mladeži
-2021.g.
+```
+-
+    ULTRA MUSIC FESTIVAL 2019.g. na SC Park mladeži – u 2020.g. nije
+    održan zbog COVID 19
+- Rekonstrukcija svlačionica i pomoćnih prostorija ŠRC Pricviće Žrnovnica
+    (200.000 kn financira SD Županija) -2021.g.
+- ATP Challenger TC Firule 2020.g. i dva Challengera 2021.g.
+- Europski seniorski atletski bacački kup za žene i muškarce ŠC Park mladeži
+    - 2021.g.
+
 Napomena:
 
 Započeti projekti:
 
-Sanacija svlačionica i sanitarnog čvora dijela svlačionica dvorana za borilačke
-športove ŠC stare Gripe - III dio 2021.g. - u tijeku postupak javne nabave
-Nabava bazenskih crpki 50m' bazena ŠC Bazeni Poljud - 2021.g.
-Sanacija bazenske školjke, strojarnice, elektroinstalacija i dr. hitnih i neodgodivih
-radova na Bazenu Zenta kao priprema za ovu sezonu (01.06. – 30.09.) - u tijeku po
-projektnom troškovniku
-Izrada projekta ekspertize postojećeg stanja s prijedlozima sanacije statike,
-strojarstva i elektro dijela za ŠC Bazen Zenta – u tijeku po projektu
+1. Sanacija svlačionica i sanitarnog čvora dijela svlačionica dvorana za borilačke
+    športove ŠC stare Gripe - III dio 2021.g. - u tijeku postupak javne nabave
+
+
+2. Nabava bazenskih crpki 50m' bazena ŠC Bazeni Poljud - 2021.g.
+3. Sanacija bazenske školjke, strojarnice, elektroinstalacija i dr. hitnih i neodgodivih
+    radova na Bazenu Zenta kao priprema za ovu sezonu (01.06. – 30.09.) - u tijeku po
+    projektnom troškovniku
+4. Izrada projekta ekspertize postojećeg stanja s prijedlozima sanacije statike,
+    strojarstva i elektro dijela za ŠC Bazen Zenta – u tijeku po projektu
+
 Do kraja godine trebamo realizirati 1.800.000 kn kredita HPB-a, dijela od 10.000.000 kn za
 koje je gradsko vijeće grada Splita dalo suglasnost. Ishodovana je građevinska dozvola za
 rekonstrukciju društvenog doma Boćališta na ŠC Gripe, raspisan otvoreni postupak javne
@@ -3179,9 +3637,14 @@ Zenta.
 Grad Split planira u 2021. godini Javnoj ustanovi Športski objekti Split dodijeliti na upravljanje
 natkriveni novoobnovljeni bazen ŠD Jadran.
 
-PROČELNIK
+###### PROČELNIK
+
+```
 Mate Omazić
-UPRAVNI ODJEL ZA FINANCIJSKO UPRAVLJANJE I KONTROLING
+```
+
+###### UPRAVNI ODJEL ZA FINANCIJSKO UPRAVLJANJE I KONTROLING
+
 Upravni odjel za financijsko upravljanje i kontroling nositelj je aktivnosti koordinacije na
 
 uspostavljanju sveobuhvatnog sustava unutarnjih kontrola u upravnim tijelima Grada te
@@ -3196,23 +3659,23 @@ Postavljeni i realizirani ciljevi u navedenom razdoblju Upravnog odjela za finan
 
 upravljanje i kontroling koji se obavljaju kroz četiri odsjeka su:
 
-Planiranje proračunskih sredstava koji su potrebni za provedbu planiranih programa,
+1) **Planiranje proračunskih sredstava koji su potrebni za provedbu planiranih programa,**
 projekata i aktivnosti mora biti pravovremeno i optimalno
 
-Uredno i pravovremeno evidentiranje poslovnih događaja u financijskim izvještajima
+2) **Uredno i pravovremeno evidentiranje poslovnih događaja u financijskim izvještajima
 radi osiguranja sveobuhvatne, pravovremene i točne informacije o financijskom
-položaju Grada
+položaju Grada**
+3) Pravovremeno podmirivanje obveza Grada
 
-Pravovremeno podmirivanje obveza Grada
-
-Provedba postupaka javne nabave radi zakonitog, efikasnog, namjenskog i
-transparentnog upravljanja proračunskim sredstvima i pravovremenog
+4) Provedba postupaka javne nabave radi zakonitog, efikasnog, namjenskog i
+transparentnog **upravljanja proračunskim sredstvima i pravovremenog**
 zadovoljavanja potreba
 
-Uspostava mape poslovnih procesa radi unaprjeđenja poslovanja i odgovornog
-upravljanja kroz digitalizaciju rada Gradsk e uprave i proračunskih korisnika
+5) **Uspostava mape poslovnih procesa radi unaprjeđenja poslovanja i odgovornog**
+upravljanja kroz digitalizaciju rada Gradsk **e uprave i proračunskih korisnika**
 
-Odsjek za financije
+1. Odsjek za financije
+
 Tijekom navedenog razdoblja ažurno i sveobuhvatno su se provodila zaduženja obveznika
 
 prema zakonskim propisima, Odlukama grada, ugovorima, rješenjima i računima odnosno
@@ -3232,6 +3695,7 @@ upravnim tijelima/službama Grada vezano uz ažurno dostavljanje dokumentacije.
 
 Posebna pozornost bila je usmjerena na praćenje pravnih subjekata u statusu predstečajnih i
 stečajnih postupaka u cilju zaštite potraživanja Grada kroz urednu i pravovremenu prijavu.
+
 
 Naplata prihoda i sređivanje evidencija bio je prioritetan zadatak tijekom cijelog spomenutog
 razdoblja te se naplata prihoda, koji su u nadležnosti Grada, odvijala na zadovoljavajućoj i
@@ -3260,7 +3724,8 @@ preduvjeti kako bi se stabilizirati gradske financije u narednom periodu s obzir
 
 pandemije Covida.
 
-Od sjek za računovodstvo i proračun
+2. Od **sjek za računovodstvo i proračun**
+
 Rashodi su evidentirani u glavnoj knjizi na temelju nastanka poslovnog događaja (obveze) i u
 
 izvještajnom razdoblju na koje se odnose, neovisno o plaćanju te su evidentirani po
@@ -3276,8 +3741,12 @@ utvrđeni Pravilnikom o financijskom izvještavanju u proračunskom računovodst
 
 financijski izvještaji predani nadležnim institucijama:
 
+```
  Izrađeni su godišnji i polugodišnji financijski izvještaji o izvršenju Proračuna Grada
 Splita
+```
+
+```
  U godišnjim i polugodišnjim izvještajima o izvršenju proračuna Grada Splita prikupljeni
 su i obrađeni financijski izvještaji svih proračunskih korisnika Grada Splita: ustanova
 kulture, ustanova predškolskog odgoja, osnovnih škola i Centra za autizam, Javne
@@ -3301,25 +3770,38 @@ sredstava do 5% rashoda i izdataka, te je sukladno pozitivnim zakonskim propisim
 zahtjevima gradskih upravnih tijela/službi, a sve radi potrebe za usklađivanjem
 proračunske potrošnje s dinamikom i naplatom prihoda kojima se nije mijenjao ukupan
 iznos planiranih rashoda i izdataka.
+```
 U razdoblju lipanj 2017. do 31.05.2021. isplaćeno je 150.321.845 kuna po ovrhama i
 povratima zeljišta te 108.845.690 kune za kredite koji su uzeti u 2013., 2014., 2015., 2016.,
 
-i 2020. godine.
+2017. i 2020. godine.
+
 Pregled plaćanja po kreditima te ovrhama i naknadama po godinama:
 
+```
 kn
 GODINA PRIHODI OVRHE,
 NAKNADE
-KREDITI
-2017. 911.776.540^ 34.770.805^ 26.286.223^
-2018. 905.542.964^ 42.914.092^ 30.395.112^
-2019. 1.033.116.834 11.752.186 25.108.490
-2020. 1.072.231.830 49.393.882 18.510.679
-2021. 1.378.848.062 11.490.880 8.545.186
-UKUPNO 150.321.845 108.845.690
+```
+###### KREDITI
+
+###### 2017. 911.776.540^ 34.770.805^ 26.286.223^
+
+###### 2018. 905.542.964^ 42.914.092^ 30.395.112^
+
+###### 2019. 1.033.116.834 11.752.186 25.108.490
+
+###### 2020. 1.072.231.830 49.393.882 18.510.679
+
+###### 2021. 1.378.848.062 11.490.880 8.545.186
+
+###### UKUPNO 150.321.845 108.845.690
+
+
 Za napomenuti je da je 2019. godine riješen spor sa Svečilištem u Splitu koji je tada bio star
 više desetaka godina:
 
+```
  U drugoj polovici 2019.g. ostvareni su prihodi od komunalnog doprinosa u iznosu
 od HRK 35.043.265 kn kao rezultat zaključenog Sporazuma o načinu podmirenja
 međusobnih potraživanja i obveza između Sveučilišta u Splitu, Grada Splita,
@@ -3333,6 +3815,7 @@ otkupa stana. Na taj način Grad Split nakon punog desetljeća više nije dužan
 Državnom proračunu, što je stvorilo pretpostavke za zaključenje više ugovora o
 darovanju nekretnina u vlasništvu države Gradu Splitu u vrijednosti od 284 milijuna
 kuna, čime će se povećati za isti iznos i vrijednost imovine Grada.
+```
 3.Odsjek za kontroling, poslovne procese i informatiku
 
 Cilj – digitalizacija i unapređenje kvalitete rada Gradske uprave
@@ -3344,7 +3827,7 @@ vidljivi ili su djelomično ostvareni napravljen je dobar okvir za buduće djelo
 
 Izvještaj je napravljen sukladno stavkama proračuna.
 
-Održavanje hardvera i softvera:
+**Održavanje hardvera i softvera:**
 
 Zbog do sada korištenih, a uglavnom tehnološki zastarjelih aplikacija i sustava korišten je dio
 zastarjelih i od proizvođača napuštenih operacijskih sustava i opreme. U proteklom razdoblju
@@ -3360,7 +3843,8 @@ mjesta unutar gradske uprave, a zbog lakšeg održavanja i unapređenja informac
 sigurnosti. Kako se stari sustavi i aplikacije budu zamjenjivale tako će se raditi na konsolidaciji
 i podizanju tehnološke osnovice serverskih resursa.
 
-Proračunsko računovodstvo i riznica:
+**Proračunsko računovodstvo i riznica:**
+
 
 Tijekom 2019 započeo je projekt zamjene starog sustava proračunskog računovodstva i
 riznice. Zbog Covid 19 pandemije, te zbog problema sa širenjem opsega projekta došlo je do
@@ -3387,7 +3871,7 @@ dorade koje dovode do ubrzanja rada operatera i nadograditi sustav kojim će gra
 imati uvid u stanje svojih obaveza uz mogućnost plaćanja e računa te uskladiti daljnji opseg
 projekta.
 
-Osuvremenjivanje informatičke tehnologije:
+**Osuvremenjivanje informatičke tehnologije:**
 
 Osim prethodno spomenutih zamjena zastarjele opreme i sustava započete su aktivnosti na
 konsolidaciji različitih baza podataka. Daljnji izazov je u stvaranju zajedničkih šifrarnika
@@ -3412,6 +3896,7 @@ implementacije započela je u 7 mjesecu 2020).
 U tijeku je postupak javne nabave kojim će Grad Split postati prvi grad u Hrvatskoj koji procese
 nabave obavlja bez papira. Modulom Planiranje potreba, digitalizirat će se iskazivanje potreba
 ustrojstvenih jedinica. Time će se izbjeći prikupljanje Excel tablica, spajanje u ukupni plan
+
 
 potreba te ručno kreiranja plana nabave. Digitalizacijom sustava, plan potreba će se unositi u
 sustav, konsolidirati u prijedlog plana nabave koji će prolaziti procesna odobrenja.
@@ -3459,16 +3944,21 @@ Napomena: Ovo je jedna od vertikala koja se povezuje sa ostalim vertikalama i Sm
 platformom. Kao i sve vertikale, kroz koje se odvijaju dijelovi jedinstvenog poslovnog procesa
 (end to end), ovise o dobro definiranim tijekovima cjeline procesa i poslovnim pravilima.
 
+```
  Projekti za koje je započeta javna nabava ili su u početnoj fazi realizacije:
-Na osnovu trogodišnjih planova pokrenut je postupak javne nabave za -
-OPTIMIZACIJA GRUPA POSLOVNIH PROCESA, PROŠIRENJE I ODRŽAVANJE
-eGOP PLATFORME TE IMPLEMENTACIJA I ODRŽAVANJE PLATFORME ZA
-JEDNOSTAVNU NABAVU i donesena je odluka o odabiru na osnovu koje treba biti
-potpisan okvirni sporazum i pojedinačni ugovori. Ukupna vrijednost trogodišnje
-realizacije je 3. 700 .000 kn.
-Potpisan je ugovor i pokrenuta je prva faza za projekt digitalizacije poslova komunalnog
-i poljoprivrednog redarstva - USLUGA DIGITALIZACIJE POSLOVNIH PROCESA I
-NADOGRADNJA Egop 10 platforme e-REDAR. Vrijednost poslova je 400 .000 kn
+```
+1. Na osnovu trogodišnjih planova pokrenut je postupak javne nabave za -
+    OPTIMIZACIJA GRUPA POSLOVNIH PROCESA, PROŠIRENJE I ODRŽAVANJE
+    eGOP PLATFORME TE IMPLEMENTACIJA I ODRŽAVANJE PLATFORME ZA
+    JEDNOSTAVNU NABAVU i donesena je odluka o odabiru na osnovu koje treba biti
+    potpisan okvirni sporazum i pojedinačni ugovori. Ukupna vrijednost trogodišnje
+    realizacije je 3. 700 .000 kn.
+
+
+2. Potpisan je ugovor i pokrenuta je prva faza za projekt digitalizacije poslova komunalnog
+    i poljoprivrednog redarstva - USLUGA DIGITALIZACIJE POSLOVNIH PROCESA I
+    NADOGRADNJA Egop 10 platforme e-REDAR. Vrijednost poslova je 400 .000 kn
+
 Geo informacijski sustav
 
 Grad Split sustavno razvija alate, metode i podatke kojima je cilj daljnje unapređenje Geo
@@ -3488,11 +3978,14 @@ visoke razlučivosti. Kroz nastavak projekta dodavati će se novi podatci i ažu
 unaprijediti će se procesi upravljanja gradskom imovinom i infrastrukturom te će se povećati
 transparentnost.
 
+```
  Projekti za koje je započeta javna nabava ili su u početnoj fazi realizacije:
-Usluge održavanja uspostavljenog digitalnog katastra dijela zajedničke infrastrukture i
-savjetovanja pri razvoju GIS sustava vrijednosti 200.000 kn.
-Trogodišnji okvirni sporazum o nadogradnji postojećeg geoinformacijskog sustava
-Grada Splita (Nositelj odsjek za Smart City ) je vrijednost 4. 424 .000 kn.
+```
+1. Usluge održavanja uspostavljenog digitalnog katastra dijela zajedničke infrastrukture i
+    savjetovanja pri razvoju GIS sustava vrijednosti 200.000 kn.
+2. Trogodišnji okvirni sporazum o nadogradnji postojećeg geoinformacijskog sustava
+    Grada Splita (Nositelj odsjek za Smart City ) je vrijednost 4. 424 .000 kn.
+
 Razvoj kontrolinga i poslovnih procesa:
 
 U proteklom razdoblju napravljen je digitalizirani sustav sa opisima poslovnih procesa i
@@ -3514,16 +4007,20 @@ uvođenju sustava kvalitete u rad Gradske uprave.
 Pokrenut je projekt digitalizacije poslovanja gradskog komunalnog i poljoprivrednog redarstva
 koji ima za cilj ubrzati protok informacija i unaprijediti učinkovitost i ekonomičnost rada.
 
+
 Grad Split sustavno razvija alate, metode i podatke kojima je cilj efikasno upravljanje svim
 poslovnim procesima i prostorom Grada Splita, a koji trebaju omogućiti:
 
+```
  Efikasno upravljanje imovinom Grada
  Kontrolu i optimizaciju troškova
  Ubrzanje poslovanja
  Transparentnost u radu
-Odsjek za javnu nabavu
+```
+4. Odsjek za javnu nabavu
+
 Provedba postupaka javne nabave radi zakonitog, efikasnog, namjenskog i
-transparentnog upravljanja proračunskim sredstvima i pravovremenog zadovoljavanja
+**transparentnog upravljanja proračunskim sredstvima i pravovremenog zadovoljavanja**
 potreba
 
 Odsjek za javnu nabavu obavlja stručne i tehničke poslove vezane za nabavu roba, radova i
@@ -3541,156 +4038,240 @@ postupaka, ugovorene vrijednosti nabave od HRK 655.110.999,28 s PDV-om.
 
 Tabelarni pregled po godinama:
 
-2017. (01.07. – 31.12.)
+###### 2017. (01.07. – 31.12.)
+
+```
 Red.
 br.
+```
+```
 Opis stavke Broj
 pokrenutih
 postupaka
+```
+```
 Broj
 zaključenih
 postupaka u
 navedenom
 razdoblju
+```
+```
 Vrijednost nabave
 s PDV-om
+```
+```
 1 Broj otvorenih predmeta
 (provedeni postupci jednostavne i
 javne nabave po ugovorima)
-115 109 123.143.653,89
+```
+###### 115 109 123.143.653,89
+
+```
 2 Broj sklopljenih narudžbenica 678 678 9.068.468,81
+```
+```
 Total 793 787 132.212.122,70
-2018. (01.01 – 31.12.)
+```
+
+###### 2018. (01.01 – 31.12.)
+
+```
 Red.
 br.
+```
+```
 Opis stavke Broj
 pokrenutih
 postupaka
+```
+```
 Broj
 zaključenih
 postupaka u
 navedenom
 razdoblju
+```
+```
 Vrijednost nabave
 s PDV-om
+```
 (^1) Broj otvorenih predmeta
 (provedeni postupci jednostavne i
 javne nabave po ugovorima)
 
-297 213 99.115.873,10
+###### 297 213 99.115.873,10
+
+```
 2 Broj sklopljenih narudžbenica 1148 1148 15.629.084,85
+```
+```
 Total 1445 1361 114.744.957,95
-2019. (01.01. – 31.12.)
+```
+##### 2019. (01.01. – 31.12.)
+
+```
 Opis stavke Broj
 pokrenutih
 postupaka
+```
+```
 Broj
 zaključenih
 postupaka u
 navedenom
 razdoblju
+```
+```
 Vrijednost nabave s PDV-om
+```
 Broj otvorenih predmeta
 (provedeni postupci
 jednostavne i javne nabave
 po ugovorima)
 
-442 442 151.905.065,81
-Broj sklopljenih
-narudžbenica
+###### 442 442 151.905.065,81
 
-1274 1274 19.892.250,27
+Broj sklopljenih
+**narudžbenica**
+
+###### 1274 1274 19.892.250,27
+
 Total 1716 1716 171.797.316,08
 
-2020. (01.01. – 31.12.)
+###### 2020. (01.01. – 31.12.)
+
+```
 Opis stavke Broj
 pokrenutih
 postupaka
+```
+```
 Broj
 zaključenih
 postupaka u
 navedenom
 razdoblju
+```
+```
 Vrijednost nabave s PDV-
 om
+```
 Broj otvorenih predmeta
 (provedeni postupci jednostavne
 i javne nabave po ugovorima)
 
-261 228 141.221.586,44
-Broj sklopljenih narudžbenica 1056 1056 15.274.412,38
+###### 261 228 141.221.586,44
+
+**Broj sklopljenih narudžbenica** 1056 1056 15.274.412,38
 
 Total 1317 1284 156.495.998,82
 
-2021. (01.01 – 20.05.)
+
+###### 2021. (01.01 – 20.05.)
+
+```
 Opis stavke Broj
 pokrenutih
 postupaka
+```
+```
 Broj
 zaključenih
 postupaka u
 navedenom
 razdoblju
+```
+```
 Vrijednost nabave s PDV-
 om
+```
+```
 Broj otvorenih predmeta
 (provedeni postupci jednostavne
 i javne nabave po ugovorima)
-102 136 70.992.868,57
+```
+###### 102 136 70.992.868,57
+
+```
 Broj sklopljenih narudžbenica 462 462 8.867.735,16
+```
+```
 Total 564 598 79.860.603,73
-U izvještajnom razdoblju sklopljeno je 288 Pojedinačnih ugovora zaključenih na temelju
+```
+U izvještajnom razdoblju sklopljeno je **288 Pojedinačnih ugovora** zaključenih na temelju
 Okvirnih sporazuma.
 
 Sukladno pokrenutim postupcima javne nabave u izvještajnom razdoblju zaprimljena je 31
-žalba ponuditelja na koje je odgovoreno u zakonskom roku. Državna komisija za kontrolu
+**žalba ponuditelja** na koje je odgovoreno u zakonskom roku. Državna komisija za kontrolu
 postupaka javne nabave (DKOM) donijela je slijedeća Rješenja:
 
+```
 Broj postupaka Odluka DKOM-a
+```
+```
 8 Žalba se odbija
+```
+```
 8 Poništava se dio dokumentacije o nabavi
+```
+```
 12 Poništava se Odluka o odabiru
+```
+```
 1 Poništava se otvoreni postupak JN
+```
+```
 1 Poništava se Odluka o poništenju
 1 Obustava postupka
+```
 (^31) UKUPNO
 Postupci koji su trenutno u tijeku (čekaju se ponude, pregledavaju ili se pišu ugovori)
 
-Nabava usluge identifikacije i ocjene zrelosti projekata/shema Urbane aglomeracije
-Split za provedbu putem ITU mehanizma u EU financijskom razdoblju 2021.-2027.
-Sanacija potpornog zida u ul. Šetalište Ivana Meštrovića na predjelu Bambina glavica
-Rekonstrukcija promatračnice na Sedlu
-Uklanjanje uginulih životinja s JPP
-Sanacija stolarije, sanitarnih čvorova i podova DV Koralj
-Izvođenje radova parternog uređenja Tončićeve ulice
-Pružanje usluga televizijskog prijenosa sjednica Gradskoga vijeća
-Usluga čišćenja prostorija mjesnih odbora
-Ugradnja elastične športske podloge na košarkaškom igralištu pri GK Sućidar
-Nabava usluge stručnog nadzora nad radovima rekonstrukcije promatračnice na
-Sedlu i usluge koordinatora zaštite na radu u fazi izvođenja radova (koordinator II)
-Bravarski radovi na ugradnji zaštitnih mreža i ograda na športskim igralištima Grada
-Splita: ŠRC Sirobuja, boćališta pri GK Kman, Šine i špinut, sanacija „kaveza“ za m.
-nogomet pri ŠRC Kamen i Varoš, izrada i ugradnja metalnih rukometnih branki na
-igralištu pri GK Pujanke
-Projektiranje i građenje centralne zgrade prve faze tehnološkog parka Split –
-Dračevac
-Usluge održavanja sigurnosti na informatičkoj mreži, te održavanje Winservera
-(Exchange servera, WmWare-a, AD i BackupExec-a itd.)
-Nabava računalne opreme
-Uspostava sustava javnih bicikala na području UASa u sklopu projekta Biraj biciklu!
-Zdravstveni sistematski pregledi za zaposlene u Gradskoj upravi Grada Splita
-Optimizacija grupa poslovnih procesa, proširenje i održavanje eGOP platforme te
-implementacija i održavanje platforme za jednostavnu nabavu
-Usluge najma stroja za preslik i usluge preslika – okvirni sporazum 2 god.
-Izgradnja boćališta pri GK Kman
+1. Nabava usluge identifikacije i ocjene zrelosti projekata/shema Urbane aglomeracije
+    Split za provedbu putem ITU mehanizma u EU financijskom razdoblju 2021.-2027.
+2. Sanacija potpornog zida u ul. Šetalište Ivana Meštrovića na predjelu Bambina glavica
+3. Rekonstrukcija promatračnice na Sedlu
+4. Uklanjanje uginulih životinja s JPP
+5. Sanacija stolarije, sanitarnih čvorova i podova DV Koralj
+6. Izvođenje radova parternog uređenja Tončićeve ulice
+7. Pružanje usluga televizijskog prijenosa sjednica Gradskoga vijeća
+8. Usluga čišćenja prostorija mjesnih odbora
+9. Ugradnja elastične športske podloge na košarkaškom igralištu pri GK Sućidar
+10. Nabava usluge stručnog nadzora nad radovima rekonstrukcije promatračnice na
+    Sedlu i usluge koordinatora zaštite na radu u fazi izvođenja radova (koordinator II)
+
+
+11. Bravarski radovi na ugradnji zaštitnih mreža i ograda na športskim igralištima Grada
+    Splita: ŠRC Sirobuja, boćališta pri GK Kman, Šine i špinut, sanacija „kaveza“ za m.
+    nogomet pri ŠRC Kamen i Varoš, izrada i ugradnja metalnih rukometnih branki na
+    igralištu pri GK Pujanke
+12. Projektiranje i građenje centralne zgrade prve faze tehnološkog parka Split –
+    Dračevac
+13. Usluge održavanja sigurnosti na informatičkoj mreži, te održavanje Winservera
+    (Exchange servera, WmWare-a, AD i BackupExec-a itd.)
+14. Nabava računalne opreme
+15. Uspostava sustava javnih bicikala na području UASa u sklopu projekta Biraj biciklu!
+16. Zdravstveni sistematski pregledi za zaposlene u Gradskoj upravi Grada Splita
+17. Optimizacija grupa poslovnih procesa, proširenje i održavanje eGOP platforme te
+    implementacija i održavanje platforme za jednostavnu nabavu
+18. Usluge najma stroja za preslik i usluge preslika – okvirni sporazum 2 god.
+19. Izgradnja boćališta pri GK Kman
+
+
 Financijsko izvješće Grada Splita na dan 31.05.2021.
 
 a)
 
+```
 STANJE NA DAN
 31.05.2020. PLAN 2021.^
-STANJE NA DAN
-31.05.2021.
+```
+###### STANJE NA DAN
+
+###### 31.05.2021.
+
+```
 prihodi poslovanja 301.568.743 1.284.329.927 418.888.064
 prihodi od nefinancijske imovine 3.629.107 33.123.320 4.279.040
 primici 0 2.000.000 100.000
@@ -3704,50 +4285,82 @@ tekući višak/manjak 18.035.625 - 29.413.377
 preneseni višak/manjak 31.911.198 34.885.644
 FINANCIJSKI REZULTAT NA
 DAN 31.05. 49.946.823^ 5.472.267^
+```
 b)
 
+```
 GRUPA
 KONTA
-OBVEZE 31.12.2020. 31.05.2021.
+```
+###### OBVEZE 31.12.2020. 31.05.2021.
+
+```
 23 obveze za rashode poslovanja 68.953.368 44.675.821
+```
+```
 24 obveze za nabavu nefinancijske imovine 25.457.830 13.790.262
+```
+```
 26 obveze za zajmove 151.700.735 134.872.824
+```
+```
 29 odgođeno plaćanje rashoda i prihodi budućih
 razdoblja
-14.102.347 17.685.208
-UKUPNO 260.214.280 211.024.115
-OBVEZE 31.12.2020. 31.05.2021.
+```
+###### 14.102.347 17.685.208
+
+###### UKUPNO 260.214.280 211.024.115
+
+###### OBVEZE 31.12.2020. 31.05.2021.
+
+```
 dospjele obveze 24.858.082 21.798.942
+```
+```
 nedospjele obveze 221.253.850 171.539.977
+```
+```
 UKUPNO 246.111.932 193.338.919
+```
 Napominjemo da u obvezama po dospijeću nisu obuhvaćene obveze konta 29-odgođeno
 plaćanje rashoda i prihodi budućih razdoblja, a u iznosu od 171,5 mil. kuna ukupnih nedospjelih
 obveza na kredite se odnosi 134,9 mil. kuna.
 
-31.12.2020. 31.05.2021.
+
+###### 31.12.2020. 31.05.2021.
+
+```
 žiro i devizni račun 146.467.337 35.256.804
 podračuni za EU projekte 6.041.321
 izvlaštenja 11.680.119 16.466.544
 UKUPNO 158.147.456 57.764.669
+```
 c)
 
 Za nužne mjesečne troškove prema donjoj tabeli potrebno je osigurati 48,0 mil. kuna uz
 pretpostavku da neće biti nepredviđenih ovrha. Isto tako treba napomenuti da je potrebno
 voditi računa o slijedećem:
 
-da se prenesena (neutrošena) sredstva u iznosu 18,1 mil. kuna dobivenih u 2020.
-godini na ime dugoročnog kredita strogo namjenski utroše za gradske investicije prema
-specifikaciji projekata
-da se osiguraju sredstva za udžbenike u iznosu 5,0 mil. kuna
-da se osiguraju sredstva za materijalne troškove zaposlenika Gradske uprave i
-proračunskih korisnika sukladno Kolektivnom ugovoru, a sve u iznosu 9,2 mil. kuna
-(4,7 mil. kuna Gradska uprava, 4,5 mil. kuna proračunski korisnici)
-da se tijekom godine otplati beskamatni zajam u iznosu 40,0 mil. kuna
-FIKSNI TROŠKOVI - MJESEČNI
-UKUPNO SREDSTVA ZA PLAĆE 20.315.000
-GRAD SPLIT 4.500.000
-JVP 2.000.000
-OBRAZOVANJE 7.250.000
+- da se prenesena (neutrošena) sredstva u iznosu 18,1 mil. kuna dobivenih u 2020.
+    godini na ime dugoročnog kredita strogo namjenski utroše za gradske investicije prema
+    specifikaciji projekata
+- da se osiguraju sredstva za udžbenike u iznosu 5,0 mil. kuna
+- da se osiguraju sredstva za materijalne troškove zaposlenika Gradske uprave i
+    proračunskih korisnika sukladno Kolektivnom ugovoru, a sve u iznosu 9,2 mil. kuna
+    (4,7 mil. kuna Gradska uprava, 4,5 mil. kuna proračunski korisnici)
+- da se tijekom godine otplati beskamatni zajam u iznosu 40,0 mil. kuna
+
+
+###### FIKSNI TROŠKOVI - MJESEČNI
+
+###### UKUPNO SREDSTVA ZA PLAĆE 20.315.000
+
+###### GRAD SPLIT 4.500.000
+
+###### JVP 2.000.000
+
+###### OBRAZOVANJE 7.250.000
+
 predškolski odgoj 6.500.000
 
 osnovno školstvo (cjelodnevni boravak) 500.000
@@ -3786,7 +4399,7 @@ NAKNADE 500.000
 
 Stipendije 500.000
 
-MATERIJALNI TROŠKOVI 5.150.000
+**MATERIJALNI TROŠKOVI** 5.150.000
 
 minimalni standard - osnovno školstvo 1.350.000
 
@@ -3800,54 +4413,87 @@ materijalni troškovi u ustanovama kulture 2.000.000
 
 materijalni troškovi u sportu 900.000
 
-GRADSKO VIJEĆE 375.000
+**GRADSKO VIJEĆE** 375.000
 
-ČUVANJE I ODRŽAVANJE GRADSKIH PROSTORA 710.000
+**ČUVANJE I ODRŽAVANJE GRADSKIH PROSTORA** 710.000
 
 SOCIJALA 3.000.000
 
-TEKUĆE KOMUNALNO ODRŽAVANJE 10.000.000
+**TEKUĆE KOMUNALNO ODRŽAVANJE** 10.000.000
 
 OTPLATE KREDITA 1.800.000
 
 SVEUKUPNO 48.060.000
 
+
 d)
 
 Obveze po kreditima u tekućoj i narednim godinama iskazane su u tabelama koje slijede i to:
 
-KREDITI GLAVNICA
-PLAĆENO DO
-31.05.2021.
-OBVEZA DO
-31.12.2021.
-OBVEZA U
-SLIJEDEĆIM
-GODINAMA
-2016. 2.472.271 1.483.626 0
-2017. 2.500.000 3.500.000 6.000.000
-2020. 3.572.915 5.002.081 77.174.964
-UKUPNO 8.545.186 9.985.707 83.174.964
-KREDITI KAMATA
-PLAĆENO DO
-31.05.2021.
-OBVEZA DO
-31.12.2021.
-OBVEZA U
-SLIJEDEĆIM
-GODINAMA
-2016. 28.374 5.797 0
-2017. 86.888 92.371 62.800
-2020. 351.692 466.213 3.505.978
-UKUPNO 466.954 564.381 3.568.778
-SVEUKUPNO 9.012.140 10.550.088 86.743.742
-PROČELNICA P.O.
+###### KREDITI GLAVNICA
+
+###### PLAĆENO DO
+
+###### 31.05.2021.
+
+###### OBVEZA DO
+
+###### 31.12.2021.
+
+###### OBVEZA U
+
+###### SLIJEDEĆIM
+
+###### GODINAMA
+
+###### 2016. 2.472.271 1.483.626 0
+
+###### 2017. 2.500.000 3.500.000 6.000.000
+
+###### 2020. 3.572.915 5.002.081 77.174.964
+
+###### UKUPNO 8.545.186 9.985.707 83.174.964
+
+###### KREDITI KAMATA
+
+###### PLAĆENO DO
+
+###### 31.05.2021.
+
+###### OBVEZA DO
+
+###### 31.12.2021.
+
+###### OBVEZA U
+
+###### SLIJEDEĆIM
+
+###### GODINAMA
+
+###### 2016. 28.374 5.797 0
+
+###### 2017. 86.888 92.371 62.800
+
+###### 2020. 351.692 466.213 3.505.978
+
+###### UKUPNO 466.954 564.381 3.568.778
+
+###### SVEUKUPNO 9.012.140 10.550.088 86.743.742
+
+###### PROČELNICA P.O.
+
+```
 Olenka Dadić
-UPRAVNI ODJEL ZA SOCIJALNU SKRB, ZDRAVSTVENU ZAŠTITU I DEMOGRAFIJU
+```
+
+###### UPRAVNI ODJEL ZA SOCIJALNU SKRB, ZDRAVSTVENU ZAŠTITU I DEMOGRAFIJU
+
 Upravni odjel za socijalnu skrb, zdravstvenu zaštitu i demografiju se sastoji od dva odsjeka:
 
+```
  Odsjek za socijalnu skrb i zdravstvenu zaštitu
  Odsjek za demografsku potporu i međugeneracijsku solidarnost
+```
 Odjel obavlja upravne, stručne i druge poslove vezane za socijalno zbrinjavanje građana, skrbi o
 lokalnim potrebama zdravstvene zaštite stanovništva, predlaže mjere za poboljšanje lokalnih
 mjera socijalne i zdravstvene zaštite stanovništva, prati socijalna i demografska kretanja i pojave,
@@ -3856,11 +4502,13 @@ tijelima u cilju unapređenja sustava.
 
 Odluke koje su na snazi i temeljem kojih se provode aktivnosti i mjere:
 
+```
  Odluka o socijalnoj skrbi (Službeni glasnik Grada Splita, 19/19, 38/20 i 70/20)
  Odluka o naknadi novorođenoj djeci (Službeni glasnik Grada Splita, 38/20)
+```
 Programom javnih potreba socijalne skrbi, zdravstvene zaštite i demografije Grada Splita za
 
-godinu s projekcijama za 2022. i 2023. godinu su utvrđene aktivnosti propisane
+2021. godinu s projekcijama za 2022. i 2023. godinu su utvrđene aktivnosti propisane
 Zakonom o socijalnoj skrbi, kao i aktivnosti kojima se nastoji provoditi zdravstvena i socijalna
 politika iznad zakonskog standarda koje propisuju nadležna resorna ministarstva na temelju
 općih akata Grada Splita, a koja uključuju zaštitu djece i mladih, promicanje zdravlja i
@@ -3869,6 +4517,7 @@ invaliditetom, zaštitu pojedinaca i obitelji, te zaštitu beskućnika, a s cilj
 socijalno ugroženim osobama, kao i osobama u nepovoljnim osobnim ili obiteljskim
 okolnostima u svrhu unapređenja kvalitete života i osnaživanju korisnika u samostalnom
 zadovoljenju osnovnih životnih potreba, te njihovog aktivnog uključivanja u društvo.
+
 Ciljevi programa su sprečavanje isključenosti socijalno ugroženih građana kroz osiguranje
 pristupa socijalnim uslugama, jačanje izvaninstitucionalne skrbi putem pružanja socijalnih
 usluga, suradnja s civilnim inicijativama na lokalnoj razini, razvoj i jačanje međugeneracijske
@@ -3879,24 +4528,29 @@ organiziranje i osiguravanje zdravstvene zaštite, te financiranje i sufinancira
 programa i projekata ustanova, organizacija, udruga, te drugih pravnih i fizičkih osoba čija je
 djelatnost socijalno-humanitarnog i/ili zdravstvenog karaktera.
 
+
 Programom u ukupnom iznosu od 70.216.380,00 kuna su obuhvaćena dva programska
 područja:
 
+```
 Socijalna skrb i zdravstvena zaštita u iznosu od 36.284.380,00 kuna i
 Demografska potpora i međugeneracijska solidarnost u iznosu od 33.932.000,00 kuna.
-Mjere koje su u provedbi i koje se mjesečno isplaćuju:
-Pravo na besplatnu marendu u osnovnoj školi u visini od 150,00 kuna u tekućoj školskoj
+```
+##### Mjere koje su u provedbi i koje se mjesečno isplaćuju:
+
+- Pravo na **besplatnu marendu u osnovnoj školi** u visini od 150,00 kuna u tekućoj školskoj
 2020./2021. godini koristi oko 1.600 korisnika mjesečno koji ispunjavaju uvjete. Planirani iznos
 za 2021. godinu iznosi 2.500.000,00 kuna.
-Pravo na sufi nanciranje prehrane u cjelodnevnom boravku u osnovnoj školi u iznosu
+- Pravo na sufi **nanciranje prehrane u cjelodnevnom boravku u osnovnoj školi** u iznosu
 od 450,00 kuna mjesečno sukladno propisanim kriterijima navedenim u Odluci o socijalnoj
 skrbi. U tekućoj školskoj 2020./2021. godini ovo pravo koristi oko 80 korisnika mjesečno. U
 proteklom razdoblju je došlo do porasta broja korisnika iz razloga što je povećan broj programa
 cjelodnevnih boravaka. Planirani iznos za 2021. godinu iznosi 250.000,00 kuna.
-Sufinanciranje cijene programa gradskih, privatnih i vjerskih vrtića/jaslica se ostvaruje
+- **Sufinanciranje cijene programa gradskih, privatnih i vjerskih vrtića/jaslica** se ostvaruje
 u određenom postotku sukladno uvjetima za svaku pojedinu kategoriju. U tekućoj pedagoškoj
 2020./2021. godini ovo pravo koristi oko 650 djece mjesečno koji ispunjavaju uvjete. Planirani
 iznos za 2021. godinu iznosi 1.350.000,00 kuna.
+
 Važno je napomenuti da je u proteklom razdoblju za gore navedene dvije mjere putem izmjene
 Odluke o socijalnoj skrbi u 2019. godini promijenjen način sufinanciranja cijene prehrane u
 cjelodnevnom boravku i sufinanciranje cijene predškolskih ustanova na način da se sredstva
@@ -3904,9 +4558,11 @@ ne isplaćuju roditeljima nego ustanovama iz razloga neredovitog podmirenja mjes
 obaveza, pa je uvedeno sufinanciranje prema mjesečnom zahtjevu ustanove za onu djecu koja
 pohađaju programe.
 
-Besplatna pokazna karta za učenike i studente iz obitelji s troje i više djece koji primaju
+- Besplatna pokazna karta za učenike i studente iz obitelji s troje i više djece koji primaju
 dječji doplatak. U tekućoj školskoj 2020./2021. godini ovo pravo koristi oko 1.300 korisnika
 mjesečno.
+
+```
  Za sve gore navedene mjere tijekom mjeseca lipnja/srpnja 2021. godine je potrebno
 napraviti pripremne radnje za slijedeću pedagošku/školsku godinu za nastavak
 sufinanciranja gore navedenih mjera
@@ -3919,43 +4575,57 @@ korisnike kojima se pravo nastavlja
  U mjesecu kolovozu/rujnu/listopadu obrađivati nove zahtjeve
  Započeti s isplatom mjera u mjesecu rujnu
  Kontinuirano zaprimati i obrađivati zahtjeve novih korisnika
-Potpora/stipendija učenicima srednjih škola i studentima iz socijalno ugroženih obitelji
+```
+- **Potpora/stipendija učenicima srednjih škola i studentima iz socijalno ugroženih obitelji**
 se ostvaruje temeljem javnog poziva koji je otvoren od mjeseca rujna/listopada do kraja travnja
 slijedeće godine, te se isplaćuje tijekom deset mjeseci. Potpore u visini od 600,00, 800,00 i
 1.000,00 kuna se mjesečno isplaćuju u tekućoj školskoj/akademskoj 2020./2021. godini za oko
 130 učenika i 120 studenata.
+
+
 Planirani iznos za 2021. godinu iznosi 2.000.000,00 kuna.
 
+```
  Tijekom mjeseca rujna 2021. godine preispitati nastavak prava za postojeće korisnike
 odnosno zadovoljavanje uvjeta
  Objaviti novi poziv u mjesecu listopadu 2021. godine
  Kontinuirano zaprimati i obrađivati zahtjeve novih korisnika
-Potpore/stipendije učenicima srednjih škola i studentima s invaliditetom su po prvi puta
+```
+- **Potpore/stipendije učenicima srednjih škola i studentima s invaliditetom** su po prvi puta
 uvedene u 2019. godini u visini od 600,00, 800,00 i 1.000,00 kuna mjesečno tijekom deset
 mjeseci. Pravo se ostvaruje temeljem javnog poziva koji se objavljuje i traje 30 dana, a do sada
 su svi koji ispunjavaju uvjete ostvarili pravo na ovu vrstu potpore. Planirani iznos za 2021.
 godinu iznosi 150.000,00 kuna i u tekućoj školskoj/akademskoj 2020./2021. godini ovo pravo
 ostvaruje oko 25 učenika i studenata.
+
+```
  Tijekom mjeseca rujna 2021. godine preispitati nastavak prava za postojeće korisnike
 odnosno zadovoljavanje propisanih uvjeta
  Objaviti novi poziv u mjesecu listopadu 2021. godine
  Zaprimiti i obraditi zahtjeve novih korisnika
-Naknade korisnicima osobne invalidnine Centra za socijalnu skrb u iznosu od 150,00
+```
+- Naknade korisnicima osobne invalidnine Centra za socijalnu skrb u iznosu od 150,00
 kuna se isplaćuju mjesečno korisnicima koji ispunjavaju uvjete. Planirani iznos za 2021. godinu
 iznosi 1.400.000,00 kuna i ukupno je oko 775 korisnika.
+
+```
  Tijekom mjeseca lipnja/srpnja 2021. godine je potrebno provjeriti bazu korisnika u
 suradnji sa Centrom za socijalnu skrb
  Preispitati nastavak prava za postojeće korisnike odnosno udovoljavanje uvjetima
  Kontinuirano zaprimati i obrađivati zahtjeve novih korisnika
-Potpora njegovateljima uključuje isplatu mjesečne naknade roditeljima njegovateljima i
+```
+- Potpora njegovateljima uključuje isplatu mjesečne naknade roditeljima njegovateljima i
 osobama sa statusom njegovatelja u visini od 500,00 kuna. Planirani iznos za 2021. godinu
 iznosi 550.000,00 kuna i u tekućoj godini ovo pravo ostvaruje oko 100 korisnika.
 Važno je naglasiti da je unatoč krizi potpora uvedena sredinom 2020. godine zbog važnosti
 pomoći ovoj ranjivoj skupini.
+
+```
  Tijekom mjeseca lipnja/srpnja 2021. godine je potrebno provjeriti bazu korisnika u
 suradnji sa Centrom za socijalnu skrb
  Kontinuirano zaprimati i obrađivati zahtjeve novih korisnika
-Naknada za troškova stanovanja – sukladno Zakonu o socijalnoj skrbi, veliki gradovi su
+```
+- **Naknada za troškova stanovanja** – sukladno Zakonu o socijalnoj skrbi, veliki gradovi su
 dužni osigurati sredstva za ostvarivanje prava na podmirenje troškova stanovanja koji se
 odnose na najamninu, komunalnu naknadu, električnu energiju, plin, vodu i slično. Pravo se
 priznaje samcu ili kućanstvu do polovice iznosa minimalne zajamčene naknade i po zahtjevu
@@ -3964,25 +4634,32 @@ financiranje troškova stanovanja obiteljima koji se nađu u kriznoj situaciji, 
 troškove i troškove najamnine za razne socijalne usluge.
 Planirani iznos za 2021. godinu iznosi 4.500.000,00 kuna i ukupno je između 700- 800
 korisnika mjesečno.
+
+```
  Mjesečno kontrolirati listu korisnika Zajamčene minimalne naknade
  Kontinuirano zaprimati i obrađivati zahtjeve postojećih i novih korisnika
-Jednokratne novčane pomoći se isplaćuju temeljem Odluke o socijalnoj skrbi sukladno
+```
+- **Jednokratne novčane pomoći** se isplaćuju temeljem Odluke o socijalnoj skrbi sukladno
 uvjetima korisniku koji se nađe u iznimno teškoj zdravstvenoj i materijalnoj situaciji, kao i za
 sufinanciranje licenciranih dadilja koje skrbe o udomljenoj djeci do njihovog upisa u redovne
 programe predškolskog odgoja.
+
+
 Važno je napomenuti da je uslijed pojave epidemije u 2020. godini povećan iznos ove vrste
 potpore i godišnje ovo pravo ostvari oko 100 korisnika u iznosu do 3.000,00 kuna jednokratno.
 Planirani iznos za 2021. godinu iznosi 200.000,00 kuna.
 
+```
  S obzirom na tešku situaciju uzrokovanu epidemijom je formirano povjerenstvo
 početkom 2021. godine kako bi se dva puta mjesečno obrađivali zaprimljeni zahtjevi
  Kontinuirano zaprimati i obrađivati zaprimljene zahtjeve
-Pogrebni troškovi za umrle se isplaćuju temeljem Odluke o socijalnoj skrbi korisnicima koji
+```
+- **Pogrebni troškovi** za umrle se isplaćuju temeljem Odluke o socijalnoj skrbi korisnicima koji
 zadovoljavaju propisane uvjete u visini od 2.500,00 kuna. Planirani iznos za 2021. godinu
 iznosi 150.000,00 kuna. Godišnje ovo pravo ostvari oko 50 korisnika, ali za razliku od prijašnjih
 godina, u 2021. godini se bilježi povećani broj zatraženih zahtjeva po ovoj osnovi.
- Kontinuirano zaprimati i obrađivati zaprimljene zahtjeve
-Potpora umirovljenicima je mjera koja se provodi temeljem Odluke o socijalnoj skrbi.
+     Kontinuirano zaprimati i obrađivati zaprimljene zahtjeve
+- Potpora umirovljenicima je mjera koja se provodi temeljem Odluke o socijalnoj skrbi.
 Sredinom 2019. godine je proveden projekt „Moj zlatni Split“ kojim se uvela kartica za
 umirovljenike na koju se dodjeljuje potpora za zadovoljavanje osnovnih životnih potreba i
 namjensko trošenje sredstava. Osim financijske potpore kartica ima i društvenu vrijednost,
@@ -3993,14 +4670,14 @@ do 2.000,00 kuna mjesečno. Važno je naglasiti da je uveden i uvjet da umirovlj
 vlasništvu može posjedovati samo jednu nekretnine, kuću ili stan, te ne može imati poslovni
 prostor ili apartman.
 Povećani su iznosi potpore u 2019. godini:
-za umirovljenike s ukupnim prihodima do 900,00 kn, iznos od 300,00 kuna, umjesto
-250,00 kuna
-za umirovljenike s ukupnim prihodima od 900,01 kn do 1200,00 kn, iznos od 250,00
-kuna umjesto 200,00 kuna
-za umirovljenike s ukupnim prihodima od 1200,01 kn do 1500,00 kn, iznos od 200,00
-kuna umjesto 150,00 kuna
-za umirovljenike s ukupnim prihodima od 1500,01 kn do 2000,00 kn, iznos od 100,00
-kuna
+    - za umirovljenike s ukupnim prihodima do 900,00 kn, iznos od 300,00 kuna, umjesto
+       250,00 kuna
+    - za umirovljenike s ukupnim prihodima od 900,01 kn do 1200,00 kn, iznos od 250,00
+       kuna umjesto 200,00 kuna
+    - za umirovljenike s ukupnim prihodima od 1200,01 kn do 1500,00 kn, iznos od 200,00
+       kuna umjesto 150,00 kuna
+    - za umirovljenike s ukupnim prihodima od 1500,01 kn do 2000,00 kn, iznos od 100,00
+       kuna
 Sveobuhvatnim radnjama se stvorila nova baza korisnika, koja je kontrolirana suvremenim
 metodama i kao takva otvara mogućnosti za daljnje širenje, kako samih kategorija korisnika,
 tako i usluga, a s ciljem pružanja pomoći socijalno ugroženim umirovljenicima u zadovoljavanju
@@ -4008,11 +4685,17 @@ osnovnih životnih potreba, unaprjeđenja kvalitete života, te njihovog aktivno
 društvo.
 Planirani iznos sredstava za 2021. godinu iznosi 6.015.000,00 kuna. Na dan 31.svibnja 2021.
 godine pravo na ovu potporu ostvaruje 3.449 korisnika.
+
+```
 3%10%
 19%
 68%
-"Mojzlatni Split
-31.05.2021."
+```
+# "Mojzlatni Split
+
+# 31.05.2021."
+
+```
 prihodi do 900 kuna;
 300 kuna
 od 900,01 do
@@ -4021,16 +4704,20 @@ od 1.200,01 do
 1.500,00; 200 kuna
 od 1.500,01 do
 2.000,00; 100 kuna
+```
+
+```
  S obzirom na činjenicu da prosječna mirovina iznosi oko 2.500,00 kuna mjesečno, u
-godini je bilo planirano proširenje nove kategorije korisnika s ukupnim prihodima
+```
+2020. godini je bilo planirano proširenje nove kategorije korisnika s ukupnim prihodima
 do 2.500,00 kuna. S obzirom na pojavu epidemije je aktivnost odgođena za sredinu
-godine.
+2022. godine.
  U mjesecu lipnju započeti s redovnom godišnjom kontrolom korisnika prema visini
 prihoda, te preispitati ispunjavanje uvjeta za korištenje prava
  Razvijati, predlagati i uvoditi nove usluge za korisnike kartice
  Kontinuirano zaprimati i obrađivati zahtjeve, te mjesečno kontinuirano provjeravati
 umrle korisnike
-Nakna da novorođenoj djeci - svako novorođeno dijete koje je rođeno u Gradu Splitu, a
+- Nakna **da novorođenoj djeci** - svako novorođeno dijete koje je rođeno u Gradu Splitu, a
 jedan roditelj ima prebivalište najmanje tri godine na području Grada Splita, ima pravo na
 naknadu za novorođeno dijete. Novčani iznos naknade za novorođeno dijete ovisi o broju
 djece u obitelji, a u rujnu 2017. godine izmjenom Odluke o socijalnoj skrbi po prvi put u ovakvim
@@ -4039,6 +4726,7 @@ Povećava je naknada za novorođeno drugo dijete sa 3.000 na 4.000 kuna, kao i z
 svako slijedeće dijete koja od tada iznosi 55.000,00 kn (iznos se isplaćuje tijekom deset
 godina, dakle godišnje 5.500,00 kn). Ovo pravo se ostvaruje temeljem Odluke o naknadi
 novorođenoj djeci. Planirana sredstva u 2021. godini iznose 7.500.000,00 kuna.
+
 U 2017. godini je utrošenih sredstava za novorođenu djecu bilo 3,9 milijuna kuna i odobrena
 je 1.231 naknada.
 U 201 8. godini je utrošenih sredstava za novorođenu djecu bilo 5,4 miijuna kuna i odobrena
@@ -4050,33 +4738,43 @@ U 2019. godini je utrošenih sredstava za novorođenu djecu bilo 7 milijuna kuna
 U 2020. godini je utrošenih sredstava za novorođenu djecu bilo 8,3 milijuna kuna i odobreno
 je 1.440 naknada.
 
+
+```
  U 2021. godinu je unesen obrok 78 beba iz 2017. godine, 286 beba iz 2018. godine,
 271 beba iz 2019. godine i 236 beba iz 2020. godine što je ukupno 871 obitelji kojima
 će se isplatiti obrok u visini od 5.500,00 kuna (ukupno 4.790.500,00 kuna).
  Kontinuirano zaprimati i obrađivati nove zahtjeve.
-Važna izmjena uvjet a prihoda za ostvarivanje prava temeljem Odluke o socijalnoj
+```
+- **Važna izmjena uvjet** a prihoda za ostvarivanje prava temeljem Odluke o socijalnoj
 skrbi
+
 U 2019. godini temeljem izmjene Odluke su povećani iznosi na slijedeći način:
 
+```
 Kućanstvo STARO NOVO
 Samac 2.000 kuna 2.300 kuna
-Dvočlana obitelj (^) 2.600 kuna 2.900 kuna
-Svaki daljnji član + 500 kuna + 700 kuna
+```
+**Dvočlana obitelj** (^) 2.600 kuna 2.900 kuna
+**Svaki daljnji član** + 500 kuna + 700 kuna
 Korisnicima osobne invalidnine Centra za socijalnu skrb povećana visina uvjeta sa 2.500,00
 kuna na 2.750,00 kuna.
 
-Jednokratne mjere usmjerene pomoći pojedincima i kućanstvima:
-Ogrjev – Prema Zakonu o socijalnoj skrbi samcu ili kućanstvu korisniku zajamčene
+##### Jednokratne mjere usmjerene pomoći pojedincima i kućanstvima:
+
+- Ogrjev – Prema Zakonu o socijalnoj skrbi samcu ili kućanstvu korisniku zajamčene
 minimalne naknade koji se grije na drva priznaje se pravo na troškove ogrjeva, odnosno
 odobrava se novčani iznos za podmirenje tog troška u visini koju odlukom odredi nadležna
 jedinica područne (regionalne) samouprave. Sredstva za provođenje ove mjere su
 decentralizirana sredstva i osiguravaju se u Proračunu Splitsko – dalmatinske županije. U
-godini je naknada iznosila 1.050 kuna i isplaćuje se za oko tisuću korisnika godišnje.
+2020. godini je naknada iznosila 1.050 kuna i isplaćuje se za oko tisuću korisnika godišnje.
 Planirana sredstva u 2021. godini iznose 1.150.000,00 kuna.
+
+```
  U mjesecu srpnju započeti pripremne radnje za isplatu ove mjere u suradnji sa Splitsko-
 dalmatinskom županijom i Centrom za socijalnu skrb
  U mjesecu listopadu početi s isplatama ogrjeva i završiti do prosinca 2021. godine
-Božićnice - Temeljem osiguranih sredstava u proračunu se isplaćuju „božićnice“ isključivo
+```
+- **Božićnice** - Temeljem osiguranih sredstava u proračunu se isplaćuju „božićnice“ isključivo
 socijalnim kategorijama građana u visini od 2.000.000,00 kuna: umirovljenicima koji primaju
 gradsku potporu/naknadu, korisnicima osobne invalidnine Centra za socijalnu skrb koji primaju
 gradsku potporu/naknadu, njegovateljima i osobama sa statusom njegovatelja koji primaju
@@ -4089,35 +4787,47 @@ ukupnim prihodima do 900,00 kuna, 400,00 kuna onima s ukupnim prihodima od 900,0
 kuna, njegovateljima 500,00 kuna, korisnicima osobne invalidnine, korisnicima zajamčene
 minimalne naknade i umirovljenicima mlađim od 60 godina su isplaćene božićnice u visini od
 300 ,00 kuna. Pravo na ovakvu vrstu potpore ostvari oko 5.800 građana).
+
+
+```
  U mjesecu listopadu odrediti kategorije korisnika za 2021. godinu
  Krajem mjeseca studenoga/početkom prosinca izvršiti sve isplate
-Financiranje proračunskih
-korisnika i jedinstvenih provoditelja usluga koje su u tijeku:
-Sufinanciranje aktivnosti i stručnog kadra - socijalnog radnika u Zavodu za
-hematologiju, onkologiju i medicinsku genetiku Klinike za dječje bolesti,
-Odgojitelj za poludnevni boravak u Domu Maestral,
-Aktivnosti Centra za socijalnu skrb (Obiteljski centar i program „Svi zajedno“),
-Aktivnosti Centra za pružanje usluga u zajednici,
-Sufinanciranje stručnog kadra Poliklinike za rehabilitaciju djece s poteškoćama u
-razvoju,
-Osiguranja djeci koja su smještena u Domu „Maestral“,
-Rad psihijatra i aktivnosti Centra za odgoj i obrazovanje „Juraj Bonači“,
-Aktivnosti Kliničkog bolničkog centra Split i druge aktivnosti proračunskih korisnika,
-Rad kuhara u Ustanovi „Samaritanac“,
-Županijske organizacije klubova liječenih alkoholičara
+```
+##### Financiranje proračunskih
+
+##### korisnika i jedinstvenih provoditelja usluga koje su u tijeku:
+
+- Sufinanciranje aktivnosti i stručnog kadra - socijalnog radnika u Zavodu za
+    hematologiju, onkologiju i medicinsku genetiku Klinike za dječje bolesti,
+- Odgojitelj za poludnevni boravak u Domu Maestral,
+- Aktivnosti Centra za socijalnu skrb (Obiteljski centar i program „Svi zajedno“),
+- Aktivnosti Centra za pružanje usluga u zajednici,
+- Sufinanciranje stručnog kadra Poliklinike za rehabilitaciju djece s poteškoćama u
+    razvoju,
+- Osiguranja djeci koja su smještena u Domu „Maestral“,
+- Rad psihijatra i aktivnosti Centra za odgoj i obrazovanje „Juraj Bonači“,
+- Aktivnosti Kliničkog bolničkog centra Split i druge aktivnosti proračunskih korisnika,
+- Rad kuhara u Ustanovi „Samaritanac“,
+- Županijske organizacije klubova liječenih alkoholičara
+
+```
  Kontinuirano donositi Zaključke, potpisivati Ugovore, pratiti i vršiti uplate
-Zaštita beskućnika – uključuje plaćanje troškova što je obveza Grada Splita prema Zakonu
+```
+- **Zaštita beskućnika** – uključuje plaćanje troškova što je obveza Grada Splita prema Zakonu
 o socijalnoj skrbi, a što se realizira kroz subvencioniranje programa Prihvatilišta za beskućnike
 koji provodi Grad Split i Udruga Most koji brinu za oko 35 korisnika. Tijekom proteklog razdoblja
 je uveden drugi obrok kojeg je Grad dužan osigurati prema Zakonu. Planirana sredstva za
-godinu iznose 220.000,00 kuna.
- Novo razdoblje financiranja je od mjeseca srpnja 2021. godine, pa je potrebno izraditi
-novi Zaključak, potpisati Ugovor i izvršiti plaćanje
-Sufinanciranje Sigurne kuće/Skloništa za žrtve nasilja – usluge čiji je provoditelj Caritas
+2021. godinu iznose 220.000,00 kuna.
+     Novo razdoblje financiranja je od mjeseca srpnja 2021. godine, pa je potrebno izraditi
+       novi Zaključak, potpisati Ugovor i izvršiti plaćanje
+- Sufinanciranje **Sigurne kuće/Skloništa za žrtve nasilja** – usluge čiji je provoditelj Caritas
 Splitsko-dalmatinske županije. Planirana sredstva za 2021. godinu iznose 110.000,00 kuna.
+
+```
  S obzirom da je za potrebe Skloništa za žrtve nasilja osiguran novi stan i očekuje se
 skoro proširenje kapaciteta, bit će potrebno povećati sredstva za sufinanciranje rada
-Suradnja s Crvenim križem – Gradskim društvom Split uključuje sufinanciranje temeljem
+```
+- **Suradnja s Crvenim križem – Gradskim društvom Split** uključuje sufinanciranje temeljem
 čl. 30. Zakona o Hrvatskom Crvenom križu redovne djelatnosti i službe traženja.
 Temeljem naloga Državne revizije se povećavao udio sredstava jedinice lokalne samouprave
 koja osiguravaju rad i djelovanje Crvenog križa u skladu sa Zakonom o Hrvatskom Crvenom
@@ -4126,79 +4836,122 @@ se odvijaju slijedeći programi: program nadzora izvršenja sankcija rada za op�
 zdravstveni program, socijalni program, promocija DDK, rad s mladima, prevencija trgovanja
 ljudima, program pripreme za djelovanje u katastrofama i spasilačka služba.
 Planirana sredstva za 2021. godinu iznose 3.123.380,00 kuna.
+
+```
  Sukladno Ugovoru ispunjavati obveze i kontrolirati dostavljena izvješća
-Financiranje proračunskih korisnika i jedinstvenih provoditelja usluga
-koje su u pripremi ili u planu za drugi dio godine:
-Sufinanciranje aktivnosti Kliničkog bolničkog centra, kao i aktivnosti u organizaciji fakulteta
-Sufinanciranje projekta „Za lake školske korake“ Nastavnog zavoda za javno zdravstvo
+```
+
+##### Financiranje proračunskih korisnika i jedinstvenih provoditelja usluga
+
+##### koje su u pripremi ili u planu za drugi dio godine:
+
+- Sufinanciranje aktivnosti Kliničkog bolničkog centra, kao i aktivnosti u organizaciji fakulteta
+- Sufinanciranje projekta „Za lake školske korake“ Nastavnog zavoda za javno zdravstvo
 Splitsko-dalmatinske županije, kao i druge aktivnosti u njihovoj organizaciji, a kao prioritet
 projekt za očuvanje mentalnog zdravlja stanovništva uslijed pojave virusa i COVID-19 bolesti.
+
+```
  Navedeno provoditi u suradnji i temeljem zahtjeva korisnika uz potrebnu podršku odjela
-U suradnji s Povjerenstvom za mentalno zdravlje napraviti plan aktivnosti za unaprjeđenje
+```
+- U suradnji s Povjerenstvom za mentalno zdravlje napraviti plan aktivnosti za unaprjeđenje
 usluga na ovom području
+
+```
  S obzirom na imenovano povjerenstvo se očekuju prvi sastanci tijekom mjeseca lipnja
-godine
-U skladu sa epidemiološkom situacijom organizirati javnozdravstvenu akciju „Djeluj sada“,
+```
+2021. godine
+- U skladu sa epidemiološkom situacijom organizirati javnozdravstvenu akciju „Djeluj sada“,
 preventivnih pregleda kože i ranog otkrivanja melanoma.
+
+```
  Akcija je bila planirana u Đardinu u mjesecu svibnju, ali je zbog epidemioloških razloga
 odgođena za mjesec rujan 2021. godine
  U suradnji sa Crvenim križem – Gradskim društvom Split ukoliko dozvole epidemiološki
 uvjeti organizirati i dati podršku ovom događaju koji se 2019. godine pokazao iznimno
 uspješnim
-Započete su aktivnosti za izradu socijalnog plana za predstojeće razdoblje
+```
+- Započete su aktivnosti za izradu socijalnog plana za predstojeće razdoblje
+
+```
  U suradnji s predstavnicima Mreže zdravih gradova i školom narodnog zdravlja „Andrija
 Štampar“ su nastavljene aktivnosti koje je Grad Split posljednji put imao 2005. godine
 na ovom području.
  Organizirati sastanke, potpisati ugovore i donijeti dokumente do jeseni 2021. godine
-U tijeku je izrada priručnika/vodiča za građane sa korisnim informacijama i tekstovima
+```
+- U tijeku je izrada priručnika/vodiča za građane sa korisnim informacijama i tekstovima
 stručnjaka koji će biti dostupan u tiskanom i web izdanju
+
+```
  Do kraja 2021. godine objaviti priručnik/vodič
-Plaćanje Hitnoj pomoći (ZHMP) dodatnih timova za Slatine (otok Čiovo) tijekom ljetne sezone
+```
+- Plaćanje Hitnoj pomoći (ZHMP) dodatnih timova za Slatine (otok Čiovo) tijekom ljetne sezone
 temeljem Zakona o zdravstvenoj zaštiti.
+
+```
  Sukladno zahtjevu provoditelja usluge izraditi dokumentaciju i izvršiti plaćanje
-Redovni servisa defibrilatora
+```
+- Redovni servisa defibrilatora
+
+```
  Krajem 2021. godine izvršiti redovni godišnji servis
-Sredstva potrebna za blagdanske posjete
+```
+- Sredstva potrebna za blagdanske posjete
+
+```
  Tijekom mjeseca studenoga izraditi Zaključke, izvršiti isplate
  Obaviti blagdanske posjete
-Javne nabave (provedeno, u tijeku):
-Usluga pomoć u kući (u visini od 198.000,00 kuna)
-Kuća za roditelje - trenutna lokacija u Gundulićevoj ulici u prostorijama Centra za
-socijalnu skrb – do izgradnje objekta „Četiri palme“ kada se planira preseljenje
-(vrijednost 65.000,00 kuna)
-Psihosocijalni tretman za žrtve nasilja (u visini od 48.000,00 kuna)
-Psihosocijalni tretman za počinitelje nasilja (u visini od 47.760,00 kuna)
-Psihosocijalni tretman za ovisnike (u visini od 69.998,40 kuna)
-Usluge podrške djeci i mladima s poremećajima u ponašanju (u visini od 100.000,00
-kuna)
-Swing informatička podrška (održavanje sustava Lotus koji se planira napustiti
-implementacijom novih sustava; u visini od 39.912,00 kuna )
-Nabava novog defibrilatora (lokacija ribarnica jer je postojeći ukraden, u visini od
-25.000,00 kuna)
-U 2019. godini je izvršena nabava novog prikladnog lifta za osobe s invaliditetom
+```
+
+##### Javne nabave (provedeno, u tijeku):
+
+- Usluga pomoć u kući (u visini od 198.000,00 kuna)
+- Kuća za roditelje - trenutna lokacija u Gundulićevoj ulici u prostorijama Centra za
+    socijalnu skrb – do izgradnje objekta „Četiri palme“ kada se planira preseljenje
+    (vrijednost 65.000,00 kuna)
+- Psihosocijalni tretman za žrtve nasilja (u visini od 48.000,00 kuna)
+- Psihosocijalni tretman za počinitelje nasilja (u visini od 47.760,00 kuna)
+- Psihosocijalni tretman za ovisnike (u visini od 69.998,40 kuna)
+- Usluge podrške djeci i mladima s poremećajima u ponašanju (u visini od 100.000,00
+    kuna)
+- Swing informatička podrška (održavanje sustava Lotus koji se planira napustiti
+    implementacijom novih sustava; u visini od 39.912,00 kuna )
+- Nabava novog defibrilatora (lokacija ribarnica jer je postojeći ukraden, u visini od
+    25.000,00 kuna)
+- **U 2019. godini je izvršena nabava** novog prikladnog lifta za osobe s invaliditetom
 na Benama u vrijednosti od oko 150.000,00 kuna. Aqualifter je automatizirano pomagalo
 koje osobama s invaliditetom na siguran način omogućava samostalan ulazak i izlazak iz
 mora, bez intervencija osoba sa strane. Izrađen je od nehrđajućeg čelika, a opremljen i
 radio daljinskim upravljanjem za manevriranje uz minimalan napor i maksimalnu sigurnost
 korisnika.
+
+```
  U 2021. godini je potreban redoviti servis, montiranje i skladištenje
-Objedinjena je usluga dežurstva i pomoći osobama s invaliditetom na plaži Bene i Žnjan
+```
+- Objedinjena je usluga dežurstva i pomoći osobama s invaliditetom na plaži Bene i Žnjan
 tijekom ljetne sezone kako bi se povećala kvaliteta usluge. Planirani iznosi sredstava u 2021.
 godini iznose 170.000,00 kuna.
+
+```
  Planirani početak usluge u mjesecu lipnju do 30. rujna. 2021. godine.
-Pilot projekt: Aktivnosti za umirovljenike i o sobe starije životne dobi u dnevnom
+```
+- Pilot projekt: Aktivnosti za umirovljenike i o **sobe starije životne dobi u dnevnom**
 boravku gradskog kotara predstavlja projekt koji omogućava osobama starije životne dobi
 da veći dio dana provode u prostorijama gradskog kotara gdje se organiziraju aktivnosti kao
 što su edukacije, radne aktivnosti, tjelovježba, prehrana, edukativne radionice i slično.
 Planirani iznosi sredstava u 2021. godini iznose 300.000,00 kuna.
+
+```
  U tijeku opremanje prostora i pokretanje prvih aktivnosti takve vrste u lipnju 2021.
 godini.
-Prijevoz osoba s 80% i većim invaliditetom na donjim ekstremitetima i sanitetski
+```
+- **Prijevoz osoba s 80% i većim invaliditetom na donjim ekstremitetima i sanitetski**
 prijevoz se obavlja putem provedenog postupka javne nabave i sklopljenih ugovora, kao i
-prijevoz u odlasku i povratku s nastave djece s teškoćama u razvoju s prebivalištem na
+**prijevoz u odlasku i povratku s nastave djece s teškoćama u razvoju** s prebivalištem na
 području Grada Splita, koja pohađaju nastavu u Centru za odgoj i obrazovanje „Slava Raškaj“
 Split, odnosno u Centru za odgoj i obrazovanje „Juraj Bonači“ Split. Visina planiranih sredstava
 u 2021. godini iznosi 2.500.000,00 kuna.
+
+
 Uslugu prijevoza najčešće koriste zaposlenici koji rade na Trgovačkom sudu, Lučkoj kapetaniji
 i Ustanovi DES, zatim se prevoze djeca s poteškoćama u razvoju, vrši se prijevoz učenika i
 studenata u srednje škole i učilišta, kao i gradska vožnja po narudžbama, te sanitetski prijevoz.
@@ -4206,25 +4959,33 @@ Uslugu prijevoza u odlasku i povratku s nastave trenutno koristi oko 25 korisnik
 nastavu u Centru za odgoj i obrazovanje „Slava Raškaj“ Split, te oko 25 korisnika koja
 pohađaju nastavu u Centru za odgoj i obrazovanje „Juraj Bonači“ Split.
 
+```
  U 2021. godini su nakon izmjene Odluke o socijalnoj skrbi uvedene beskontaktne
 kartice za evidentiranje vožnje
  Podjela kartica i proces implementacije je u tijeku kako bi se uskoro potpuno napustio
 stari sustav evidencije i izvještavanja
-Opremanje „Hospicija Matošić“ – u tijeku provedba javne nabave za opremanje objekta
+```
+- **Opremanje „Hospicija Matošić“** – u tijeku provedba javne nabave za opremanje objekta
 koji je u završnoj fazi izgradnje u visini od 1.000.000,00 kuna.
-Nabava higijenskih potrepština u projektu „Zaželi sretniju starost 2“ u visini od
+- **Nabava higijenskih potrepština u projektu „Zaželi sretniju starost 2“** u visini od
 192.500,00 kuna.
-Izrada promotivnih materijala „Zaželi sretniju starost 2“ u visini od 32.000,00 kuna
-Edukacija zaposlenih žena u projektu „Zaželi sretniju starost 2“
-Javne nabave koje je potrebno uskoro provesti:
-Prehrana za socijalno ugrožene građane – sukladno Zakonu o socijalnoj skrbi, veliki
+- **Izrada promotivnih materijala „Zaželi sretniju starost 2“** u visini od 32.000,00 kuna
+- **Edukacija zaposlenih žena u projektu „Zaželi sretniju starost 2“**
+
+##### Javne nabave koje je potrebno uskoro provesti:
+
+- **Prehrana za socijalno ugrožene građane** – sukladno Zakonu o socijalnoj skrbi, veliki
 gradovi su dužni osigurati sredstva za uslugu prehrane u pučkim kuhinjama. Ovu uslugu na
 području Grada Splita organizira Ustanova DES. Trenutno uslugu prehrane koristi od 300 do
 360 korisnika. Planirani iznosi sredstava u 2021. godini iznose 3.800.000,00 kuna.
+
+```
  Tijekom mjeseca lipnja 2021. započeti proces javne nabave usluge pučke kuhinje za
 slijedeće četiri godine.
-Državna potpora:
-Potpore za z apošljavanje osoba s invaliditetom – Temeljem Odluke o dodjeli pojedinačne
+```
+##### Državna potpora:
+
+Potpore za z **apošljavanje osoba s invaliditetom** – Temeljem Odluke o dodjeli pojedinačne
 državne potpore u 2021. godini za Ustanovu za zapošljavanje, rad i profesionalnu rehabilitaciju
 osoba s invaliditetom DES se dodjeljuje subvencija za zapošljavanje radnika s invaliditetom, i to
 potpora za zapošljavanje radnika s invaliditetom u obliku subvencija za plaće i potpora za
@@ -4235,31 +4996,40 @@ na ukupan broj zaposlenih osoba, a od čega najmanje 30% mora biti zaposleno na 
 radnim mjestima. Potpora Grada u 2018. godini 4.000.000,00 kuna, u 2019. godini 4.500.000,00
 kuna, te u 2020. i 2021. godini iznosi 5.000.000,00 kuna.
 
-Financiranje udruga:
+
+##### Financiranje udruga:
+
 Financiranje udruga uključuje aktivnosti sufinanciranja projekata udruga iz područja socijalne
 skrbi i zdravstvene zaštite osoba s invaliditetom (540.000,00 kuna – povećana sredstva u
 odnosnu na prethodna razdoblja), kao i sufinanciranja projekata udruga iz područja socijalne
 skrbi, zdravstvene zaštite i demografije (1.000.000,00 kuna) prema slijedećim prioritetnim
 područjima:
 
-Socijalna skrb i zdravstvena zaštita djece i mladih
-Socijalna skrb i zdravstvena zaštita pojedinca i obitelji
-Socijalna skrb i zdravstvena zaštita osoba starije životne dobi
-Sprječavanje i suzbijanje kroničnih bolesti
-Sprječavanje i suzbijanje ovisnosti
+- Socijalna skrb i zdravstvena zaštita djece i mladih
+- Socijalna skrb i zdravstvena zaštita pojedinca i obitelji
+- Socijalna skrb i zdravstvena zaštita osoba starije životne dobi
+- Sprječavanje i suzbijanje kroničnih bolesti
+- Sprječavanje i suzbijanje ovisnosti
+
+```
  Nakon raspisanih natječaja, u tijeku je administrativna procedura provjere projekata
  Nakon ocjenjivanja stručnog povjerenstva se očekuje završetak i objava rezultata u
 lipnju/srpnju 2021. godine
  Potpisivanje ugovora, dodjela sredstava i kontrola izvješća
-Informatizacija:
+```
+##### Informatizacija:
+
 Dosadašnjim aktivnostima se ostvarilo umrežavanje sa više sustava: e-matice Ministarstva
 uprave, MUP evidencija o prebivalištu i aplikacija EDIP Ministarstva financija.
 
+```
  Daljnjim aktivnostima se planira uvođenje više vrsta e-usluga kako bi se građanima
 olakšalo, ali i samim time unaprijedio sustav novim uslugama putem suvremenih
 tehnologija.
-Infrastrukturni i EU projekti:
-Palijativna skrb – „Hospicij Matošić“ pri samom kraju je izgradnja objekta palijativne skrbi
+```
+##### Infrastrukturni i EU projekti:
+
+Palijativna skrb **– „Hospicij Matošić“** pri samom kraju je izgradnja objekta palijativne skrbi
 „Hospicij Matošić“, za koji su u ovoj godini izdvojena sredstva kao i za obveze plaćanja
 troškova tekućeg i investicijskog održavanja Katoličkoj udruzi Lovret temeljem ugovornih
 obaveza u svezi realizacije Projekta „Hospicij Matošić“.
@@ -4270,13 +5040,18 @@ završetak izgradnje sredinom 2021. godine. Planirana sredstva u 2021. godini iz
 7.800.000,00 kuna, a ukupna vrijednost izgradnje objekta je oko 16 milijuna kuna, te za opremu
 1 milijun kuna.
 
+```
  U skladu sa završetkom radova u tijeku je javna nabava opreme,
+```
+
+```
  Izdavanje uporabne dozvole se očekuje krajem mjeseca lipnja
  U suradnji sa Splitsko-dalmatinskom županijom i Domom zdravlja Splitsko-dalmatinske
 županije se planira skori početak rada i početak pružanja ovakve vrste usluge u gradu
 Splitu po prvi put krajem ljeta/početkom jeseni
  Nakon potpisanog Memoranduma između Gradonačelnika i Župana, u tijeku je
 priprema za potpisivanje Sporazuma
+```
 Palijativna skrb i mobilni timovi - U skladu sa završetkom izgradnje i početkom rada se
 planira sufinanciranje uspostave i pružanja usluge palijativne skrbi, kao i financiranje dodatnih
 troškova mobilnih palijativnih timova proračunskim korisnicima nadležnim za pružanje usluge
@@ -4284,10 +5059,12 @@ palijativne skrbi na području grada Splita (Dom zdravlja Splitsko-dalmatinske �
 prvi puta formiran na ovakav institucionalan način od 01. siječnja 2021. godine. U 2021. godini
 je sufinancirana nabava dva automobila, troškovi posudionice pomagala i edukacija djelatnika.
 
+```
  Daljnja potpora i suradnja s Domom zdravlja Splitsko-dalmatinske županije uz
 uspostavu nove usluge
  Selidba u prostorije „Hospicija Matošić“
-Projekt „Četiri palme“ - u tijeku je izgradnja građevinskog objekta za socijalnu namjenu u
+```
+**Projekt „Četiri palme“** - u tijeku je izgradnja građevinskog objekta za socijalnu namjenu u
 kojem će biti smještene dvije skupine korisnika prema postojećim potrebama. Prva skupina
 korisnika smještaja su bivši korisnici Dječjeg doma Maestral Split, odnosno mladi u dobi iznad
 21 godine koji izlaze iz sustava socijalne skrbi, te potencijalno, bivši korisnici ostalih dječjih
@@ -4302,9 +5079,11 @@ ITU poziv Europskog fonda za regionalni razvoj „Brownfield na području Urbane
 Split“, te su odobrena bespovratna sredstva u iznosu od 4,5 milijuna kuna za izgradnju objekta.
 Ukupna vrijednost izgradnje je oko 6 milijuna kuna.
 
+```
  U skladu sa završetkom gradnje krajem godine se očekuje opremanje i stavljanje
 objekta u funkciju.
-EU projekt „Zaželi sretniju starost 2“ – je projekt koji se u cijelosti financira iz Europskog
+```
+**EU projekt „Zaželi sretniju starost 2“** – je projekt koji se u cijelosti financira iz Europskog
 socijalnog fonda u ukupnoj vrijednosti od 4.999.844,00 kuna. Nakon uspješne provedbe i
 završetka prve faze projekta koja je trajala 24 mjeseca je krajem 2020. godine stiglo odobrenje
 po novoj prijavi u drugoj fazi za provođenje projekta u kojem će 57 žena koje su duže vremena
@@ -4315,10 +5094,12 @@ pomoć u socijalnoj integraciji i posredovanju u ostvarivanju različitih prava,
 pruža podršku kroz razgovore i druženja. Nositelj projekta je Grad Split zajedno sa Centrom
 za socijalnu skrb Split i Hrvatskim zavodom za zapošljavanje – Regionalnim uredom Split. U
 
-godini je planirano provođenje većeg dijela aktivnosti prijavljenih u ovoj projektnoj prijavi,
+2021. godini je planirano provođenje većeg dijela aktivnosti prijavljenih u ovoj projektnoj prijavi,
 od kojih je jedna od važnijih edukacija zaposlenih žena. Nakon potpisanog ugovora u mjesecu
 siječnju, obavljenih poziva i pripremnih radnji, žene su sa radom započele 01. travnja 2021.
 godine. Projektni tim je započeo s radom sredinom mjeseca svibnja.
+
+
  U tijeku javna nabava kućanskih potrepština (paketa), izvršiti prvu podjelu paketa u
 mjesecu lipnju 2021. godine
  U tijeku je javna nabava promotivnih materijala, kao i usluge edukacije žena
@@ -4326,42 +5107,54 @@ mjesecu lipnju 2021. godine
  Žene su zaposlene na dvanaest mjeseci zaključno s ožujkom 2022. godine, a projekt
 završava 04. srpnja 2022. godine
 
-PROČELNICA
+###### PROČELNICA
+
+```
 Magda Vrvilo
-UPRAVNI ODJEL ZA PROSTORNO PLANIRANJE, UREĐENJE I ZAŠTITU OKOLIŠA
-I. DIO
+```
+
+###### UPRAVNI ODJEL ZA PROSTORNO PLANIRANJE, UREĐENJE I ZAŠTITU OKOLIŠA
+
+###### I. DIO
+
 U upravnom odjelu za prostorno planiranje, uređenje i zaštitu okoliša, Odsjeku za provedbu
 dokumenata prostornog uređenja sve funkcije na izdavanju provedbenih akata kojima se
 odobrava gradnja i zahvati u prostoru, te ostalih akata iz nadležnosti rada Upravnog odjela
 odvijaju se redovito, sukladno Zakonima i podzakonskim aktima iz predmetnih područja.
 
+```
 Sa 24.05.2021. god. u upravnom odjelu vode se slijedeći otvoreni predmeti:
-Akti i mišljenja iz područja prostornog uređenja 6
-Dozvola za promjenu namjene i uporabu građevine 43
-Građevinska dozvola 245
-Građevinska dozvola - promjena investitora 5
-Izmjene i dopune građevinske dozvole 33
-Izmjene i dopune lokacijske dozvole 6
-Lokacijska dozvola 53
-Lokacijska informacija 196
-Odbacivanje neupravnog postupka 30
-Potvrda parcelacijskog elaborata 57
-Potvrde glavnog projekta 35
-Prijava početka građenja 112
-Prijava početka uklanjanja 3
-Produljenje građevinske dozvole 5
-Produljenje lokacijske dozvole 2
-Rješenje o utvrđivanju građevne čestice 313
-Uporabna dozvola 75
-Uporabna dozvola za dio građevine 7
-Uporabna dozvola za građevine izgrađene do 15.02.1968. 237
-Uporabna dozvola za građevine izgrađene na 65
-temelju akta za građenje izdanog do 01.10.2007.
-Utvrđivanje posebnih uvjeta i uvjeta priključenja 118
-Etažiranje 151
-Uvjerenje 82
-UKUPNO: 1879
+```
+1. Akti i mišljenja iz područja prostornog uređenja 6
+2. Dozvola za promjenu namjene i uporabu građevine 43
+3. Građevinska dozvola 245
+4. Građevinska dozvola - promjena investitora 5
+5. Izmjene i dopune građevinske dozvole 33
+6. Izmjene i dopune lokacijske dozvole 6
+7. Lokacijska dozvola 53
+8. Lokacijska informacija 196
+9. Odbacivanje neupravnog postupka 30
+10. Potvrda parcelacijskog elaborata 57
+11. Potvrde glavnog projekta 35
+12. Prijava početka građenja 112
+13. Prijava početka uklanjanja 3
+14. Produljenje građevinske dozvole 5
+15. Produljenje lokacijske dozvole 2
+16. Rješenje o utvrđivanju građevne čestice 313
+17. Uporabna dozvola 75
+18. Uporabna dozvola za dio građevine 7
+19. Uporabna dozvola za građevine izgrađene do 15.02.1968. 237
+20. Uporabna dozvola za građevine izgrađene na 65
+    temelju akta za građenje izdanog do 01.10.2007.
+21. Utvrđivanje posebnih uvjeta i uvjeta priključenja 118
+22. Etažiranje 151
+23. Uvjerenje 82
+
+###### UKUPNO: 1879
+
+```
 Pored ovih „redovnih“ postupaka, koji se vode sukladno odredbama Zakona o gradnji i
+```
 Zakona o prostornom uređenju, u odjelu se provode i postupci „legalizacije“ prema odredbama
 Zakona o postupanju sa nezakonito izgrađenim zgradama.
 
@@ -4371,7 +5164,10 @@ gotovosti, dok je ukupno riješeno 10 002 predmeta.
 U odsjeku je zaposleno ukupno 24 službenika od toga 23 na neodređeno radno
 vrijeme, a 1 na određeno radno vrijeme, koji je angažiran na poslovima „legalizacije“.
 
+
+```
 Zbog obima preostalog posla na ozakonjenju nezakonito izgrađenih zgrada kao i na
+```
 postupcima kojima se odobrava gradnja, potrebno je planirati nova zapošljavanja, sve u skladu
 sa zakonskim mogućnostima.
 
@@ -4388,9 +5184,11 @@ zaštitu okoliša a koji se odnose na podatke vezane za prostorno plansku dokume
 
 (izdavanje lokacijskih informacija, uvjerenja, podataka o prostoru itd.)
 
+```
 Nadalje, bitno je skrenuti pažnju na prostornoplansku dokumentaciju. Pod hitno je
-potrebno započeti procedure izmjene Prostornog plana uređenja Grada Splita i Generalnog
-urbanističkog plana Splita, a prvenstveno radi usklađenja sa zakonima kao i filtriranje i
+```
+potrebno započeti procedure izmjene Prostornog plana _uređenja Grada Splita_ i Generalnog
+_urbanističkog_ plana Splita, a prvenstveno radi usklađenja sa zakonima kao i filtriranje i
 
 čišćenje dvosmislenih i nejasnih odredbi. Potrebno je pokrenuti postupke izrade sanacijskih
 UPU-a za sve gradske kotareve a sve u cilju jasnih definiranja mogućnosti gradnje na
@@ -4402,46 +5200,57 @@ je Zakonom o gradnji dozvoljena rekonstrukcija bez utvrđivanja mogućnosti prik
 
 prometnu površinu i infrastrukturu a čime se dodatno devastira prostor.
 
-II. DIO
+###### II. DIO
+
 Odsjeka za prostorno planiranje i zaštitu okoliša u okviru svog djelokruga rada obavlja
 stručne i druge poslove iz oblasti izrade prostorno-planske dokumentacije, prijedloga
 odluka, stručnih i s njima povezanih poslova u postupku izrade i donošenja prostornih
 planova i aktivnostima iz područja zaštite okoliša.
 
-Informacije o započetim, a nedovršenim poslovima , mjerama i drugim započetim, a
-nedovršenim aktivnostima , planiranim projektima, mjerama i drugim planiranim aktivnostima;
+Informacije _o započetim, a nedovršenim_ poslovima _, mjerama i drugim započetim, a
+nedovršenim aktivnostima_ , planiranim projektima, mjerama i drugim planiranim aktivnostima;
 
-A. ZAPOČETE PROCEDURE IZRADE PLANSKE DOKUMENTACIJE:
-Izmjene i dopune Prostornog plana uređenja Grada Splita
+###### A. ZAPOČETE PROCEDURE IZRADE PLANSKE DOKUMENTACIJE:
+
+1. Izmjene i dopune Prostornog plana _uređenja Grada Splita_
+
+```
  Nacrt prijedloga odluke o izmjeni i dopuni plana upućen Gradskom vijeću na
 donošenje (skinut je sa Dnevnog reda zadnje sjednice GV )
-Izmjene i dopune Generalnog urbanističkog plana Splita
- Nacrt prijedloga odluke o izmjeni i dopuni plana upućen Gradskom vijeću na
-donošenje (skinut je sa Dnevnog reda zadnje sjednice GV)
-Izmjene i dopun e Detaljnog plana uređenja zone poslovne namjene i stanovanja (K5)
-sjeverno od Vukovarske
+```
+2. Izmjene i dopune _Generalnog urbanističkog_ plana Splita
+     Nacrt prijedloga odluke o izmjeni i dopuni plana upućen Gradskom vijeću na
+       donošenje (skinut je sa Dnevnog reda zadnje sjednice GV)
+3. Izmjene i dopun _e Detaljnog plana uređenja zone poslovne namjene i stanovanja (K5)_
+    sjeverno od Vukovarske
+
+
+```
  Nacrt prijedloga odluke o izradi izmjena i dopuna Detaljnog plana uređenja
 zone poslovne namjene i stanovanja (K5) sjeverno od Vukovarske upućen
 Gradskom vijeću na donošenje (skinut je sa Dnevnog reda zadnje sjednice
 GV)
-Informacije o namjeri pokretanja urbanističkog natječaja za područje Gradskog projekta
-Poljud (GP br. 3)
- Prijedloga Zaključka u svezi informacije o namjeri pokretanja urbanističkog
-natječaja za područje Gradskog projekta Poljud (GP br. 3) upućen Gradskom
-vijeću na donošenje (skinut je sa Dnevnog reda zadnje sjednice GV)
-Izmjene i dopune Detaljnog plana uređenja Obrtne tehničke škole i športskih sadržaja u
-Špinutu
- donesen Zaključak prijedloga Izmje ne i dopune Detaljnog plana uređenja
-Obrtne tehničke škole i športskih sadržaja u Špinutu za javnu raspravu
-Izmjene i dopune Detaljnog plana uređenja Trga hrvatske bratske zajednice u Splitu
- nakon izrade i objave Izvješća o javnoj raspravi, u tijeku je izrada Nacrta
-konačnog prijedloga ID DPU-a.
-Izmjene i dopune Detaljnog plana uređenja jugoistočnog dijela Visoke u Splitu
- Izrada nacrta prijedloga Plana (priprema za javnu raspravu)
-Urbanistički plan uređenja Korešnica 2 u Splitu
- Izrada nacrta prijedloga Plana (prikupljanje zahtjeva javnopravnih tijela)
-B. ZAVRŠENE PROCEDURE IZRADE PLANSKE DOKUMENTACIJE:
+```
+4. _Informacije o namjeri pokretanja urbanističkog natječaja za područje Gradskog projekta_
+    Poljud (GP br. 3)
+        Prijedloga Zaključka u svezi informacije o namjeri pokretanja urbanističkog
+          natječaja za područje Gradskog projekta Poljud (GP br. 3) upućen Gradskom
+          vijeću na donošenje (skinut je sa Dnevnog reda zadnje sjednice GV)
+5. Izmjene i dopune Detaljnog plana _uređenja Obrtne tehničke škole i športskih sadržaja u_
+    _Špinutu_
+        donesen Zaključak prijedloga Izmje _ne i dopune Detaljnog plana uređenja_
+          _Obrtne tehničke škole i športskih sadržaja u Špinutu_ za javnu raspravu
+6. Izmjene i dopune _Detaljnog plana uređenja_ Trga hrvatske bratske zajednice u Splitu
+     nakon izrade i objave Izvješća o javnoj raspravi, u tijeku je izrada Nacrta
+       konačnog prijedloga ID DPU-a.
+7. Izmjene i dopune _Detaljnog plana uređenja jugoistočnog dijela Visoke u Splitu_
+     Izrada nacrta prijedloga Plana (priprema za javnu raspravu)
+8. _Urbanistički plan uređenja Korešnica 2 u Splitu_
+     Izrada nacrta prijedloga Plana (prikupljanje zahtjeva javnopravnih tijela)
 
+B. **_ZAVRŠENE PROCEDURE_** IZRADE PLANSKE DOKUMENTACIJE:
+
+```
  Prostorni plan uređenja Grada Splita (Sl.gl. Grada Splita br. 31/05, 38/20 i
 46/20)
  UPU Kampusa Sveučilišta u Splitu (Sl.gl. Grada Splita br. 14 - 03, 36-08, 53-
@@ -4453,32 +5262,42 @@ br. 7-05 ,30-08, 38- 1 8 i 42-18)
  DPU poteza sjeveroistočno od raskrižja ulica Brune Bušića i Poljičke ceste
 (Sl.gl. Grada Splita br. 1-09, 28-18, 42-18)
  DPU radne zone Dračevac (Sl.gl. Grada Splita br. 12 - 09,61-18,1-19, 2-19)
-III. DIO (ZAŠTITA OKOLIŠA)
-PROVEDENE AKTIVNOSTI:
-UDRUGE
-Javni poziv za prijavu projekata/programa udruga iz područja zaštite okoliša od
-interesa za Grad Split za 2018. godinu - proveden
-Javni poziv za prijavu projekata/programa udruga iz područja zaštite okoliša od
-interesa za Grad Split za 2019. godinu - proveden
-OCJENA O POTREBI STRATEŠKE PROCJENE ZA PROSTORNE PLANOVE:
+```
+###### III. DIO (ZAŠTITA OKOLIŠA)
 
-Izmjene i dopune UPU-a Kampusa Sveučilišta u Splitu
-DPU Obrtne tehničke škole i športskih sadržaja u Špinutu
-Izmjene i dopune DPU-a jugoistočnog dijela područja Visoke u Splitu
-Izmjene i dopune DPU-a Trg HBZ
-Izmjene i dopune PPUGS-a za odlagalište otpada Karepovac
+###### PROVEDENE AKTIVNOSTI:
+
+###### UDRUGE
+
+- Javni poziv za prijavu projekata/programa udruga iz područja zaštite okoliša od
+    interesa za Grad Split za 2018. godinu - proveden
+
+
+- Javni poziv za prijavu projekata/programa udruga iz područja zaštite okoliša od
+    interesa za Grad Split za 2019. godinu - proveden
+
+_OCJENA O POTREBI STRATEŠKE PROCJENE ZA PROSTORNE PLANOVE:_
+
+- Izmjene i dopune UPU-a Kampusa Sveučilišta u Splitu
+- DPU Obrtne tehničke škole i športskih sadržaja u Špinutu
+- Izmjene i dopune DPU-a jugoistočnog dijela područja Visoke u Splitu
+- Izmjene i dopune DPU-a Trg HBZ
+- Izmjene i dopune PPUGS-a za odlagalište otpada Karepovac
+
 BUKA
 
-Strateška karta buke Grada Splita s ocjenskom godinom 2016.
-Akcijski plan upravljanja bukom okoliša Grada Splita za razdoblje 2019. – 2024.g.
+- Strateška karta buke Grada Splita s ocjenskom godinom 2016.
+- Akcijski plan upravljanja bukom okoliša Grada Splita za razdoblje 2019. – 2024.g.
+
 ZRAK
 
-Program zaštite zraka, ozonskog sloja, ublažavanja klimatskih promjena i prilagodbe
-klimatskim promjenama za područje grada Splita za razdoblje 2018.-2021. godine.
-Izvještaj o mjerenju emisija onečišćujućih tvari u zrak iz nepokretnih izvora (kotlovnice
+- Program zaštite zraka, ozonskog sloja, ublažavanja klimatskih promjena i prilagodbe
+    klimatskim promjenama za područje grada Splita za razdoblje 2018.-2021. godine.
+- Izvještaj o mjerenju emisija onečišćujućih tvari u zrak iz nepokretnih izvora (kotlovnice
 u zgradi Banovine i Vili Dalmaciji, ožujak 2021.), obavljena mjerenja u 2018. i 2021.
 godini.
-Uspostava mjerne postaje državne mreže za trajno praćenje kvalitete zraka;
+- Uspostava mjerne postaje državne mreže za trajno praćenje kvalitete zraka;
+
 Donesen Zaključak o osnivanju prava služnosti na čest. zem. 6591/2. k.o. Split,
 površine 590m², sve upisano u z.k. ul. 13969 k.o. Split (kat. čest. 176772 k.o.Split)
 u svrhu uspostavljanja mjerne postaje „Split 2“ u okviru državne mreže za trajno
@@ -4487,67 +5306,99 @@ praćenje kvalitete zraka.
 Potpisan je Ugovor o sklapanju prava služnosti između Grada Splita i Ministarstva
 zaštite okoliša i energetike od 26. srpnja 2017. godine (KLASA: 022-05/17-03/590)
 
-RECIKLAŽNA DVORIŠTA
+_RECIKLAŽNA DVORIŠTA_
 
-Izmjene i dopune Plana rasporeda reciklažnih dvorišta i ekoloških otoka u Gradu Splitu
-(sastavni dio Plana gospodarenja otpadom Grada Splita-2017.-2022.)
-AKTIVNOSTI U TIJEKU:
-UDRUGE
-Javni poziv za prijavu projekata/programa udruga iz područja zaštite okoliša od
-interesa za Grad Split za 2021. godinu;
-pripremljen prijedlog Zaključka o dodjeli financijske potpore odobrenim
-projektima/programima temeljem Javnog poziva za prijavu projekata/programa udruga
-iz područja zaštite okoliša od interesa za Grad Split za 2021. godinu
-STRATEŠKE PROCJENE UTJECAJA NA OKOLIŠ
+- Izmjene i dopune Plana rasporeda reciklažnih dvorišta i ekoloških otoka u Gradu Splitu
+    (sastavni dio Plana gospodarenja otpadom Grada Splita-2017.-2022.)
 
-Urbanistički plan uređenja Korešnica 2 u Splitu;
+###### AKTIVNOSTI U TIJEKU:
+
+###### UDRUGE
+
+- Javni poziv za prijavu projekata/programa udruga iz područja zaštite okoliša od
+    interesa za Grad Split za 2021. godinu;
+    pripremljen prijedlog Zaključka o dodjeli financijske potpore odobrenim
+    projektima/programima temeljem Javnog poziva za prijavu projekata/programa udruga
+    iz područja zaštite okoliša od interesa za Grad Split za 2021. godinu
+
+_STRATEŠKE PROCJENE UTJECAJA NA OKOLIŠ_
+
+- Urbanistički plan uređenja Korešnica 2 u Splitu;
+
+
+```
 u tijeku strateška procjena utjecaja na okoliš (donesena Odluka o započinjanju
 postupka strateške procjene, odabran ovlaštenik za izradu Strateške studije, poslan
 zahtjev za dostavu mišljenja o sadržaju Strateške studije)
-Izmjene i dopune Prostornog plana uređenja Grada Splita;
-Za Nacrt Prijedloga Odluke o izradi Izmjena i dopuna Prostornog plana uređenja Grada
-Splita ishođeno mišljenje od SDŽ/Upravnog odjela za zaštitu okoliša, komunalne
-poslove, infrastrukturu i investicije da je potrebno provesti postupak strateške procjene.
-Izmjene i dopune Generalnog urbanističkog plana Splita ;
-Za Nacrt Prijedloga Odluke o izradi ishođeno mišljenje od SDŽ/Upravnog odjela za
-zaštitu okoliša, komunalne poslove, infrastrukturu i investicije da je potrebno provesti
-postupak strateške procjene.
-Izmjene i dopune Detaljnog plana uređenja zone poslovne namjene i stanovanja (K5)
-sjeverno od Vukovarske ulice ;
-Zatraženo mišljenje SDŽ/Upravnog odjela za zaštitu okoliša, komunalne poslove,
-infrastrukturu i investicije o potrebi provođenja ocjene odnosno strateške procjene
-utjecaja na okoliš za izradu Izmjena i dopuna Detaljnog plana uređenja zone poslovne
-namjene i stanovanja(K5) sjeverno od Vukovarske ulice.
-ZRAK
+```
+- Izmjene i dopune Prostornog plana uređenja Grada Splita;
+    Za Nacrt Prijedloga Odluke o izradi Izmjena i dopuna Prostornog plana uređenja Grada
+    Splita ishođeno mišljenje od SDŽ/Upravnog odjela za zaštitu okoliša, komunalne
+    poslove, infrastrukturu i investicije da je potrebno provesti postupak strateške procjene.
+- Izmjene i dopune Generalnog urbanističkog plana Splita ;
+    Za Nacrt Prijedloga Odluke o izradi ishođeno mišljenje od SDŽ/Upravnog odjela za
+    zaštitu okoliša, komunalne poslove, infrastrukturu i investicije da je potrebno provesti
+    postupak strateške procjene.
+- Izmjene i dopune Detaljnog plana uređenja zone poslovne namjene i stanovanja (K5)
+    sjeverno od Vukovarske ulice ;
+    Zatraženo mišljenje SDŽ/Upravnog odjela za zaštitu okoliša, komunalne poslove,
+    infrastrukturu i investicije o potrebi provođenja ocjene odnosno strateške procjene
+    utjecaja na okoliš za izradu Izmjena i dopuna Detaljnog plana uređenja zone poslovne
+    namjene i stanovanja(K5) sjeverno od Vukovarske ulice.
+
+###### ZRAK
+
+```
 Odluka o obavljanju mjerenja posebne namjene (onečišćenje zraka emisijama čestica
 prašine i metala prilikom manipulacije otpadnim metalima na prostoru Sjeverne luke);
 zatraženo očitovanje Ministarstva gospodarstva i održivog razvoja na zaprimljeni dopis
 Državnog inspektorata/Područnog ureda u Splitu vezano za prijavu građana o
 onečišćenju zraka.
-PROČELNIK P.O.
+```
+###### PROČELNIK P.O.
+
+```
 Boris Marelja
-SLUŽBA ZA IZGRADNJU I UPRAVLJANJE RAZVOJNIM PROJEKTIMA
-1. PROJEKTI FINANCIRANI IZ SLUŽBE ZA IZGRADNJU I UPRAVLJANJE RAZVOJNIM
-PROJEKTIMA
+```
+
+###### SLUŽBA ZA IZGRADNJU I UPRAVLJANJE RAZVOJNIM PROJEKTIMA
+
+###### 1. PROJEKTI FINANCIRANI IZ SLUŽBE ZA IZGRADNJU I UPRAVLJANJE RAZVOJNIM
+
+###### PROJEKTIMA
+
 Služba za izgradnju i upravljanje razvojnim projektima u svojoj nadležnosti ima poslove po
 projektima u sljedećim kategorijama građevina komunalne infrastrukture:
 
+```
 Kategorija
 komunalne
 infrastrukture
-NAZIV PROGRAMA
-A NERAZVRSTANE CESTE
-B JAVNE POVRŠINE
-C JAVNA PARKIRALIŠTA
-D JAVNE GARAŽE
-E GRAĐEVINE I UREĐAJI JAVNE NAMJENE
-F JAVNA RASVJETA
-G GROBLJA
-H GRAĐEVINE NAMJENJENE OBAVLJANJU JAVNOG PRIJEVOZA
-I OSTALI TROŠKOVI U KOMUNALNOJ IZGRADNJI
+```
+###### NAZIV PROGRAMA
+
+###### A NERAZVRSTANE CESTE
+
+###### B JAVNE POVRŠINE
+
+###### C JAVNA PARKIRALIŠTA
+
+###### D JAVNE GARAŽE
+
+###### E GRAĐEVINE I UREĐAJI JAVNE NAMJENE
+
+###### F JAVNA RASVJETA
+
+###### G GROBLJA
+
+###### H GRAĐEVINE NAMJENJENE OBAVLJANJU JAVNOG PRIJEVOZA
+
+###### I OSTALI TROŠKOVI U KOMUNALNOJ IZGRADNJI
+
 U mandatnom razdoblju od lipnja 2017 do lipnja 2021. godine, ova Služba radila je na
 sljedećim projektima.
 
+```
 01 ZAVRŠENI I IZVEDENI PROJEKTI Jed.
 mjere Količina^
 CESTA ZA PARKOVE I NASADE - KAREPOVAC M 55
@@ -4560,61 +5411,108 @@ PRIKLJUČAK NA PUT ŽNJANA GRAĐEVNA ĆESTICA 1 M 80
 PRIKLJUČAK NA PUT ŽNJANA ČESTICA 2 M 91
 PRIMOŠTENSKA C17 M 200
 PRISTUPNE CESTE ZA POS KILA M 820
-PUT SMOKOVIKA OS 3 A GRAĐEVNA ČESTICA 2 M 70
-TRENKOVA ULICA JUŽNO OD MANDIĆEVE M 82
-POTPORNI ZID U MIHANOVIĆEVOJ ULICI
-DJEČJE IGRALIŠTE U GK MEJAŠI – PUT VRBORANA
-DJEČJE IGRALIŠTE U GK RAVNE NJIVE – DV SREĆICA
-DJEČJE IGRALIŠTE U GK ŠINE
-DJEČJE IGRALIŠTE U KRLEŽINOJ ULICI
-DJEČJE IGRALIŠTE U ULICI LJUDEVITA POSAVSKOG
-DJEČJE IGRALIŠTE U ŽRNOVNICI
-DJEČJE IGRALIŠTE GK SPINUT – ULICA BANA BERISLAVIĆA
-DJEČJE IGRALIŠTE U GK MEJAŠI – ULICA SV. SPASA
-DJEČJE IGRALIŠTE U DOBRILINOJ ULICI
-TRG GAJE BULATA - UREĐENJE TRGA
-UREĐENJE TRGA ŠPERUN
-STUBIŠTE ZA DJEČJI VRTIĆ MARGARITELA S
-PARKIRALIŠTIMA
-IZGRADNJA JR PARKIRALIŠTA ZVONČAC
-JAVNA RASVJETA NA KILI
-RASVJETA KRUŠEVIĆA GUMNO
-RASVJETA ŠETNICE UZ RIJEKU ŽRNOVNICU
-DOVRŠETAK UREĐENJA JAVNE GARAŽE „ DVORNIKOVI
-DVORI“ PM 40
-GARAŽA NA MERTOJAKU (OSTRAVSKA) PM 305
-GARAŽA NA SUĆIDRU PM 304
-GARAŽA U VRAZOVOJ ULICI PM 301
-RUŠENJE BARAKA MUP-A NA MERTOJAKU
-UKLANJANJE BARAKA U ULICI VIII. MEDITERANSKIH IGARA
-VATROGASNA ISPOSTAVA KOMPLEKSA VILE DALMACIJE
-02 PROJEKTI KOJI SE IZVODE ILI SU U POSTUPKU NATJEČAJI
-ZA IZVOĐENJE RADOVA
+```
+
+###### PUT SMOKOVIKA OS 3 A GRAĐEVNA ČESTICA 2 M 70
+
+###### TRENKOVA ULICA JUŽNO OD MANDIĆEVE M 82
+
+###### POTPORNI ZID U MIHANOVIĆEVOJ ULICI
+
+###### DJEČJE IGRALIŠTE U GK MEJAŠI – PUT VRBORANA
+
+###### DJEČJE IGRALIŠTE U GK RAVNE NJIVE – DV SREĆICA
+
+###### DJEČJE IGRALIŠTE U GK ŠINE
+
+###### DJEČJE IGRALIŠTE U KRLEŽINOJ ULICI
+
+###### DJEČJE IGRALIŠTE U ULICI LJUDEVITA POSAVSKOG
+
+###### DJEČJE IGRALIŠTE U ŽRNOVNICI
+
+###### DJEČJE IGRALIŠTE GK SPINUT – ULICA BANA BERISLAVIĆA
+
+###### DJEČJE IGRALIŠTE U GK MEJAŠI – ULICA SV. SPASA
+
+###### DJEČJE IGRALIŠTE U DOBRILINOJ ULICI
+
+###### TRG GAJE BULATA - UREĐENJE TRGA
+
+###### UREĐENJE TRGA ŠPERUN
+
+###### STUBIŠTE ZA DJEČJI VRTIĆ MARGARITELA S
+
+###### PARKIRALIŠTIMA
+
+###### IZGRADNJA JR PARKIRALIŠTA ZVONČAC
+
+###### JAVNA RASVJETA NA KILI
+
+###### RASVJETA KRUŠEVIĆA GUMNO
+
+###### RASVJETA ŠETNICE UZ RIJEKU ŽRNOVNICU
+
+###### DOVRŠETAK UREĐENJA JAVNE GARAŽE „ DVORNIKOVI
+
+###### DVORI“ PM 40
+
+###### GARAŽA NA MERTOJAKU (OSTRAVSKA) PM 305
+
+###### GARAŽA NA SUĆIDRU PM 304
+
+###### GARAŽA U VRAZOVOJ ULICI PM 301
+
+###### RUŠENJE BARAKA MUP-A NA MERTOJAKU
+
+###### UKLANJANJE BARAKA U ULICI VIII. MEDITERANSKIH IGARA
+
+###### VATROGASNA ISPOSTAVA KOMPLEKSA VILE DALMACIJE
+
+
+###### 02 PROJEKTI KOJI SE IZVODE ILI SU U POSTUPKU NATJEČAJI
+
+###### ZA IZVOĐENJE RADOVA
+
+```
 Jed.
 mjere Količina^
+```
 ULICA IVANA PAVLA II. (ŽNJAN) M 800
 
 DIO ULICE GRGE NOVAKA M 100
 
+```
 PROMETNICE UNUTAR DPU JI OD VELEBITSKE I BRAČKE M 1300
 PUT IZA NOVE BOLNICE S PRIKLJUČKOM M 375
 STUBIŠTE MARASOVIĆEVA - KAŠIĆEVA
 ULICA HRVATSKE NEOVISNOSTI M 200
 VUKOVARSKA ULICA M 300
+```
 ZAJČEVA ULICA M 600
 
 NASTAVAK ROOSEVELTOVE ULICE M 250
 
-OPLOČENJE – PARTERNO UREĐENJE TONČIČEVE M 120
-DJEČJE IGRALIŠTE NA NESLANOVCU - UZ ZAGORSKI PUT
-DJEČJE IGRALIŠTE SRINJINE U ULICI POLJIČKE KNEŽEVINE
-DJEČJE IGRALIŠTE U GK KOCUNAR
-DJEČJE IGRALIŠTE U GK SIROBUJA
-REKONSTRUKCIJA VODOVODNOG SUSTAVA SITNO DONJE
-03 PROJEKTI KOJI SU U POSTUPKU IZRADE
-DOKUMENTACIJE I/ILI ISHOĐENJA DOZVOLA
+###### OPLOČENJE – PARTERNO UREĐENJE TONČIČEVE M 120
+
+###### DJEČJE IGRALIŠTE NA NESLANOVCU - UZ ZAGORSKI PUT
+
+###### DJEČJE IGRALIŠTE SRINJINE U ULICI POLJIČKE KNEŽEVINE
+
+###### DJEČJE IGRALIŠTE U GK KOCUNAR
+
+###### DJEČJE IGRALIŠTE U GK SIROBUJA
+
+###### REKONSTRUKCIJA VODOVODNOG SUSTAVA SITNO DONJE
+
+###### 03 PROJEKTI KOJI SU U POSTUPKU IZRADE
+
+###### DOKUMENTACIJE I/ILI ISHOĐENJA DOZVOLA
+
+```
 Jed.
 mjere Količina
+```
 CESTA JP7 M 150
 
 IVANKOVA ULICA U STOBREČU M 950
@@ -4647,156 +5545,321 @@ REKONSTRUKCIJA I PROŠIRENJE ULICE PUT STINICA M 310
 
 SMILJANIĆEVA ULICA M 100
 
-ŠOLTANSKA ULICA M 450
-ŠOPOVA ULICA M 210
-SPOJ KUPREŠKE I PUTA SMOKOVIKA M 140
-TEMPLARSKA M 150
-ULICA BRDINE U ŽRNOVNICI M 240
-ULICA MIRA BAREŠIĆA M 92
-ULICA POD KOSOM M 500
-ULICA SV. SPASA M 128
-VODOVOD I KANALIZACIJA - IZGRADNJA RAMPE DO
-POSTOJEĆEG KOLNOG PRIKLJUČKA NA ULICU
-DOMOVINSKOG RATA M 65
-UREĐENJE ŽNJANSKOG PLATOA
-RIVA STOBREČ 1. FAZA
-IZGRADNJA POTPORNOG ZIDA U ULICI SV. KUZME, MO
-GORNJE SITNO,
-POTPORNI ZID I NOGOSTUP U DUBROVAČKOJ ULICI
-PJEŠAČKA KOMUNIKACIJA TRSTENIK - ŽNJAN SA
-PJEŠAČKIM POTHODNIKOM
-JAVNA RASVJETA UZ SAMOSTAN SV. ANTE NA POLJUDU
-2. PROJEKTI FINANCIRANI IZ OSTALIH SLUŽBI, A VOĐENI OD STRANE SLUŽBE ZA
-IZGRADNJU I UPRAVLJANJE RAZVOJNIM PROJEKTIMA
+
+###### ŠOLTANSKA ULICA M 450
+
+###### ŠOPOVA ULICA M 210
+
+###### SPOJ KUPREŠKE I PUTA SMOKOVIKA M 140
+
+###### TEMPLARSKA M 150
+
+###### ULICA BRDINE U ŽRNOVNICI M 240
+
+###### ULICA MIRA BAREŠIĆA M 92
+
+###### ULICA POD KOSOM M 500
+
+###### ULICA SV. SPASA M 128
+
+###### VODOVOD I KANALIZACIJA - IZGRADNJA RAMPE DO
+
+###### POSTOJEĆEG KOLNOG PRIKLJUČKA NA ULICU
+
+###### DOMOVINSKOG RATA M 65
+
+###### UREĐENJE ŽNJANSKOG PLATOA
+
+###### RIVA STOBREČ 1. FAZA
+
+###### IZGRADNJA POTPORNOG ZIDA U ULICI SV. KUZME, MO
+
+###### GORNJE SITNO,
+
+###### POTPORNI ZID I NOGOSTUP U DUBROVAČKOJ ULICI
+
+###### PJEŠAČKA KOMUNIKACIJA TRSTENIK - ŽNJAN SA
+
+###### PJEŠAČKIM POTHODNIKOM
+
+###### JAVNA RASVJETA UZ SAMOSTAN SV. ANTE NA POLJUDU
+
+
+###### 2. PROJEKTI FINANCIRANI IZ OSTALIH SLUŽBI, A VOĐENI OD STRANE SLUŽBE ZA
+
+###### IZGRADNJU I UPRAVLJANJE RAZVOJNIM PROJEKTIMA
+
 Službenici Služba za izgradnju i upravljanje razvojnim projektima vodila je tehničku realizaciju
 (izgradnju/izvođenje) i onih projekata koji nisu financirani iz same Službe, nego iz ostaluh
 Službi / Upravnih odjela Grada Splita, odnosno gradskih tvrtki (Split-parking). U nastavku se
 daje popis tih projekata koji su se odvijali u razdoblju lipanj 2017. – lipanj 2021.
 
-KAREPOVAC - PAKET A - I FAZA
-RECIKLAŽNO DVORIŠTE NA LOKACIJI ORIŠAC
-ZGRADA BRANITELJA U ULICI HRVATSKIH REDARSTVENIKA
-SPOMENIK TONĆU PETRASOVU MAROVIĆU
-REALIZACIJA RADOVA NA UREĐENJU DV NA KILI
-NADOGRADNJA OŠ KAMEN - ŠINE
-NADOGRADNJA ŠKOLE PUJANKI
-NADOGRADNJA ŠKOLE MEJAŠI
-IZGRADENJA OŠ PAZDIGRAD
-NADOGRADNJA DV RUŽMARIN
-JASLICE U TESLINOJ 29
-DV MALI PRINC
-IGRALIŠTE DV KORALJ
-CENTAR ZA AUTIZAM - SEDAM KAŠTELA
-CENTAR ZA AUTIZAM - UREĐENJE PROSTORA U RENDIĆEVOJ I FRA BONINOJ
-ZAMJENA STOLARIJE NA DV KORALJ
-OŠ GRIPE – SANACIJA SANITARNIH ČVOROVA
-OŠ KMAN - SANACIJA KROVNE HIDROIZOLACIJE
-SANACIJA KROVA U OŠ SPLIT3
-SANACIJA KROVA U OŠ ŽRNOVNICA
-SANACIJA PARKETA U OŠ LUČAC
-SANACIJA SANITARNIH ČVOROVA U OŠ BOL
-SANACIJA SANITARNIH ČVOROVA U OŠ GRIPE
-SANACIJA SANITARNIH ČVOROVA U OŠ ŠPINUT
-SANACIJA SANITARNIH ČVOROVA U OŠ STOBREČ
-UREĐENJE OKOLIŠA SPOREDNOG ULAZA OŠ MEJE S PRIHVATOM OBORINSKIH
-VODA
-01 ZAVRŠENI I IZVEDE NI PROJEKTI
-OŠ SKALICE – ENERGETSKA OBNOVA
-PLINOFIKACIJA OSNOVNIH ŠKOLA - PLOKITE
-SANACIJA VANJSKIH OTVORA U OŠ DOBRI
-SANACIJE U DV MORE, RUSULICA I MIMOZA
-IZRADA RAMPI ZA OSOBE SA INVALIDITETOM U OŠ LUČAC
-UGRADNJA DIZALA U OŠ LUČAC
-ENERGETSKA OBNOVA DV LATICA
-ENERGETSKA OBNOVA DV MORSKI KONJIC U SLATINAMA
-ENERGETSKA OBNOVA BAZENI POLJUD
-EU PROJEKT SPLIT - MJESTO DODIRA SPORTA I KULTURE
-KONCERTNA DVORANA - HRVATSKI DOM
-MULTIMEDIJALNA DVORANA “IVO TIJARDOVIĆ” NA TRGU HBZ
-HNK – UGRADNJA DIZALA
-HNK – UREĐENJE ZGRADE
-PALAČA ŽIVOTA, GRAD MIJENA – STARA VIJEĆNICA NA PJACI
-02 PROJEKTI KOJI SE IZVODE ILI SU U POSTUPKU NATJEČAJI
-ZA IZVOĐENJE RADOVA
-MALA DVORANA UZ OŠ BRDA
-SPORTSKA DVORANA OŠ MANUŠ
-OŠ SPINUT - UREĐENJE DVIJE UČIONICE
-ENERGETSKA OBNOVA OŠ MERTOJAK
-ENERGETSKA OBNOVA OŠ POJIŠAN
-ENERGETSKA OBNOVA DV MANDALINA
-REKONSTRUKCIJA ZGRADE ZA PALIJATIVNU SKRB - HOSPICIJ MATOŠIĆ
-ČETIRI PALME - KUĆA ZA ŠTIČENIKE DOMA MAESTRAL
-REKONSTRUKCIJA ZGRADE BIS-A
-UKLANJANJE ZGRADE MO SRINJINE
-ZGRADA PRVE FAZE TEHNOLOŠKOG PARKA SPLIT
-ADAPTACIJA I OPREMANJE KAMENIH KUĆA
-PROMATRAČNICA NA SEDLU
-REVITALIZACIJA BOTANIČKOG VRTA
-REVITALIZACIJA DJEČJIH SADRŽAJA
-UREĐENJE PJEŠAČKO EDUKATIVNIH STAZA
-SIGURNOST I ZAŠTITA - VIDEO NADZOR NAD JAVNIM POVRŠINAMA U GRADU
-SPLITU
-STAMBENO NASELJA KOREŠNICA – IZRADA UPU
-JAVNA GARAŽA SUĆIDAR - PRIPREMA DOKUMENTACIJE
-JAVNA GARAŽA/PARKIRALIŠTE DOBRILINA - PRIPREMA DOKUMENTACIJE
-JAVNA GARAŽA/PARKIRALIŠTE LOKVE - PRIPREMA DOKUMENTACIJE
-JAVNA GARAŽA/PARKIRALIŠTE RAVNE NJIVE - PRIPREMA DOKUMENTACIJE
-JAVNA GARAŽA/PARKIRALIŠTE U ODESKOJ ULICI - PRIPREMA
-DOKUMENTACIJE
-JAVNO NATKRITO PARKIRALIŠTE U DOVERSKOJ ULICI - PRIPREMA
-DOKUMENTACIJE
-PROČELNIK
-Jurica Vojnović
-UPRAVNI ODJEL ZA KOMUNALNO GOSPODARSTVO, REDARSTVO I MJESNU
-SAMOUPRAVU
-Odsjek za komunalno održavanje
+###### KAREPOVAC - PAKET A - I FAZA
 
-2017.-2018.
-1. ODRŽAVANJE CESTA
+###### RECIKLAŽNO DVORIŠTE NA LOKACIJI ORIŠAC
+
+###### ZGRADA BRANITELJA U ULICI HRVATSKIH REDARSTVENIKA
+
+###### SPOMENIK TONĆU PETRASOVU MAROVIĆU
+
+###### REALIZACIJA RADOVA NA UREĐENJU DV NA KILI
+
+###### NADOGRADNJA OŠ KAMEN - ŠINE
+
+###### NADOGRADNJA ŠKOLE PUJANKI
+
+###### NADOGRADNJA ŠKOLE MEJAŠI
+
+###### IZGRADENJA OŠ PAZDIGRAD
+
+###### NADOGRADNJA DV RUŽMARIN
+
+###### JASLICE U TESLINOJ 29
+
+###### DV MALI PRINC
+
+###### IGRALIŠTE DV KORALJ
+
+###### CENTAR ZA AUTIZAM - SEDAM KAŠTELA
+
+###### CENTAR ZA AUTIZAM - UREĐENJE PROSTORA U RENDIĆEVOJ I FRA BONINOJ
+
+###### ZAMJENA STOLARIJE NA DV KORALJ
+
+###### OŠ GRIPE – SANACIJA SANITARNIH ČVOROVA
+
+###### OŠ KMAN - SANACIJA KROVNE HIDROIZOLACIJE
+
+###### SANACIJA KROVA U OŠ SPLIT3
+
+###### SANACIJA KROVA U OŠ ŽRNOVNICA
+
+###### SANACIJA PARKETA U OŠ LUČAC
+
+###### SANACIJA SANITARNIH ČVOROVA U OŠ BOL
+
+###### SANACIJA SANITARNIH ČVOROVA U OŠ GRIPE
+
+###### SANACIJA SANITARNIH ČVOROVA U OŠ ŠPINUT
+
+###### SANACIJA SANITARNIH ČVOROVA U OŠ STOBREČ
+
+###### UREĐENJE OKOLIŠA SPOREDNOG ULAZA OŠ MEJE S PRIHVATOM OBORINSKIH
+
+###### VODA
+
+###### 01 ZAVRŠENI I IZVEDE NI PROJEKTI
+
+
+###### OŠ SKALICE – ENERGETSKA OBNOVA
+
+###### PLINOFIKACIJA OSNOVNIH ŠKOLA - PLOKITE
+
+###### SANACIJA VANJSKIH OTVORA U OŠ DOBRI
+
+###### SANACIJE U DV MORE, RUSULICA I MIMOZA
+
+###### IZRADA RAMPI ZA OSOBE SA INVALIDITETOM U OŠ LUČAC
+
+###### UGRADNJA DIZALA U OŠ LUČAC
+
+###### ENERGETSKA OBNOVA DV LATICA
+
+###### ENERGETSKA OBNOVA DV MORSKI KONJIC U SLATINAMA
+
+###### ENERGETSKA OBNOVA BAZENI POLJUD
+
+###### EU PROJEKT SPLIT - MJESTO DODIRA SPORTA I KULTURE
+
+###### KONCERTNA DVORANA - HRVATSKI DOM
+
+###### MULTIMEDIJALNA DVORANA “IVO TIJARDOVIĆ” NA TRGU HBZ
+
+###### HNK – UGRADNJA DIZALA
+
+###### HNK – UREĐENJE ZGRADE
+
+###### PALAČA ŽIVOTA, GRAD MIJENA – STARA VIJEĆNICA NA PJACI
+
+###### 02 PROJEKTI KOJI SE IZVODE ILI SU U POSTUPKU NATJEČAJI
+
+###### ZA IZVOĐENJE RADOVA
+
+###### MALA DVORANA UZ OŠ BRDA
+
+###### SPORTSKA DVORANA OŠ MANUŠ
+
+###### OŠ SPINUT - UREĐENJE DVIJE UČIONICE
+
+###### ENERGETSKA OBNOVA OŠ MERTOJAK
+
+###### ENERGETSKA OBNOVA OŠ POJIŠAN
+
+###### ENERGETSKA OBNOVA DV MANDALINA
+
+###### REKONSTRUKCIJA ZGRADE ZA PALIJATIVNU SKRB - HOSPICIJ MATOŠIĆ
+
+###### ČETIRI PALME - KUĆA ZA ŠTIČENIKE DOMA MAESTRAL
+
+###### REKONSTRUKCIJA ZGRADE BIS-A
+
+###### UKLANJANJE ZGRADE MO SRINJINE
+
+###### ZGRADA PRVE FAZE TEHNOLOŠKOG PARKA SPLIT
+
+###### ADAPTACIJA I OPREMANJE KAMENIH KUĆA
+
+
+###### PROMATRAČNICA NA SEDLU
+
+###### REVITALIZACIJA BOTANIČKOG VRTA
+
+###### REVITALIZACIJA DJEČJIH SADRŽAJA
+
+###### UREĐENJE PJEŠAČKO EDUKATIVNIH STAZA
+
+###### SIGURNOST I ZAŠTITA - VIDEO NADZOR NAD JAVNIM POVRŠINAMA U GRADU
+
+###### SPLITU
+
+###### STAMBENO NASELJA KOREŠNICA – IZRADA UPU
+
+###### JAVNA GARAŽA SUĆIDAR - PRIPREMA DOKUMENTACIJE
+
+###### JAVNA GARAŽA/PARKIRALIŠTE DOBRILINA - PRIPREMA DOKUMENTACIJE
+
+###### JAVNA GARAŽA/PARKIRALIŠTE LOKVE - PRIPREMA DOKUMENTACIJE
+
+###### JAVNA GARAŽA/PARKIRALIŠTE RAVNE NJIVE - PRIPREMA DOKUMENTACIJE
+
+###### JAVNA GARAŽA/PARKIRALIŠTE U ODESKOJ ULICI - PRIPREMA
+
+###### DOKUMENTACIJE
+
+###### JAVNO NATKRITO PARKIRALIŠTE U DOVERSKOJ ULICI - PRIPREMA
+
+###### DOKUMENTACIJE
+
+###### PROČELNIK
+
+```
+Jurica Vojnović
+```
+
+###### UPRAVNI ODJEL ZA KOMUNALNO GOSPODARSTVO, REDARSTVO I MJESNU
+
+###### SAMOUPRAVU
+
+**Odsjek za komunalno održavanje**
+
+###### 2017.-2018.
+
+###### 1. ODRŽAVANJE CESTA
+
+```
 Sanacija ulica:
+```
+```
 Neslanovac 750 m2
+```
+```
 Put Smokovika 1800 m2
+```
+```
 Kaštelanova 850 m2
+```
 Cesta Mira 840 m2
 
+```
 Škrape 3500 m2
+```
+```
 Sv. Lovre na Žnjanu 650 m2
+```
+```
 Aljinovićeva u Žrnovnici 450 m2
+```
+```
 Sarajevska (od Hercegovačke do Mostarske) 1500 m2
+```
+```
 Pristupni put plaži Kaštelet 720 m2
+```
+```
 Izgradnja nogostupa u Sarajevskoj ulici 400 m2
+```
+```
 Izgradnja nogostupa uz D8 (od Temlerske do 4. Gradijske brigade) 400 m2
+```
+```
 Uređenje parkirališta iznad plaže u Ivankovoj ulici u Stobreču
-2. PROJEKTNA DOKUMENTACIJA
+```
+###### 2. PROJEKTNA DOKUMENTACIJA
+
+```
 Projekt izgradnje autobusnih ugibališta na Poljičkoj
+```
+```
 Projekt izgradnje kružnog toka na križanju Viške ulice i Puta Firula
+```
+```
 Projekt izgradnje kružnog toka na križanjima Velebitska-Bračka i Bračka- Put
 Trstenika
-3. SANACIJA OPASNIH ZIDOVA
+```
+###### 3. SANACIJA OPASNIH ZIDOVA
+
+```
 Marasovićeva (Botićeve skale)
+```
+```
 Gotovčeva
+```
+```
 Mornarska u Stobreču
+```
+```
 Palmotićeva ulica
-4. POVEĆANJE PRISTUPAČNOSTI OS OBA SA INVALIDITETOM
+```
+
+###### 4. POVEĆANJE PRISTUPAČNOSTI OS OBA SA INVALIDITETOM
+
+```
 Ugradnja cca. 50 novih rampi za pristup osoba sa invaliditetom na javno prometnim
 površinama (nogostupima, križanjima i sl.)
-5. PLAŽE
+```
+###### 5. PLAŽE
+
+```
 Sveobuhvatno uređenje plaže na Kašteletu
-6. FONTANE I ČESME
+```
+###### 6. FONTANE I ČESME
+
+```
 Realizacija projekta rekonstrukcije fontane na Trgu dr.Franje Tuđmana
-7. ZELENE POVRŠINE
+```
+###### 7. ZELENE POVRŠINE
+
+```
 Novouređene zelene površine 8780 m2
-8. UREĐENJE SKATE PARKA U DOMU MLADEŽI
-2019. GODINA
-1. ODRŽAVANJE CESTA
+```
+###### 8. UREĐENJE SKATE PARKA U DOMU MLADEŽI
+
+###### 2019. GODINA
+
+###### 1. ODRŽAVANJE CESTA
+
+```
 Sanacija ulica:
+```
 Domovinskog rata (sjeverna prometna traka između Sarajevske i Solinske) 2500 m2
 
 Križanje Puta Brodarice i Mike Tripala 1150 m2
 
 Križanje Mažuranićevog šetališta i Vinkovačke 950 m2
 
+```
 Gunjačina 500 m2
+```
 Hercegovačka (od Solinske do Dubrovačke) 9500 m2
 
 Izgradnja rotora na križanjima Bračke sa Velebitskom i Putom Trstenika
@@ -4807,112 +5870,277 @@ Izgradnja parkirališta za turističke autobuse u Kopilici
 
 Sanacija dijela Velebitske ulice (od Puta Žnjana do Ivana Pavla II) 2000 m2
 
+```
 Sanacija pristupne ceste Zvjezdanom selu na Mosoru 6000 m2
+```
+
 Sanacija Ulice Table 2200 m2
 
 Sanacija Ulice Put Skalica 1800 m2
 
 Sanacija Mosorske ulice u Žrnovnici 550 m2
 
+```
 Sanacija Ulice Put Bunara 250 m2
-2. PROJEKTNA DOKUMENTACIJA
+```
+###### 2. PROJEKTNA DOKUMENTACIJA
+
+```
 Projekt: Sanacija Ulice Put Trstenika (od križanja sa Zajčevom do križanja sa
 Poljičkom)
+```
+```
 Projekt: Sanacije Matoševe ulice (od križanja sa Nazorovom do križanja sa Sedam
 Kaštela)
+```
+```
 Projekt: Sanacija Gajeve ulice
+```
+```
 Projekt: Sanacija nastavka Zvonimirove obale u Slatinama
+```
+```
 Projekt: Sanacije dijela Mostarske ulice
-3. SANACIJA OPASNIH ZIDOVA
+```
+###### 3. SANACIJA OPASNIH ZIDOVA
+
+```
 Plančićeva ulica
+```
+```
 Put Spajija u Donjem Sitnom
-4. POVEĆANJE PRISTUPAČNOSTI OS OBA SA INVALIDITETOM
+```
+###### 4. POVEĆANJE PRISTUPAČNOSTI OS OBA SA INVALIDITETOM
+
+```
 Ugradnja cca.40 novih rampi za pristup osoba sa invaliditetom na javno prometnim
 površinama (nogostupima, križanjima i sl.).
-5. DJEČJE IGRALIŠTE I ZELENE POVRŠINE
+```
+###### 5. DJEČJE IGRALIŠTE I ZELENE POVRŠINE
+
+```
 Sveobuhvatno uređenje parka i dječjeg igrališta u Dobrilinoj ulici (kod Osnovne škole
 Split 3).
+```
+```
 Sadnja drvoreda u istočnom dijelu ulice Domovinskog rata.
-2020. GODINA
-1. ODRŽAVANJE CESTA
+```
+
+###### 2020. GODINA
+
+###### 1. ODRŽAVANJE CESTA
+
+```
 Sanacija ulica:
+```
+```
 Sanacija kolnika i izgradnja nogostupa sa drvoredom u Bračkoj ulici (od križanja sa
 Velebitskom do križanja sa Putem Trstenika) 6000 m2
+```
+```
 Sanacija kolnika i nogostupa Stepinčeve ulice 5850 m2
+```
+```
 Sanacija kolnika Zagrebačke ulice 2200 m2
+```
+```
 Sanacija asfaltnog zastora na Trgu Gaje Bulata 3800 m2
+```
+```
 Sanacija kolnika u ulici 8. mediteranskih 450 m2
+```
+```
 Sanacija kolnika u Donjem Sitnom 1000 m2
+```
+```
 Izgradnja parkirališta u Ulici Slanice na području GK Šine
+```
+```
 Sanacija ulice Put Trstenika 6200 m2
+```
+```
 Sanacija Gajeve 2200 m2
+```
+```
 Sanacija Mihanovićeve ulice 4500 m2
+```
+```
 Sanacija dijela Matoševe ulice (od Nazorove do Sedam Kaštela) 3100 m2
+```
+```
 Sanacija nastavka Zvonimirove obale u Slatinama 600 m2
+```
+```
 Sanacija dijela Mostarske ulice (od Širokobriješke do Sarajevske) 5000 m2
+```
+```
 Sanacija Ulice Vojka Krstulovića 800 m2
+```
+```
 Sanacija Bakotićeve ulice 700 m2
+```
+```
 Sanacija Puta Mostina 1500 m2
-2. PROJEKTNA DOKUMENTACIJA
+```
+###### 2. PROJEKTNA DOKUMENTACIJA
+
+```
 Projekt: Izvanredno održavanje - izgradnja pristupne rampe za osobe sa invaliditetom
 na Sustipanu
+```
+```
 Projekt: Izvanredno održavanje dijela Ulice Vranjički put
+```
+```
 Projekt: Uređenje ulice Ćirila i Metoda
+```
+```
 Projekt: Sanacija nastavka Zvonimirove obale u Slatinama
-3. SANACIJA OPASNIH ZIDOVA
+```
+
+###### 3. SANACIJA OPASNIH ZIDOVA
+
+```
 Vukovarska ulica
-4. POVEĆANJE PRISTUPAČNOSTI OS OBA SA INVALIDITETOM
+```
+###### 4. POVEĆANJE PRISTUPAČNOSTI OS OBA SA INVALIDITETOM
+
+```
 Ugradnja cca 30 novih rampi za pristup osoba sa invaliditetom na javno prometnim
 površinama (nogostupima, križanjima i sl.).
-5. ZELENE POVRŠINE
+```
+###### 5. ZELENE POVRŠINE
+
+```
 Uređenje javnih zelenih površina sa sjeverne i istočne strane Turističke palače na
 Obali Lazareta u Splitu.
+```
+```
 Sadnja cca 1000 novih stabala (uključujući i sadnju kod zamjene starih).
-6. JAVNA RASVJETA
+```
+###### 6. JAVNA RASVJETA
+
+```
 Sanacija podne ambijentalne rasvjete na Rivi
-2021. GODINA
-1. ODRŽAVANJE CESTA
+```
+###### 2021. GODINA
+
+###### 1. ODRŽAVANJE CESTA
+
+```
 Sanacija ulica:
+```
+```
 Sanacija kolnika i nogostupa u Ulici Dražanac (od Puta Meja do
+```
+```
 Brajevića prilaza) 2500 m2
+```
+```
 Sanacija sjevernog nogostupa u ulici Put Meja 600 m2
+```
+```
 Sanacija dijela nogostupa sa zamjenom drvoreda u Ulici
+```
+```
 Hrvatske mornarice 500 m2
+```
+```
 Sanacija dijela nogostupa sa zamjenom stabala u Ulici Domovinskog rata 800 m2
+```
+```
 Sanacija dijela nogostupa u Ulici Domovinskog rata (kod poslovne zgrade
+```
+```
 OTP banke) 900 m2
+```
+```
 Sanacija kolnika Triljske ulice 1000 m2
+```
+
+```
 Sanacija kolnika Mostarske ulice (od Puta Smokovika do Zagorskog puta) 2000 m2
+```
+```
 Sanacija dijela ulice Vranjički put 8000 m2
+```
+```
 Sanacija dijela Mosećke ulice 4500 m2
+```
+```
 Sanacija dijela ulice Put Orišca (do Vrgoračke ulice) 1200 m2
+```
+```
 Sanacija Ljubuške ulice 500 m2
+```
+```
 Sanacija dijela Ulice Gradišćanskih Hrvata 1500 m2
+```
+```
 Sanacija Ulice kneza Mislava 900 m2
+```
+```
 Sanacije dijela Meštrovićevog šetališta (od Vile Dalmacija do
+```
+```
 Bambine glavice) 7000 m2
+```
+```
 Sanacija kolnika, nogostupa i komunalnih instalacija Ulice Škrape 2500 m2
+```
+```
 Sanacija dijela prometnice od sj. Marjanskih vrata do Bena 3800 m2
+```
+```
 Sanacija dijela Ulice Bleiburških žrtava 600 m2
+```
+```
 Sanacija dijela kamenih ploča u Ulici Ruđera Boškovića 350 m2
+```
+```
 Sanacija Trga u Ulici Gradišćanskih Hrvata
+```
+```
 Realizacija projekta komunalnog uređenja Ćiril Metodove ulice
-2. PROJEKTNA DOKUMENTACIJA
+```
+###### 2. PROJEKTNA DOKUMENTACIJA
+
+```
 Projekt: Izvanredno održavanje dijela ulice Vranjički put
+```
+```
 Projekt: Izvanredno održavanje - sanacija potpornog zida i odvodnje na dijelu ulice
 Meštrovićevo šetalište (Bambina glavica)
-3. SANACIJA OPASNIH ZIDOVA
+```
+###### 3. SANACIJA OPASNIH ZIDOVA
+
+```
 Bračka ulica
+```
+```
 Ivankova ulica u Stobreču
-4. POVEĆANJE PRISTUPAČNOSTI OS OBA SA INVALIDITETOM
+```
+###### 4. POVEĆANJE PRISTUPAČNOSTI OS OBA SA INVALIDITETOM
+
+```
 Ugradnja cca 15 novih rampi za pristup osoba sa invaliditetom na javno prometnim
 površinama (nogostupima, križanjima i sl.).
-5. ZELENE POVRŠINE
+```
+
+###### 5. ZELENE POVRŠINE
+
+```
 Zamjena starih i bolesnih stabala dijela drvoreda u ulici Domovinskog rata.
+```
+```
 Sadnja cca 300 novih stabala (uključujući i sadnju kod zamjene starih).
-6. JAVNA RASVJETA
+```
+###### 6. JAVNA RASVJETA
+
+```
 Rekonstrukcija javne rasvjete u ulici Škrape.
-Odsjek za površine javne namjene
+```
+**Odsjek za površine javne namjene**
 
 Odluke i Planovi koji su usvojeni na Gradskom vijeću:
 
@@ -4930,7 +6158,7 @@ pročišćeni tekst i 18/20).
 Plan rasporeda kioska, štandova i pokretnih naprava Grada Splita (u tijeku je implementacija
 sadržaja lokacija iz Plana u GIS sustav, radi evidencije i transparentnosti lokacija).
 
-Važniji dokumenti doneseni od strane Gradonačelnika:
+**Važniji dokumenti doneseni od strane Gradonačelnika:**
 
 Zaključak o usvajanju idejnog rješenja T. D. 21/20 siječanj 2020. dispozicije i izgleda prodajnih
 štandova u Dioklecijanovim podrumima (izrađeno u suradnji sa Odsjekom za staru gradsku
@@ -4946,8 +6174,9 @@ Odluka o određivanju naknade za postavljanje reklamnih predmeta na području Gr
 Svake godine doneseni su Planovi upravljanja podmorskim dobrom 2018., 2019., 2020. i
 2021.god.
 
-Važnije Odluke za koje se provela procedura javnog savjetovanja i nakon II. čitanja na
-Gradskom vijeću Odluke nisu usvojene:
+
+**Važnije Odluke za koje se provela procedura javnog savjetovanja i nakon II. čitanja na
+Gradskom vijeću Odluke nisu usvojene:**
 
 Nacrt prijedloga Odluke o davanju u zakup i na korištenje površina javne namjene u vlasništvu
 Grada Splita za postavljanje kioska, štekata, štandova i pokretnih naprava.
@@ -4956,14 +6185,15 @@ Nacrt prijedloga Odluke o načinu i uvjetima postavljanja kioska, štandova, pok
 štekata na površinama javne namjene u vlasništvu Grada Splita (sastavni dio spomenute
 Odluke je Grafički prikaz štekata zaštićeno kulturno-povijesne cjeline zona zaštite A).
 
-Ostaje za dovršiti:
+**Ostaje za dovršiti:**
 
 Implementaciju podataka u GIS sustavu Plana rasporeda kioska, štandova i pokretnih naprava
 kao i Plana upravljanja pomorskom dobrom.
 
 Odsjek za površine javne namjene dostavio je cjelokupnu dokumentaciju nadležnom Odsjeku
 
-AOP radi unosa podataka.
+- AOP radi unosa podataka.
+
 Omogućiti provođenje Zaključka o usvajanju idejnog rješenja T. D. 21/20 siječanj 2020.
 dispozicije i izgleda prodajnih štandova u Dioklecijanovim podrumima kupnjom štandova kako
 bi Odsjek za površine javne namjene proveo natječaj za iste ( Dogovor- Muzeji grada Splita u
@@ -4981,73 +6211,84 @@ U sklopu komunalnog redarstva ustrojen je i Dežurni centar kojem građani svako
 Zaprimljene prijave prosljeđuju se nadležnim službama i komunalnim redarima na daljnje
 postupanje.
 
-Poslovi komunalnog redarstva obuhvaćaju nadzor i kontrolu u djelokrugu poslova
+**Poslovi komunalnog redarstva obuhvaćaju nadzor i kontrolu u djelokrugu poslova**
 Odsjeka, kao i drugih upravnih tijela Grada u skladu sa propisima i aktima Grada, a to
-su s lijedeći poslovi:
+su s **lijedeći poslovi:**
 
-obavljanje nadzora nad provedbom propisa kojima se uređuje komunalni red
-obavljanje nadzora nad provedbom propisa o držanju kućnih ljubimaca
-obavljanje nadzora nad davanjem javnih površina i drugih nekretnina u vlasništvu Grada
+- obavljanje nadzora nad provedbom propisa kojima se uređuje komunalni red
+- obavljanje nadzora nad provedbom propisa o držanju kućnih ljubimaca
+- obavljanje nadzora nad davanjem javnih površina i drugih nekretnina u vlasništvu Grada
+
 Splita na korištenje za postavljanje privremenih objekata te reklamnih i oglasnih predmeta
+
 
 (kioska, montažnih objekata, pokretnih naprava, ugostiteljskih terasa, štandova,
 reklamnih i drugih naprava) i nad korištenjem javnih površina za druge svrhe
 
-obavljanje nadzora nad provedbom propisa kojima se uređuje zaštita od buke u djelokrugu
+- obavljanje nadzora nad provedbom propisa kojima se uređuje zaštita od buke u djelokrugu
+
 jedinica lokalne samouprave
 
-obavljanje nadzora nad provedbom propisa kojima se uređuju nerazvrstane ceste
-obavljanje nadzora nad provedbom propisa stavljenih u nadležnost jedinica lokalne
+- obavljanje nadzora nad provedbom propisa kojima se uređuju nerazvrstane ceste
+- obavljanje nadzora nad provedbom propisa stavljenih u nadležnost jedinica lokalne
+
 samouprave, kojima se uređuje građevinska inspekcija
 
-obavljanje nadzora nad provedbom propisa o otpadu iz djelokruga jedinice lokalne
+- obavljanje nadzora nad provedbom propisa o otpadu iz djelokruga jedinice lokalne
+
 samouprave
 
-obavljanje nadzora nad provedbom propisa o uvjetima i načinu držanja domaćih životinja
+- obavljanje nadzora nad provedbom propisa o uvjetima i načinu držanja domaćih životinja
 na području grada Splita.
-Komunalni redari obavljaju nadzor i poduzimaju odgovarajuće mjere, sukladno
-ovlastima iz slijedećih propisa:
 
-Zakona o komunalnom gospodarstvu ("Narodne novine" broj 68/18 i 110/18)
-Zakona o zaštiti životinja ("Narodne novine" broj 102/17 i 32/19)
-Zakona o vlasništvu i drugim stvarnim pravima ("Narodne novine" broj 91/96, 68/98, 137/99,
+**Komunalni redari obavljaju nadzor i poduzimaju odgovarajuće mjere, sukladno**
+ovlastima iz **slijedećih propisa:**
+
+- Zakona o komunalnom gospodarstvu ("Narodne novine" broj 68/18 i 110/18)
+- Zakona o zaštiti životinja ("Narodne novine" broj 102/17 i 32/19)
+- Zakona o vlasništvu i drugim stvarnim pravima ("Narodne novine" broj 91/96, 68/98, 137/99,
 22/00, 73/00, 114/01, 79/06, 141/06, 146/08, 38/09, 153/09, 90/10, 143/12, 152/14)
-Zakona o zaštiti od buke ("Narodne novine"“ broj 30/09, 55/13, 153/13, 41/16 i 114/18)
-Zakona o održivom gospodarenju otpadom ("Narodne novine" broj 94/13, 73/17, 14/19 i
+- Zakona o zaštiti od buke ("Narodne novine"“ broj 30/09, 55/13, 153/13, 41/16 i 114/18)
+- Zakona o održivom gospodarenju otpadom ("Narodne novine" broj 94/13, 73/17, 14/19 i
+
 98/19)
 
-Zakona o građevinskoj inspekciji ("Narodne novine" broj 153/13)
-Prekršajnog zakona ("Narodne novine" broj 107/07, 39/13, 157/13, 110/15, 70/17 i 118/18)
-Odluke o komunalnom redu Grada Splita ("Službeni glasnik grada Splita broj 38.),
-Odluka o uvjetima i načinu držanja kućnih ljubimaca i načinu postupanja s napuštenim ili
+- Zakona o građevinskoj inspekciji ("Narodne novine" broj 153/13)
+- Prekršajnog zakona ("Narodne novine" broj 107/07, 39/13, 157/13, 110/15, 70/17 i 118/18)
+- Odluke o komunalnom redu Grada Splita ("Službeni glasnik grada Splita broj 38.),
+- Odluka o uvjetima i načinu držanja kućnih ljubimaca i načinu postupanja s napuštenim ili
 izgubljenim životinjama na području grada Splita („Službeni glasnik Grada Splita“ broj 31/18,
 22/19)
-Odluke o uvjetima i načinu držanja domaćih životinja na području grada Splita
-Odluka o nerazvrstanim cestama na području grada Splita („Službeni glasnik Grada Splita“
+- Odluke o uvjetima i načinu držanja domaćih životinja na području grada Splita
+- Odluka o nerazvrstanim cestama na području grada Splita („Službeni glasnik Grada Splita“
 broj 7/20)
-Odluka o načinu prikupljanja otpada na području grada Splita
-Odluka o uličnim zabavljačima na javnim površinama na području stare gradske jezgre
+- Odluka o načinu prikupljanja otpada na području grada Splita
+- Odluka o uličnim zabavljačima na javnim površinama na području stare gradske jezgre
 Grada Splita
-Odluka o uvjetima i načinu postavljanju reklamnih predmeta na području Grada Splita
-U odsjeku za redarstvo sistematizirano je 66 radnih mjesta na koja je raspoređen
-slijedeći broj službenika:
+- Odluka o uvjetima i načinu postavljanju reklamnih predmeta na području Grada Splita
 
-Voditelj odsjeka – 1 službenik
-Viši savjetnik – 1 službenik
-Viši savjetnik za prometno redarstvo – 1 službenik
-savjetnik – komunalni redar – 1 službenik
-Stručni suradnik – komunalni redar – 1 službenik
-Stručni suradnik-glavni komunalni redar– 1 službenik
-Stručni suradnik-glavni prometni redar– 2 službenika
-Referent za redarstvo – 2 službenika
-poljoprivredni redar – 1 službenik
-prometni redar – 13 službenika
-komunalni redar– 24 službenika
+
+**U odsjeku za redarstvo sistematizirano je 66 radnih mjesta na koja je raspoređen
+slijedeći broj službenika:**
+
+1. Voditelj odsjeka – 1 službenik
+2. Viši savjetnik – 1 službenik
+3. Viši savjetnik za prometno redarstvo – 1 službenik
+4. savjetnik – komunalni redar – 1 službenik
+5. Stručni suradnik – komunalni redar – 1 službenik
+6. Stručni suradnik-glavni komunalni redar– 1 službenik
+7. Stručni suradnik-glavni prometni redar– 2 službenika
+8. Referent za redarstvo – 2 službenika
+9. poljoprivredni redar – 1 službenik
+10. prometni redar – 13 službenika
+11. komunalni redar– 24 službenika
+
 Od ukupno 26 komunalnih redara:
 
-25 komunalnih redara je raspoređeno na području grada Splita na način da nadziru područje
+- 25 komunalnih redara je raspoređeno na području grada Splita na način da nadziru područje
 27 Gradskih kotara i 7 mjesnih odbora, pri čemu obavljaju poslove iz svoje nadležnosti.
-1 komunalni redar zadužen je za kontakt sa strankama na Dežurnom telefonu.
+- 1 komunalni redar zadužen je za kontakt sa strankama na Dežurnom telefonu.
+
 Stupanjem na snagu novog Zakona o komunalnom gospodarstvu ("Narodne novine" broj
 68/18 i 110/18) dana 4. kolovoza 2018. godine, osigurani su normativni uvjeti kako bi se
 poboljšali uvjeti za provedbu komunalnog reda na području jedinica lokalne samouprave. S
@@ -5056,60 +6297,71 @@ uz već postojeće odredbe koje se nisu mijenjale, obuhvaćene sve izmjene Zakon
 propisnim obvezama.
 
 Tijekom 2018. godine komunalno redarstvo temeljem propisanih Odluka i Zakona iz
-svoje nadležnosti izvršilo je:
+**svoje nadležnosti izvršilo je:**
 
-obrađeno je NEUPRAVNIH PREDMETA - 1884
-obrađeno je UPRAVNIH PREDMETA - 844
-izdano je OBAVEZNIH PREKRŠAJNIH NALOGA - 64
-izvršena naplata o naplaćenoj novčanoj kazni na mjestu počinjenja – 92
-uklonjeno grafita s betonskih i kamenih površina - 193 m²
-uklonjeno nelegalnih plakata - 45 m²
-uklonjeno otpadnog građevinskog materijala sa j.g.p. - 962 m³
-uklonjeno otpadnih vozila sa j.p.- 45 komada
-uklonjeno raznog komunalnog otpada sa j.g.p. cca - 25 m³
-uklonjeno krivo postavljenih predmeta sa j.p. :
-15 pomičnih stupića
-1 kombi bez reg.oznake
-1 štekat (stolovi, stolice, suncobrani, posude za cvijeće)
-2 postupanja na uklanjanju robe izložene prodaji
-1 reklamni pano
-postupanje vezano za kontrolu šetnje pasa bez uzice na j.p. – 50 postupanja
+- obrađeno je NEUPRAVNIH PREDMETA - 1884
+- obrađeno je UPRAVNIH PREDMETA - 844
+- izdano je OBAVEZNIH PREKRŠAJNIH NALOGA - 64
+- izvršena naplata o naplaćenoj novčanoj kazni na mjestu počinjenja – 92
+- uklonjeno grafita s betonskih i kamenih površina - 193 m²
+- uklonjeno nelegalnih plakata - 45 m²
+- uklonjeno otpadnog građevinskog materijala sa j.g.p. - 962 m³
+- uklonjeno otpadnih vozila sa j.p.- 45 komada
+
+
+- uklonjeno raznog komunalnog otpada sa j.g.p. cca - 25 m³
+- uklonjeno krivo postavljenih predmeta sa j.p. :
+    - 15 pomičnih stupića
+    - 1 kombi bez reg.oznake
+    - 1 štekat (stolovi, stolice, suncobrani, posude za cvijeće)
+    - 2 postupanja na uklanjanju robe izložene prodaji
+    - 1 reklamni pano
+- postupanje vezano za kontrolu šetnje pasa bez uzice na j.p. – 50 postupanja
+
 Poljoprivredno redarstvo:
 
-obrađeno je NEUPRAVNIH PREDMETA – 84
+- obrađeno je NEUPRAVNIH PREDMETA – 84
+
 Tijekom 2019. godine komunalno redarstvo temeljem propisanih Odluka i Zakona iz
-svoje nadležnosti izvršilo je:
+**svoje nadležnosti izvršilo je:**
 
-obrađeno je NEUPRAVNIH PREDMETA - 3015 neupravnih predmeta
-obrađeno je UPRAVNIH PREDMETA - 884 upravnih predmeta
-izdano je OBAVEZNIH PREKRŠAJNIH NALOGA - 133 naloga
-izvršeno mandatnih kazni na mjestu počinjenja – 489 mandatnih kazni
-uklonjeno grafita s betonskih površina bojanjem u površini cca - 452 m²
-uklonjeno grafita s kamenih površina pjeskarenjem u površini cca - 6 m²
-uklonjeno otpadnog građevinskog materijala sa j.g.p. - 121.630 kg
-postupanje vezano za onečišćenje j.p. od starne pasa – 6 predmeta
-postupanje vezano za kontrolu šetnje pasa bez uzice na j.p. – 64 predmeta, 103 očitana
-mikročipa
-uklonjeno je neregistriranih vozila sa j.p. – 31 vozilo
+- obrađeno je NEUPRAVNIH PREDMETA - 3015 neupravnih predmeta
+- obrađeno je UPRAVNIH PREDMETA - 884 upravnih predmeta
+- izdano je OBAVEZNIH PREKRŠAJNIH NALOGA - 133 naloga
+- izvršeno mandatnih kazni na mjestu počinjenja – 489 mandatnih kazni
+- uklonjeno grafita s betonskih površina bojanjem u površini cca - **452 m²**
+- uklonjeno grafita s kamenih površina pjeskarenjem u površini cca - **6 m²**
+- uklonjeno otpadnog građevinskog materijala sa j.g.p. - 121.630 kg
+- postupanje vezano za onečišćenje j.p. od starne pasa – 6 predmeta
+- postupanje vezano za kontrolu šetnje pasa bez uzice na j.p. – **64 predmeta, 103 očitana
+mikročipa**
+- uklonjeno je neregistriranih vozila sa j.p. – 31 vozilo
+
 Tijekom 2020. godine komunalno redarstvo temeljem propisanih Odluka i Zakona iz
-svoje nadležnosti izvršilo je:
+**svoje nadležnosti izvršilo je:**
 
-obrađeno je NEUPRAVNIH PREDMETA - 1944
-obrađeno je UPRAVNIH PREDMETA - 1082
-izdano je OBAVEZNIH PREKRŠAJNIH NALOGA - 94 naloga
-izvršeno mandatnih kazni na mjestu počinjenja – 292
-uklonjeno grafita s betonskih površina bojanjem u površini cca - 1989m²
-uklonjeno grafita s kamenih površina u površini cca - 463m²
-uklonjeno grafita s kamenih površina pjeskarenjem u površini cca - 94m²
-uklonjeno otpadnog građevinskog materijala sa j.g.p. - 798 tona
-uklonjeno predmeta sa j.p.:
+- obrađeno je NEUPRAVNIH PREDMETA - 1944
+- obrađeno je UPRAVNIH PREDMETA - 1082
+- izdano je OBAVEZNIH PREKRŠAJNIH NALOGA - 94 naloga
+- izvršeno mandatnih kazni na mjestu počinjenja – 292
+
+
+- uklonjeno grafita s betonskih površina bojanjem u površini cca - **1989m²**
+- uklonjeno grafita s kamenih površina u površini cca - **463m²**
+- uklonjeno grafita s kamenih površina pjeskarenjem u površini cca - **94m²**
+- uklonjeno otpadnog građevinskog materijala sa j.g.p. - 798 tona
+- uklonjeno predmeta sa j.p.:
+
+```
  2 štekata
  željezni dio zida
-samostojeća reklama
-cijela rampa
-dva gornja dijela rampe
-viseća rampa
-Olupine:
+```
+- samostojeća reklama
+- cijela rampa
+- dva gornja dijela rampe
+- viseća rampa
+- Olupine:
+
 a) 121 olupine osobnih vozila
 
 b) 1 olupina kamiona
@@ -5118,50 +6370,57 @@ c) 1 prikolica puna građevinskog materijala
 
 d) 1 autobus
 
-15 transparenata
-IZVJEŠĆE ZA PERIOD - 01.06.2017. – 20.05.2021.
+- 15 transparenata
+
+###### IZVJEŠĆE ZA PERIOD - 01.06.2017. – 20.05.2021.
+
 Komunalno redarstvo
 
-obrađeno je NEUPRAVNIH PREDMETA - 6.284
-obrađeno je UPRAVNIH PREDMETA - 3.313
-izdano je OBAVEZNIH PREKRŠAJNIH NALOGA - 431
-izdano je MANDATNIH KAZNI - 922
-uklonjeno grafita s betonskih površina bojanjem u površini cca - 14.192 m²
-uklonjeno grafita s kamenih površina - u površini cca - 663m²
-uklonjeno grafita s kamenih površina pjeskarenjem cca - 246m²
-uklonjeno nelegalnih plakata cca - 1.093m²
-uklonjeno otpadnog građevinskog materijala sa j.g.p. - 1.158.580 kg
-uklonjeno otpadnog građevinskog materijala sa j.g.p. - 2.200 m3
-uklonjeno opasnog materijala sa j.g.p. (kruto stanje) - 2.539 kg
-uklonjeno opasnog materijala sa j.g.p. (tekuće stanje) - 14.400 kg
-uklonjeno predmeta sa j.p.:
-4 štekat (stolovi i stolice, podest)
-15 pomičnih stupića
-tunelska skela
-željezni dio zida
-željezna ograda
-15 komada transparenata
-transparent i zid
-totem reklama
-3 samostojeće reklame
-3 štanda
-betonski bloketi
-betonske posude 8 kom
-viseća rampa
-samostojeća rampa
-glomazni građevni otpad iz ruševne kuće
-prikolica vozila puna građevinskog otpada
-VOZILA bez registarskih oznaka uklonjena sa j.p.
+- obrađeno je NEUPRAVNIH PREDMETA - 6.284
+- obrađeno je UPRAVNIH PREDMETA - 3.313
+- izdano je OBAVEZNIH PREKRŠAJNIH NALOGA - 431
+- izdano je MANDATNIH KAZNI - 922
+- uklonjeno grafita s betonskih površina bojanjem u površini cca - **14.192 m²**
+- uklonjeno grafita s kamenih površina - u površini cca - **663m²**
+- uklonjeno grafita s kamenih površina pjeskarenjem cca - **246m²**
+- uklonjeno nelegalnih plakata cca - **1.093m²**
+- uklonjeno otpadnog građevinskog materijala sa j.g.p. - 1.158.580 kg
+- uklonjeno otpadnog građevinskog materijala sa j.g.p. - 2.200 m3
+- uklonjeno opasnog materijala sa j.g.p. (kruto stanje) - 2.539 kg
+
+
+- uklonjeno opasnog materijala sa j.g.p. **(tekuće stanje)** - 14.400 kg
+- uklonjeno predmeta sa j.p.:
+    - 4 štekat (stolovi i stolice, podest)
+    - 15 pomičnih stupića
+    - tunelska skela
+    - željezni dio zida
+    - željezna ograda
+    - 15 komada transparenata
+    - transparent i zid
+    - totem reklama
+    - 3 samostojeće reklame
+    - 3 štanda
+    - betonski bloketi
+    - betonske posude 8 kom
+    - viseća rampa
+    - samostojeća rampa
+    - glomazni građevni otpad iz ruševne kuće
+    - prikolica vozila puna građevinskog otpada
+- VOZILA bez registarskih oznaka uklonjena sa j.p.
+
 a) 275 olupina osobnih vozila
 
 b) 8 olupina uz uporabu posebnih dizalica i drugih tehničkih sredstava
 
-VOZILA (olupine) predana ovlaštenom obrađivaču
+- VOZILA (olupine) **predana ovlaštenom obrađivaču**
+
 a) cjelovita otpadna vozila - 114 kom
 
-postupanje vezano za kontrolu šetnje pasa na j.p. bez uzice
-208 predmeta – postupanja i
-204 očitana mikro čipa
+- postupanje vezano za kontrolu šetnje pasa na j.p. bez uzice
+- 208 predmeta – postupanja i
+- 204 očitana mikro čipa
+
 Poljoprivredno redarstvo
 
 U proteklom periodu zaprimljeno je 154 prijave od kojih je utvrđeno da je 105 neosnovanih
@@ -5170,169 +6429,240 @@ Otvoreno je 49 predmeta. Očišćeno je 12 poljoprivrednih zemljišta (cca.26.00
 vlasnika u samostalnoj režiji. Putem prosljeđivanja predmeta koji nisu u resoru poljoprivrednog
 redarstva očišćeno je 6 gradskih površina.
 
-PROMETNO REDARSTVO
-postupanja u razdoblju od 1. lipnja 2017. do 19. svibnja 2021.
+
+###### PROMETNO REDARSTVO
+
+- postupanja u razdoblju od 1. lipnja 2017. do 19. svibnja 2021.
+
+```
 razdoblje
-2017.
-2018.
-2019.
-2020.
-2021.
+```
+###### 2017.
+
+###### 2018.
+
+###### 2019.
+
+###### 2020.
+
+###### 2021.
+
+```
 ukupno
+```
+```
 u
+```
+```
 mandatu
+```
+```
 Ukupno
 postupanja
-21.340
-40.866
-42.435
-38.075
-11.187
-153.903
-novčane
-kazne
-17.959 34.155 35.706 29.523 8.288 125.631
-upozorenja 3.381 6.711 6.729 8.552 2.899 28.272
+```
+###### 21.340
+
+###### 40.866
+
+###### 42.435
+
+###### 38.075
+
+###### 11.187
+
+###### 153.903
+
+- novčane
+    kazne
+
+###### 17.959 34.155 35.706 29.523 8.288 125.631
+
+- upozorenja 3.381 6.711 6.729 8.552 2.899 28.272
+
+```
 Postupanja po učestalim osnovama
-znak
-zabrane
-3.446 7.483 7.157 8.081 1.664 27.831
-pješačka
-zona
-3.035 6.143 6.464 3.763 838 20.243
-nogostup 3.203 6.426 7.028 5.113 1.911 23.681
-autobusna
-stanica
-2.005 3.041 3.478 4.848 1.666 15.038
-ometanje
-prometa
-1.936 3.571 5.106 5.018 1.408 17.039
-mjesta za
-OSI
-2.002 3.815 3.313 2.274 650 12.054
+```
+- znak
+    zabrane
+
+###### 3.446 7.483 7.157 8.081 1.664 27.831
+
+- pješačka
+    zona
+
+###### 3.035 6.143 6.464 3.763 838 20.243
+
+- nogostup 3.203 6.426 7.028 5.113 1.911 23.681
+- autobusna
+    stanica
+
+###### 2.005 3.041 3.478 4.848 1.666 15.038
+
+- ometanje
+    prometa
+
+###### 1.936 3.571 5.106 5.018 1.408 17.039
+
+- mjesta za
+    OSI
+
+###### 2.002 3.815 3.313 2.274 650 12.054
+
+```
 Izdanih
 naloga za
 premještanje
+```
+```
 po učestalim
 osnovama
-11.489
-20.096
-20.432
-16.837
-5.924
-74.788
-znak
-zabrane
-1.965 3.991 4.422 3.878 1.439 15.695
-autobusna
-stanica
-1.328 1.991 2.261 2.196 940 8.716
-ometanje
-prometa
-1.236 2.221 2.979 2.742 850 10.028
-pješačka
-zona
-1.621 2.993 3.036 1.604 422 9.676
-mjesta za
-OSI
-1.679 2.709 1.986 1.303 365 8.042
+```
+###### 11.489
+
+###### 20.096
+
+###### 20.432
+
+###### 16.837
+
+###### 5.924
+
+###### 74.788
+
+- znak
+    zabrane
+
+###### 1.965 3.991 4.422 3.878 1.439 15.695
+
+- autobusna
+    stanica
+
+###### 1.328 1.991 2.261 2.196 940 8.716
+
+- ometanje
+    prometa
+
+###### 1.236 2.221 2.979 2.742 850 10.028
+
+- pješačka
+    zona
+
+###### 1.621 2.993 3.036 1.604 422 9.676
+
+- mjesta za
+    OSI
+
+###### 1.679 2.709 1.986 1.303 365 8.042
+
+```
 Status VPP-a
+```
+```
 naplaćeno 84.006
+```
+```
 u postupku 37.593
+```
+
 Odsjek za mjesnu samoupravu
 
-Sukladno Pravilniku o unutarnjem redu i načinu rada upravnih tijela Grada
-Splita Odsjek za mjesnu samoupravu sadrži radna mjesta i to slijedom:
-Voditeljica Odsjeka za mjesnu samoupravu – popunjeno radno mjesto
-Viša savjetnica - popunjeno radno mjesto od 1. ožujka 2019.godine
-Savjetnik - radno mjesto popunjeno tek 22. ožujka 2021.god. (od 7. srpnja
-2021.god. na rodiljnom dopustu)
-Stručni suradnik – radno mjesto je bilo popunjeno samo u trajanju od 6 mjeseci
-2018.godine te nije popunjeno
-Administrativni tajnik GK/MO – od 34 tajnika popunjeno 26 tajnika
-Namještenik u komunalnom održavanju – od 7 namještenika popunjeno je 6
-radnih mjesta
-Referent – popunjeno radno mjesto
-Zatraženo je da se u Plan prijema službenika u Odsjek za mjesnu samoupravu uvrste
-sva nepopunjena radna mjesta tajnika kao i ostala nepopunjena mjesta, tim više što je
-ovaj Odsjek zadužen za formiranje „Zelenih otoka“ i za provođenje postupka dodjele
-bespovratnih potpora za radove ugradnje dizala u više etažnim stambenim i stambeno
-poslovnim građevinama na području Grada Splita.
-Doneseni akti:
-Prijedlog Odluke o raspisivanju izbora za članove Vijeća mjesnih odbora i gradskih
-kotareva na području Grada Splita, 20. travnja 2018. godine
-Izbori za članove Vijeća mjesnih odbora i gradskih kotareva održani 17. lipnja 2018.
-godine,
-Pravilnik o dodjeli bespovratnih potpora za radove ugradnje dizala u više etažnim
-stambenim i stambeno poslovnim građevinama na području Grada Splita („službeni
-glasnik Grada Splita“ broj 26/19),
-Objavljen Javni poziv za dodjelu bespovratnih potpora za radove ugradnje dizala u
-više etažnim stambenim i stambeno poslovnim građevinama na području grada
-Splita, 03. srpnja 2019. godine. Zaključeno 14 ugovora za dodjelu potpora u
-vrijednosti 1.000.000,00 kuna proračunskih sredstava,
-Zaključak o raspisivanju Javnog natječaja o financiranju programa i projekata koje
-provode udruge na području GK Sirobuja i Mertojak. Temeljem istog zaključeno 5
-ugovora sa udrugama iz prioritetnog područja aktivnosti: sporta, kulture i umjetnosti i
-izvaninstitucionalnog obrazovanja,
-Pravilnik o izmjeni i dopuni Pravilnika o dodjeli bespovratnih potpora za radove
-ugradnje dizala u više etažnim stambenim i stambeno – poslovnim građevinama na
-području grada Splita („Službeni glasnik Grada Splita“ broj 6/20),
-Rješenje o osnivanju i imenovanju Radne grupe za donošenje prijedloga akata iz
-područja mjesne samouprave Grada Splita, 24. lipnja 2019. godine, osnovane sa
-zadatkom pripreme prijedloga akata u svezi djelokruga rada i ovlasti tijela mjesne
-samouprave, pravila i programa rada vijeća mjesne samouprave, način financiranja
-njihove djelatnosti te druga pitanja od važnosti rada vijeća mjesne samouprave, 24.
-lipnja 2019. godine.
-Odluka o izmjenama i dopunama Odluke o mjesnoj samoupravi („Službeni glasnik
-Grada Splita“ broj 5/20), kao rezultat rada Radne grupe za donošenje prijedloga
-akata iz područja mjesne samouprave.
-Pravilnik o izmjeni Pravilnika o davanju na korištenje prostorija u gradskim kotarevima
-i mjesnim odborima Grada Splita („Službeni glasnik Grada Splita“ broj 6/20)
-Objavljen Javni poziv za dodjelu bespovratnih potpora za radove ugradnje dizala u
-više etažnim stambenim i stambeno poslovnim građevinama na području grada Splita
-ožujka 2020. godine. Zaključeno 13 ugovora za dodjelu bespovratnih potpora u
-vrijednosti 888.000,00 kuna proračunskih sredstava.
-Zaključak o izdvajanju decentraliziranih novčanih sredstava namijenjenih za GK
-Mertojak u svrhu donacije Domu zdravlja Splitsko dalmatinske županije, COVID
-Ambulanti „Mertojak“,
-Zaključak o izdvajanju decentraliziranih novčanih sredstava namijenjenih za GK
-„Mertojak“ za potrebe dostavljanje hrane i lijekova potrebitim građanima za vrijeme
-COVID – Pandemije,
-Raspisan Javni natječaj za dodjelu na korištenje prostorija u objektu GK Plokite dana
-lipnja 2020. godine. Temeljem istoga zaključen ugovor s jednom udrugom,
-Rješenje o raspuštanju Vijeća GK Spinut 06. srpnja 2020. godine,
-Rješenje o imenovanju povjerenice Gradonačelnika grada Splita za obavljanje poslova
-iz nadležnosti Vijeća GK Spinut, 24. lipnja 2020. godine,
-Odluka o raspisivanju izbora za članove Vijeća GK Spinut, 14. rujna 2020. godine,
-Rješenje o imenovanju Izbornog povjerenstva za provedbu izbora za članove Vijeća
-GK Spinut, 24. rujna 2020. godine,
-Izbori za izbor članova Vijeća GK Spinut održani 25. listopada 2020. godine,
-Zaključak o donaciji decentraliziranih novčanih sredstava gradskih kotareva i mjesnih
-odbora Grada Splita, Hrvatskom crvenom križu u iznosu od 165.000,00 kuna kao pomoć
-za stradale u potresu u Petrinji, Sisku i Glini, dana 14. siječnja 2021. godine,
-Zaključak o donaciji decentraliziranih novčanih sredstava gradskih kotareva i mjesnih
-odbora, Hrvatskom crvenom križu u ukupnom iznosu od 225.000,00 kuna kao pomoć
-potresom razrušenih područja Banovine,
-Rješenje o imenovanju povjerenstva za provođenje javnog poziva za dodjelu potpora za
-radove ugradnje dizala dana 09. veljače 2021. godine,
-Javni poziv za dodjelu bespovratnih potpora za radove ugradnje dizala u više etažnim
-stambenim i stambeno – poslovnim građevinama na području grada Splita dana 16.
-veljače 2021. godine i to u iznosu od 1.500.000,00 kuna proračunskih sredstava.
-temeljem istoga potpisana su 22 predugovora o dodjeli potpore.
-Javni natječaj za dodjelu prostorija Gradskih Kotareva: Sirobuja i Ravne Njive na
-korištenje udrugama radi provođenja programa i projekata od interesa za opće dobro iz
-područja sporta i rekreacije i područja izvaninstitucionalnog obrazovanja. Temeljem
-istoga zaključeno pet ugovora iz područja aktivnosti sporta i rekreacije i jedan ugovor iz
-područja izvaninstitucionalnog obrazovanja,
-Javni natječaj o davanju na korištenje sale u GK Meje, 110 m2, Njegoševa 1A,
-udrugama koje provode aktivnosti od interesa za opće dobro, područja športske
-rekreacije, 18. ožujka 2021. godine. Temeljem istoga zaključena su dva ugovora s
-udrugama.
-Rješenje o raspuštanju Vijeća MO Slatine dana 9. travnja 2021. godine,
-Rješenje o imenovanju povjerenice Gradonačelnika za obavljanje poslova iz nadležnosti
-Vijeća MO Slatine dana 20.travnja 2021. godine.
-3. DECENTARLIZIRANA SREDSTVA GK/MO
-Utrošena sredstva za 2018.g.
+1. **Sukladno Pravilniku o unutarnjem redu i načinu rada upravnih tijela Grada**
+    **Splita Odsjek za mjesnu samoupravu sadrži radna mjesta i to slijedom:**
+    - Voditeljica Odsjeka za mjesnu samoupravu – popunjeno radno mjesto
+    - Viša savjetnica - **popunjeno radno mjesto od 1. ožujka 2019.godine**
+    - Savjetnik - **radno mjesto popunjeno tek 22. ožujka 2021.god.** (od 7. srpnja
+    2021.god. na rodiljnom dopustu)
+    - Stručni suradnik – radno mjesto je bilo popunjeno samo u trajanju od 6 mjeseci
+    2018.godine te nije popunjeno
+    - Administrativni tajnik GK/MO **–** od 34 tajnika popunjeno 26 tajnika
+    - Namještenik u komunalnom održavanju **– od 7 namještenika popunjeno je 6**
+    radnih mjesta
+    - Referent – popunjeno radno mjesto
+    Zatraženo je da se u Plan prijema službenika u Odsjek za mjesnu samoupravu uvrste
+    sva nepopunjena radna mjesta tajnika kao i ostala nepopunjena mjesta, tim više što je
+    ovaj Odsjek zadužen za formiranje „Zelenih otoka“ i za provođenje postupka dodjele
+    bespovratnih potpora za radove ugradnje dizala u više etažnim stambenim i stambeno
+    poslovnim građevinama na području Grada Splita.
+2. Doneseni akti:
+- Prijedlog Odluke o raspisivanju izbora za članove Vijeća mjesnih odbora i gradskih
+    kotareva na području Grada Splita, 20. travnja 2018. godine
+- Izbori za članove Vijeća mjesnih odbora i gradskih kotareva održani 17. lipnja 2018.
+    godine,
+- Pravilnik o dodjeli bespovratnih potpora za radove ugradnje dizala u više etažnim
+    stambenim i stambeno poslovnim građevinama na području Grada Splita („službeni
+    glasnik Grada Splita“ broj 26/19),
+- Objavljen Javni poziv za dodjelu bespovratnih potpora za radove ugradnje dizala u
+    više etažnim stambenim i stambeno poslovnim građevinama na području grada
+    Splita, 03. srpnja 2019. godine. Zaključeno 14 ugovora za dodjelu potpora u
+    vrijednosti 1.000.000,00 kuna proračunskih sredstava,
+- Zaključak o raspisivanju Javnog natječaja o financiranju programa i projekata koje
+    provode udruge na području GK Sirobuja i Mertojak. Temeljem istog zaključeno 5
+    ugovora sa udrugama iz prioritetnog područja aktivnosti: sporta, kulture i umjetnosti i
+    izvaninstitucionalnog obrazovanja,
+- Pravilnik o izmjeni i dopuni Pravilnika o dodjeli bespovratnih potpora za radove
+    ugradnje dizala u više etažnim stambenim i stambeno – poslovnim građevinama na
+    području grada Splita („Službeni glasnik Grada Splita“ broj 6/20),
+- Rješenje o osnivanju i imenovanju Radne grupe za donošenje prijedloga akata iz
+    područja mjesne samouprave Grada Splita, 24. lipnja 2019. godine, osnovane sa
+    zadatkom pripreme prijedloga akata u svezi djelokruga rada i ovlasti tijela mjesne
+    samouprave, pravila i programa rada vijeća mjesne samouprave, način financiranja
+    njihove djelatnosti te druga pitanja od važnosti rada vijeća mjesne samouprave, 24.
+    lipnja 2019. godine.
+- Odluka o izmjenama i dopunama Odluke o mjesnoj samoupravi („Službeni glasnik
+    Grada Splita“ broj 5/20), kao rezultat rada Radne grupe za donošenje prijedloga
+    akata iz područja mjesne samouprave.
+
+
+- Pravilnik o izmjeni Pravilnika o davanju na korištenje prostorija u gradskim kotarevima
+    i mjesnim odborima Grada Splita („Službeni glasnik Grada Splita“ broj 6/20)
+- Objavljen Javni poziv za dodjelu bespovratnih potpora za radove ugradnje dizala u
+    više etažnim stambenim i stambeno poslovnim građevinama na području grada Splita
+    02. ožujka 2020. godine. Zaključeno 13 ugovora za dodjelu bespovratnih potpora u
+    vrijednosti 888.000,00 kuna proračunskih sredstava.
+- Zaključak o izdvajanju decentraliziranih novčanih sredstava namijenjenih za GK
+    Mertojak u svrhu donacije Domu zdravlja Splitsko dalmatinske županije, COVID
+    Ambulanti „Mertojak“,
+- Zaključak o izdvajanju decentraliziranih novčanih sredstava namijenjenih za GK
+    „Mertojak“ za potrebe dostavljanje hrane i lijekova potrebitim građanima za vrijeme
+    COVID – Pandemije,
+- Raspisan Javni natječaj za dodjelu na korištenje prostorija u objektu GK Plokite dana
+    19. lipnja 2020. godine. Temeljem istoga zaključen ugovor s jednom udrugom,
+- Rješenje o raspuštanju Vijeća GK Spinut 06. srpnja 2020. godine,
+- Rješenje o imenovanju povjerenice Gradonačelnika grada Splita za obavljanje poslova
+    iz nadležnosti Vijeća GK Spinut, 24. lipnja 2020. godine,
+- Odluka o raspisivanju izbora za članove Vijeća GK Spinut, 14. rujna 2020. godine,
+- Rješenje o imenovanju Izbornog povjerenstva za provedbu izbora za članove Vijeća
+    GK Spinut, 24. rujna 2020. godine,
+- Izbori za izbor članova Vijeća GK Spinut održani 25. listopada 2020. godine,
+- Zaključak o donaciji decentraliziranih novčanih sredstava gradskih kotareva i mjesnih
+    odbora Grada Splita, Hrvatskom crvenom križu u iznosu od 165.000,00 kuna kao pomoć
+    za stradale u potresu u Petrinji, Sisku i Glini, dana 14. siječnja 2021. godine,
+- Zaključak o donaciji decentraliziranih novčanih sredstava gradskih kotareva i mjesnih
+    odbora, Hrvatskom crvenom križu u ukupnom iznosu od 225.000,00 kuna kao pomoć
+    potresom razrušenih područja Banovine,
+- Rješenje o imenovanju povjerenstva za provođenje javnog poziva za dodjelu potpora za
+    radove ugradnje dizala dana 09. veljače 2021. godine,
+- Javni poziv za dodjelu bespovratnih potpora za radove ugradnje dizala u više etažnim
+    stambenim i stambeno – poslovnim građevinama na području grada Splita dana 16.
+    veljače 2021. godine i to u iznosu od 1.500.000,00 kuna proračunskih sredstava.
+    temeljem istoga potpisana su 22 predugovora o dodjeli potpore.
+- Javni natječaj za dodjelu prostorija Gradskih Kotareva: Sirobuja i Ravne Njive na
+    korištenje udrugama radi provođenja programa i projekata od interesa za opće dobro iz
+    područja sporta i rekreacije i područja izvaninstitucionalnog obrazovanja. Temeljem
+    istoga zaključeno pet ugovora iz područja aktivnosti sporta i rekreacije i jedan ugovor iz
+    područja izvaninstitucionalnog obrazovanja,
+- Javni natječaj o davanju na korištenje sale u GK Meje, 110 m2, Njegoševa 1A,
+    udrugama koje provode aktivnosti od interesa za opće dobro, područja športske
+    rekreacije, 18. ožujka 2021. godine. Temeljem istoga zaključena su dva ugovora s
+    udrugama.
+- Rješenje o raspuštanju Vijeća MO Slatine dana 9. travnja 2021. godine,
+- Rješenje o imenovanju povjerenice Gradonačelnika za obavljanje poslova iz nadležnosti
+    Vijeća MO Slatine dana 20.travnja 2021. godine.
+
+
+###### 3. DECENTARLIZIRANA SREDSTVA GK/MO
+
+**Utrošena sredstva za 2018.g.**
 
 Manji komunalni zahvati – utrošeno 3.762.724,42 od predviđenih 4.131.600,00
 
@@ -5348,7 +6678,7 @@ predviđenih 250.000,00
 
 Projekt Zeleni otoci – utrošeno 41.800,00 od predviđenih 41.800,00
 
-Utrošena sredstva za 2019.g.
+**Utrošena sredstva za 2019.g.**
 
 Manji komunalni zahvati – utrošeno 3.599.303,86 od predviđenih 3.987.633,00
 
@@ -5362,7 +6692,7 @@ Sredstva su utrošena na sanaciju krova MO Slatine.
 
 Projekt Zeleni otoci – utrošeno 475.000,00 0d predviđenih 500.000,00.
 
-Utrošena sredstva za 2020.g.
+**Utrošena sredstva za 2020.g.**
 
 Manjim komunalni zahvati – utrošeno 2.460.709,71 od predviđenih 4.659.880,00
 
@@ -5380,13 +6710,14 @@ za zatraženu sanaciju objekata MO Gornje Sitno i GK Visoka nisu osigurana
 
 sredstva u proračunu za 2020.g.
 
-Utrošena sredstva za 2021.g. (u periodu od 01.01. do 20.05.)
+**Utrošena** sredstva za 2021.g. (u periodu od 01.01. do 20.05.)
 
 Manji komunalni zahvati –utrošeno 767.081,73 od predviđenih 5.374.850,00
 
 Sredstva za donaciju – utrošeno 60.000,00 od predviđenih 80.000,00
 
 Sredstva za obilježavanje blagdana – utrošeno 207.400,00 od predviđenih 1.125.440,00
+
 
 Planirano je financiranje Udruga putem Natječaja za GK Mertojak u iznosu od
 
@@ -5408,38 +6739,50 @@ Vrijednost poslovnog prostora s PDV-om po kupoprodajnom Ugovoru
 
 iznosi 1.952.313,64 kn.
 
-4. PODJELA UPLATNICA ZA KOMUNALNU NAKNADU, NUV I OTKUP STANA
+###### 4. PODJELA UPLATNICA ZA KOMUNALNU NAKNADU, NUV I OTKUP STANA
+
 Tijekom prosinca 2020.g. te siječnja 2021.g. izvršena je podjela kom. uplatnica, NUV
 
 i uplatnica otkupa stana (80 000).
 
+```
 Krajem lipnja 2021. tajnici ovog Odsjeka izvršit će podjelu uplatnica komunalne
 naknade i NUV za period od 01.07.2021.g. te uplatnice otkupa stana (80 000).
+```
 Planirana je podjela opomena za dugovanja po zaduženju komunalne i vodne naknade.
 
-5. UTROŠENA SREDSTVA ZA DODJELU BESPOVRATNIH POTPORA ZA DIZALA
+###### 5. UTROŠENA SREDSTVA ZA DODJELU BESPOVRATNIH POTPORA ZA DIZALA
+
 Utrošena sredstva u 2019.g.
 
-Objavljen Javni poziv za dodjelu bespovratnih potpora za radove ugradnje dizala u
-više etažnim stambenim i stambeno poslovnim građevinama na području grada
-Splita, 03. srpnja 2019. godine. Zaključeno 14 ugovora za dodjelu potpora u
-vrijednosti 984.000,00 kuna proračunskih sredstava od planiranih 1.000.000,00 kuna.
+- Objavljen Javni poziv za dodjelu bespovratnih potpora za radove ugradnje dizala u
+    više etažnim stambenim i stambeno poslovnim građevinama na području grada
+    Splita, 03. srpnja 2019. godine. Zaključeno 14 ugovora za dodjelu potpora u
+    vrijednosti 984.000,00 kuna proračunskih sredstava od planiranih 1.000.000,00 kuna.
+
 Utrošena sredstva u 2020.g.
 
-Objavljen Javni poziv za dodjelu bespovratnih potpora za radove ugradnje dizala u
-više etažnim stambenim i stambeno poslovnim građevinama na području grada Splita
-ožujka 2020. godine. Zaključeno 13 ugovora za dodjelu bespovratnih potpora u
-vrijednosti 888.000,00 kuna proračunskih sredstava od planiranih 900.000,00 kuna.
+- Objavljen Javni poziv za dodjelu bespovratnih potpora za radove ugradnje dizala u
+    više etažnim stambenim i stambeno poslovnim građevinama na području grada Splita
+    02. ožujka 2020. godine. Zaključeno 13 ugovora za dodjelu bespovratnih potpora u
+    vrijednosti 888.000,00 kuna proračunskih sredstava od planiranih 900.000,00 kuna.
+
+```
 Utrošena sredstva u 2021.g.
-Javni poziv za dodjelu bespovratnih potpora za radove ugradnje dizala u više etažnim
-stambenim i stambeno – poslovnim građevinama na području grada Splita dana 16.
-veljače 2021. godine i to u iznosu od 1.500.000,00 kuna proračunskih sredstava,
-temeljem istoga potpisana su 22 predugovora o dodjeli potpore.
+```
+- Javni poziv za dodjelu bespovratnih potpora za radove ugradnje dizala u više etažnim
+    stambenim i stambeno – poslovnim građevinama na području grada Splita dana 16.
+    veljače 2021. godine i to u iznosu od 1.500.000,00 kuna proračunskih sredstava,
+    temeljem istoga potpisana su 22 predugovora o dodjeli potpore.
+
+
 Odsjek za komunalno gospodarstvo
 
-PROJEKTI I BITNE REDOVNE AKTIVNOSTI (2017.- 2021 .)
-a) Koncesije za komunalne djelatnosti - postupci dodjele koncesije i vođenje
-koncesija u registru koncesija RH
+1. PROJEKTI I BITNE REDOVNE AKTIVNOSTI (2017.- 2021 .)
+a) Koncesije za komunalne djelatnosti - **postupci dodjele koncesije i vođenje**
+    koncesija u registru koncesija RH
+
+```
  DIMNJAČARI – 4 koncesije, ugovori na 4 godine,
  OBAVLJANJE POSLOVA ODVOZA FEKALIJA - 4 koncesije, ugovori na 4
 godine (2018.-2022.)
@@ -5447,7 +6790,11 @@ godine (2018.-2022.)
 2021.)
  ODRŽAVANJE JAVNIH NUŽNIKA – 2 koncesije za 3 javna nužnika
  TRŽNICE NA MALO – 1 koncesija (2011.-2021.)
+```
+```
 b) Pisani ugovor o obavljanju komunalne djelatnosti
+```
+```
  Održavanje kolnika nerazvrstanih cesta – 1 ugovor
  Održavanje nogostupa nerazvrstanih cesta – 1 ugovor
  Održavanje javne rasvjete – 2 ugovora za 2 zone
@@ -5455,51 +6802,81 @@ b) Pisani ugovor o obavljanju komunalne djelatnosti
  Uklanjanje uginulih životinja – 1 ugovor
  Kićenje grada za praznike i blagdane - 1 ugovor
  Obavljanje poslova deratizacije i dezinsekcije – 1 ugovor
+```
+```
 c) Nadzor i koordinacija komunalnih trgovačkih društava
-u prilogu pojedinačno za svako trgovačko društvo
+```
+- u prilogu pojedinačno za svako trgovačko društvo
+
+```
 d) Gospodarenje otpadom
+```
+```
 Plan gospodarenje otpadom na području Grada Splita za razdoblje 2017.-2022.
-Pisanje i dostava godišnjih izvješća o provođenju Plana gospodarenja otpadom
-Donošenje odluka po Zakonu o održivom gospodarenju otpadom i drugim aktima
-kojima se uređuje pitanje otpada
-Pokretanje javnih nabava
-Provođenje mjera Plana gospodarenje otpadom - Radna skupina
+```
+- Pisanje i dostava godišnjih izvješća o provođenju Plana gospodarenja otpadom
+- Donošenje odluka po Zakonu o održivom gospodarenju otpadom i drugim aktima
+    kojima se uređuje pitanje otpada
+- Pokretanje javnih nabava
+- Provođenje mjera Plana gospodarenje otpadom - Radna skupina
+
+```
 e) Auto taksi prijevoz
-Izdavanje rješenja i dozvola za taksi prijevoz
+```
+- Izdavanje rješenja i dozvola za taksi prijevoz
+
+```
 f) Prekršajni postupci naplate za vožnju u javnom prijevozu
+```
+```
 g) Komunalna naknada i naknada za uređenje voda - rješenja
+```
+```
 h) Komunalni doprinos - rješenja
+```
+```
 i) Rješenja o naknadi za zadržavanje nezakonito izgrađenih zgrada u prostoru -
 rješenja
+```
+```
 j) Spomenička renta – rješenja
-k) Zabrana izvođenja radova tijekom turističke sezone (godišnja odluka 2017. -
+```
+
+k) **Zabrana izvođenja radova tijekom turističke sezone (godišnja odluka 2017.** -
 2020.)
 
-l) Ugovori o pravu služnosti na nerazvrstanim cestama
+l) **Ugovori o pravu služnosti na nerazvrstanim cestama**
 
-m) Donošenje odluka iz područja rada odsjeka i pojedinih iz područja rada odjela
+m) **Donošenje odluka iz područja rada odsjeka i pojedinih iz područja rada odjela**
 
-2. ZAPOČETI PROJEKTI I AKTIVNOSTI
-Preuzimanje djelatnosti tržnice na malo od strane trg. društva Parkovi i
-nasadi d.o.o. s danom 1. srpnja 2021. godine
-Odluka o odabiru koncesionara za javni nužnik Pistura (upućeno na posljednju
-sjednicu GV, potrebno donijeti na 1. idućoj radnoj sjednici)
-Odluka o odabiru koncesionara za panoramsko razgledavanje Grada Splita
-(potrebno donijeti na 1. idućoj radnoj sjednici)
-Dodjela 1 koncesije za 5. dimnjačarsko područje – postupak u tijeku
-Suglasnosti na sklapanje Ugovora o zajedničkom pothvatu izgradnje javnih
-garaža (točke s posljednje sjednice GV, potrebno donijeti na 1. idućoj radnoj
-sjednici), Doverska, Odeska, Dobrilina na 1. ugovoru te Lokve na 2. ugovoru
-Donošenje odluke o sprječavanju nepropisno odbačenog otpada u okoliš
-(završeno savjetovanje, upućeno na posljednju sjednicu GV, potrebno donijeti na
-idućoj radnoj sjednici)
-Godišnji i srednjoročni Plan davanja koncesije (upućeno na posljednju sjednicu
-GV, potrebno donijeti na 1. idućoj radnoj sjednici)
-Prijedlog Akcijskog plana za sprječavanje vandalizma na području Grada Splita
-(završeno savjetovanje, upućeno na posljednju sjednicu GV)
-PROČELNIK
+###### 2. ZAPOČETI PROJEKTI I AKTIVNOSTI
+
+- **Preuzimanje djelatnosti tržnice na malo od strane trg. društva Parkovi i**
+    nasadi d.o.o. s danom 1. srpnja 2021. godine
+- Odluka o odabiru koncesionara za javni nužnik Pistura (upućeno na posljednju
+    sjednicu GV, potrebno donijeti na 1. idućoj radnoj sjednici)
+- Odluka o odabiru koncesionara za panoramsko razgledavanje Grada Splita
+    (potrebno donijeti na 1. idućoj radnoj sjednici)
+- Dodjela 1 koncesije za 5. dimnjačarsko područje – postupak u tijeku
+- **Suglasnosti na sklapanje Ugovora o zajedničkom pothvatu izgradnje javnih**
+    **garaža (točke s posljednje sjednice GV, potrebno donijeti na 1. idućoj radnoj**
+    sjednici), Doverska, Odeska, Dobrilina na 1. ugovoru te Lokve na 2. ugovoru
+- Donošenje odluke o sprječavanju nepropisno odbačenog otpada u okoliš
+    (završeno savjetovanje, upućeno na posljednju sjednicu GV, potrebno donijeti na
+    1. idućoj radnoj sjednici)
+- Godišnji i srednjoročni Plan davanja koncesije (upućeno na posljednju sjednicu
+    GV, potrebno donijeti na 1. idućoj radnoj sjednici)
+- Prijedlog Akcijskog plana za sprječavanje vandalizma na području Grada Splita
+    (završeno savjetovanje, upućeno na posljednju sjednicu GV)
+
+###### PROČELNIK
+
+```
 Damir Ordulj
-SLUŽBA ZA GOSPODARENJE GRADSKOM IMOVINOM
+```
+
+###### SLUŽBA ZA GOSPODARENJE GRADSKOM IMOVINOM
+
 U Službi za gospodarenje gradskom imovinom obavljaju se upravni i stručni poslovi
 gospodarenja stanovima, poslovnim prostorima i skloništima u vlasništu Grada Splita, poslovi
 evidentiranja i uknjižbe prava vlasništva svih gradskih nekretnina, poslovi sklapanja ugovora u
@@ -5509,39 +6886,42 @@ vrijednosti nekretnina.
 
 Odsjek za gospodarenje imovinom
 
-u tijeku je riješavanje Javnog natječaja za davanje u najam stanova socijalno
-ugroženim građanima grada Splita
-u tijeku je rješavanje statusa stanara zgrade tzv. hotela za samce u Vukovarskoj 81
-u Splitu
-u tijeku je rješavanje Javnog natječaja za davanje u zakup poslovnog prostora u
-vlasništvu Grada Splita
-dana 18.12.2020. godine donesena nova Odluka o zakupu i kupoprodaji poslovnog
-prostora u vlasništvu Grada Splita
-uknjižena je zgrada Hrvatskog narodnog kazališta Split
-pokrenut je postupak uknjižbe za Osnovnu školu Meje, Osnovnu školu Blatine
-Škrape, Osnovnu školu Ravne njive, Osnovnu školu Visoka
-usješno je riješen, nagodbom od 22.04.2020. godine, prostor Ljetnog kina Bačvice,
-u tijeku je izrada projektne dokumentacije za spajanje na kanalizacijsku mrežu
-športski teren Pricviće u Žrnovnici dat na upravljanje Javnoj ustanovi Športski
-objekti
-izvansudskom nagodbom od 12.05.2021.godine riješeno pitanje tzv. "škverske
-ambulante" (potpisan ugovor o zakupu poslovnog prostora sa udrugom Anđeli) te
-će se krenuti sa realizacijom obnove
-Vlada RH donijela odluku o zamjeni prostora knjižare Morpurgo, nakon
-višegodišnjih pregovora između Grada Splita i RH, te je predmet trenutno u "statusu
-quo"
-odlukom Gradskog vijeća od 29.07.2020. godine uspješno riješeno pitanje kampa
-Stobreč
-Odsjek za tehničke poslove, održavanje i rukovanje imovinom
+- u tijeku je riješavanje Javnog natječaja za davanje u najam stanova socijalno
+    ugroženim građanima grada Splita
+- u tijeku je rješavanje statusa stanara zgrade tzv. hotela za samce u Vukovarskoj 81
+    u Splitu
+- u tijeku je rješavanje Javnog natječaja za davanje u zakup poslovnog prostora u
+    vlasništvu Grada Splita
+- dana 18.12.2020. godine donesena nova Odluka o zakupu i kupoprodaji poslovnog
+    prostora u vlasništvu Grada Splita
+- uknjižena je zgrada Hrvatskog narodnog kazališta Split
+- pokrenut je postupak uknjižbe za Osnovnu školu Meje, Osnovnu školu Blatine
+    Škrape, Osnovnu školu Ravne njive, Osnovnu školu Visoka
+- usješno je riješen, nagodbom od 22.04.2020. godine, prostor Ljetnog kina Bačvice,
+    u tijeku je izrada projektne dokumentacije za spajanje na kanalizacijsku mrežu
+- športski teren Pricviće u Žrnovnici dat na upravljanje Javnoj ustanovi Športski
+    objekti
+- izvansudskom nagodbom od 12.05.2021.godine riješeno pitanje tzv. "škverske
+    ambulante" (potpisan ugovor o zakupu poslovnog prostora sa udrugom Anđeli) te
+    će se krenuti sa realizacijom obnove
+- Vlada RH donijela odluku o zamjeni prostora knjižare Morpurgo, nakon
+    višegodišnjih pregovora između Grada Splita i RH, te je predmet trenutno u "statusu
+    quo"
+- odlukom Gradskog vijeća od 29.07.2020. godine uspješno riješeno pitanje kampa
+    Stobreč
 
-rekonstrukcija instalacija kompleksa Vila Dalmacija, očekuje se izbor najpovoljnijeg
-ponuditelja na izgradnju nove vodovodne, kanalizacijske i hidrantske mreže
-sanacija prostora Instituta Ivo PIlar uništenog u požaru
-sanacija krovišta Doma za starije i nemoćne "Zlatne godine" u Žrnovnici
-sanacija Splitskog dijabetičkog društva
-sanacija krovišta u prostorijama DVD Split
-sanacija krovišta Gradske knjižnice Marka Marulića
-uređenje prostorija i sanacija krovišta Prve policijske postaje Split
+**Odsjek za tehničke poslove, održavanje i rukovanje imovinom**
+
+- rekonstrukcija instalacija kompleksa Vila Dalmacija, očekuje se izbor najpovoljnijeg
+    ponuditelja na izgradnju nove vodovodne, kanalizacijske i hidrantske mreže
+- sanacija prostora Instituta Ivo PIlar uništenog u požaru
+- sanacija krovišta Doma za starije i nemoćne "Zlatne godine" u Žrnovnici
+- sanacija Splitskog dijabetičkog društva
+- sanacija krovišta u prostorijama DVD Split
+- sanacija krovišta Gradske knjižnice Marka Marulića
+- uređenje prostorija i sanacija krovišta Prve policijske postaje Split
+
+
 Odsjek za DTK infrastrukturu
 
 Vlasnička suglasnost u postupku ishođenja građevinske dozvole
@@ -5555,14 +6935,15 @@ infrastrukturnih građevina. Ista je u veljači upućena na donošenje Gradskom 
 
 U rješavanju su dva predmeta:
 
-osnivanje prava služnosti na dijelu kat.čest.zem. 314/1 k.o. Kamen koja je u
+1. osnivanje prava služnosti na dijelu kat.čest.zem. 314/1 k.o. Kamen koja je u
 vlasništvu Grada Splita, radi postavljanja stupa i dijela trase kabela 110 kV za potrebe
 kabelskog izmještanja dijela DV 110 kV Zakučac – Meterize III; u izradi je ugovor o
 osnivanju prava služnosti
-osnivanje prava služnosti na nerazvrstanim cestama položenim u k.o. Slatine radi
+2. osnivanje prava služnosti na nerazvrstanim cestama položenim u k.o. Slatine radi
 nepotpunog izvlaštenja zemljišta potrebnog radi izgradnje sustava sekundarne
 kanalizacijske mreže na području grada Trogira, mreža Slatine – II Etapa; u izradi je
 ugovor o osnivanju prava služnosti
+
 Poslovi procjene vrijednosti nekretnina
 
 Zakon o procjeni vrijednosti nekretnina je propisao obvezu osiguranja službenika prikladne
@@ -5575,9 +6956,14 @@ djelatnika Službe, po zamolbi pročelnika, uz svoj posao obavljalo i predmetne 
 U smislu navedenog, u budućnosti je potrebno poduzeti sve potrebne radnje rezultat kojih će
 biti ustroj organizacijske jedinice i službenika koji će se baviti isključivo predmetnim poslovima
 
-PROČELNIK P.O.
+###### PROČELNIK P.O.
+
+```
 Ivan Leko
-SLUŽBA ZA MEĐUNARODNE I EU PROJEKTE
+```
+
+###### SLUŽBA ZA MEĐUNARODNE I EU PROJEKTE
+
 Služba za međunarodne i EU projekte ustrojena je temeljem Odluke Gradskog vijeća od
 06.12.2017.g., objavljene u Službenom glasniku Grada Splita br. 55/2017, a u istu su prešli
 Odsjek za međunarodne i EU fondove i Odsjek za provedbu ITU mehanizma koji su do tada
@@ -5586,9 +6972,10 @@ treći Odsjek fokusiran na „pametni“ razvoj grada Splita.
 
 Slijedom navedenog, Služba za međunarodne i EU projekte sada se sastoji od 3 Odsjeka:
 
-Odsjek za međunarodne i EU projekte
-Odsjek za provedbu ITU mehanizma (ITU PT)
-Odsjek za Smart City projekte i digitalizaciju
+- Odsjek za međunarodne i EU projekte
+- Odsjek za provedbu ITU mehanizma (ITU PT)
+- Odsjek za Smart City projekte i digitalizaciju
+
 Služba trenutno broji 20 službenika uključujući i pročelnicu Radojku Tomašević.
 
 Službenici su raspoređeni na slijedeći način;
@@ -5629,10 +7016,12 @@ ostalim upravnim tijelima Grada Splita u provedbi razvojnih projekata financiran
 sredstvima te u tom svojstvu prate apsorpciju EU sredstava svih upravnih tijela i o tome
 izvještavaju sve nadležne.
 
+
 Slijedom navedenog utvrdili smo da je tijekom razdoblja od lipnja 2017. godine do svibnja
 
-godine ukupna vrijednost prijavljenih i ugovorenih europskih projekata Grada Splita
+2021. godine ukupna vrijednost prijavljenih i ugovorenih europskih projekata Grada Splita
 iznosila 986.517.400 kuna.
+
 Detaljni pregled projekata koje pojedini Odsjek ove Službe provodi predstavljen je u nastavku
 ovog Izvještaja za svaki Odsjek zasebno i to narativno, tj. opis aktivnosti te sa priloženim
 tabličnim prikazom projekata u provedbi, završenih projekata, projekata koji su prijavljeni i za
@@ -5640,11 +7029,12 @@ koje se čekaju rezultati vrednovanja. Nadalje, prikazat će se i projekti koji 
 ostalih upravnih tijela Grada Splita, a kojima djelatnici Službe za međunarodne i EU projekte
 pružaju administrativnu potporu.
 
-U Prilogu opisa aktivnosti svakog pojedinog Odsjeka dodan je i tablični prikaz projekata
-u realizaciji i završenih projekata sa pripadajućim iznosima ukupnih ugovorenih
+U Prilogu **opisa aktivnosti svakog pojedinog Odsjeka dodan je i tablični** prikaz projekata
+u realizaciji **i završenih projekata sa pripadajućim iznosima ukupnih ugovorenih**
 sredstava, bespovratnih sredstava te opisom statusa njihove realizacije.
 
-1.1. Razvojna agencija RaST d.o.o.
+#### 1.1. Razvojna agencija RaST d.o.o.
+
 U razdoblju od veljače 2018. godine kada je ponovno aktivirana do danas Razvojna agencija
 Split - RaST d.o.o. pruža savjetodavne usluge Gradu Splitu, odnosno Službi za međunarodne
 i EU projekte tijekom pripreme projektnih prijedloga te projektnih zadataka za potrebe
@@ -5656,7 +7046,8 @@ podnosio redovite mjesečne izvještaje o radu za izvršene usluge, a sve suklad
 poslovnoj suradnji sklopljenom dana 22. veljače 2018.godine od strane gradonačelnika Grada
 Splita i direktorice Razvojne agencije.
 
-1.2. Planirane aktivnosti
+#### 1.2. Planirane aktivnosti
+
 Kako je na nacionalnom nivou u tijeku planiranje operativnih programa za financijsku
 perspektivu 2021 – 2027. kao i ostalih izvora EU financiranja, pročelnica Službe kao i pojedini
 službenici učestvuju kroz radne grupe u procesu planiranja na lokalnom i nacionalnom nivou.
@@ -5682,22 +7073,25 @@ EBRD, biti će analizirana trenutna situacija u gradu Splitu te predložen Akcij
 dati prijedloge za projekte koji se mogu financirati iz EU sredstava, te je Pročelnica Službe
 aktivno uključena u sve aktivnosti ove inicijative.
 
+
 Služba za međunarodne i EU projekte, u suradnji sa Razvojnom agencijom Split – RAST
 d.o.o., priprema listu projekata za moguće financiranje EU sredstvima iz financijske
 perspektive 2021. - 2027. Trenutno u suradnji sa RAST d.o.o., uz prikupljanje podataka za
 projekte koji se unose u Bazu projekata, Služba priprema slijedeće strateške projekte:
 
-Obnova stadiona „Poljud“ temeljem dokumentacije koju je Služba pripremila u okviru
-EU projekta „Split, mjesto dodira sporta i kulture
-Dom mladih kao nastavak aktivnosti Službe na financiranju pojedinih prostora Doma
-mladih; obnove prostora „Razred“ te WiFi4EU vouchera kojim je osigurana pokrivenost
-bežičnim Internetom samog Doma i okolne infrastrukture
+- Obnova stadiona „Poljud“ temeljem dokumentacije koju je Služba pripremila u okviru
+    EU projekta „Split, mjesto dodira sporta i kulture
+- Dom mladih kao nastavak aktivnosti Službe na financiranju pojedinih prostora Doma
+    mladih; obnove prostora „Razred“ te WiFi4EU vouchera kojim je osigurana pokrivenost
+    bežičnim Internetom samog Doma i okolne infrastrukture
+
 Također, u svojstvu člana Radne skupine i Koordinacije Udruge Gradova Pročelnica službe
 za međunarodne i EU projekte učestvuje u programiranju operativnih programa za slijedeću
 financijsku perspektivu te temeljem prikupljenih informacija usmjerava prikupljanje projekata
 za Bazu projekata za financiranje iz EU financijske perspektive 2021 – 2027.
 
-2. ODSJEK ZA MEĐUNARODNE I EU PROJEKTE
+###### 2. ODSJEK ZA MEĐUNARODNE I EU PROJEKTE
+
 Odsjek za međunarodne i EU projekte je u periodu od svibnja 2017 .g. do svibnja 2021.g., u
 suradnji s Razvojnom agencijom - RAST d.o.o. te ostalim upravnim tijelima Grada, sudjelovao
 u pripremi ili je koordinirao prijavu 10 1 projekta sufinanciranih EU sredstvima ili nacionalnim
@@ -5711,27 +7105,31 @@ Obzirom na nedostatnost ljudskih kapaciteta u Odsjeku za Smart city i digitaliza
 međunarodne i EU projekte je u razdoblju od 201 8. godine do danas na sebe preuzeo
 provedbu dodatna tri projekta:
 
-Interreg Italy-Croatia SUTRA
-„Otpad nije smeće!”
-URBANA MOBILNOST – Razvoj sustava javnih bicikala na području Urbane
-aglomeracije Split
+1. Interreg Italy-Croatia SUTRA
+2. „Otpad nije smeće!”
+3. URBANA MOBILNOST – Razvoj sustava javnih bicikala na području Urbane
+    aglomeracije Split
+
 čija ukupna vrijednost za Grad Split iznosi 17.580.908,01 kn od čega bespovratna sredstva
 iznose 14.532.141,46 kn (82,66%).
 
 U ostalim gradskim Službama, Odsjek je od 201 7. godine do danas, ustupio svoje interne
 kapacitete te aktivno sudjeluje u provedbi deset projekta:
 
-Sanacija odlagališta komunalnog otpada Karepovac faza II
-Izgradnja i opremanje reciklažnog dvorišta Pujanke
-Izgradnja i opremanje reciklažnog dvorišta Kopilica
-Iskaz interesa Grada Splita za nabavu 30.612 spremnika za odvojeno prikupljanje
-komunalnog otpada
-Energetska obnova škola i vrtića
-Aktivna i kvalitetna starost
-Četiri Palme
-Zaželi sretniju starost (realiziran)
-Zaželi sretniju starost 2
-Paraolimpijska škola za mlade osobe s invaliditetom (realiziran)
+1. Sanacija odlagališta komunalnog otpada Karepovac faza II
+2. Izgradnja i opremanje reciklažnog dvorišta Pujanke
+3. Izgradnja i opremanje reciklažnog dvorišta Kopilica
+4. Iskaz interesa Grada Splita za nabavu 30.612 spremnika za odvojeno prikupljanje
+    komunalnog otpada
+5. Energetska obnova škola i vrtića
+6. Aktivna i kvalitetna starost
+7. Četiri Palme
+
+
+8. Zaželi sretniju starost (realiziran)
+9. Zaželi sretniju starost 2
+10. Paraolimpijska škola za mlade osobe s invaliditetom (realiziran)
+
 čija ukupna vrijednost za Grad Split iznosi 319.133.958,13 kn od čega bespovratna sredstva
 iznose 195.941.423,91 kn (61,40%).
 
@@ -5739,15 +7137,16 @@ U proteklom razdoblju Odsjek za međunarodne i EU projekte je sudjelovao priprem
 dokumentacije za prijavu projekata na nacionalne i EU pozive za dodjelu bespovratnih
 sredstava, sudjelovao je u prikupljanju potrebne dokumentacije za prijavu projektnih prijedloga,
 pratio procedure prijava te kasnije pratio provedbu istih te sudjelovao u pripremi i/ili kontroli
-izvještaja za ukupno 56 projekata koji se nalaze u proračunu drugih Službi i Odsjeka Grada
+**izvještaja za ukupno 56 projekata** koji se nalaze u proračunu drugih Službi i Odsjeka Grada
 Splita, a gdje je Grad Split Prijavitelj ili partner:
 
-Služba za društvene djelatnosti – 28 projekata
-Služba za izgradnju i upravljanje razvojnim projektima – 4 projekta
-Upravni odjel za komunalno gospodarstvo, redarstvo i mjesnu samoupravu – 1 projekt
-Služba za međunarodne i EU projekte, Odsjek za Smart City projekte i digitalizaciju –
-4 projekta
-Upravni odjel za socijalnu skrb, zdravstvenu zaštitu i demografiju – 19 projekata
+1. Služba za društvene djelatnosti – 28 projekata
+2. Služba za izgradnju i upravljanje razvojnim projektima – 4 projekta
+3. Upravni odjel za komunalno gospodarstvo, redarstvo i mjesnu samoupravu – 1 projekt
+4. Služba za međunarodne i EU projekte, Odsjek za Smart City projekte i digitalizaciju –
+    4 projekta
+5. Upravni odjel za socijalnu skrb, zdravstvenu zaštitu i demografiju – 19 projekata
+
 Službenici Odsjeka prate projektne prijedloge koji se nalaze i u drugim Službama te pružaju
 savjetodavnu pomoć prilikom izrade zahtjeva za nadoknadom sredstava, izradi dokumentacije
 za nabavu kao i popratnih dopisa prema nadležnim tijelima za praćenje i provedbu projekata
@@ -5768,15 +7167,19 @@ dok su ostali službenici zaposleni na određeno na projektima. Kako bi se raste
 Grada Splita, svim službenicima se troškovi plaća pokrivaju sredstvima iz proračuna EU
 projekata na kojima su delegirani kao članovi projektnog tima.
 
-2.1. Ostale aktivnosti Odsjeka za međunarodne i EU projekte
+#### 2.1. Ostale aktivnosti Odsjeka za međunarodne i EU projekte
+
 Odsjek za međunarodne i EU projekte provodi aktivnosti informiranja, educiranja i pripreme
 projektnih prijedloga.
 
+```
  Newsletter o EU i nacionalnim natječajima za bespovratna sredstva
+```
 Odsjek za međunarodne i EU projekte priprema i izdaje dva puta mjesečno (ponedjeljkom)
 Newsletter Grada Splita o otvorenim EU, nacionalnim i ostalim natječajima i javnim pozivima
 za dobivanje bespovratnih sredstava, a koji se šalje na preko 200 e-mail adresa te se redovito
 objavljuje na web stranici Grada Splita. Za izradu Newslettera o EU i nacionalnim natječajima
+
 
 za dobivanje bespovratnih sredstava pregleda se preko 100 web linkova na kojima se nalaze
 informacije o otvorenim javnim pozivima za dodjelu bespovratnih sredstava kako raznih EU
@@ -5787,13 +7190,16 @@ održavaju na lokalnoj, regionalnoj i nacionalnoj razini te izrađeni promotivni
 projekata sufinanciranih EU sredstvima. Od početka izdavanja Newslettera, od veljače 2012.
 godine do svibnja 2021. godine izrađeno je i objavljeno 315 Newslettera.
 
+```
  Edukacije
+```
 Službenici Odsjeka redovito pohađaju radionice, edukacije i informativne dane s ciljem
 usavršavanja znanja i vještina te praćenja novosti iz područja prijave i provedbe projekata
 financiranih iz EU programa i fondova te umrežavanja s ključnim dionicima i suradnicima iz
 drugih institucija. Tijekom razdoblja od 2016. godine do danas službenici Odsjeka su pohađali
 preko 100 edukacija i radionica, a neke od njih su navedene u nastavku:
 
+```
  Računovodstvo, porezi i revizija u EU projektima
  Financijski instrumenti u kontekstu provedbe EU projekata
  Javna nabava: Projektantske usluge i stručni/projektantski nadzor građenja i
@@ -5815,48 +7221,81 @@ njihovoj provedbi na lokalnoj razini
  SFC modularni trening o javnim politikama, načelima i ciljevima održivog razvoja i
 njihovoj provedbi na lokalnoj razini
  SFC radionica o jačanju kapaciteta o održivom razvoju
+```
 Uz navedeno jedan službenik je član Radne skupine za praćenje i provođenje mjera Plana
 gospodarenja otpadom te aktivno sudjeluje u radu Radne skupine.
 
-2.2. Projekti u provedbi u Odsjeku za međunarodne i EU projekte (2021. godina)
+
+#### 2.2. Projekti u provedbi u Odsjeku za međunarodne i EU projekte (2021. godina)
+
+```
 PROJEKTI U ODSJEKU ZA MAĐUNARODNE I EU PROJEKTE
+```
 R.
 br
 
+```
 Naziv
 projekta Program^
+```
+```
 Nositelj
 projekta
+```
+```
 Trajanje
 projekta
+```
+```
 Ukupni
 vrijednost
 projekta
+```
+```
 Vrijednost
 projekta za
 Grad Split
+```
+```
 Bespovratna
 sredstva za Grad
 Split
+```
+```
 EU/
 nacionaln
 o
 sufinancir
 anje
+```
+```
 Aktivnosti projekta
-Shaping fair cities DEAR
+```
+1. Shaping fair cities DEAR
+
+```
 Region
 Emilia –
 Romagna
+```
+```
 42
 mjeseca
+```
+```
 7.400.000,00
 kn
+```
+```
 1.608.000,00
 kn 1.447.000,00 kn^ EU^
+```
+```
 Provedba projekta je započela 22.12.2017. te traje do 20.06.2021.
 godine.
 U sklopu projekta Grad Split je proveo:
+```
+```
  anketu s ciljem istraživanja javnog mijenja o poznavanju
 SDG-ova i poznavanju navedene tematike;
  organizirao fokus grupe s relevantnim akterima koji su nam
@@ -5884,31 +7323,52 @@ istima.
 kampanju osvještavanja građana koja je uključivala FB
 nagradni natječaj (fond nagrada uključuje 5 godišnjih
 pretplata za Nextbike javni sustav bicikli u gradu Splitu,
+```
+
+```
 PROJEKTI U ODSJEKU ZA MAĐUNARODNE I EU PROJEKTE
+```
 R.
 br
 
+```
 Naziv
 projekta Program^
+```
+```
 Nositelj
 projekta
+```
+```
 Trajanje
 projekta
+```
+```
 Ukupni
 vrijednost
 projekta
+```
+```
 Vrijednost
 projekta za
 Grad Split
+```
+```
 Bespovratna
 sredstva za Grad
 Split
+```
+```
 EU/
 nacionaln
 o
 sufinancir
 anje
+```
+```
 Aktivnosti projekta
+```
+```
 nekoliko mjesečnih pokaznih karti za javne autobuse te
 nekoliko poklon paketa projekta SFC), B2 plakate, Citylight
 plakate, strip/brošuru, oglašavanje na površini gradskog
@@ -5921,19 +7381,30 @@ nacionalnog treninga zbog epidemioloških razloga te je još uvijek
 u tijeku provedba i analiza završne ankete. Osim navedenog Grad
 Split sudjelovao je i u međunarodnim kampanjama, na sastancima
 projektnih partnera te treningu za trenere u Valenciji.
-Skriveni habitati
+```
+2. Skriveni habitati
+
+```
 Promicanje
 održivog
 razvoja
 prirodne
 baštine
+```
+```
 Splitsko-
 dalmatinsk
 a županija
+```
+```
 84
 mjeseca
+```
+```
 34.548.821,61
 kn 354.569,19 kn^ 216.605,89 kn^ EU^
+```
+```
 Razdoblje provedbe ovog projekta započelo je 1.12.2014. godine,
 a završetak je planiran 30.11.2021. godine. Ugovor o
 sufinanciranju potpisan je 4.5.2018. godine.
@@ -5950,65 +7421,108 @@ u prirodi osmišljenih u suradnji sa velikim brojem partnera i
 suradnika. Provedba projekta iz više razloga odvija se otežano no
 Grad Split obavlja sve aktivnosti u skladu s tempom glavnog
 partnera.
+```
+```
 3.
+```
+```
 TASKFOR
 COME
+```
+```
 Interreg
 CENTRAL
 EUROPE
 Programm
 e
+```
+```
 Cracow
 University
 of
 Economics
+```
+```
 33
 mjeseca
+```
+```
 26.250.000,00
 kn
+```
+```
 1.796.238,75
 kn 1.526.802,94 kn^ EU^
+```
+```
 Grad Split je kroz projekt realizirao pilot projekta otvaranja i
 opremanja Inkubatora kreativnih industrija u Domu mladih u
 vrijednosti od 80.000 €, zajedno s projektnim partnerom CEDRA
 Split organizirane su razne edukacije za poduzetnike lokalne i
 doseljenike), osim toga trenutno se provodi program obuke i
 mentorstva te izrađuje Akcijski plana za razvoj poduzetništva
+```
+
+```
 PROJEKTI U ODSJEKU ZA MAĐUNARODNE I EU PROJEKTE
+```
 R.
 br
 
+```
 Naziv
 projekta Program^
+```
+```
 Nositelj
 projekta
+```
+```
 Trajanje
 projekta
+```
+```
 Ukupni
 vrijednost
 projekta
+```
+```
 Vrijednost
 projekta za
 Grad Split
+```
+```
 Bespovratna
 sredstva za Grad
 Split
+```
+```
 EU/
 nacionaln
 o
 sufinancir
 anje
+```
+```
 Aktivnosti projekta
+```
+```
 doseljenika u novoopremljenom prostoru „Razred“ u Domu mladih
 Split.
 Završetak projekta je očekivan u zadnjem kvartalu 2021. godine.
+```
+```
 4.
+```
+```
 Palača
 života -
 grad mijena
 / Palace of
 life - city of
 changes
+```
+```
 ITU -
 PALAČA
 ŽIVOTA –
@@ -6030,6 +7544,7 @@ jezgre s
 Dioklecijan
 ovom
 palačom
+```
 Grad Split (^53) mjeseca
 25.421.397,75
 kn
@@ -6068,31 +7583,51 @@ upravljanju projektom, organizaciji i provedbi projektnih
 aktivnosti, projektnom izvještavanju, te provedbi
 postupaka javne nabave.
 
+
+```
 PROJEKTI U ODSJEKU ZA MAĐUNARODNE I EU PROJEKTE
+```
 R.
 br
 
+```
 Naziv
 projekta Program^
+```
+```
 Nositelj
 projekta
+```
+```
 Trajanje
 projekta
+```
+```
 Ukupni
 vrijednost
 projekta
+```
+```
 Vrijednost
 projekta za
 Grad Split
+```
+```
 Bespovratna
 sredstva za Grad
 Split
+```
+```
 EU/
 nacionaln
 o
 sufinancir
 anje
+```
+```
 Aktivnosti projekta
+```
+```
  Objavljena je javna nabava za usluge izrade projektno-
 tehničke dokumentacije i projektantski nadzor za JI kulu s
 Lukačićevom 5, šetnicu istočnog zida i prizemlje Muzeja
@@ -6121,6 +7656,8 @@ surađivala je i s Razvojno agencijom RAST u prijavi projekta na
 Javni poziv za sufinanciranje provedbe EU projekata na
 regionalnoj i lokalnoj razini Ministarstva regionalnog razvoja i
 fondova EU.
+```
+```
 Tijekom sljedećeg razdoblja, a najkasnije do srpnja 2023. godine
 predviđena je provedba sljedećih aktivnosti:
  Obnova i opremanje JI kule sa zgradom u Lukačićevoj 5 i
@@ -6128,42 +7665,69 @@ uspostava šetnice na južnoj polovici istočnog zida
  Obnova i opremanje dijela MGS
  Edukacija djelatnika u kulturi
  Edukacija turističkih vodiča
+```
+
+```
 PROJEKTI U ODSJEKU ZA MAĐUNARODNE I EU PROJEKTE
+```
 R.
 br
 
+```
 Naziv
 projekta Program^
+```
+```
 Nositelj
 projekta
+```
+```
 Trajanje
 projekta
+```
+```
 Ukupni
 vrijednost
 projekta
+```
+```
 Vrijednost
 projekta za
 Grad Split
+```
+```
 Bespovratna
 sredstva za Grad
 Split
+```
+```
 EU/
 nacionaln
 o
 sufinancir
 anje
+```
+```
 Aktivnosti projekta
+```
+```
  Uspostava sustava praćenja posjetitelja i naplate ulaznica
 (ticketing)
  Izrada koncepta i prototipa 6 vrsta kulturnih suvenira
  Razvoj 6 enogastro proizvoda (produkt dizajn i dizajn jela)
  Revizija projekta
+```
+```
 5.
+```
+```
 Marjan
 2020 - Brdo
 prošlosti,
 oaza
 budućnosti
+```
+```
 Europski
 fond za
 regionalni
@@ -6178,6 +7742,8 @@ održivog
 razvoja
 prirodne
 baštine
+```
+```
 Javna
 ustanova
 za
@@ -6185,12 +7751,20 @@ upravljanje
 Park-
 šumom
 “Marjan“
+```
+```
 61
 mjesec
+```
+```
 26.614.389,24
 kn
+```
+```
 19.050.019,76
 kn 15,8 milijuna kuna^ EU^
+```
+```
 Osnovni cilj projektnog prijedloga „Marjan 2020 – brdo prošlosti,
 oaza budućnosti“ je održivo korištenje prirodne baštine kako bi se
 doprinijelo održivom društveno-gospodarskom razvoju na lokalnoj i
@@ -6199,80 +7773,109 @@ privlačnost i obrazovni kapacitet te uspostaviti bolje upravljanje
 posjetiteljima prirodne baštine, pri čemu je projekt usmjeren na
 razvijanje javne svijesti o važnosti očuvanja bioraznolikosti i
 georaznolikosti kroz promociju park-šume Marjan.
+```
+```
 Do sada je Grad Split, kao partner na projektu, realizirao ili provodi
 sljedeće aktivnosti:
-Provedena je nabava za usluge izrade izvedbenih projekata
-Park-šume Marjan te su izrađeni izvedbeni projekt
-Botaničkog vrta i izvedbeni projekt kamenih kućica.
-Radovi revitalizacije Botaničkog vrta provode se od početka
-prosinca 2020. godine. Paralelno s istima započelo je i
-izvršenje usluga stručnog nadzora i koordinatora zaštite na
-radu nad radovima revitalizacije Botaničkog vrta. Usluge
-projektantskog nadzora nad radovima revitalizacije
-Botaničkog vrta provode se od 22.04.2021. godine. U sklopu
-nabave Revitalizacija Botaničkog vrta održano je 19
-koordinacijskih sastanaka.
-Nakon ishođenja posebnih uvjeta, ispravke projekta prema
-istima, provođenja e-konferencije za izdavanje građevinske
-dozvole, izdana je građevinska dozvola te proveden
-postupak nabave Rekonstrukcija promatračnice na Sedlu.
-Pokrenut je postupak nabave za usluge stručnog nadzora i
-koordinatora zaštite na radu nad radovima rekonstrukcije
-promatračnice te je pripremljena dokumentacija za
-pokretanje nabave projektantskog nadzora nad istim
-radovima.
+```
+- Provedena je nabava za usluge izrade izvedbenih projekata
+    Park-šume Marjan te su izrađeni izvedbeni projekt
+    Botaničkog vrta i izvedbeni projekt kamenih kućica.
+- Radovi revitalizacije Botaničkog vrta provode se od početka
+    prosinca 2020. godine. Paralelno s istima započelo je i
+    izvršenje usluga stručnog nadzora i koordinatora zaštite na
+    radu nad radovima revitalizacije Botaničkog vrta. Usluge
+    projektantskog nadzora nad radovima revitalizacije
+    Botaničkog vrta provode se od 22.04.2021. godine. U sklopu
+    nabave Revitalizacija Botaničkog vrta održano je 19
+    koordinacijskih sastanaka.
+- Nakon ishođenja posebnih uvjeta, ispravke projekta prema
+    istima, provođenja e-konferencije za izdavanje građevinske
+    dozvole, izdana je građevinska dozvola te proveden
+    postupak nabave Rekonstrukcija promatračnice na Sedlu.
+    Pokrenut je postupak nabave za usluge stručnog nadzora i
+    koordinatora zaštite na radu nad radovima rekonstrukcije
+    promatračnice te je pripremljena dokumentacija za
+    pokretanje nabave projektantskog nadzora nad istim
+    radovima.
+
+
+```
 PROJEKTI U ODSJEKU ZA MAĐUNARODNE I EU PROJEKTE
+```
 R.
 br
 
+```
 Naziv
 projekta Program^
+```
+```
 Nositelj
 projekta
+```
+```
 Trajanje
 projekta
+```
+```
 Ukupni
 vrijednost
 projekta
+```
+```
 Vrijednost
 projekta za
 Grad Split
+```
+```
 Bespovratna
 sredstva za Grad
 Split
+```
+```
 EU/
 nacionaln
 o
 sufinancir
 anje
+```
+```
 Aktivnosti projekta
-Proveden je postupak nabave za sustav pješačko-
-edukativnih staza u PŠ Marjan (svih 6 grupa) te su izvođači
-uvedeni u posao.
-Provedena je nabava komunalne opreme na temelju koje je
-obnovljena postojeća i postavljena nova komunalna oprema
-u Park-šumi Marjan.
-Kompletno su realizirane aktivnosti uređenja piknik zona na
-Benama i Prvom vrhu te uređenje vježbališta na otvorenom.
-U tijeku su radovi na revitalizaciji dječjih sadržaja -
-Revitalizacija Dječjeg grada i Škola u prirodi za djecu.
-Izvode se radovi adaptacije i opremanja kamenih kućica u PŠ
-Marjan, uz paralelno provođenje usluga stručnog nadzora
-nad navedenim radovima. U sklopu ove nabave održavaju se
-koordinacijski sastanci na kojima se prati tijek izvršenja
-radova na adaptaciji i opremanju kamenih kućica.
-Na razini cjelokupnog projekta redovito se održavaju
-koordinacijski sastanci s projektnim partnerima i suradnicima
-kako bi se pratila provedba projektnih aktivnosti te time
-smanjili mogući rizici. Podneseno je 12 Zahtjeva za
-nadoknadom sredstava, od kojih je 11 odobreno, a 12. je u
-procesu pregleda/kontrole od strane posredničkog tijela –
-SAFU.
-Za projekt je pripremljena i poslana prijavna dokumentacija
-na Javni poziv za sufinanciranje provedbe EU projekata na
-regionalnoj i lokalnoj razini.
+```
+- Proveden je postupak nabave za sustav pješačko-
+    edukativnih staza u PŠ Marjan (svih 6 grupa) te su izvođači
+    uvedeni u posao.
+- Provedena je nabava komunalne opreme na temelju koje je
+    obnovljena postojeća i postavljena nova komunalna oprema
+    u Park-šumi Marjan.
+- Kompletno su realizirane aktivnosti uređenja piknik zona na
+    Benama i Prvom vrhu te uređenje vježbališta na otvorenom.
+- U tijeku su radovi na revitalizaciji dječjih sadržaja -
+    Revitalizacija Dječjeg grada i Škola u prirodi za djecu.
+- Izvode se radovi adaptacije i opremanja kamenih kućica u PŠ
+    Marjan, uz paralelno provođenje usluga stručnog nadzora
+    nad navedenim radovima. U sklopu ove nabave održavaju se
+    koordinacijski sastanci na kojima se prati tijek izvršenja
+    radova na adaptaciji i opremanju kamenih kućica.
+- Na razini cjelokupnog projekta redovito se održavaju
+    koordinacijski sastanci s projektnim partnerima i suradnicima
+    kako bi se pratila provedba projektnih aktivnosti te time
+    smanjili mogući rizici. Podneseno je 12 Zahtjeva za
+    nadoknadom sredstava, od kojih je 11 odobreno, a 12. je u
+    procesu pregleda/kontrole od strane posredničkog tijela –
+    SAFU.
+- Za projekt je pripremljena i poslana prijavna dokumentacija
+    na Javni poziv za sufinanciranje provedbe EU projekata na
+    regionalnoj i lokalnoj razini.
+
+```
 Predviđeno trajanje projekta je do 31.12.2021.
+```
+```
 6.
+```
+```
 „PROJEKT
 SOLAR -
 SUNČANI
@@ -6281,6 +7884,8 @@ SRETNIH
 STANOVNI
 KA“
 revitalizacij
+```
+```
 Prostori
 sudjelovanj
 a - razvoj
@@ -6289,12 +7894,20 @@ revitalizacij
 e prostora
 u javnom
 vlasništvu
+```
+```
 IKS
 Festival
+```
+```
 16
 mjeseci
+```
+```
 1.816.076,50
 kn 588.929,00 kn^ 588.929,00 kn^ EU^
+```
+```
 Projekt SOLAR je započeo u mjesecu studenom 2020. godine te
 te traje do ožujka 2022. godine. Projekt Solar nastoji riješiti
 problem nedovoljne uključenosti stanara povijesne jezgre Splita i
@@ -6303,31 +7916,52 @@ artikulirati javno-civilno partnerstvo OCD-ova i Grada Splita u
 javnim prostorima i površinama. Cilj projekta jest doprinijeti razvoju
 održivih kulturno-umjetničkih programa, renovirati i uspostaviti
 samoodrživi društveni kulturni centar na solarni pogon. Ciljna
+```
+
+```
 PROJEKTI U ODSJEKU ZA MAĐUNARODNE I EU PROJEKTE
+```
 R.
 br
 
+```
 Naziv
 projekta Program^
+```
+```
 Nositelj
 projekta
+```
+```
 Trajanje
 projekta
+```
+```
 Ukupni
 vrijednost
 projekta
+```
+```
 Vrijednost
 projekta za
 Grad Split
+```
+```
 Bespovratna
 sredstva za Grad
 Split
+```
+```
 EU/
 nacionaln
 o
 sufinancir
 anje
+```
+```
 Aktivnosti projekta
+```
+```
 a prostora i
 uspostava
 društveno
@@ -6338,11 +7972,15 @@ zoni
 povijesne
 jezgre
 grada Splita
+```
+```
 kroz
 partnerstvo
 OCD-a i
 lokalne
 zajednice
+```
+```
 skupina projekta su OCD-ovi (3 partnera i minimalno 10
 suradničkih organizacija), a krajnji korisnici su stanovnici povijesne
 jezgre grada Splita i širi građani.
@@ -6356,7 +7994,10 @@ izradu Zahtjeva za nadoknadom sredstava.
 U sljedećem razdoblju Grad Split će objaviti nabavu za uređenje
 krovišta i nabavu solarnih kupa te će i dalje biti podrška
 projektnom partneru tijekom provedbe projektnih aktivnosti.
-Masterplan mobilnosti
+```
+7. Masterplan mobilnosti
+
+```
 Poziv za
 sufinancira
 nje izrade
@@ -6374,13 +8015,21 @@ Sjeverni
 Jadran i
 Istočna
 Hrvatska
+```
+```
 Splitsko-
 dalmatinsk
 a županija
+```
+```
 22.2.202
 0 48 mjeseci^
+```
+```
 10.282.776,35
 kn 519.331,62 kn^ EU^
+```
+```
 Cilj Projekta je stvoriti preduvjete za unapređenje i poticanje
 suradnje između raznih vidova prijevoza, omogućavanje korištenja
 njihovih sustavnih vrijednosti u jedinstvenom prometnom sustavu
@@ -6389,37 +8038,57 @@ pouzdanije doprinošenje svekolikom povećanju obujma prometa,
 zapošljavanju, zaštiti okoliša, smanjenju troškova i sveukupnom
 razvoju gospodarstva funkcionalne regije i njenom ravnomjernom
 teritorijalnom razvitku.
+```
+```
 Od strane SDŽ je objavljena je nabava za Uslugu izrade
 Masterplana prometnog razvoja funkcionalne regije srednja
 Dalmacija te strateške procjene utjecaja plana i programa na
 okoliš
 Zaposlenici odsjeka su sudjelovali u pregledu i ocjeni zaprimljenih
 ponuda. U tijeku je žalbeni postupak za predmetnu nabavu.
+```
+```
 8.
+```
+```
 RaSTom do
 razvoja
 poduzetništ
 va
+```
+```
 Razvoj
 poduzetnič
 kih
 potpornih
 institucija
 Urbane
+```
+```
 RAZVOJN
 A
 AGENCIJA
 SPLIT -
 RaST
 d.o.o. za
+```
+```
 35
 mjeseci
+```
+```
 2.454.068,94
 kn
+```
+```
 1.073.343,89
 kn
 912.342,25 kn
+```
+```
 EU
+```
+```
 Razdoblje provedbe projekta je od siječnja 2021.g. do prosinca
 2023.g..Projektom “RaSTom do razvoja poduzetništva” ojačavaju
 se kapaciteti poduzetničko potporne institucije Razvojne agencije
@@ -6427,35 +8096,60 @@ Split – RaST i ista se umrežava s PPI iz RH i EU koji pružaju
 usluge
 MSP iz područja visokotehnoloških djelatnosti. Razvijaju se i
 pružaju visokokvalitetne i inovativne usluge edukacije,
+```
+
+```
 PROJEKTI U ODSJEKU ZA MAĐUNARODNE I EU PROJEKTE
+```
 R.
 br
 
+```
 Naziv
 projekta Program^
+```
+```
 Nositelj
 projekta
+```
+```
 Trajanje
 projekta
+```
+```
 Ukupni
 vrijednost
 projekta
+```
+```
 Vrijednost
 projekta za
 Grad Split
+```
+```
 Bespovratna
 sredstva za Grad
 Split
+```
+```
 EU/
 nacionaln
 o
 sufinancir
 anje
+```
+```
 Aktivnosti projekta
+```
+```
 aglomeraci
 je Split
+```
+```
 usluge i
 razvoj
+```
+```
 savjetovanja, informiranja i problem solvinga za MSP u
 adaptiranom i opremljenom prostoru u vlasništvu partnera i
 osnivača RaSTa - Grada Splita. Događanjima, digitalnim alatima i
@@ -6469,13 +8163,19 @@ Priprema i izrada projektno – tehničke dokumentacije.
 U sljedećem razdoblju planirana je obnova gradskog prostora za
 obavljanje aktivnosti projekta. Grad Split u predmetnom projektu
 sudjeluje kao partner.
+```
+```
 9.
+```
+```
 Razvoj
 zone
 Dračevac-
 Tehnološki
 park Split -
 Dračevac
+```
+```
 Europski
 fond za
 regionalni
@@ -6485,6 +8185,7 @@ nost i
 kohezija
 2014.-
 2020.
+```
 Grad Split (^39) mjeseci
 77.737.778,88
 kn
@@ -6514,37 +8215,66 @@ U razdoblju od siječnja do svibnja 2021. izrađena je dokumentacije
 o nabavi za predmet nabave - Projektiranje i građenje centralne
 zgrade prve faze tehnološkog parka u Dračevcu i to po modelu
 
+
+```
 PROJEKTI U ODSJEKU ZA MAĐUNARODNE I EU PROJEKTE
+```
+```
 R.
 br
+```
+```
 Naziv
 projekta Program^
+```
+```
 Nositelj
 projekta
+```
+```
 Trajanje
 projekta
+```
+```
 Ukupni
 vrijednost
 projekta
+```
+```
 Vrijednost
 projekta za
 Grad Split
+```
+```
 Bespovratna
 sredstva za Grad
 Split
+```
+```
 EU/
 nacionaln
 o
 sufinancir
 anje
+```
+```
 Aktivnosti projekta
+```
+```
 “žuti FIDIC“ te je provedeno javno savjetovanje i pokrenut
 postupak javne nabave za „design & build“ Tehnološkog parka
 Split – Dračevac.
+```
+```
 U sljedećem razdoblju predviđena je objava:
-nabave za Voditelja projekta gradnje
-nabave za Stručni nadzor građenja
-nabave za troškove promocije i marketinga projekta
+```
+- nabave za Voditelja projekta gradnje
+- nabave za Stručni nadzor građenja
+- nabave za troškove promocije i marketinga projekta
+
+10.
+
+```
 Izgradnja i
 opremanje
 centralnog
@@ -6553,6 +8283,8 @@ Tehnološko
 g parka
 Split -
 Dračevac
+```
+```
 Europski
 fond za
 regionalni
@@ -6561,6 +8293,7 @@ Konkurent
 nost i
 kohezija
 2014.- 2020
+```
 Grad Split (^39) mjeseci
 87.016.536,82
 kn
@@ -6590,71 +8323,120 @@ U prosincu.2020. Grad Split je podnio projektnu prijavu te je u
 travnju 2021. potpisao Ugovor o dodjeli bespovratnih sredstava.
 U razdoblju od siječnja do svibnja 2021.:
 
-izrađena je dokumentacije o nabavi za predmet nabave -
-Projektiranje i građenje centralne zgrade prve faze
-tehnološkog parka u Dračevcu i to po modelu “žuti FIDIC“
-te je provedeno javno savjetovanje i pokrenut postupak
+- izrađena je dokumentacije o nabavi za predmet nabave -
+    Projektiranje i građenje centralne zgrade prve faze
+    tehnološkog parka u Dračevcu i to po modelu “žuti FIDIC“
+    te je provedeno javno savjetovanje i pokrenut postupak
+
+
+```
 PROJEKTI U ODSJEKU ZA MAĐUNARODNE I EU PROJEKTE
+```
 R.
 br
 
+```
 Naziv
 projekta Program^
+```
+```
 Nositelj
 projekta
+```
+```
 Trajanje
 projekta
+```
+```
 Ukupni
 vrijednost
 projekta
+```
+```
 Vrijednost
 projekta za
 Grad Split
+```
+```
 Bespovratna
 sredstva za Grad
 Split
+```
+```
 EU/
 nacionaln
 o
 sufinancir
 anje
+```
+```
 Aktivnosti projekta
+```
+```
 javne nabave za „design & build“ Tehnološkog parka Split
-Dračevac.
-Definiran je projektni tim projekta
+```
+- Dračevac.
+- Definiran je projektni tim projekta
+
+```
 U sljedećem razdoblju predviđena je objava:
-nabave za Voditelja projekta gradnje
-nabave za Stručni nadzor građenja
-nabave za troškove promocije i marketinga projekta
-2.3. Projekti u provedbi – ostale gradske službe / odsjeci
+```
+- nabave za Voditelja projekta gradnje
+- nabave za Stručni nadzor građenja
+- nabave za troškove promocije i marketinga projekta
+
+
+#### 2.3. Projekti u provedbi – ostale gradske službe / odsjeci
+
+```
 PROJEKTI U OSTALIM GRADSKIM SLUŽBAMA / ODSJECIMA
+```
 R.
 br
 
+```
 Naziv
 projekta Program^
+```
+```
 Nositel
 j
 projekt
 a
+```
+```
 Trajanje
 projekta
+```
+```
 Ukupni
 vrijednost
 projekta
+```
+```
 Vrijednost
 projekta za
 Grad Split
+```
+```
 Bespovratna
 sredstva za Grad
 Split
+```
+```
 EU/
 nacionaln
 o
 sufinancir
 anje
+```
+```
 Aktivnosti projekta
+```
+```
 1
+```
+```
 Nabava
 spremnika
 za
@@ -6662,6 +8444,8 @@ odvojeno
 prikupljanje
 komunalno
 g otpada
+```
+```
 FZOEU - Javni
 poziv za iskaz
 interesa za
@@ -6671,14 +8455,24 @@ odvojeno
 prikupljanje
 komunalnog
 otpada
+```
+```
 Grad
 Split
+```
+```
 24
 mjeseca
+```
+```
 13.541.250,02
 kn
+```
+```
 13.541.250,02
 kn 11.510.062,52 kn^ EU^
+```
+```
 Ovim projektom osigurala se nabava spremnika za odvojeno
 prikupljanje otpada iz komunalnog otpada i to; biorazgradivog
 komunalnog otpada (otpadni papir, karton i biootpad) i
@@ -6694,7 +8488,11 @@ potpisati Ugovore i izvršiti distribuciju spremnika korisnicima.
 Odsjek u sklopu ovog projekta redovito priprema dokumentaciju za
 potrebe prijave nepoznatih počinitelja za spaljene spremnike na
 području Grada Splita.
+```
+```
 2 Biraj biciklu!
+```
+```
 ITU – URBANA
 MOBILNOST –
 Razvoj sustava
@@ -6703,14 +8501,24 @@ na području
 Urbane
 aglomeracije
 Split
+```
+```
 Grad
 Split
+```
+```
 28
 mjeseci
+```
+```
 13.609.435,83
 kn
+```
+```
 10.581.235,83
 kn 8.469.535,46 kn^ EU^
+```
+```
 Glavni cilj provedbe ovog projekta povećanje broja putnika u
 sustavu lokalnog javnog i dijeljenog prijevoza, što će se postići
 razvojem i unaprjeđenjem sustava javnih bicikala i mreže
@@ -6721,44 +8529,66 @@ implementacija novog sustava javnih bicikala na području UAS-a
 te (3) izrada analitičke podloge za uspostavu integriranog sustava
 biciklističkih prometnica UAS-a.
 Grad Split je do sada proveo:
-aktivnosti izgradnje biciklističke prometnice u Uvali
-Trstenik
-pripremu dokumentacije za nabavu medijske
-priprema nabave za uslugu „Uspostava sustava javnih
-bicikala na području UAS-a“
+```
+- aktivnosti izgradnje biciklističke prometnice u Uvali
+    Trstenik
+- pripremu dokumentacije za nabavu medijske
+- priprema nabave za uslugu „Uspostava sustava javnih
+    bicikala na području UAS-a“
 U idućem razdoblju čeka nas provedba:
-Usluga izrade analitičke podloge integriranog sustava
+- Usluga izrade analitičke podloge integriranog sustava
 biciklističkih prometnica UAS
+
+
+```
 PROJEKTI U OSTALIM GRADSKIM SLUŽBAMA / ODSJECIMA
+```
 R.
 br
 
+```
 Naziv
 projekta Program^
+```
+```
 Nositel
 j
 projekt
 a
+```
+```
 Trajanje
 projekta
+```
+```
 Ukupni
 vrijednost
 projekta
+```
+```
 Vrijednost
 projekta za
 Grad Split
+```
+```
 Bespovratna
 sredstva za Grad
 Split
+```
+```
 EU/
 nacionaln
 o
 sufinancir
 anje
+```
+```
 Aktivnosti projekta
-Uspostava sustava javnih bicikala na području UAS-a
-Komunikacija s projektnim partnerima
-Priprema izvještaja za nadležno tijelo
+```
+- Uspostava sustava javnih bicikala na području UAS-a
+- Komunikacija s projektnim partnerima
+- Priprema izvještaja za nadležno tijelo
+
 (^3) SUTRA
 Interreg Italy-
 Croatia
@@ -6802,59 +8632,94 @@ razvoj; OP
 Konkurentnost i
 kohezija 2014.-
 
-Obnova
+2020. Obnova
+
+```
 Grad
 Split
+```
+```
 16
 mjeseci
+```
+```
 10.079.314,16
 kn
+```
+```
 10.079.314,16
 kn 4.464.010,86 kn^ EU^
+```
+```
 Cilj projekta je rekonstrukcija brownfield lokacije u samom centru
 Splita, odnosno postojećeg objekta uvriježenog naziva "Četiri
 palme" koji je u vlasništvu Grada Splita. Rekonstrukcijom se
 dobiva u potpunosti funkcionalan objekt stambene namjene sa
 svrhom smještaja dvije ranjive skupine korisnika prema postojećim
 potrebama; mladi iznad 21 godine bez adekvatne roditeljske skrbi
+```
+
+```
 PROJEKTI U OSTALIM GRADSKIM SLUŽBAMA / ODSJECIMA
+```
 R.
 br
 
+```
 Naziv
 projekta Program^
+```
+```
 Nositel
 j
 projekt
 a
+```
+```
 Trajanje
 projekta
+```
+```
 Ukupni
 vrijednost
 projekta
+```
+```
 Vrijednost
 projekta za
 Grad Split
+```
+```
 Bespovratna
 sredstva za Grad
 Split
+```
+```
 EU/
 nacionaln
 o
 sufinancir
 anje
+```
+```
 Aktivnosti projekta
+```
+```
 brownfield
 lokacija (bivša
 vojna i/ili
 industrijska
 područja) unutar
 ITU
+```
+```
 koji izlaze iz nekog oblika institucionalne skrbi koja im je dotad
 pružana, uključujući prvenstveno bivše štićenike Dječjeg doma
 Maestral Split, te roditelje/skrbnike djece bez prebivališta na
 području Splita, a čija se djeca nalaze na liječenju ili rehabilitaciji u
 Kliničkom bolničkom centru Split.
+```
+```
 U sklopu projekta provedene su i ugovorene sljedeće nabave:
  izvođenje radova na izgradnji objekta „Četiri palme“,
  usluga stručnog nadzora
@@ -6867,6 +8732,8 @@ potpornih zidova, trenutno se objekt nalazi u fazi strojarskih i
 završnih betonskih radova.
  u studenom 2020., je izrađen Vizualni identitet projekta te
 su Tiskani promotivni materijali projekta.
+```
+```
 Odsjek je podnio zahtjev za predujam koji je odobren u iznosu od
 1.339.203,25 kn.
 Tijekom radova na objektu obavljena je provjera na licu mjesta od
@@ -6878,54 +8745,94 @@ a.
 Za projekt je pripremljena i poslana prijavna dokumentacija na
 Javni poziv za sufinanciranje provedbe EU projekata na
 regionalnoj i lokalnoj razini.
+```
+```
 Radovi teku po planu te se očekuje njihov završetak do kraja
-godine.
+```
+2021. godine.
+
+```
 5
+```
+```
 Aktivna i
 kvalitetna
 starost
+```
+```
 Europski
 socijalni fond;.;
 „Pridruži se –
+```
+```
 Udruga
 „MI“ –
 Split
+```
+```
 24
 mjeseca
+```
+```
 1.918.089,61
 kn 0 kn^
+```
+```
 0 kn
 EU Projektne aktivnosti provode se svojim tokom, poštujući COVID-^19
 mjere i preporuke.
+```
+
+```
 PROJEKTI U OSTALIM GRADSKIM SLUŽBAMA / ODSJECIMA
+```
 R.
 br
 
+```
 Naziv
 projekta Program^
+```
+```
 Nositel
 j
 projekt
 a
+```
+```
 Trajanje
 projekta
+```
+```
 Ukupni
 vrijednost
 projekta
+```
+```
 Vrijednost
 projekta za
 Grad Split
+```
+```
 Bespovratna
 sredstva za Grad
 Split
+```
+```
 EU/
 nacionaln
 o
 sufinancir
 anje
+```
+```
 Aktivnosti projekta
+```
+```
 UP.04.2.1.
 09.0020
+```
+```
 Aktivni u
 mirovini“
 Jačanje
@@ -6939,18 +8846,28 @@ sudjelovanja i
 socijalne
 uključenosti
 umirovljenika
+```
+```
 Održan je niz aktivnosti, posebno ističemo 1.10. Međunarodnog
 dana starijih osoba koji je obilježen uz druženje umirovljenika na
 Zvončacu.
+```
+```
 Svaki mjesec se provode besplatne aktivnosti, radionice za
 umirovljenike Splita, Kaštela i Solina, i provode se istraživanja i
 mapiranja potreba umirovljenika na području navedenih gradova.
 Do sad je od Nacionalne zaklade za razvoj civilnog društva
 odobren tri ZNS-a, dok je ZNS4 trenutno u pripremi.
+```
+```
 6
+```
+```
 Energetska
 obnova DV
 Mandalina
+```
+```
 Operativnog
 programa
 Konkurentnost i
@@ -6961,14 +8878,24 @@ energetske
 učinkovitosti i
 obnovljivih
 izvora energije.
+```
+```
 Grad
 Split
+```
+```
 34
 mjeseca
+```
+```
 3.263.080,00
 kn
+```
+```
 3.263.080,00
 kn 1.343.754,10 kn^ EU^
+```
+```
 U prethodnim razdobljima izrađen je Početni plan dostavljanja
 ZPP-ova i ZNS-ova te su isti i odobreni te je izrađena nova inačica
 ZPP i ZNS koja je odobrena. Izvršena je administrativna
@@ -6977,53 +8904,88 @@ uključenim dionicima, primjerice ona vezana za objavu elemenata
 vidljivosti na web stranicama Grada Splita i DV Mandalina te
 vezano uz izrade roll up bannera i privremenih ploča (odsjekom za
 javnu nabavu, odabranim vršiteljem usluge, ravnateljicom vrtića....)
+```
+```
 S obzirom na to da su se stvorili uvjeti za nastavak realizacije 4.
 rujna 2020. godine podnesen je Zahtjev za produljenje roka
 izvršenja Ugovora provedbe projekta do 31. prosinca 2021.
 godine, izmijenjen je plan ZPP i ZNS-ova.
+```
+```
 Dodatno, u proteklom razdoblje završen je postupak Javnih
 nabava i to za Izvođenje radova energetske obnove na DV
 Mandalina, nabavu usluge stručnog nadzora nad izvođenjem
 radova energetske obnove DV Mandalina, nabava za koordinatora
 II zaštite na radu i projektantskog nadzora za radove energetske
 obnove DV Mandalina.
+```
+```
 05.05.2021., održana je početna konferencija projekta prilikom
 koje su izvođači uvedeni u posao.
+```
+
+```
 PROJEKTI U OSTALIM GRADSKIM SLUŽBAMA / ODSJECIMA
+```
 R.
 br
 
+```
 Naziv
 projekta Program^
+```
+```
 Nositel
 j
 projekt
 a
+```
+```
 Trajanje
 projekta
+```
+```
 Ukupni
 vrijednost
 projekta
+```
+```
 Vrijednost
 projekta za
 Grad Split
+```
+```
 Bespovratna
 sredstva za Grad
 Split
+```
+```
 EU/
 nacionaln
 o
 sufinancir
 anje
+```
+```
 Aktivnosti projekta
+```
+```
 Za projekt je pripremljena i poslana prijavna dokumentacija na
 Javni poziv za sufinanciranje provedbe EU projekata na
 regionalnoj i lokalnoj razini.
+```
+```
 Radovi su u tijeku, očekivani završetak radova je prosinac 2021.
+```
+```
 7
+```
+```
 Energetska
 obnova OŠ
 Pojišan
+```
+```
 Operativnog
 programa
 Konkurentnost i
@@ -7034,14 +8996,24 @@ energetske
 učinkovitosti i
 obnovljivih
 izvora energije.
+```
+```
 Grad
 Split
+```
+```
 34
 mjeseca
+```
+```
 12.102.317,70
 kn
+```
+```
 12.102.317,70
 kn 4.983.356,54 kn^ EU^
+```
+```
 U prethodnim razdobljima izrađen je Početni plan dostavljanja
 ZPP-ova i ZNS-ova te su isti i odobreni te je izrađena nova inačica
 ZPP i ZNS koja je odobrena. Izvršena je administrativna
@@ -7055,51 +9027,84 @@ potraživanje predujma jer se isti neće potraživati. Izrađeni roll up
 banner i privremena ploča preuzeti su od izrađivača te odneseni i
 postavljeni na / u objektu. Sve potrebne javne nabave su
 pripremljene.
+```
+```
 S obzirom na to da su se stvorili uvjeti za nastavak realizacije 4.
 rujna 2020. godine podnesen je Zahtjev za produljenje roka
 izvršenja Ugovora provedbe projekta do 31. prosinca 2021.
 godine.
+```
+```
 Dodatno, u proteklom razdoblje završeni su postupci Javne
 nabave i to za Izvođenje radova energetske obnove na OŠ
 Pojišan, nabavu usluge stručnog nadzora nad izvođenjem radova
 energetske obnove OŠ Pojišan, nabave za koordinatora II zaštite
 na radu za radove i projektantskog nadzora energetske obnove
 OŠ Pojišan.
+```
+```
 Za projekt je pripremljena i poslana prijavna dokumentacija na
 Javni poziv za sufinanciranje provedbe EU projekata na
 regionalnoj i lokalnoj razini.
+```
+```
 Radovi su u tijeku, očekivani završetak radova je prosinac 2021.
+```
+
+```
 PROJEKTI U OSTALIM GRADSKIM SLUŽBAMA / ODSJECIMA
+```
 R.
 br
 
+```
 Naziv
 projekta Program^
+```
+```
 Nositel
 j
 projekt
 a
+```
+```
 Trajanje
 projekta
+```
+```
 Ukupni
 vrijednost
 projekta
+```
+```
 Vrijednost
 projekta za
 Grad Split
+```
+```
 Bespovratna
 sredstva za Grad
 Split
+```
+```
 EU/
 nacionaln
 o
 sufinancir
 anje
+```
+```
 Aktivnosti projekta
+```
+```
 8
+```
+```
 Energetska
 obnova OŠ
 Mertojak
+```
+```
 Operativnog
 programa
 Konkurentnost i
@@ -7110,14 +9115,24 @@ energetske
 učinkovitosti i
 obnovljivih
 izvora energije.
+```
+```
 Grad
 Split
+```
+```
 34
 mjeseca
+```
+```
 6.624.141,38
 kn
+```
+```
 6.624.141,38
 kn 2.783.405,97 kn^ EU^
+```
+```
 U prethodnim razdobljima izrađen je Početni plan dostavljanja
 ZPP-ova i ZNS-ova te su isti i odobreni te je izrađena nova inačica
 ZPP i ZNS koja je odobrena. Izvršena je administrativna
@@ -7126,37 +9141,61 @@ uključenim dionicima, primjerice ona vezana za objavu elemenata
 vidljivosti na web stranicama Grada Splita i OŠ Mertojak te vezano
 uz izrade roll up bannera i privremenih ploča (odsjekom za javnu
 nabavu, odabranim vršiteljem usluge, ravnateljicom škole....)
+```
+```
 Dodatno, u proteklom razdoblje završeni su postupci Javne
 nabave i to za Izvođenje radova energetske obnove na OŠ
 Mertojak, nabavu usluge stručnog nadzora i koordinatora II zaštite
 na radu i projektantskog nadzora za radove energetske obnove
 OŠ Mertojak.
+```
+```
 11.05.2021., održana je početna konferencija projekta prilikom
 koje su izvođači uvedeni u posao.
+```
+```
 Za projekt je pripremljena i poslana prijavna dokumentacija na
 Javni poziv za sufinanciranje provedbe EU projekata na
 regionalnoj i lokalnoj razini.
+```
+```
 Radovi su u tijeku, očekivani završetak radova je prosinac 2021.
+```
+```
 9
+```
+```
 Sanacija
 odlagališta
 komunalno
 g otpada
 Karepovac
+```
+```
 Operativni
 program
 "Konkurentnost i
 kohezija 2014.-
 2020."
+```
+```
 Grad
 Split
+```
+```
 84
 mjeseca
+```
+```
 289.007.799,6
 5 kn
+```
+```
 289.007.799,6
 5 kn
 EU
+```
+```
 IZVEDENI RADOVI
 Radovi na sanaciji Karepovca su započeli 22. studenog 2018.
 godine, te je 22.04.2020. godine ishođena privremena uporabna
@@ -7164,34 +9203,57 @@ dozvola za: - izgrađenu građevinu infrastrukturne namjene
 gospodarenja otpadom, 2.a skupine ODLAGALIŠTE OTPADA
 “KAREPOVAC” U SPLITU, i to dijela odlagališta glavnim
 projektom označenog - PAKET A, FAZA 1.
+```
+
+```
 PROJEKTI U OSTALIM GRADSKIM SLUŽBAMA / ODSJECIMA
+```
 R.
 br
 
+```
 Naziv
 projekta Program^
+```
+```
 Nositel
 j
 projekt
 a
+```
+```
 Trajanje
 projekta
+```
+```
 Ukupni
 vrijednost
 projekta
+```
+```
 Vrijednost
 projekta za
 Grad Split
+```
+```
 Bespovratna
 sredstva za Grad
 Split
+```
+```
 EU/
 nacionaln
 o
 sufinancir
 anje
+```
+```
 Aktivnosti projekta
+```
+```
 114.867.436,75 kn
+```
+```
 Po završetku radova faze 1 paketa A dobili smo sanitarnu
 deponiju na kojoj se odlaže novi otpad na kontrolirani način,
 izgrađenu infrastrukturu potrebnu za funkcioniranje deponije i
@@ -7199,70 +9261,106 @@ konačno oblikovan zapadni dio deponije prekriven inertnim
 materijalom, spreman za slijedeću fazu sanacije koja uključuje
 izgradnju sustava aktivnog otplinjavanja i prekrivanje deponije
 prekrivnim brtvenim sustavom.
+```
+```
 Krajem siječnja 2021., podnijeli smo FZOEU ZNS br.1 sa
 troškovima PAKET A, FAZA 1.
+```
+```
 Okončani obračun izvedenih radova je u tijeku.
+```
+```
 Aktivnosti od veljače do svibnja 2021.:
-svakodnevne konzultacije s projektantima pri izradi izmjene
-idejnog projekta,
-sudjelovanje u prikupljanju posebnih uvjeta u postupku
-Izmjene i dopune lokacijske dozvole,
-redovno održavanje sastanaka projektnog tima,
-konzultacije s projektantima pri izradi troškovnika za Fazu 3A
-i 4A te izradu tender dokumentacije za FAZU 3A,
-rad na izradi projektnog zadatka za nabavu usluge
-osmišljavanja i provedbe medijske kampanje u sklopu
-sanacije odlagališta Karepovac,
-rad na izradi projektnog zadatka za nabavu usluge voditelja
-projekta,
-rad na formiranju parcele deponije u Katastru,
-podnesen zahtjev za uporabnu dozvolu za 1. fazu paketa A
-sanacije,
-kroz sustav efondovi poslan je novi izmijenjeni Plan nabave,
-u navedenom smo dvije stavke koje su vezane za element
-Promidžbu i vidljivost spojili u jednu stavku, br. 11 naziva
-Nabava usluge osmišljavanja i provedbe medijske kampanje
-u sklopu projekta “Sanacija odlagališta komunalnog otpada
-Karepovac „, po odobrenju plana pokrenuti ćemo postupak
-javne nabave.
+```
+- svakodnevne konzultacije s projektantima pri izradi izmjene
+    idejnog projekta,
+- sudjelovanje u prikupljanju posebnih uvjeta u postupku
+    Izmjene i dopune lokacijske dozvole,
+- redovno održavanje sastanaka projektnog tima,
+- konzultacije s projektantima pri izradi troškovnika za Fazu 3A
+    i 4A te izradu tender dokumentacije za FAZU 3A,
+- rad na izradi projektnog zadatka za nabavu usluge
+    osmišljavanja i provedbe medijske kampanje u sklopu
+    sanacije odlagališta Karepovac,
+- rad na izradi projektnog zadatka za nabavu usluge voditelja
+    projekta,
+- rad na formiranju parcele deponije u Katastru,
+- podnesen zahtjev za uporabnu dozvolu za 1. fazu paketa A
+    sanacije,
+- kroz sustav efondovi poslan je novi izmijenjeni Plan nabave,
+    u navedenom smo dvije stavke koje su vezane za element
+    Promidžbu i vidljivost spojili u jednu stavku, br. 11 naziva
+    Nabava usluge osmišljavanja i provedbe medijske kampanje
+    u sklopu projekta “Sanacija odlagališta komunalnog otpada
+    Karepovac „, po odobrenju plana pokrenuti ćemo postupak
+    javne nabave.
+
+
+```
 PROJEKTI U OSTALIM GRADSKIM SLUŽBAMA / ODSJECIMA
+```
 R.
 br
 
+```
 Naziv
 projekta Program^
+```
+```
 Nositel
 j
 projekt
 a
+```
+```
 Trajanje
 projekta
+```
+```
 Ukupni
 vrijednost
 projekta
+```
+```
 Vrijednost
 projekta za
 Grad Split
+```
+```
 Bespovratna
 sredstva za Grad
 Split
+```
+```
 EU/
 nacionaln
 o
 sufinancir
 anje
+```
+```
 Aktivnosti projekta
+```
+```
 Dana 26.03.2021., od stane FZOEU-a je održana Provjera na licu
 mjesta, prilikom koje je provjeravana cjelokupna dokumentacija
 projekta kao i obilazak samog odlagališta Karepovac.
+```
+```
 Do sada je održano pet sastanaka projektnog tima, te su
 pripremljena dva ZNS-a.
+```
+```
 Od troškova ZNS1 Gradu Splitu je uplaćen iznos od
 33.476.669,17 kn, dok se još čeka završetak kontrole i moguća
 uplata od još 18.598.149,41 kn.
+```
+```
 Za projekt je pripremljena i poslana prijavna dokumentacija na
 Javni poziv za sufinanciranje provedbe EU projekata na
 regionalnoj i lokalnoj razini.
+```
+```
 U sljedećem periodu predviđena je provedba sljedećih faza radova
 koje obuhvaćaju:
  Zatvaranje i konačno prekrivanje postojećeg presloženog
@@ -7282,35 +9380,61 @@ U sklopu ovog projekta Odsjek će prikupljati dokumentaciju i vršiti
 njenu pohranu te provoditi aktivnosti izrade 12 Zahtjeva za
 nadoknadom sredstava u svojstvu među-zahtjeva, te jednog
 Završnog zahtjeva za nadoknadu sredstava.
+```
+```
 Predviđeno trajanje projekta je do 31.12.2023.
-2.4. Provedeni projekti
+```
+
+#### 2.4. Provedeni projekti
+
+```
 PROVEDENI PROJEKTI
+```
 R.
 br
 
+```
 Naziv
 projekta Program^
+```
+```
 Aplikant
 (glavni
 partner)
+```
+```
 Trajanje
 projekta
+```
+```
 Ukupni
 vrijednost
 projekta
+```
+```
 Vrijednost
 projekta za
 Grad Split
+```
+```
 Bespovratna
 sredstva za
 Grad Split
+```
+```
 EU/ nacionalno
 sufinanciranje Aktivnosti projekta^
+```
+1.
+
+```
 Lokalnim
 partnerstvo
 m do
 svijeta
 rada
+```
+```
 Lokalne
 inicijative
 za
@@ -7320,15 +9444,23 @@ anja –
 faza III
 (otvoreni
 poziv)
+```
+```
 Cluster za
 eko-društvene
 inovacije i
 razvoj CEDRA
 Split
+```
+```
 24
 mjeseca
+```
+```
 2.000.000,00
 kn 86.405,08 kn^ 86.405,08 kn^ EU^
+```
+```
 Cilj projekta bio je unaprijediti održivost, utjecaj i učinkovitost LPZ
 SDŽ i unapređenje zapošljavanja i samozapošljavanja posebice
 ranjivih skupina kroz istraživanje, izradu strateških i akcijskih
@@ -7336,7 +9468,10 @@ smjernica, ciljanu edukaciju, savjetovanje, umrežavanje i suradnju
 dionika u aktiviranju potencijala prostora i stvaranju kvalitetnih i
 održivih radnih mjesta za sve građane, a posebice ranjive skupine.
 Projekt je uspješno proveden.
-„Otpad nije smeće!”
+```
+2. „Otpad nije smeće!”
+
+```
 Program
 izobrazn
 o –
@@ -7348,6 +9483,7 @@ održivom
 gospodar
 enju
 otpadom
+```
 Grad Split (^20) mjeseci
 2.874.051,41
 kn
@@ -7363,7 +9499,7 @@ obrazovanosti građana na području grada Splita. Projekt se
 nalazio u Proračunu Odsjeka za Smart City i digitalizaciju,
 međutim zbog nedostatka kapaciteta projekt je u cijelosti provodio
 Odsjek za međunarodne i EU projekte.
-
+3.
 Centar za
 posjetitelje
 Park-šume
@@ -7374,7 +9510,7 @@ javne
 turističke
 infrastruk
 ture u
-
+2017.
 Grad Split (^19) mjeseci 353.858,75 kn^
 353.858,75
 kn 137.500,00 kn^ nacionalno^
@@ -7394,26 +9530,42 @@ odabranim Ponuditeljem odvijala se redovita komunikacija tijekom
 izrade dokumenta. Dana 3.8.2019.dostavljena je kompletna
 projektna dokumentacija glavnog projekta. U kolovozu 2018.
 
+
+```
 PROVEDENI PROJEKTI
+```
 R.
 br
 
+```
 Naziv
 projekta Program^
+```
+```
 Aplikant
 (glavni
 partner)
+```
+```
 Trajanje
 projekta
+```
+```
 Ukupni
 vrijednost
 projekta
+```
+```
 Vrijednost
 projekta za
 Grad Split
+```
+```
 Bespovratna
 sredstva za
 Grad Split
+```
+```
 EU/ nacionalno
 sufinanciranje Aktivnosti projekta^
 godine zatraženo je stručno mišljenje Upravnog odjela za
@@ -7450,26 +9602,43 @@ obrtničke radove i uređenje prostora Centra za posjetitelje park-
 početak radova Upravnog odjela za prostorno planiranje, uređenje
 i zaštitu okoliša.
 Također, proveli su se i postupci nabave za:
+```
+
+```
 PROVEDENI PROJEKTI
+```
 R.
 br
 
+```
 Naziv
 projekta Program^
+```
+```
 Aplikant
 (glavni
 partner)
+```
+```
 Trajanje
 projekta
+```
+```
 Ukupni
 vrijednost
 projekta
+```
+```
 Vrijednost
 projekta za
 Grad Split
+```
+```
 Bespovratna
 sredstva za
 Grad Split
+```
+```
 EU/ nacionalno
 sufinanciranje Aktivnosti projekta^
  Nabavu prometnog rješenja za privremenu regulaciju
@@ -7490,13 +9659,21 @@ kn.
  Nabava pokretne opreme i multimedije za prostor centra
 za posjetitelje procijenjene vrijednosti 35.000,00 kn bez
 PDV-a.
+```
+```
 Kompletni radovi i usluge dovršeni su u studenom 2019. te je
 potom objekt predan na upravljanje JU PŠ Marjan.
 Projekt je u cijelosti provodio Odsjek za međunarodne i EU
 projekte.
+```
+4.
+
+```
 Gradimo
 Dom
 zajedno
+```
+```
 Kultura u
 centru -
 potpora
@@ -7506,13 +9683,21 @@ civilnog
 partnerst
 va u
 kulturi
+```
+```
 Platforma
 Doma mladih
 Split
+```
+```
 24
 mjeseca
+```
+```
 2.498.131,95
 kn /^ /^ EU^
+```
+```
 Ovim projektom obuhvatio se tip aktivnosti koji se odnosi na
 podizanje javne svijesti o civilno javnom partnerstvu u kulturi, kroz:
 a) „world cafe“ radionice, b) razgovore formata „jedan na jedan“, c)
@@ -7523,28 +9708,49 @@ o modelima suradničkog upravljanja.
 U predmetno projektu Odsjek za međunarodne i EU projekte
 sudjelovao je u projektnim aktivnostima te pružao savjetodavne
 usluge za potrebe provedbe projekta i izrade izvještaja.
+```
+
+```
 PROVEDENI PROJEKTI
+```
 R.
 br
 
+```
 Naziv
 projekta Program^
+```
+```
 Aplikant
 (glavni
 partner)
+```
+```
 Trajanje
 projekta
+```
+```
 Ukupni
 vrijednost
 projekta
+```
+```
 Vrijednost
 projekta za
 Grad Split
+```
+```
 Bespovratna
 sredstva za
 Grad Split
+```
+```
 EU/ nacionalno
 sufinanciranje Aktivnosti projekta^
+```
+5.
+
+```
 REMEDIO
 (REgenera
 ting mixed-
@@ -7559,19 +9765,31 @@ Innovative
 low carbon
 mobility
 sOlutions)
+```
+```
 Interreg
 Mediterra
 nean
+```
+```
 Environmental
 Protection
 Agency of
 Veneto Region
+```
+```
 30
 mjeseci
+```
+```
 17.837.145,00
 kn
+```
+```
 1.979.500,00
 kn 1.682.575,00 kn^ EU^
+```
+```
 Projektom se napravio pilot projekt implementacije sustava javnih
 bicikli vrijednosti 100.000 eura, i to električne i konvencionalne
 bicikle u sklopu Integriranog sustava javnog prijevoza. Izradila se
@@ -7586,17 +9804,28 @@ potpisao se memorandum o razumijevanja između Grada Splita i
 Split parkinga d.o.o., s namjerom uključivanja svih dionika sektora,
 kao i Sporazum o suradnji u implementaciji sustava javnih bicikli
 na području grada Splita u suradnji sa Split parkingom d.o.o..
-CitiEnGov
+```
+6. CitiEnGov
+
+```
 Interreg
 Central
 Europe
+```
+```
 Regionalna
 razvojna
 agencija
 SIPRO Ferrara
+```
+```
 36
 mjeseci
+```
+```
 15.060.850,00 1.502.403,43 1.277.042,00 kn EU
+```
+```
 U sklopu projekta je postavljena LED rasvjeta na potezu od
 Katalinića briga do lučice na Zenti koja će donositi godišnje uštede
 od 60.000 kn i značajno smanjenje emisije CO2 i svjetlosno
@@ -7609,23 +9838,37 @@ učinkovitosti i obnovljivih izvora energije kao faktora borbe protiv
 klimatskih promjena. Također je izrađen i Godišnji plan energetske
 učinkovitosti za 2019.g., te Studija isplativosti postavljene LED
 rasvjete.
+```
+```
 7.
+```
+```
 USEFALL
 (UNESCO
 site
 experience
 for all)
+```
+```
 Interreg
 Italy-
 Croatia
 CBC
 Standard
 +
+```
+```
 Comune di
 Ravena
+```
+```
 19
 mjeseci
+```
+```
 8.440.106,11 1.998.000,00 1.698.300,00 EU
+```
+```
 Projektom je realiziran pilot projekt za rješavanje pristupačnosti
 Palače i to postavljanjem lifta u Zlatnim vratima, lift/platforma na
 istočnom ulazu u povijesnu jezgru (kod Srebrnih vrata), te kosi lift i
@@ -7638,34 +9881,57 @@ postojanju prethodno spomenute mape i - izrada videa o gradu
 Splitu (području projektnih aktivnosti).
 Projekt je u cijelosti provodio Odsjek za međunarodne i EU
 projekte.
+```
+
+```
 PROVEDENI PROJEKTI
+```
 R.
 br
 
+```
 Naziv
 projekta Program^
+```
+```
 Aplikant
 (glavni
 partner)
+```
+```
 Trajanje
 projekta
+```
+```
 Ukupni
 vrijednost
 projekta
+```
+```
 Vrijednost
 projekta za
 Grad Split
+```
+```
 Bespovratna
 sredstva za
 Grad Split
+```
+```
 EU/ nacionalno
 sufinanciranje Aktivnosti projekta^
+```
+```
 8.
+```
+```
 Split -
 mjesto
 dodira
 sporta i
 kulture
+```
+```
 Europski
 fond za
 regionaln
@@ -7690,7 +9956,11 @@ h na
 obnovi
 kulturne
 baštine
+```
+```
 Grad Split 01.12.2016. 37 mjeseci 6.392.000,00 kn 4.999.822,40 kn 113.777,60 kn
+```
+```
 Grad Split je sa svojim partnerima TZ grada Splita i JU Športski
 objekti, uz veliku potporu i intenzivnu suradnju s HNK Hajduk
 provodio projekt „Split - mjesto dodira sporta i kulture“ u periodu od
@@ -7715,6 +9985,8 @@ ishođene su sve potrebne potvrde javno pravnih tijela u veljači
 d.d., koji je nakon provedenog otvorenog postupka nabave
 početkom 2017. godine odabran kao ekonomski najpovoljniji
 ponuditelj u kolovozu 2018.
+```
+```
 Za preostalu izrađenu dokumentaciju vezanu za uspostavu
 budućeg Muzeja Poljuda i Interpretacijskog centra Hajduka u
 prostoru ispod Istočnih tribina Stadiona Poljud na površini od
@@ -7725,26 +9997,43 @@ godine. Obzirom na kompleksnost projekta i znatna financijska
 sredstva koja treba osigurati za realizaciju rekonstrukcije krovišta
 Stadiona Poljud, Grad Split, kao i HNK Hajduk poduzimaju sve
 moguće aktivnosti za iznalaženje mogućnosti sufinanciranja
+```
+
+```
 PROVEDENI PROJEKTI
+```
 R.
 br
 
+```
 Naziv
 projekta Program^
+```
+```
 Aplikant
 (glavni
 partner)
+```
+```
 Trajanje
 projekta
+```
+```
 Ukupni
 vrijednost
 projekta
+```
+```
 Vrijednost
 projekta za
 Grad Split
+```
+```
 Bespovratna
 sredstva za
 Grad Split
+```
+```
 EU/ nacionalno
 sufinanciranje Aktivnosti projekta^
 projekta bespovratnim sredstvima Europske unije. Kako je izrada
@@ -7773,8 +10062,12 @@ prijave za prvi otvoreni adekvatan natječaj putem kojeg će biti
 moguće osiguravanje bespovratnih sredstava za rekonstrukciju
 krovišta Stadiona Poljud i svih ostalih planiranih aktivnosti unutar
 projekta.
-3. ODSJEK ZA PROVEDBU ITU MEHANIZMA
-3.1. Uvod
+```
+
+###### 3. ODSJEK ZA PROVEDBU ITU MEHANIZMA
+
+#### 3.1. Uvod
+
 Odsjek za provedbu ITU mehanizma (u daljnjem tekstu: ITU Odsjek) Posredničko je tijelo u
 sustavu upravljanja i kontrole sredstava iz ESI fondova u Republici Hrvatskoj te obavlja
 delegirane funkcije od strane Ministarstva regionalnoga razvoja i fondova Europske unije (u
@@ -7791,7 +10084,8 @@ Korištenju ITU mehanizma prethodilo je definiranje obuhvata Urbane aglomeracije
 Strategija razvoja Urbane aglomeracije Splita za razdoblje do kraja 2020. godine (u daljnjem
 tekstu: SRAS), te pripadajućeg Akcijskog plana.
 
-3.2. Urbana aglomeracija Split
+#### 3.2. Urbana aglomeracija Split
+
 Grad Split je temeljem Zakona o regionalnom razvoju (NN 174/14) u listopadu 2015.g.
 definirao obuhvat Urbane aglomeracije Split sa sjedištem u Gradu Splitu, čime je postao grad
 nositelj Urbane aglomeracije Split, a samim tim je preuzeo obvezu osiguravanja financijskog
@@ -7805,9 +10099,9 @@ Urbana aglomeracija Split ustrojena je dana 30. studenoga 2015.g., kada je minis
 regionalnoga razvoja i fondova Europske unije, temeljem članka 14. stavka 4. Zakona o
 regionalnom razvoju Republike Hrvatske (NN 147/14), donio Odluku o ustrojavanju Urbane
 aglomeracije Split, KLASA: 011-01/15-02/4, URBROJ: 538- 06 - 1 - 2/016- 15 - 9, u koju ulaze 13
-jedinica lokalne samouprave: Grad Split, Grad Kaštela, Grad Omiš, Grad Sinj, Grad Solin,
+jedinica lokalne samouprave: _Grad Split, Grad Kaštela, Grad Omiš, Grad Sinj, Grad Solin,
 Grad Trogir, Općina Dicmo, Općina Dugi Rat, Općina Dugopolje, Općina Klis, Općina
-Lećevica, Općina Muć, Općina Podstrana. UAS se prostire na 1.286,9 km^2 , te broji 325.407
+Lećevica, Općina Muć, Općina Podstrana._ UAS se prostire na 1.286,9 km^2 , te broji 325.407
 stanovnika po Popisu stanovništva iz 2011.godine, a što čini 28% kopnenog dijela Županije i
 72% od ukupnog stanovništva Županije.
 
@@ -7823,6 +10117,7 @@ predstavnika Sveučilišta u Splitu i radnog tima Grada Splita, a sve s ciljem �
 sveobuhvatnije izrade Strategije razvoja Urbane aglomeracije Split do 2020.godine i što
 kvalitetnije pripreme projektne prijave Urbane aglomeracije Split na otvoreni Poziv Ministarstva
 za odabir područja za provedbu ITU mehanizma.
+
 
 Grad Split kao nositelj Urbane aglomeracije Split je dana 15.07.2016.g. dostavio
 projektnu prijavu Urbane aglomeracije Split Ministarstvu regionalnoga razvoja i fondova
@@ -7843,7 +10138,7 @@ strukovnog obrazovanja, razvoj deinstitucionaliziranih usluga socijalne skrbi ka
 socijalne uključenosti.
 
 Dana 05.10.2016.g. Ministarstva regionalnog razvoja i fondova EU donijelo je
-Odluku o odabiru pod ručja za provedbu mehanizma integriranih teritorijalnih ulaganja
+Odluku o odabiru pod **ručja za provedbu mehanizma integriranih teritorijalnih ulaganja**
 (KLASA: 300-01/16-05/4, URBROJ: 538- 06 - 1 - 2/011- 16 - 5) prema kojoj je Urbana aglomeracija
 Split odabrana kao područje za provedbu ITU mehanizma uz indikativnu alokaciju u iznosu od
 62,7 mil € za realizaciju projekata do 2023. godine.
@@ -7856,62 +10151,101 @@ pozivi za UAS prikazana u slijedećoj tablici br.1:
 
 Tablica br. 1 Indikativne alokacije ITU sredstava po ITU SC
 Tematsko
-područje
+**područje**
 
+```
 Aktivnosti Ukupna ITU
 alokacija (€)
+```
+```
 18,176683332
 % alokacije
 za Urbanu
 aglomeraciju
 Split (€)
+```
+```
 Nove
 alokacije za
 Urbanu
 aglomeraciju
 Split 2017 (€)
+```
+```
 Finalne
 alokacije za
 Urbanu
 aglomeraciju
 Split 2018 (€)
+```
+```
 Gradovi
 kao
 pokretači
 razvoja
+```
+```
 3a2 Napredna poslovna
 infrastruktura i
 odgovarajuće usluge
+```
+```
 60.000.000,00 10.906.010,00 10.906.010,00 10.906.010,00
+```
+```
 10iii3 i 10iv1
 Osmišljavanje i provedba
 obrazovnih programa za
 razvoj grada
+```
+```
 5.000.000,00 908.834,17 908.834,17 908.834,17
+```
+```
 Čisti
 gradovi
+```
+```
 4c3 Povećanje
 energetske učinkovitosti
 toplovodnih sustava
+```
+```
 80.000.000,00 14.541.346,67 5.983.229,27 0,00
+```
+```
 6c1 Korištenje kulturne
 baštine 33.351.269,00^ 6.062.154,55^ 6.062.154,55^ 6.062.154,55^
 6e2 Korištenje
 zapuštenih prostora
 (industrijska i vojna
 zemljišta)
+```
+```
 80.000.000,00 14.541.346,67 14.541.346,67 14.541.346,67
+```
+```
 7ii2 Čisti urbani promet 50.000.000,00^ 9.088.341,67^ 9.088.341,67^ 9.088.341,67^
+```
+
+```
 Uključivi
 gradovi
+```
+```
 8ii1 Aktivnosti za mlade
 nezaposlene 17.000.000,00^ 3.090.036,17^ 3.090.036,17^ 3.090.036,17^
 9i1 i 9iv2
 Deinstitucionalizacija
 socijalnih i zdravstvenih
 usluga
+```
+```
 20.000.000,00 3.635.336,67 3.635.336,67 3.635.336,67
+```
+```
 TOTAL 345.351.269,00 62.773.406,55 54.215.289,15 48.232.059,88
+```
 Dana 12.prosinca 2017.g na 5. sjednici Gradskog vijeća Grada Splita usvojena je Strategija
 razvoja Urbane aglomeracije Split za razdoblje do kraja 2020. godine, uz prethodne
 suglasnosti svih gradova i općina iz obuhvata Urbane aglomeracije Split kao i Partnerskog
@@ -7919,18 +10253,19 @@ vijeća Urbane aglomeracije Split. Strategija sa svim prilozima je javno dostupn
 Grada u dijelu Urbana aglomeracije Split sa svim ostalim relevantnim informacijama o provedbi
 ITU mehanizma u Urbanoj aglomeraciji Split.
 
-3.3. Uspostava Odsjeka za provedbu ITU mehanizma (ITU PT)
-Svi odabrani ITU gradovi u RH – nositelji urbanih aglomeracija i urbanih područja
-postali su Posrednička tijela integriranih teritorijalnih ulaganja (u nastavku teksta: ITU
-PT) i to potpisivanjem Sporazuma o obavljanju delegiranih i s njima povezanih zadaća i
-aktivnosti u okviru Operativnog programa „Konkurentnost i kohezija“ u financijskom
+#### 3.3. Uspostava Odsjeka za provedbu ITU mehanizma (ITU PT)
+
+Svi odabrani ITU gradovi u RH **– nositelji urbanih aglomeracija i urbanih područja
+postali su Posrednička tijela** integriranih teritorijalnih ulaganja (u nastavku teksta: ITU
+PT) i to potpisivanjem **Sporazuma o obavljanju delegiranih i s njima povezanih zadaća i
+aktivnosti u okviru Operativnog programa „Konkurentnost i kohezija“ u financijskom**
 razdoblju 2014.-2020. (u daljnjem tekstu: Sporazum) dana 13. travnja 2017.g. od strane
 ministrice regionalnog razvoja i fondova Europske unije i gradova nositelja urbanih područja.
 
 Temelj za potpisivanje Sporazuma je bilo donošenje izmjena i dopuna Uredbe o tijelima u
-sustavima up ravljanja i kontrole korištenja Europskog socijalnog fonda, Europskog
+sustavima up **ravljanja i kontrole korištenja Europskog socijalnog fonda, Europskog
 fonda za regionalni razvoj i Kohezijskog fonda, u vezi s ciljem „Ulaganje za rast i radna
-mjesta“ (Narodne novine, broj 107/14, 23/15, 129/15, 15/2017) (u daljnjem tekstu: Uredba),
+mjesta“ (Narodne novine, broj 107/14, 23/15, 129/15, 15/2017)** (u daljnjem tekstu: Uredba),
 a u kojoj su navedeni i ITU PT-ovi kao tijela u sustavu.
 
 Navedenim Sporazumom su utvrđene obveze i odgovornosti Ministarstva regionalnog
@@ -7951,9 +10286,13 @@ ITU Posredničkog tijela za Urbanu aglomeraciju Split, tzv. ITU ured.
 
  Sufinanciranje svih troškova ITU ureda je osigurano iz Prioritetne osi 10 - Tehnička pomoć
 
+```
 Operativnog programa Konkurentnost i kohezija 2014.-2020, i to kroz projekt
 KK.10.1.1.02.0005 „Grad Split – tehnička pomoć ITU PT“ putem kojeg je osigurano
 bespovratnih 16.220.647,75 kn (85%) za financiranje svih troškova ITU Odsjeka do
+```
+
+```
 31.12.2023.godine, uključujući troškove plaća 10 zaposlenih službenica, troškove
 edukacija, putovanja, nabave uredske opreme i namještaja, troškove vanjske pomoći,
 informiranja i vidljivosti, te svih ostalih prihvatljivih troškova sukladno potpisanom Ugovoru
@@ -7961,6 +10300,7 @@ u dodjeli bespovratnih sredstava. Bespovratnim sredstvima treba pridodati i doda
 odobren iz Fonda za sufinanciranje provedbe EU projekata na regionalnoj i lokalnoj razini,
 čime rad Odsjeka za provedbu ITU mehanizma, Grad Split sufinancira sa samo 6% svih
 troškova.
+```
 Ustrojavanje ITU ureda je bio preduvjet za početak procesa akreditacije koji je uspješno
 okončan tijekom 2020.g. s pozitivnim mišljenjem Agencije za reviziju sustava provedbe
 programa EU (ARPA) za cijeli sustav provedbe ITU mehanizma u RH, kako na razini
@@ -7969,7 +10309,7 @@ postupka revizije uspostave sustava i operativne učinkovitosti vezano uz mehani
 integriranih teritorijalnih ulaganja.
 
 Uz osnovnu delegiranu funkciju ocjenjivanja kvalitete za projekte u okviru Operativnog
-programa „Konkurentnost i kohezija“ u financijskom razdoblju 2014. - 2020., ITU Odsjek
+**programa „Konkurentnost i kohezija“ u financijskom razdoblju 2014.** - 2020., ITU Odsjek
 kao Posredničko tijelo integriranih teritorijalnih ulaganja u suradnji s MRRFEU i Središnjom
 agencijom za financiranje i ugovaranje programa i projekata Europske unije (u daljnjem tekstu:
 SAFU) radio je aktivno na pripremi dokumentacije potrebne za objavu svih poziva za dostavu
@@ -7985,6 +10325,7 @@ aglomeracije Split.
 
  Sporazum o provedbi integriranih teritorijalnih ulaganja u okviru Operativnog
 
+```
 programa „Konkurentnost i kohezija“ u financijskom razdoblju 2014. - 2020. za
 Urbanu aglomeraciju Split potpisan je 7. veljače 2018., a u istom su definirani svih
 strateški pozivi kao i pozivi za grant sheme u okviru indikativne alokacije namijenjene
@@ -7992,13 +10333,16 @@ Urbanoj aglomeraciji Split u prvotnom iznosu od 46.581.082,15 €. Tijekom prove
 mehanizma u Urbanoj aglomeraciji Split izrađena su 3 Dodatka Sporazumu kojima je
 ažurirana visina alociranih sredstava za Urbanoj aglomeraciji Split po specifičnim ciljevima
 i sukladno iznosima ugovorenih projekata (307.785.881,68 HRK).
+```
  Sporazum o provedbi integriranih teritorijalnih ulaganja u okviru Operativnog
 
+```
 programa „Učinkoviti ljudski potencijali“ u financijskom razdoblju 2014. - 2020. je
 potpisan 27. travnja 2020. godine. Ukupan indikativan iznos sredstava na raspolaganju
 Urbanoj aglomeraciji Split iznosi 8.981.419,99 € (68.258.791,94 HRK). ITU PT Split nema
 delegiranu funkciju ocjenjivanja kvalitete projekata u okviru ovog Operativnog
 programa, niti sudjeluje u pripremi poziva.
+```
 ITU Odsjek trenutno zapošljava 7 službenica, od kojih su 4 aktivne a 3 dugotrajno odsutne
 zbog korištenja rodiljnog dopusta. Od 7 službenica, 6 ih je zaposleno na neodređeno vrijeme,
 a 1 službenica ja na određeno vrijeme kao zamjena za dugotrajno odsutno službenicu.
@@ -8006,22 +10350,28 @@ a 1 službenica ja na određeno vrijeme kao zamjena za dugotrajno odsutno služb
 Funkciju Čelnika ITU PT Split trenutno vrši gradonačelnik, sukladno uputi MRRFEU, a koji
 potpisuje sve dokumente vezane za provedbu ITU mehanizma u UAS-u, dok funkciju korisnika
 
+
 ITU sredstava ispred Grada Split vrši zamjenik gradonačelnika temeljem zaključka
 gradonačelnika o davanju ovlasti da poduzima sve radnje vezane pripremu, prijavu i provedbu
 projekata Grada Splita koji se financiraju putem ITU mehanizma, a sve s ciljem osiguravanja
 razdvajanja funkcija i sprječavanja sukoba interesa.
 
-3.4. Provedba ITU mehanizma u Urbanoj aglomeraciji Split
+#### 3.4. Provedba ITU mehanizma u Urbanoj aglomeraciji Split
+
+```
  Sažetak ITU poziva iz OPKK 2014.-2020.
-objavljeno je svih 11 planiranih ITU poziva vrijednosti 308.543.681,96 kn
-namijenjenih Urbanoj aglomeraciji Split iz ITU mehanizma u okviru OPKK 2014.-2020.,
-odnosno 100%
-potpisano je 28 ugovora o dodjeli bespovratnih sredstava iz ITU mehanizma za
-projekte ukupne vrijednosti 444.160.150,04 kn i dodijeljenih 301.785.881,69 kn
-bespovratnih ITU sredstava, što iznosi 97,81% sredstava od ukupne raspoložive
-alokacije
+```
+- objavljeno je svih 11 planiranih ITU poziva vrijednosti 308.543.681,96 kn
+    namijenjenih Urbanoj aglomeraciji Split iz ITU mehanizma u okviru OPKK 2014.-2020.,
+    odnosno 100%
+- potpisano je 28 ugovora o dodjeli bespovratnih sredstava iz ITU mehanizma za
+    projekte ukupne vrijednosti 444.160.150,04 kn i dodijeljenih 301.785.881,69 kn
+    bespovratnih ITU sredstava, što iznosi 97,81% sredstava od ukupne raspoložive
+    alokacije
+
 ITU pozivi objavljeni su u okviru 4 specifična cilja:
 
+```
  SC 7ii2 - Povećanje broja putnika u javnom prijevozu - ugovoreni iznos ITU
 bespovratnih sredstava: 69.071.396,68 kn
  SC 6c1 - Povećanje zapošljavanja i turističkih izdataka kroz unaprjeđenje
@@ -8030,23 +10380,36 @@ kulturne baštine - ugovoreni iznos ITU bespovratnih sredstava: 46.064.119,84 kn
 ugovoreni iznos ITU bespovratnih sredstava: 109.813.403,90 kn
  Sc 3a2 - Omogućavanje povoljnog okruženja za razvoj poduzetništva - ugovoreni
 iznos ITU bespovratnih sredstava: 76.836.961,26 kn
+```
 Tablica br. 2 u nastavku donosi kronološki prikaz svih objavljenih ITU poziva pa specifičnim
 ciljevima i alociranim, ugovorenim i neiskorištenim vrijednostima:
 
 Tablica br. 2 Popis objavljenih Poziva i ugovorenih iznosa za projekte UAS-a u okviru OPKK
 
-2014.-2020.
+##### 2014.-2020.
+
+```
 R.
 br
+```
+```
 ITU
 specifič
 ni cilj
+```
+```
 Naziv Poziva za strateški
 projekt / grant shemu
+```
+```
 ERDF/KF
 alokacija (HRK)
+```
+```
 Ugovoreni
 iznos (HRK)
+```
+```
 Neiskorište
 na alokacija
 (razlika
@@ -8055,31 +10418,45 @@ i
 ugovorenog
 iznosa)
 HRK
+```
+```
 Datum
 objave
 Poziva
-SC 7ii2 (^) d.o.o. Split iz ITU mehanizmaNabava autobusa za Promet 29.925.950,00 29.925.950,00 0,00 18.06.2018.
+```
+1. SC 7ii2 (^) d.o.o. Split iz ITU mehanizmaNabava autobusa za Promet 29.925.950,00 29.925.950,00 0,00 18.06.2018.
 
-SC 7ii2 Sustav biciklističkih staza UA Split 16.150.000,00 16.150.000,00 0,00 19.06.2018.
+2. SC 7ii2 Sustav biciklističkih staza UA Split 16.150.000,00 16.150.000,00 0,00 19.06.2018.
 
-SC 7ii2
+
+3. SC 7ii2
+
+```
 Implementacija sustava e-
 ticketing u Promet d.o.o. Split
 putem ITU mehanizma
+```
+```
 12.102.050,00 12.102.050,00 0,00 12.07.2018.
-SC 3a2
+```
+4. SC 3a2
+
+```
 Razvoj Poduzetničkih
 potpornih institucija Urbane
 aglomeracije Split
+```
+```
 22.085.676,00 16.036.961,26 6.048.714,74 25.03.2019.
-SC 6e2 Regionalni transfuzijski centar KBC Split 31.920.000,00 31.920.000,00 0,00 06.05.2019.
+```
+5. SC 6e2 Regionalni transfuzijski centar KBC Split 31.920.000,00 31.920.000,00 0,00 06.05.2019.
 
-SC 6c1 (^) Urbane aglomeracije SplitOtvorene ljetne pozornice 27.846.400,00 27.838.145,30 8.254,70 31.05.2019.
+6. SC 6c1 (^) Urbane aglomeracije SplitOtvorene ljetne pozornice 27.846.400,00 27.838.145,30 8.254,70 31.05.2019.
+7. SC 6e2 (^) Urbane Brownfield na području aglomeracije Split 34.320.000,00 33.619.169,21 700.830,79 18.07.2019.
 
-SC 6e2 (^) Urbane Brownfield na području aglomeracije Split 34.320.000,00 33.619.169,21 700.830,79 18.07.2019.
+8. SC 6c1
 
-SC 6c1
-
+```
 Palača života, grad
 mijena/Palace of life, city of
 changes - Integrirani program
@@ -8087,26 +10464,46 @@ razvoja posjetiteljske
 infrastrukture stare gradske
 jezgre s Dioklecijanovom
 palačom
+```
+```
 18.225.974,58 18.225.974,54 0,04 28.10.2019.
-SC 7ii2
+```
+9. SC 7ii2
+
+```
 URBANA MOBILNOST –
 Razvoj sustava javnih
 bicikala na području Urbane
 aglomeracije Split
+```
+```
 10.893.396,69 10.893.396,68 0,01 18.09.2020.
-SC 6e2
+```
+10. SC 6e2
+
+```
 Razvoj zone Dračevac -
 Tehnološki park Split -
 Dračevac
+```
+```
 44.274.234,69 44.274.234,69 0,00 23.10.2020.
-SC 3a2
+```
+11. SC 3a2
+
+```
 Izgradnja i opremanje
 centralnog objekta
 Tehnološkog parka Split -
 Dračevac
+```
+```
 60.800.000,00 60.800.000,00 0,00 25.11.2020.
+```
+```
 UKUPNO 308.543.681,96 301.785.881,6 8 6.757.800,28
-Najznačajniji udio u iznosu preostale alokacije odnosi se na poziv Razvoj Poduzetničkih
+```
+Najznačajniji udio u iznosu preostale alokacije odnosi se na poziv **Razvoj Poduzetničkih**
 potpornih institucija Urbane aglomeracije Split gdje je neiskorišteno ostalo 6.048.714,74
 kn budući da sve projektne prijave nisu zadovoljile minimalni bodovni prag prilikom
 ocjenjivanja kvalitete.
@@ -8115,24 +10512,36 @@ Tijekom prethodnog razdoblja provedbe ITU mehanizma u Urbanoj aglomeraciji Split
 potpisano je ukupno 28 ugovora o dodjeli bespovratnih sredstava, kako je prikazano u tablici
 br. 3 u nastavku:
 
+
 Tablica br. 3 Popis potpisanih ugovora ITU projekata UAS-a u okviru OPKK 2014.-2020.
 
+```
 R.b
 r. Naziv projekta^ Korisnik^
+```
+```
 Ukupni
 prihvatljivi
 troškovi
 (HRK)
+```
+```
 Ukupno
 odobrena
 bespovratna
 sredstva (HRK)
+```
+```
 Datum
 potpisa
 Ugovora
+```
+```
 EU
 grant
-(^) d.o.o. Split iz ITU mehanizmaNabava autobusa za Promet Promet d.o.o. 35.207.000,00 29.925.950,00 18.10.2018. 85,00%
+```
+1. (^) d.o.o. Split iz ITU mehanizmaNabava autobusa za Promet Promet d.o.o. 35.207.000,00 29.925.950,00 18.10.2018. 85,00%
+2.
 Morsko riječna šetnica i
 biciklistička staza "Podstrana
 walk & bike"
@@ -8140,23 +10549,42 @@ Općina
 Podstrana 10.009.686,86^ 8.506.357,49^
 14.12.201
 
-84,98%^
+8. 84,98%^
+
+```
 3.
+```
+```
 Dužobalna biciklistička staza i
 šetnica na području Grada
 Omiša
+```
+```
 Grad Omiš 10.986.113,55 7.643.642,51 06.05.2019. 69,58%
+```
+```
 4.
+```
+```
 Implementacija sustava e-
 ticketing u Promet d.o.o. Split
 putem ITU mehanizma
+```
+```
 Promet
 d.o.o. 20.008.755,00^ 12.102.050,00^
+```
+```
 06.09.201
-60,48%^
-Otvorene ljetne pozornice Urbane aglomeracije Split Grad Solin 32.750.759,23 27.838.145,30 02.09.2019. 85,00%
-Regionalni transfuzijski centar KBC Split KBC Split 54.380.225,00 31.920.000,00 24.10.2019. 58,70%
+```
+9. 60,48%^
+5. Otvorene ljetne pozornice Urbane aglomeracije Split Grad Solin 32.750.759,23 27.838.145,30 02.09.2019. 85,00%
+6. Regionalni transfuzijski centar KBC Split KBC Split 54.380.225,00 31.920.000,00 24.10.2019. 58,70%
+
+```
 7.
+```
+```
 Palača života, grad
 mijena/Palace of life, city of
 changes - Integrirani program
@@ -8164,63 +10592,108 @@ razvoja posjetiteljske
 infrastrukture stare gradske
 jezgre s Dioklecijanovom
 palačom
+```
+```
 Grad Split 25.421.397,75 18.225.974,54 16.06.2020. 71,70%
-SPORTedukacije i aktivnog življenja^ HUB -^ centar sportske DugopoljeOpćina 6.998.199,12 4.473.641,89 16.06.2020. 63,93%
-Multifunkcionalni centar fra Ante Konstantina Matasa LećevicaOpćina 4.680.437,73 3.603.742,43 16.06.2020. 77,00%
-Obnovom sportske renesansebrownfielda do Općina Klis 5.791.485,29 4.340.201,05 16.06.2020. 74,94%
-Revitalizacija brownfield objekta u Muću Općina Muć 9.199.755,00 4.494.979,24 16.06.2020. 48,86%
-Novi Glorijet Grad Solin 5.981.986,48 4.287.577,63 16.06.2020. 71,67%
+```
+8. SPORTedukacije i aktivnog življenja^ HUB -^ centar sportske DugopoljeOpćina 6.998.199,12 4.473.641,89 16.06.2020. 63,93%
+9. Multifunkcionalni centar fra Ante Konstantina Matasa LećevicaOpćina 4.680.437,73 3.603.742,43 16.06.2020. 77,00%
+10. Obnovom sportske renesansebrownfielda do Općina Klis 5.791.485,29 4.340.201,05 16.06.2020. 74,94%
+11. Revitalizacija brownfield objekta u Muću Općina Muć 9.199.755,00 4.494.979,24 16.06.2020. 48,86%
+12. Novi Glorijet Grad Solin 5.981.986,48 4.287.577,63 16.06.2020. 71,67%
+
+```
 13.
+```
+```
 Revitalizacija Vile Nika -
 Centar za zaštitu kulturne
 baštine i klimatske promjene
+```
+```
 Grad
 Kaštela 4.542.454,25^ 3.767.429,71^
+```
+```
 13.07.202
-82,94%^
+```
+0. 82,94%^
+
+```
 14.
+```
+```
 Adaptacija kino dvorane u
 Trogiru (Novi edukacijsko-
 kulturni centar)
+```
+```
 Grad
 Trogir 10.754.977,91^ 4.187.586,40^
+```
+```
 14.07.202
-38,94%^
-Četiri palme Grad Split 10.079.314,16 4.464.010,86 18.08.2020. 44,29%
-Biraj biciklu! Grad Split 13.609.435,83 10.893.396,68 04.02.2021. 80,04%
-RaSTom do razvoja poduzetništva
+```
+0. 38,94%^
+15. Četiri palme Grad Split 10.079.314,16 4.464.010,86 18.08.2020. 44,29%
+16. Biraj biciklu! Grad Split 13.609.435,83 10.893.396,68 04.02.2021. 80,04%
+17. RaSTom do razvoja poduzetništva
+
+```
 RAZVOJN
 A
 AGENCIJ
 A SPLIT -
 RaST
 d.o.o.
+```
+```
 2.279.827,34 1.937.852,77 04.02.2021. 85,00%
+```
+```
 18.
+```
+```
 Razvoj usluga i kapaciteta
 Razvojne agencije Općine
 Lećevica- LASTA
+```
+```
 RAZVOJN
 A
 AGENCIJ
 A OPĆINE
 LEĆEVIC
 A LASTA
+```
+```
 1.632.817,27 1.387.894,56 04.02.2021. 85,00%
-Razvoj institucije Grada Kaštelapoduzetničke potporne
+```
+19. Razvoj institucije Grada Kaštelapoduzetničke potporne
+
+```
 RAZVOJN
 A
 AGENCIJ
 A GRADA
 KAŠTELA
+```
+```
 1.929.430,38 1.640.015,61 04.02.2021. 85,00%
+```
+
 Distribucija bespovratnih sredstava prema jedinicama lokalne samouprave prikazana je
 grafom i tablicom br.4 u nastavku:
 
+```
 20.
+```
+```
 Razvoj usluga i kapaciteta
 Razvojne agencije Općine
 Dugopolje-ODRAZ
+```
+```
 RAZVOJN
 A
 AGENCIJ
@@ -8228,46 +10701,84 @@ A OPĆINE
 DUGOPO
 LJE -
 ODRAZ
+```
+```
 2.149.056,30 1.825.701,61 04.02.2021. 84,95%
+```
+```
 21.
+```
+```
 Uspostavljanje Poduzetničkog
 centra Roterm d.o.o. za
 potrebe poduzetnika na
 području Općine Muć i cijele
 Urbane aglomeracije Split -
 UPC Roterm
+```
+```
 ROTERM
 d.o.o. 2.442.510,70^ 2.076.134,09^
+```
+```
 04.02.202
-85,00%^
+```
+1. 85,00%^
+
+```
 22.
+```
+```
 Ulaganje u razvoj MSP-ova
 putem Poduzetničkog centra
 Scala d.o.o.
+```
+```
 PODUZET
 NIČKI
 CENTAR
 SCALA
 d.o.o.
+```
+```
 1.830.432,04 1.440.552,12 04.02.2021. 78,70%
+```
+```
 23.
+```
+```
 Razvoj poduzetničkog
 akceleratora za tehnologije u
 zdravstvu
+```
+```
 E.C.H.R.
 d.o.o. 1.847.241,92^ 1.570.155,62^
+```
+```
 04.02.202
-85,00%^
+```
+1. 85,00%^
+
+```
 24.
+```
+```
 Razvoj novih visokokvalitetnih
 usluga poduzetničko potporne
 institucije za razvoj novih
 tehnologija
+```
+```
 MOSAIC
 INCUBAT
 OR d.o.o.
+```
+```
 1.218.109,12 1.035.392,73 04.02.2021. 85,00%
-(^) poduzetničkog centra Razvoj usluga i kapaciteta Urbanex Urbanex d.o.o. 1.686.084,09 1.433.171,44 12.02.2021. 85,00%
+```
+25. (^) poduzetničkog centra Razvoj usluga i kapaciteta Urbanex Urbanex d.o.o. 1.686.084,09 1.433.171,44 12.02.2021. 85,00%
+26.
 Kroz jačanje MSP do
 gospodarskog procvata Omiša
 i Dugog Rata
@@ -8276,12 +10787,12 @@ Kovačić
 Consulting
 j.d.o.o.
 1.988.342,02 1.690.090,71 24.03.2021. 85,00%
-
+27.
 Razvoj zone Dračevac -
 Tehnološki park Split -
 Dračevac
 Grad Split 77.737.778,88 44.274.234,69 19.04.2021. 56,95%
-
+28.
 Izgradnja i opremanje
 centralnog objekta
 Tehnološkog parka Split –
@@ -8289,11 +10800,13 @@ Dračevac
 Grad Split 87.016.536,82 60.800.000,00 19.04.2021. 69,87%
 UKUPNO 444.160.150,0 4 301.785.881,68 67,95%
 
+
 Tablica br. 4 Pregled bespovratnih ITU sredstava po korisnicima /JLS-ovima UAS-a u okviru
 OPKK 2014.-2020.
-IZNOS BESPOVRATNIH SREDSTAVA PO PODRUČJU (GRADU/OPĆINI) DODJELE SREDSTAVA
-Grad / Općina Iznos bespovratnih sredstava Udio u ukupno dodijeljenim sredstvima
+**IZNOS BESPOVRATNIH SREDSTAVA PO PODRUČJU (GRADU/OPĆINI) DODJELE SREDSTAVA
+Grad / Općina** Iznos bespovratnih sredstava Udio u ukupno dodijeljenim sredstvima
 
+```
 Grad Split + PPI+TZ+Muzej 132.929.596,20 44,05%
 UAS (Promet+KBC) 73.948.000,00 24,50%
 Grad Solin + TZ Solin 21.686.289,91 7,19%
@@ -8310,14 +10823,32 @@ Općina Dugi Rat 0,00 0,00%
 Općina Dicmo 323.387,61 0,11%
 PPI u privatnom vlasništvu 8.463.609,12 2,80%
 UKUPNO 301.785.881,70 100,00%
+```
+```
 44%
+```
+```
 25%
+```
+```
 7%
+```
+```
 3%
+```
+```
 3%
+```
+```
 3%
+```
+```
 3% 2%
+```
+```
 2%2%3%0%3%0%0%
+```
+```
 Grad Split + PPI+TZ+Muzej UAS (Promet+KBC)
 Grad Solin + TZ Solin Grad Omiš
 Općina Klis Općina Podstrana
@@ -8326,51 +10857,73 @@ Općina Lećevica + PPI Općina Muć
 Grad Trogir Općina Dicmo
 PPI u privatnom vlasništvu Grad Sinj
 Općina Dugi Rat
+```
+
+```
  Sažetak ITU poziva iz OPULJP 2014.-2020.
-objavljena su 2 ITU poziva od planiranih 5 poziva
-potpisano je ukupno 12 ugovora o dodjeli bespovratnih sredstava. Vrijednost do sada
-ugovorenih ITU ESF projekata Urbane aglomeracije Split iznosi 24.820.609,81 kn,
-koliko ujedno iznose i odobrena bespovratna sredstva.
+```
+- objavljena su 2 ITU poziva od planiranih 5 poziva
+- potpisano je ukupno 12 ugovora o dodjeli bespovratnih sredstava. Vrijednost do sada
+    ugovorenih ITU ESF projekata Urbane aglomeracije Split iznosi 24.820.609,81 kn,
+    koliko ujedno iznose i odobrena bespovratna sredstva.
+
 ITU pozivi objavljeni su u okviru 2 specifična cilja:
 
-SC 9i 1 - Borba protiv siromaštva i socijalne isključenosti promicanjem tržišta
-rada i socijalnog uključivanja ranjivih skupina borba protiv svih oblika
-diskriminacije - ugovoreni iznos ITU bespovratnih sredstava: 11.508.962,80 kn
-SC 9iv 2 - Poboljšanje pristupa visokokvalitetnim uslugama socijalne skrbi,
-uključujući podršku za prijelaz s institucionalne na skrb u zajednici - ugovoreni
-iznos ITU bespovratnih sredstava: 13.311.647,01 kn
+- SC 9i 1 - **Borba protiv siromaštva i socijalne isključenosti promicanjem tržišta**
+    **rada i socijalnog uključivanja ranjivih skupina borba protiv svih oblika**
+    diskriminacije - ugovoreni iznos ITU bespovratnih sredstava: 11.508.962,80 kn
+- SC 9iv 2 - **Poboljšanje pristupa visokokvalitetnim uslugama socijalne skrbi,**
+    **uključujući podršku za prijelaz s institucionalne na skrb u zajednici** - ugovoreni
+    iznos ITU bespovratnih sredstava: 13.311.647,01 kn
+
 Tablica br. 5 u nastavku prikazuje kronološki prikaz objavljenih ITU poziva u okviru OPULJP
 po specifičnim ciljevima i alociranim, ugovorenim i neiskorištenim vrijednostima:
 
 Tablica br. 5 Popis objavljenih Poziva i ugovorenih iznosa za projekte UAS-a a u okviru OPULJP
 2014.-2020.
 
+```
 R.
 br
+```
+```
 ITU
 specifični
 cilj
+```
+```
 Naziv projekta/sheme
+```
+```
 ERDF/KF
 alokacija (HRK)
 Urbana
 aglomeracija
 Split
+```
+```
 Ugovoreni
 iznos (HRK)
 Urbana
 aglomeracija
 Split
+```
+```
 Neiskorištena
 alokacija
 (razlika
 objavljenog i
 ugovorenog
 iznosa)
+```
+```
 Datum
 objave
 Poziva
-SC 9i1
+```
+1. SC 9i1
+
+```
 Aktivno uključivanje i poboljšanje
 zapošljivosti te razvoj inovativnih
 socijalnih usluga za ranjive skupine
@@ -8378,82 +10931,122 @@ unutar 7 urbanih aglomeracija/
 područja Osijek, Pula, Rijeka,
 Slavonski Brod, Split, Zadar i
 Zagreb)
+```
+```
 13.000.006,61 11.508.962,80 1.491.043,81 18.12.2019.
-SC 9iv2
+```
+2. SC 9iv2
+
+```
 Unaprjeđenje postojećih i širenje
 usluga izvaninstitucionalne skrbi na
 području odabranih urbanih
 aglomeracija/područja Osijek, Pula,
 Rijeka, Slavonski Brod, Split, Zadar i
 Zagreb)
+```
+```
 19.504.180,00 13.311.647,01 6.192.532,99 31.07.2020.
+```
+```
 UKUPNO 32.504.186,61 24.820.609,81 7.683.576,80
-Najznačajniji udio u iznosu preostale alokacije odnosi se na poziv Unaprjeđenje postojećih i
+```
+Najznačajniji udio u iznosu preostale alokacije odnosi se na poziv **Unaprjeđenje postojećih i
 širenje usluga izvaninstitucionalne skrbi na području odabranih urbanih
-aglomeracija/područja Osijek, Pula, Rijeka, Slavonski Brod, Split, Zadar i Zagreb) gdje
+aglomeracija/područja Osijek, Pula, Rijeka,** Slavonski Brod, Split, Zadar i Zagreb) gdje
 je neiskorišteno ostalo 6.192.532,99 kn budući da je poziv otvoren do 31.07 2021. godine.
 
 Ukupno je do danas potpisano 12 ugovora o dodjeli bespovratnih sredstava, kako je prikazano
 u Tablici br. 6:
 
+
 Tablica br. 6 Popis potpisanih ugovora ITU projekata UAS-a u okviru OPULJP 2014.-2020.
 
+```
 R.br
+```
 . NAZIV PROJEKTA^ Korisnik^
 
+```
 Ukupni
 prihvatljivi
 troškovi
+```
+```
 Ukupno
 odobrena
 bespovratna
 sredstva
+```
+```
 Datum
 Odluke
+```
+```
 %
 sufinanciranja
-Zajedno za djecu Sinja Dječji vrtić Bili cvitak Sinj 2.296.008,40 kn 2.296.008,40 kn 11.02.2021. 100,00%
+```
+1. Zajedno za djecu Sinja Dječji vrtić Bili cvitak Sinj 2.296.008,40 kn 2.296.008,40 kn 11.02.2021. 100,00%
 
-SVI ZA LEĆEVICU (^) LećevicaOpćina 2.473.050,00 kn 2.473.050,00 kn 11.02.2021. 100,00%
-
+2. SVI ZA LEĆEVICU (^) LećevicaOpćina 2.473.050,00 kn 2.473.050,00 kn 11.02.2021. 100,00%
+3.
 Grad Trogir-inovativno-
 edukacijski centar društvene
 inkluzije urbane
 aglomeracije Split
 Grad Trogir 2.427.658,80 kn 2.427.658,80 kn 11.02.2021. 100,00%
 
-Laboratorij kreativnosti Općina Muć 1.936.467,60 kn 1.936.467,60 kn 11.02.2021. 100,00%
+4. Laboratorij kreativnosti Općina Muć 1.936.467,60 kn 1.936.467,60 kn 11.02.2021. 100,00%
+
+```
 5.
+```
+```
 Aktiviraj se i kreni!Razvoj
 programa za aktivno
 uključivanje i povećanje
 zapošljivosti mladih i starijih
 osoba na području UAS-a
+```
+```
 Centar za
 kulturu i
 cjeloživotno
 obrazovanje
 Zlatna vrata
+```
+```
 2.375.778,00 kn 2.375.778,00 kn 11.02.2021. 100,00%
-Pijat dobrote (^) DugopoljeOpćina 1.607.905,90 kn 1.607.905,90 kn 30.04.2021. 100,00%
-Korak po korak (^) PodstranaOpćina 1.997.520,00 kn 1.997.520,00 kn 30.04.2021. 100,00%
-Zajedno smo snažniji (^) "Anđeli"Udruga 1.908.512,76 kn 1.908.512,76 kn 30.04.2021. 100,00%
-(^) učinkovita podrška obiteljiDječji osmijeh -^ rana i Udruga "Toms" 1.967.516,04 kn 1.967.516,04 kn 30.04.2021. 100,00%
+```
+6. Pijat dobrote (^) DugopoljeOpćina 1.607.905,90 kn 1.607.905,90 kn 30.04.2021. 100,00%
+7. Korak po korak (^) PodstranaOpćina 1.997.520,00 kn 1.997.520,00 kn 30.04.2021. 100,00%
+8. Zajedno smo snažniji (^) "Anđeli"Udruga 1.908.512,76 kn 1.908.512,76 kn 30.04.2021. 100,00%
+9. (^) učinkovita podrška obiteljiDječji osmijeh -^ rana i Udruga "Toms" 1.967.516,04 kn 1.967.516,04 kn 30.04.2021. 100,00%
+10.
 Širenje usluga
 izvaninstitucionalne skrbi -
 Grad Kaštela
 Grad Kaštela 1.997.520,00 kn 1.997.520,00 kn 30.04.2021. 100,00%
 
-Centar za socijalnu inkluzijuTrogir Grad Trogir 1.999.016,71 kn 1.999.016,71 kn 30.04.2021. 100,00%
-O.P.S.! Unaprjeđenje, podrška, savjetovanje
+11. Centar za socijalnu inkluzijuTrogir Grad Trogir 1.999.016,71 kn 1.999.016,71 kn 30.04.2021. 100,00%
+12. O.P.S.! Unaprjeđenje, podrška, savjetovanje
+
+```
 Caritas
 Splitsko-
 makarske
 nadbiskupije
+```
+```
 1.833.655,60 kn 1.833.655,60 kn 30.04.2021. 100,00%
+```
+```
 UKUPNO^ 24.820.609,81^ 24.820.609,81^ 100,00%^
-3.5. Aktivnosti u tijeku
- Provedba projekta KK.10.1.1.02.0005 Grad Split - Tehnička pomoć ITU PT
+```
+
+#### 3.5. Aktivnosti u tijeku
+
+ Provedba projekta KK.10.1.1.02.0005 Grad Split - **Tehnička pomoć ITU PT**
 
 Kako je prethodno navedeno, Grad Split je u listopadu 2017. godine potpisao Ugovor o dodjeli
 bespovratnih sredstava s Ministarstvom regionalnog razvoja i fondova Europske unije i
@@ -8483,11 +11076,11 @@ zaprimljeni Izvještaj o provjeri na licu mjesta sukladno kojima nisu pronađeni
 u provedbi projekta.
 
  Nabava intelektualne usluge za organizaciju internih (in house) edukacija s ciljem
-jačanja kapaciteta korisnika ESI fondova Urbane aglomeracije Split
+**jačanja kapaciteta korisnika ESI fondova Urbane aglomeracije Split**
 
 U sklopu provedbe projekta KK.10.1.1.02.0005 Grad Split-tehnička pomoć ITU PT u lipnju
 
-godine započeo je ciklus besplatnih ITU in-house radionica namijenjenih jačanju
+2020. godine započeo je ciklus besplatnih ITU in-house radionica namijenjenih jačanju
 kapaciteta korisnika ESI fondova Urbane aglomeracije Split, odnosno zaposlenika svih
 Gradova i Općina Urbane aglomeracije Split kao prijavitelja i korisnika u pripremi i provedbi
 projekata financiranih iz EU fondova, uključujući i Promet d.o.o. i KBC Split koji su nositelji ITU
@@ -8497,10 +11090,12 @@ interes od 340 sudionika radionica. S odabranom tvrtkom Projekt jednako razvoj d
 ugovoren je Dodatak br.1 ugovoru sukladno kojem je produžen ugovoreni rok pružanja usluge
 za dodatnih 6 mjeseci za održavanje preostale neodržane radionice o izradi studije izvodljivosti
 i analize troškova i koristi.
-- Preostala financijska obveza po Ugovoru i Dodatku br.1. Ugovora iznosi 31.433,74 kn
-   s PDV-om.
- Vrednovanje tijekom provedbe „Strategije razvoja Urb ane aglomeracije Split za
-razdoblje do kraja 2020. godine“
+    - Preostala financijska obveza po Ugovoru i Dodatku br.1. Ugovora iznosi 31.433,74 kn
+       s PDV-om.
+
+ Vrednovanje tijekom **provedbe „Strategije razvoja Urb** ane aglomeracije Split za
+**razdoblje do kraja 2020. godine“**
+
 
 U tijeku je postupak vrednovanja tijekom provedbe Strategije razvoja Urbane aglomeracije
 Split za razdoblje do kraja 2020. godine, što Gradu Splitu kao središtu Urbane aglomeracije
@@ -8510,14 +11105,15 @@ ugovorena je postupkom javne nabave s odabranim ekonomski najpovoljnijim ponudit
 tvrtkom Euro ekspertiza j.d.o.o. Ugovorom predviđeni rok za završetak usluge je 09.06.2021.,
 a vrijednost ugovorene usluge iznosi 56.250,00 kuna s PDV-om.
 
-Financijska obveza po Ugovoru iznosi 56.250,00 kn s PDV-om
+- Financijska obveza po Ugovoru iznosi 56.250,00 kn s PDV-om
+
  Usluga identifikacije i ocjene zrelosti projekata/shema Urbane aglomeracije Split za
 provedbu putem ITU mehanizma u EU financijskom razdoblju 2021. - 2027.
 
 U tijeku je ugovaranje Usluge identifikacije i ocjene zrelosti projekata/shema Urbane
 aglomeracije Split za provedbu putem ITU mehanizma u EU financijskom razdoblju 2021. -
 
-s odabranim ekonomski najpovoljnijim ponuditeljem tvrtkom Urbanex d.o.o. ukupne
+2027. s odabranim ekonomski najpovoljnijim ponuditeljem tvrtkom Urbanex d.o.o. ukupne
 vrijednosti 185.000,00 kn s PDV-om, obzirom da će to biti preduvjet za nastavak korištenja
 ITU mehanizma u razdoblju 2021. – 2027. uz definiranje obuhvata Urbane aglomeracije Split
 te izrade Strategije razvoja Urbane aglomeracije Split za razdoblje do kraja 2027. godine, i
@@ -8529,6 +11125,7 @@ prilozima i provedbenim dokumentima, a koji će također biti definirani u verzi
 za uspostavu urbanih područja i izradu strategija razvoja urbanih područja za financijsko
 razdoblje 2021. – 2027 ., a za koju je završeno eSavjetovanje te je u fazi donošenja od strane
 ministrice regionalnog razvoja.
+
 Kako je najvažniji korak u pripremnim aktivnostima za korištenje ITU mehanizma u razdoblju
 2021.-2027. pripremanje zalihe integriranih teritorijalnih projekata, odnosno ITU Baze
 projekata kroz aktivnosti identifikacije i ocjene zrelosti projekata i grant shema na području
@@ -8551,7 +11148,9 @@ odabiru, KLASA: 330-05/21-01/295, URBROJ: 2181/01- 09 - 3 - 21 - 7 od 18. svibnj
 godine, a nakon čega će uslijediti obveza potpisivanja Ugovora s odabranim ekonomski
 najpovoljnijim ponuditeljem.
 
-Financijska obveza po Ugovoru će iznositi 185.000,00 kn s PDV-om
+- _Financijska obveza po Ugovoru će iznositi_ 185.000,00 kn s PDV-om
+
+
 3.4. Preuzete / nepodmirene obveze
 
 Sukladno prethodno navedenom, u idućem razdoblju se očekuju sljedeće financijske obveze
@@ -8562,29 +11161,51 @@ na poziciji A901001 za stavku br.2:
 Tablica br. 7 Popis preuzetih a nepodmirenih obveza Odsjeka za provedbu ITU mehanizma na
 dan 24.05.2021.
 
+```
 R.br. Dobavljač
+```
+```
 Iznos obveze
 s PDV-om
+```
+```
 Očekivano
 nastajanje
 obveze
+```
+```
 Usluga
-Projekt jednako razvoj d.o.o. 31.433,75 kn Srpanj 2021.
+```
+1. Projekt jednako razvoj d.o.o. 31.433,75 kn Srpanj 2021.
+
+```
 Održavanje posljednje in house radionice
 na temu: Izrada studije izvodljivosti i
 analize troškova i koristi
-Euro ekspertiza j.d.o.o. 56.250,00 kn Lipanj 2021.
+```
+2. Euro ekspertiza j.d.o.o. 56.250,00 kn Lipanj 2021.
+
+```
 Vrednovanja tijekom provedbe Strategije
 razvoja Urbane aglomeracije Split za
 razdoblje do kraja 2020. godine
-Urbanex d.o.o. 185.000,00 kn Srpanj 2022.g.
+```
+3. Urbanex d.o.o. 185.000,00 kn Srpanj 2022.g.
+
+```
 Identifikacija i ocjena zrelosti
 projekata/shema Urbane aglomeracije
 Split za provedbu putem ITU mehanizma
 u EU financijskom razdoblju 2021. - 2027.
+```
+```
 UKUPNO 272.683,75 kn
-4. ODSJEK ZA SMART CITY I DIGITALIZACIJU
-4.1. Aktivnosti
+```
+
+###### 4. ODSJEK ZA SMART CITY I DIGITALIZACIJU
+
+#### 4.1. Aktivnosti
+
 Grad Split prati svjetske trendove u razvoju pametnih gradova, te je posvećen razvoju rješenja
 koja će unaprijediti efikasnost gradske uprave kao i poboljšati život građanima. S time ciljem
 Odsjek za Smart City i digitalizaciju provodi brojne projekte u sektoru razvoja pametnog grada,
@@ -8602,7 +11223,7 @@ transformaciju i Intelligent Cities Challenge (ICC), unutar kojih se provode bro
 promociji pametnih rješenja i digitalizacije Grada Splita, Fuel cells and hydrogen 2 joint
 undertaking (FCH 2 JU).
 
- Urbana agenda EU – Partnerstvo za digitalnu tranziciju
+ Urbana agenda EU **–** Partnerstvo za digitalnu tranziciju
 
 Grad Split, Odsjek za Smart City te pročelnica Službe za međunarodne i EU projekte već dvije
 godine sudjeluju u partnerstvu za Digitalnu tranziciju u okviru izrade Urbane agende za EU
@@ -8630,6 +11251,7 @@ nad njima.
 Tijekom proteklog razdoblja Partneri na pripremi ovog dokumenta redovno su održavali on-line
 sastanke, radili na poboljšanju dokumenta te ga predstavili na brojnim forumima, uključujući
 ICC inicijativu, Udruzi gradova Hrvatske, te se planira prevođenje dokumenta na hrvatski jezik.
+
 
  Izazov inteligentnih gradova, Intelligent Cities Challenge
 
@@ -8681,9 +11303,15 @@ U slučaju da se Grad odluči za implementaciju ESCO PPP rješenja, očekuje se 
 tehnička pomoć EBRD-a u pripremi natječajne dokumentacije kao i pomoć u provedbi drugih
 natječaja aktivnosti.
 
+
+```
  Urbana regeneracija Splita – razvoj Kopilice i I stočne obale
+```
+```
 U sklopu projekta „SPLIT UNITED“ – urbana regeneracija Splita – razvoj Kopilice i Istočne
 obale u sklopu Odsjeka za Smart City i digitalizaciju provedene su sljedeće aktivnosti:
+```
+```
  Odsjeku, kao Naručitelju, a nakon održanih sastanaka sa Izvođačem IRMO kada su
 upućeni komentari za poboljšanje studije, je isporučena finalna verzija poglavlja
 Masterstudije o razvoju Splita ili Urbane aglomeracije;
@@ -8691,39 +11319,56 @@ Masterstudije o razvoju Splita ili Urbane aglomeracije;
 studija urbane regeneracije Splita – razvoj Kopilice i Istočne obale;
  Odsjek je ugovorio uslugu brandiranja projekta „Urbana regeneracija Splita – razvoj
 Kopilice i Istočne obale“.
+```
+```
  Realizacija punionica za elektromotorna vozila
+```
+```
 Izgradnja javno dostupne mreže punionica električnih vozila u interesu je općeg gospodarskog
 i socijalnog napretka. Rast prometnih sustava zasnovanih na korištenju neobnovljivih izvora
 (prostora i energije) doveo je do problema zagušenja i onečišćenja okoliša, te ovisnosti o
 korištenju nafte i naftnih derivata. Kako bi se s jedne strane omogućio daljnji razvoj prometa,
 a s druge strane smanjio negativni utjecaj prometa na okoliš i ovisnost o nafti, potrebno je
 razviti preduvjete za korištenje alternativnih energenata u prometu.
+```
+```
 Na tragu tih činjenica, Grad Split je kroz Odsjek za Smart City i digitalizaciju, a temeljem
 „Sporazuma o suradnji na razvojnom projektu HEP-a za izgradnju infrastrukture za punjenje
 elektromotornih vozila u gradu Splitu“ pokrenuo izgradnju mreže javno dostupne infrastrukture
 za punjenje elektromotornih cestovnih vozila.
+```
+```
 E-mobilnost je bitan element energetske strategije Europske Unije, a samim time i važan dio
 nacionalnog okvira energetske politike. Direktivom EU 2014/94 o uspostavi infrastrukture za
 alternativna goriva stvoreni su preduvjeti za donošenje mjera razvoja korištenja čiste energije
 u prometu u zemljama Europske Unije. Ovom aktivnosti se omogućava međugradska vožnja
 električnim automobilima, stimulira prelazak na alternativne pogonske energente za osobna
 vozila te se ide ukorak s energetskom strategijom Europske Unije.
+```
+```
 Uvidom u prostorno-plansku i vlasničku dokumentaciju te analitikom spojnih mogućnosti
 elektroenergetske mreže na području grada Splita prepoznate su 23 lokacije pogodne za
 realizaciju. Infrastrukturna realizacija punionica provodi se u režiji HEP d.d.. Do sada su
 realizirane 3 punionice, dok se izgradnja na preostalim lokacijama očekuje zaključno do lipnja
 2021.
- Provedba mjera ene rgetske učinkovitosti
+```
+ Provedba mjera ene **rgetske učinkovitosti**
 
+```
 Odsjek za Smart City i digitalizaciju sudjeluje u informiranju i savjetovanju građana o važnosti
 energetske učinkovitosti i obnovljivih izvora energije, te o mogućnostima korištenja
 bespovratnih sredstava za provedbu mjera energetske učinkovitosti u financiranju Europske
 unije, nacionalnih, regionalnih i lokalnih izvora sredstava.
+```
+```
 Unutar projekta nadogradnje GIS sustava Grada Splita planirana je izvedba Solarne mape
 Splita i potencijala ugradnje fotonaponskih modula, što će interaktivno olakšati proces
 informiranja i savjetovanja građana, koji će ovim putem dobiti pristup i direktan uvid u solarni
 potencijal objekta koji žele uključiti u proces energetske obnove i povećanja.
- ISGE SUSTAV
+```
+
+######  ISGE SUSTAV
+
 Informacijski sustav za gospodarenje energijom – ISGE je internetska aplikacija za nadzor i
 analizu potrošnje energije i vode u zgradama javnog sektora te predstavlja alat za sustavno
 gospodarenje energijom. Odsjek ima obvezu evidencije unosa računa za potrošnju električne
@@ -8744,10 +11389,13 @@ mjera energetske učinkovitosti. Kroz SMIV aplikaciju moguće je pratiti provedb
 energetske učinkovitosti u četiri sektora neposredne potrošnje, a to su: uslužni sektor (javni i
 komercijalni), industrija, transport, kućanstvo.
 
-4.2. Tablični prikaz projekata Odsjeka za Smart City i digitalizaciju financiranih EU sredstvima
-PROJEKTI U TIJEKU
+
+#### 4.2. Tablični prikaz projekata Odsjeka za Smart City i digitalizaciju financiranih EU sredstvima
+
+### PROJEKTI U TIJEKU
+
 R.br. (^) projektaNaziv Program (^) projektaNositelj
-Početak
+**Početak**
 provedbe
 projekta
 Trajanje
@@ -8755,7 +11403,7 @@ projekta
 Ukupna
 vrijednost
 projekta
-Budžet
+**Budžet**
 Grada Splita/
 Ukupna
 vrijednost
@@ -8803,9 +11451,11 @@ putovanja, poboljšanje učinkovitosti prijevoza i
 posljedično smanjenje emisija zagađivača (CO2).
 Kako bi poboljšao trenutnu situaciju, E-CHAIN će se
 
-PROJEKTI U TIJEKU
+
+### PROJEKTI U TIJEKU
+
 R.br. (^) projektaNaziv Program (^) projektaNositelj
-Početak
+**Početak**
 provedbe
 projekta
 Trajanje
@@ -8813,7 +11463,7 @@ projekta
 Ukupna
 vrijednost
 projekta
-Budžet
+**Budžet**
 Grada Splita/
 Ukupna
 vrijednost
@@ -8863,9 +11513,11 @@ provedbe projekta, a sve s ciljem pružanja kvalitetnije
 usluge s obzirom na dosadašnje pozitivno iskustvo u
 radu s postojećim sustavom u gradu Splitu.
 
-PROJEKTI U TIJEKU
+
+### PROJEKTI U TIJEKU
+
 R.br. (^) projektaNaziv Program (^) projektaNositelj
-Početak
+**Početak**
 provedbe
 projekta
 Trajanje
@@ -8873,7 +11525,7 @@ projekta
 Ukupna
 vrijednost
 projekta
-Budžet
+**Budžet**
 Grada Splita/
 Ukupna
 vrijednost
@@ -8926,9 +11578,11 @@ podrazumijevaju izgradnju biciklističke prometnice i
 pješačke staze u duljini 450 metara u gradu Trogiru u
 skladu s izrađenim Glavnim projektom te uspostavu i
 
-PROJEKTI U TIJEKU
+
+### PROJEKTI U TIJEKU
+
 R.br. (^) projektaNaziv Program (^) projektaNositelj
-Početak
+**Početak**
 provedbe
 projekta
 Trajanje
@@ -8936,7 +11590,7 @@ projekta
 Ukupna
 vrijednost
 projekta
-Budžet
+**Budžet**
 Grada Splita/
 Ukupna
 vrijednost
@@ -8959,9 +11613,11 @@ medijske kampanje i nabave sustava javnih bicikala.
 U idućem razdoblju čeka nas provedba javnih
 nabava.
 
-PROJEKTI U TIJEKU
+
+### PROJEKTI U TIJEKU
+
 R.br. (^) projektaNaziv Program (^) projektaNositelj
-Početak
+**Početak**
 provedbe
 projekta
 Trajanje
@@ -8969,7 +11625,7 @@ projekta
 Ukupna
 vrijednost
 projekta
-Budžet
+**Budžet**
 Grada Splita/
 Ukupna
 vrijednost
@@ -9013,25 +11669,28 @@ emisija u okoliš kao posljedica prethodnog.
 Inteligentni transportni sustav u gradu Splitu sastoji se
 od sljedećih dijelova:
 
-implementacija podsustava "Upravljanje prometom –
+- implementacija podsustava "Upravljanje prometom –
 semaforski sustav i adaptivno upravljanje prometom"
-implementacija podsustava „Video nadzor
+- implementacija podsustava „Video nadzor
 prometnog sustava“
-razvoj i implementacija mobilne aplikacije za
+- razvoj i implementacija mobilne aplikacije za
 informiranje putnika
-implementacija sustava za informiranje vozača
+- implementacija sustava za informiranje vozača
 putem izmjenjivih prometnih znakova na 2 ključne
 lokacije
-implementacija podsustava „Prioritizacija vozila
+- implementacija podsustava „Prioritizacija vozila
 javnog gradskog prijevoza i žurnih službi"
-implementacija podsustava "Sustav za praćenje
+- implementacija podsustava "Sustav za praćenje
 vremenskih uvjeta i stanja okoliša“
-uspostava i opremanje Centra za kontrolu i nadzor
+- uspostava i opremanje Centra za kontrolu i nadzor
 prometa
 Ovaj sustav u potpunosti će riješiti brojne probleme
-PROJEKTI U TIJEKU
+
+
+### PROJEKTI U TIJEKU
+
 R.br. (^) projektaNaziv Program (^) projektaNositelj
-Početak
+**Početak**
 provedbe
 projekta
 Trajanje
@@ -9039,7 +11698,7 @@ projekta
 Ukupna
 vrijednost
 projekta
-Budžet
+**Budžet**
 Grada Splita/
 Ukupna
 vrijednost
@@ -9084,9 +11743,11 @@ bicikle, taxi, pješačenje itd)
 Sustav će povezujući se sa sasvim ostalim dionicima
 znati kada je sletjelo koliko aviona s koliko putnika, ili
 
-PROJEKTI U TIJEKU
+
+### PROJEKTI U TIJEKU
+
 R.br. (^) projektaNaziv Program (^) projektaNositelj
-Početak
+**Početak**
 provedbe
 projekta
 Trajanje
@@ -9094,7 +11755,7 @@ projekta
 Ukupna
 vrijednost
 projekta
-Budžet
+**Budžet**
 Grada Splita/
 Ukupna
 vrijednost
@@ -9133,9 +11794,11 @@ policije u bivšoj zgradi „Čistoće“ u Dubrovačkoj ulici te
 će se u Gradu Splitu oformiti Odsjek za promet i
 inteligentne transportne sustave.
 
-PROJEKTI U TIJEKU
+
+### PROJEKTI U TIJEKU
+
 R.br. (^) projektaNaziv Program (^) projektaNositelj
-Početak
+**Početak**
 provedbe
 projekta
 Trajanje
@@ -9143,7 +11806,7 @@ projekta
 Ukupna
 vrijednost
 projekta
-Budžet
+**Budžet**
 Grada Splita/
 Ukupna
 vrijednost
@@ -9192,9 +11855,11 @@ Glavna aktivnost Grada Splita će biti izrada
 Energetskog pregleda i projektne dokumentacije kao
 osnove za buduću energetsku obnovu Doma mladih.
 
-PROVEDENI PROJEKTI
+
+### PROVEDENI PROJEKTI
+
 R.br. (^) projektaNaziv Program (^) projektaNositelj
-Početak
+**Početak**
 provedbe
 projekta
 Trajanje
@@ -9202,7 +11867,7 @@ projekta
 Ukupna
 vrijednost
 projekta
-Budžet Grada
+**Budžet Grada**
 Splita/
 Ukupna
 vrijednost
@@ -9222,19 +11887,19 @@ agencija za
 nove
 tehnologije,
 energiju i
-održivi
+_održivi_
 ekonomski
 razvoj
 01.02.2017. 36 mjeseci 21.016.000,00 kn 1.702.000,00 kn 1.601.892,80 kn
-Projekt je uspješno završio 31.7.2020. godine. Cilj projekta
+_Projekt je uspješno završio 31.7.2020. godine. Cilj projekta
 je bio pružiti lokalnim vlastima nova rješenja za
 implementaciju standarda "zgrada gotovo nulte potrošnje
-energije". Aktivnosti Grada Splita uključivale su izradu
-energetskih pregleda zgrada odab ranih 5 osnovnih škola
+energije". Aktivnosti Grada Splita uključivale su izradu_
+energetskih pregleda zgrada odab _ranih 5 osnovnih škola
 Grada Splita (OŠ Gripe, OŠ Bol, OŠ Visoka, OŠ Trstenik i
-OŠ Kman - Kocunar); izradu preliminarnih planova
-energetske obnove za odabrane zgrade; izračun emisija
-ugljičnog dioksida nakon energetske obnove zgrada i razvoj
+OŠ Kman_ - Kocunar); izradu preliminarnih planova
+_energetske obnove za odabrane zgrade; izračun emisija
+ugljičnog dioksida nakon energetske obnove zgrada i razvoj_
 modela energetskih usluga i sheme financiranja.
 2 FEEDSCHOOLS Interreg Central Europe
 Agenzia
@@ -9246,20 +11911,22 @@ sviluppo
 economico
 sostenibile
 01.09.2017. 36 mjeseci 16.465.000,30 kn 1.332.000,00 kn 1.247.832,40 kn
-Projekt je uspješno završio 30.11.2020. godine. Cilj projekta
+Projekt je _uspješno završio 30.11.2020. godine. Cilj projekta
 je bio razvoj tehničkih i financijskih rješenja za provođenje
 aktivnosti renovacije mediteranskih škola i svođenje istih na
 razinu gotovo nulte potrošnje energije. Aktivnosti Grada
-Splita uključivale su iz radu energetskih pregleda zgrada 8
-izabranih osnovnih škola grada Splita (OŠ Dobri, OŠ
+Splita uključivale su iz_ radu energetskih pregleda zgrada 8
+_izabranih osnovnih škola grada Splita (OŠ Dobri, OŠ
 Pojišan, OŠ Meje, OŠ Split 3, OŠ Spinut, OŠ Brda, OŠ
 Ravne Njive, OŠ Žrnovnica); izradu preliminarnih planova
 obnove reprezentativnih školskih objekata; izračun emisija
-ugljičnog dioksida nakon energetske obnove zgrada i razvoj
+ugljičnog dioksida nakon energetske obnove zgrada i razvoj_
 modela energetskih usluga i sheme financiranja.
+
 
 3
 
+```
 Freight TAILS -
 delivering
 Tailored
@@ -9267,64 +11934,71 @@ Approaches for
 Innovative
 Logistic
 Solutions
+```
+```
 URBACT III
+```
+```
 Westminster,
 United
 Kingdom
+```
 15.9.2015. (^) mjeseca^24 5.417.996,48 kn 422.662,50 kn 359.263,13 kn
-Projekt je uspješno završio 31.5.2018. godine. Cilj projekta
+_Projekt je uspješno završio 31.5.2018. godine. Cilj projekta
 je razvijanje prilagođene politike upravljanja prijevozom
-tereta potičući urbani teretni promet s niskim udjelom ugljika.
-Aktivnosti Grada Splita uključuju izradu Integriranog
+tereta potičući urbani teretni promet s_ niskim udjelom ugljika.
+_Aktivnosti Grada Splita uključuju izradu Integriranog_
 Akcijskog plana teretnog prijevoza u gradu Splitu i formiranje
-URBACT lokalne grupe (ULG) čija je najvažnija zadaća
-jačanje kapaciteta lokalnih dionika u razvoju efikasnih
+_URBACT lokalne grupe (ULG) čija je najvažnija zadaća
+jačanje kapaciteta lokalnih dionika u razvoju efikasnih_
 politika te aktivno sudjelovanje u izradi Lokalnog akcijskog
 plana.
 GLAVNI REZULTATI PROJEKTA:
-1) Ugrađen senzorni sustava opskrbnih punktova u gradu
+_1) Ugrađen senzorni sustava opskrbnih punktova u gradu_
 Splitu
-Ugrađeno je 10 senzora za detekciju prisutnosti vozila na 10
+_Ugrađeno je 10 senzora za detekciju prisutnosti vozila na 10_
 najfrekventnijih opskrbnih mjesta na tri lokacije u Gradu
-Splitu, Zagrebačka ulica, Park Josipa Jurja Strossmayera i
-Ulica bana Josipa Jelačića. Ugrađeni senzori će biti vidljivi
+_Splitu, Zagrebačka ulica, Park Josipa Jurja Strossmayera i
+Ulica bana Josipa Jelačića. Ugrađeni senzori će biti vidljivi_
 preko aplikacije Split parking d.o.o. Ugradnju i
 _implementaciju senzora je izvršio Ericsson Nikola Tesla d.d.
-
-Izrađen_ Integrirani akcijski plan teretnog prometa
-Integrirani akcijski plan grada Splita ključni je planski
+2) Izrađen_ Integrirani akcijski plan teretnog prometa
+_Integrirani akcijski plan grada Splita ključni je planski
 dokument sa ciljem realizacije održivih rješenja u teretnom
-prometu, te čiji je cilj izrade doprinos ciljevima integriranog
+prometu, te čiji je cilj izrade doprinos ciljevima integriranog_
 urbanog razvoja postavljenih unutar strategije Europa 2020.
-Integrirani akcijski plan sadrži analizu razvojnog i prometnog
+_Integrirani akcijski plan sadrži analizu razvojnog i prometnog
 konteksta Splita, te nacionalnog okvira korištenja europskih
-strukturnih i investicijskih fondova raspoloživih za korištenje
+strukturnih i investicijskih fondova raspoloživih za korištenje_
 u Gradu Splitu. Sagledana je analiza problema te su kroz
-SWOT analizu i opcije rješenja navedeni glavni razvojni
+_SWOT analizu i opcije rješenja navedeni glavni razvojni_
 prioriteti teretnog prometa Grada Splita.
-Osnivanje URBACT lokalne grupe u listopadu 2016.
+3) Osnivanje URBACT lokalne grupe u listopadu 2016.
 godine
-URBACT lokalnu grupu čine predstavnici Ekonomskog
+_URBACT lokalnu grupu čine predstavnici Ekonomskog_
 fakulteta u Splitu, Hrvatske-gospodarske komore, Javne
-ustanove za koordinaciju i razvoj Splitsko – dalmatinske
-županije RERA SD, Splitsko - dalmatinske županije, Lučke
+ustanove za koordinaciju i razvoj Splitsko _–_ dalmatinske
+_županije RERA SD, Splitsko_ - _dalmatinske županije, Lučke
 uprave Split, Udruženja obrtnika Split i Promet Split d.o.o.
 Održano je 8 ULG sastanaka na kojima su zaključene
-buduće smjernice djelovanja u smislu osiguravanja
-integriranog i participativnog pristupa u pružanju informacija
-vezanih uz aktivnosti/projekte predviđene IAP - om, poticanje
-uključivanja svih relevantnih dionika koji mogu pomoći
-postizanju održive gradske mobilnos ti, uspostavljanje
-učinkovitog sustava praćenja i evaluacije predloženih akcija,
+buduće_ smjernice djelovanja u smislu osiguravanja
+_integriranog i participativnog pristupa u pružanju informacija
+vezanih uz aktivnosti/projekte predviđene IAP_ - om, poticanje
+_uključivanja svih relevantnih dionika koji mogu pomoći
+postizanju održive gradske mobilnos_ ti, uspostavljanje
+_učinkovitog sustava praćenja i evaluacije predloženih akcija,
 poticanje osnivanja Vijeća za teretni promet nakon
-prestanka podrške URBACT mreže.
-Uspostavljeno europsko partnerstvo i ostvarena razmjena
+prestanka podrške URBACT mreže._
+4) Uspostavljeno europsko partnerstvo i ostvarena razmjena
 iskustava s gradovima partnerima kroz sastanke:
-5) Provedeno istraživanje gradskog teretnog prometa u
+_5) Provedeno istraživanje gradskog teretnog prometa u_
 gradu Splitu
-Cilj je bio prikupiti nove statističke podatke i proširiti znanje o
+_Cilj je bio prikupiti nove statističke podatke i proširiti znanje o_
 karakteristikama gradskog teretnog prometa i iskoristiti nove
 podatke kako bi se identificirale razvojne potrebe i potencijali
+
+
+```
 vezani uz teretni promet. Ispitano je 30 različitih poduzeća i
 institucija.
 6) Proveden Case study: „Smart Split parking”
@@ -9342,18 +12016,28 @@ fazi („last mile delivery”). Cilj: smanjiti promet u blizini
 povijesne jezgre, bolja organizacija dostavnog sustava,
 smanjenje onečišćenja zraka (ekološki prihvatljiv način
 dostave).
+```
 4
 
+```
 CitiEnGov -
 Cities for a Good
 Energy
 Governance
+```
+```
 Interreg Central
 Europe
+```
+```
 SIPRO
 Development
 Agency, Italy
+```
+```
 1.6.2016. 36 mjeseci 16.574.549,93 kn 1.522.706,18 kn 1.294.300,20 kn
+```
+```
 Projekt je uspješno završio 31.5.2019. godine. Cilj projekta
 je stvaranje gradova i regija u srednjoj Europi s niskim
 emisijama ugljika u atmosferu i specifičnim ciljem izrade
@@ -9366,8 +12050,10 @@ energetske učinkovitosti za 2017. - 2019. i tri Godišnja plana
 energetske učinkovitosti Grada Splita); provođenje edukacija
 za građane i promociju energetske učinkovitosti i obnovljivih
 izvora energije kao faktora borbe protiv klimatskih promjena.
+```
 5
 
+```
 REMEDIO -
 REgenerating
 mixed-use MED
@@ -9378,14 +12064,22 @@ traffic through
 Innovative low
 carbon mobility
 sOlutions
+```
+```
 Interreg
 Mediterranean
+```
+```
 Environmental
 Protection
 Agency of
 Veneto
 Region
+```
+```
 1.11.2016. 36 mjeseci 16.616.343,75 kn 2.006.250,00 kn 1.705.312,50 kn
+```
+```
 Projekt je uspješno završio 30.9.2019. godine. Cilj projekta
 je bio poticanje korištenja nisko - ugljičnih transportnih
 sustava u srednje velikim mediteranskim gradovima.
@@ -9397,8 +12091,11 @@ za lokalnu implementaciju nisko- ugljičnih prometnih rješenja;
 primjenu Integriranog alata za modeliranje prometnih
 rješenja i gradskih planova uz simulacije sadašnjih i budućih
 scenarija i analizu rezultata.
+```
+
 6
 
+```
 Uvođenje
 inovativnih
 sadržaja u
@@ -9408,6 +12105,8 @@ postavljanje
 Look@
 fotostupova na
 tri lokacije
+```
+```
 Program
 sufinanciranja
 razvojnih projekata
@@ -9416,7 +12115,11 @@ području Splitsko -
 dalmatinske
 županije u 2018.
 godini
+```
+```
 Grad Split 2.8.2018. 9 mjeseci 236.250,00 kn 236.250,00 kn 80.000,00 kn
+```
+```
 Projekt je uspješno završen. Look@fotostupovi – nabava 3
 fotostupa koji se postavljaju na 3 lokacije u gradu s ciljem
 unaprjeđenja turističke ponude grada Splita kroz uvođenje
@@ -9436,8 +12139,10 @@ potrebne suglasnosti za realizaciju projekta, te je po
 realizaciji Projekta sufinancirano Gradu Splitu 80.000 kn
 regionalnog sufinanciranja sukladno natječajnoj
 dokumentaciji..
-7 „Otpad nije smeće!”
+```
+7 _„Otpad nije smeće!”_
 
+```
 Europski fond za
 regionalni razvoj;
 OP Konkurentnost i
@@ -9449,7 +12154,11 @@ aktivnosti o
 održivom
 gospodarenju
 otpadom
+```
+```
 Grad Split 02.05.2018. 20 mjeseci 2.861.524,75 kn 2.861.524,75 kn 2.325.521,78 kn
+```
+```
 Provedene su sve aktivnosti planirane projektom, a one
 uključuju: izradu 4 TV emisije, 14 radijskih emisija, izrada 3
 videa i jednog animiranog filma, održavanje radionica i
@@ -9461,17 +12170,21 @@ Grada Splita kao i 6 specijalnih tribina. Također, tijekom
 četiri mjeseca građanima su dostavljeni informativni leci o
 gospodarenju otpadom, a na svim tribinama su dijeljene
 brošure i platnene vrećice. Projekt je bio produljen do ožujka
-2020. godine, te je uspješno završio.
+```
+_2020. godine, te je uspješno završio._
 
-4.3. Tablični prikaz projekata Odsjeka za Smart City i digitalizaciju financiranih proračunskim sredstvima
-PROJEKTI U PROVEDBI
+
+#### 4.3. Tablični prikaz projekata Odsjeka za Smart City i digitalizaciju financiranih proračunskim sredstvima
+
+###### PROJEKTI U PROVEDBI
+
 R.br. Naziv projekta (^) projektaNositelj
-Početak
+**Početak**
 provedbe
 projekta
 Trajanje
 projekta
-Budžet Grada Splita/
+**Budžet Grada Splita/**
 Ukupna vrijednost
 projekta za Grad
 Split
@@ -9484,8 +12197,7 @@ transformacija
 usluga i servisa
 Grad Split 1.2.2020.
 10 mjeseci
-
-36
++ 36
 mjeseci
 6.875.000,00 kn
 Smart City predstavlja sinergiju tehnoloških rješenja kojima se pružaju digitalni servise s
@@ -9518,12 +12230,19 @@ kroz pojedinačne ili grupne transakcije. Glavna poveznica korisničkih informac
 pojedinim vertikalama sustava jest OIB ili jedinstveni korisnički kod ako se radi o
 inozemnom državljaninu. Provedba Ugovora za sve gore navedene sastavnice će trajati tri
 (3) godine.
+
+
 2
 
+```
 Nadogradnja
 geoinformacijskog
 sustava (GIS)
+```
+```
 Grad Split 21.5.2021. 36 mjeseci 4.423.059,75 kn
+```
+```
 U suradnji s Odsjekom za kontroling, poslovne procese i informatiku pokrenuta je nabava i
 potpisan Ugovor za uslugu nadogradnje postojećeg geoinformacijskog sustava i uslugu
 implementacije integriranog GIS sustava (programskih rješenja) za informatizaciju
@@ -9544,8 +12263,10 @@ specijaliziranog javnog web portala omogućiti svim građanima besplatan pristup
 elementarne funkcionalnosti GIS-a, dok će strateškim partnerima (tele operateri,
 elektrodistributeri, komunalna društva i tvrtke) bit omogućen pristup svim
 funkcionalnostima putem korisničkog imena i lozinke.
+```
 3 Smart City Strategija Grad Split 22.5.2020. 31.12.2021. 248.750,00 kn
 
+```
 Sukladno smjernicama i pozivu Europske komisije i parlamenta na klimatski neutralnu
 Europu do 2050. i Održivu Europu do 2030. , Grad Split planira svoje buduće korake
 razvoja do 2030. godine kroz Strategiju razvoja grada Splita do 2030. godine, te kroz
@@ -9565,24 +12286,29 @@ strategije na način koji će pomoći da se razviju osnovni ciljevi i inicijativ
 „Smart City-a“, a koje su provjereno potrebne građanima i upravi, te izvedive u financijskim
 i operativnim okolnostima u kojem grad funkcionira. Strategija razvoja pametnog grada
 Splita - Split Smart City do 2030. godine mora sadržavati slijedeće komponente:
-Uvodna razmatranja; predmet i metodologija
-Strateški okviri na međunarodnoj i nacionalnoj razini
-Analiza postojećeg stanja u ključnim razvojnim Smart područjima
-SWOT analiza procesa implementacije koncepta pametnog grada
-Vizija, misija i strateški ciljevi pametnog grada Splita do 2030. godine – strateška
+```
+1. Uvodna razmatranja; predmet i metodologija
+2. Strateški okviri na međunarodnoj i nacionalnoj razini
+3. Analiza postojećeg stanja u ključnim razvojnim Smart područjima
+4. SWOT analiza procesa implementacije koncepta pametnog grada
+5. Vizija, misija i strateški ciljevi pametnog grada Splita do 2030. godine – strateška
 područja
-Prioritetne mjere i aktivnosti za ostvarenje vizije pametnog grada te nositelji prioritetnih
-mjera i aktivnosti
-Analiza mogućnosti financiranja
-Preporuke za daljnje usklađivanje s ostalim strateškim i planskim dokumentima u izradi i
-uključivanje u programiranje EU fondova za razdoblje 2021. – 2027.
-Izrada provedbenog i vremenskog okvira implementacije
-Ključni pokazatelji uspješnosti i izrada okvira praćenja ključnih pokazatelja uspješnosti
-provedbe mjera
-Zaključak i preporuke
-4 Smart City komunalne usluge-^ javne i Grad Split 1.10.2018. (^) proračunusukladno 1.262.500,00 kn
+6. Prioritetne mjere i aktivnosti za ostvarenje vizije pametnog grada te nositelji prioritetnih
 
-Tehnička projektna dokumentacija - projekt Videonadzorni sustav za obavljanje poslova
+
+```
+mjera i aktivnosti
+```
+7. Analiza mogućnosti financiranja
+8. Preporuke za daljnje usklađivanje s ostalim strateškim i planskim dokumentima u izradi i
+uključivanje u programiranje EU fondova za razdoblje 2021. – 2027.
+9. Izrada provedbenog i vremenskog okvira implementacije
+10. Ključni pokazatelji uspješnosti i izrada okvira praćenja ključnih pokazatelja uspješnosti
+provedbe mjera
+11. Zaključak i preporuke
+
+4 Smart City komunalne usluge-^ javne i Grad Split 1.10.2018. (^) proračunusukladno 1.262.500,00 kn
+1) Tehnička projektna dokumentacija - projekt Videonadzorni sustav za obavljanje poslova
 privatne zaštite na javnim gradskim prometnicama. Početkom studenog 2020. Odsjek je
 pokrenuo nabavu za izradu projektne dokumentacije video nadzornog sustava za
 automatsku detekciju nepropisnog parkiranja u vidu prosudbe sigurnosti za potrebe
@@ -9603,7 +12329,7 @@ U procesu je realizacija projekta izrade dokumentacije Videonadzorni sustav za o
 poslova privatne zaštite na javnim gradskim prometnicama, a sve u svrhu implementiranja
 Smart City rješenja u prometno redarstvo.
 Nabava je provedena, izrada projektne dokumentacije u tijeku.
-Informatički sustav za potrebe komunalnog odjela Grada Splita "Gradsko oko" predviđa
+2) Informatički sustav za potrebe komunalnog odjela Grada Splita "Gradsko oko" predviđa
 rad informatičkog sustava koji je namijenjen za kreiranje, zaprimanje, prosljeđivanje i
 pregled prijava građana uočenih problema u domeni komunalnog sustava na području
 grada Splita, vrijednosti 120.000,00 kn s PDV-om za dvogodišnji period. Ugovor s
@@ -9626,17 +12352,27 @@ korisnika. Prva faza uključivala bi objavu svih isplata iz proračuna za Služb
 djelatnosti i Službu za međunarodne i EU projekte. Druga faza obuhvatila bi investicijske
 projekte Grada, treća faza komunalne izdatke, četvrta faza izdatke za obrazovanje. Peta
 faza bi objavila sve isplate prema proračunskim korisnicima Grada uključujući škole i vrtiće,
+
+
+```
 kulturne objekte, sportske objekte, vatrogasce, zdravstvenu zaštitu, te sva trgovačka
 društva u većinskom vlasništvu Grada. Građani bi putem aplikacije bili dio donošenja
 odluka u Gradu.
-PROVEDENI PROJEKTI
+```
+###### PROVEDENI PROJEKTI
+
 6
 
+```
 Sigurnosni nadzor
 nad javnim
 površinama u gradu
 Splitu
+```
+```
 Grad Split 1.5.2019. 16 mjeseci 1.747.331,82 kn
+```
+```
 Projekt je realiziran. Projektom je obuhvaćeno 14 lokacija video nadzora (IP kamere
 visoke rezolucije s mogućnošću upravljanja) i to: Trumbićeva obala (Matejuška i crka sv.
 Frane), Trg Dr. Franje Tuđmana (Hotel Bellevue), Marmontova ulica, Trg Gaje Bulata,
@@ -9657,12 +12393,15 @@ rješenja“ koji se uvelike naslanjaju na videonadzorne sustave. Daljnjom integ
 sustava s drugim prometnim/komunalnim/informacijskim sustavima Grada Splita te
 objedinjavanjem i stih u jednu funkcionalnu cjelinu stvara se dragocjen analitički i
 upravljački alat.
-4.4. Tablični prikaz prijavljenih projekata Odsjeka za Smart City i digitalizaciju čija se provedba očekuje
+```
+
+#### 4.4. Tablični prikaz prijavljenih projekata Odsjeka za Smart City i digitalizaciju čija se provedba očekuje
+
 R.br. (^) projektaNaziv Program (^) projektaNositelj Prijava Trajanje projekta
 Ukupna
 vrijednost
 projekta
-Budžet
+**Budžet**
 Grada Splita/
 Ukupna
 vrijednost
@@ -9701,28 +12440,37 @@ Greece (HUFFINGTON) GREECE, Friends of the Earth Heidelberg (FOE)
 GERMANY.
 Ciljevi INNOGREEN-a su:
 
-Dizajn i provedba nekoliko eksperimenata procesa razmatranja u lokalnoj,
+1. Dizajn i provedba nekoliko eksperimenata procesa razmatranja u lokalnoj,
 regionalnoj, nacionalnoj, europskoj i međunarodnoj razini jačajući osjećaj
 vlasništva građana.
-Poboljšanje razumijevanja građana integracijom inovativnih alata i rješenja
+2. Poboljšanje razumijevanja građana integracijom inovativnih alata i rješenja
 koja doprinose europskim ciljevima Green Deal-a.
-Obuhvat cijelog spektra Green Deal pitanja koja ih povezuju s budućim
+3. Obuhvat cijelog spektra Green Deal pitanja koja ih povezuju s budućim
 Horizon programom i europskim misijama i ciljevima održivog razvoja.
-Povećati uključenost građana u stvaranju i provedbi tranzicije prema
+4. Povećati uključenost građana u stvaranju i provedbi tranzicije prema
 transformaciji ponašanja kroz inovativne metode.
-Stvaranje održivog puta za postupak vijećanja kao inkluzivnog alata
+5. Stvaranje održivog puta za postupak vijećanja kao inkluzivnog alata
 sukreiranja politika s različitim ciljnim skupinama i razinama primjene.
+
+
 2
 
+```
 RU:RBAN
 Transfer
 Networks
 Second
 Wave
+```
+```
 URBACT
 III
+```
+```
 CITY OF
 ROME 29.4.2021.^ 18 mjeseci^ 3.928.950,00 kn^ 625.200,00 kn^ 531.420,00 kn^
+```
+```
 Ova mreža prijenosa temelji se na dobroj praksi "Modela upravljanja urbanim
 vrtovima u Rimu", kako bi se prebacili u gradove EU koji su geografski udaljeni
 jedni od drugih kako bi se osigurala razmjena iskustava kako bi se ojačali
@@ -9744,7 +12492,10 @@ prehrane i socijalizacije, organizacije mladih, seniora i umjetnika), definiranj
 zelenih zona za urbanu poljoprivredu u okviru GUP-a Splita, riješiti problem
 negativnih eksternalija iz urbane poljoprivrede (onečišćenje cesta, preveliki
 broj kukaca i sl.)
-5. SAŽETAK
+```
+
+###### 5. SAŽETAK
+
 U priloženom Primopredajnom izvještaju naveli smo opis djelatnosti Službe za međunarodne
 i EU projekte kao i opis djelatnosti tri Odsjeka Službe; Odsjek za međunarodne i EU projekte,
 Odsjek za ITU mehanizam i Odsjek za Smart City projekte i digitalizaciju. Nadalje priložili smo
@@ -9766,37 +12517,44 @@ projektima te aktivnosti koje se planiraju do kraja provedbe pojedinog projekta 
 opisane u prethodno priloženim tabelama. No, kao najzahtjevnije projekte izdvojila bih
 slijedeće:
 
- „Palača života / grad mijena“ – u pripremi je nabava za izradu Plana upravljanja,
+ **„Palača života / grad mijena“** – u pripremi je nabava za izradu Plana upravljanja,
 Objavljena je javna nabava za usluge izrade projektno-tehničke dokumentacije i
 projektantski nadzor za JI kulu s Lukačićevom 5, u provedbi je ugovor Muzeja Grada Splita
 „Usluga uspostave stručne zbirke vezane uz Dioklecijanovu palaču i staru gradsku jezgru“.
 Ostale planirane aktivnosti navedene su u tabeli, a završetak projekta se očekuje u lipnju
 
-g.
- „Marjan 2020 - Brdo prošlosti, oaza budućnosti“ – većina provedenih aktivnosti je
+2023. g.
+
+ **„Marjan 2020** - **Brdo prošlosti, oaza budućnosti“** – većina provedenih aktivnosti je
 detaljno opisana u tabeli projekata, a kao najzahtjevniju izdvajam obnovu promatračnice
 na Sedlu, nabava je provedena, pripremne aktivnosti će se provoditi u radionici Izvođača,
 no obnova može krenuti tek nakon protupožarne sezone, 1. Listopada 2021., uz vrlo strogi
 nadzor, što može uzrokovati kašnjenje u provedbi. Projekt se planira završiti u prosincu
 2021., no uz koordinaciju sa MRRFEU, ukoliko bude potrebno, zatražit će se produženje.
 
- „Tehnološki park Split – Dračevac“ , ugovori temeljem dva Specifična cilja OPKK, u
+ **„Tehnološki park Split – Dračevac“** , ugovori temeljem dva Specifična cilja OPKK, u
 
+```
 ukupnom iznosu bespovratnih sredstava 105 miliona kuna, dok je procijenjena ukupna
 vrijednost projekta 164.754,315,70 Kuna, su potpisani u travnju 2021., predviđeno trajanje
 projekta je do prosinca 2023., objavljena je nabava za projektiranje i građenje (po žutoj
 FIDIC knjizi), te se ugovaranje Izvođača očekuje u rujnu 2021. Završetak projekta se
 očekuje u prosincu 2023. Godine
- „Biraj biciklu!“ I TU – URBANA MOBILNOST – Razvoj sustava javnih bicikala na
+```
+ **„Biraj biciklu!“ I** TU **–** URBANA MOBILNOST – Razvoj sustava javnih bicikala na
 
+```
 području Urbane aglomeracije Split; u pripremi je nabava sustava javnih bicikli za 7
 gradova i općina Urbane aglomeracije Split“ kao i nabava izrade analitičke podloge
 integriranog sustava biciklističkih prometnica UAS-a.
- „Uvođenje inteligentnih transportnih sustava na funkcionalnom
-prometnom području grada Splita“ – projekt ukupne vrijednosti koji predstavlja
+```
+ **„Uvođenje inteligentnih transportnih sustava na funkcionalnom
+prometnom području grada Splita“** – projekt ukupne vrijednosti koji predstavlja
 nadgradnju klasičnog sustava prometa koji će na funkcionalnom prometnom području
 grada Splita doprinijeti stvaranju učinkovitijeg prometnog sustava. Ugovor sa
 
+
+```
 Ministarstvom mora, prometa i infrastrukture (MMPI) potpisan je u travnju 2021. te je MMPI
 angažirao firmu Ernst & Young da za Grad Split izradi dokumentaciju za nadmetanje
 („Zahtjevi naručitelja“) za izbor Izvoditelja projektiranja i izvođenja sveukupnog IT sustava
@@ -9808,8 +12566,13 @@ nacionalnog zakonodavstva. Priprema dokumentacije za nadmetanje će biti vrlo za
 proces jer koncept uvođenja inteligentnih transportnih sustava nije često primjenjivan u
 Republici Hrvatskoj za implementaciju prometnih rješenja. Projekt se treba provesti do
 kraja 2023. Godine te predstavlja vrlo zahtjevan zadatak
+```
+```
 5.1. Ostale planirane aktivnosti
+```
+```
  Priprema gradskih projekata za EU financijsko razdoblje 2021. – 2027.
+```
 Kako je na nacionalnom nivou u tijeku planiranje operativnih programa za financijsku
 perspektivu 2021 – 2027. kao i ostalih izvora EU financiranja, pročelnica Službe kao i pojedini
 službenici učestvuju kroz radne grupe u procesu planiranja na lokalnom i nacionalnom nivou.
@@ -9830,17 +12593,19 @@ projekata županijske razvojne agencije RERA – regionalnog koordinatora.
 Nadalje u suradnji sa RAST d.o.o., uz prikupljanje podataka za projekte koji se unose u Bazu
 projekata, Služba priprema slijedeće strateške projekte:
 
-Nastavak pripreme strategije „Split – Pametan grad do 2030.
-Nastava sudjelovanja u izradi Strategije razvoja grada Splita do 2030. Godine
-Obnova stadiona „Poljud“ temeljem dokumentacije koju je Služba pripremila u okviru EU
-projekta „Split, mjesto dodira sporta i kulture“
-Dom mladih kao nastavak aktivnosti Službe na financiranju pojedinih prostora Doma
-mladih; obnove prostora „Razred“ te WiFi4EU vouchera kojim je osigurana pokrivenost
-bežičnim Internetom samog Doma i okolne infrastrukture
+- Nastavak pripreme strategije „Split – Pametan grad do 2030.
+- Nastava sudjelovanja u izradi Strategije razvoja grada Splita do 2030. Godine
+- Obnova stadiona „Poljud“ temeljem dokumentacije koju je Služba pripremila u okviru EU
+    projekta „Split, mjesto dodira sporta i kulture“
+- Dom mladih kao nastavak aktivnosti Službe na financiranju pojedinih prostora Doma
+    mladih; obnove prostora „Razred“ te WiFi4EU vouchera kojim je osigurana pokrivenost
+    bežičnim Internetom samog Doma i okolne infrastrukture
+
 Zaključno, Služba za međunarodne i EU projekte je kroz uspješnu provedbu brojnih projekata
 financiranih EU sredstvima kao i sredstvima proračuna Grada Splita, te uz uspješnu provedbu
 ITU mehanizma za područje Urbane aglomeracije Splita jasno istaknula uspješnost Grada
 Splita na mapi hrvatskih i europskih inicijativa te na taj način omogućila buduće učestvovanje
+
 
 u brojnim pozivima za dodjelu bespovratnih sredstava na razini Hrvatske kao i u partnerstvu
 sa vodećim EU gradovima u svim budućim programskim inicijativama.
@@ -9856,17 +12621,26 @@ djelatnika za provedbu svih ovdje opisanih projekata, nastojala kontrolirati i u
 vanjskih čimbenika na uspješnu provedbu projekata te će na isti način i u budućnosti pristupati
 i provedbi EU projekata i svim ostalih aktivnosti kojima je nadležna.
 
-PROČELNICA
+###### PROČELNICA
+
+```
 Radojka Tomašević
-SLUŽBA ZA GOSPODARSTVO, OBRTNIŠTVO I TURIZAM
+```
+
+###### SLUŽBA ZA GOSPODARSTVO, OBRTNIŠTVO I TURIZAM
+
 Službe za gospodarstvo, obrtništvo i turizam obavlja poslove iz svog djelokruga utvrđenog
 Odlukom o ustrojstvu Gradske uprave Grada Splita te sukladno Pravilniku o unutarnjem redu
 i načinu rada upravnih tijela Grada Splita kroz:
 
+```
  Odsjek za gospodarstvo i obrtništvo
  Odsjek za turizam
-ODSJEK ZA GOSPODARSTVO I OBRTNIŠTVO
- POTPORE SUBJEKTIMA MALOG GOSPODARSTVA
+```
+###### ODSJEK ZA GOSPODARSTVO I OBRTNIŠTVO
+
+######  POTPORE SUBJEKTIMA MALOG GOSPODARSTVA
+
 Subjekti malog gospodarstva jedni su od glavnih nositelja gospodarske aktivnosti, stoga je vrlo
 važno omogućiti im kontinuiran rast i razvoj, povećanje kvalitete proizvoda i usluga, kao i
 očuvanje postojećih radnih mjesta i novo zapošljavanje.
@@ -9900,85 +12674,131 @@ putem snažnijeg pozicioniranja na tržištu.
 U periodu od 201 7. do lipnja 2021. godine, dodijeljeno je 313 bespovratnih potpora u ukupnom
 iznosu od 5.843.351,53 kn.
 
+
 Napomene:
 
-* U 2017. godini zbog kasnog donošenja Proračuna nisu bili raspisivani natječaji za dodjelu
+_* U 2017. godini zbog kasnog donošenja Proračuna nisu bili raspisivani natječaji za dodjelu_
 bespovratnih sredstava poduzetnicima.
 
-** U 2020. Grad Split je sa Sveučilištem u Splitu zaključio „Ugovor o suradnji na provedbi mjere
+** U 2020. _Grad Split je sa Sveučilištem u Splitu zaključio „Ugovor o suradnji na provedbi mjere_
 oporavka gospodarstva grada Splita uslijed pandemije COVID 19 - Program inkubacije i edukacije za
-razvoj poduzetništva i start - upa u visokotehnoloških industrijama“ u iznosi 970.000 kn. Temeljem
-predmetnog Ugovora, Sveučilište je u 2021.god. raspisalo „Natječaje za dodjelu bespovratnih
-sredstava - potpora za poticanje start- up poduzetništva u sklopu Programa inkubacije i edukacije za
-razvoj poduzetništva i start - upa visokotehnoloških industrija“ te su u obvezi Gradu dostavljati izvješća
-po provedenim natječ ajima.
+_razvoj poduzetništva i start_ - _upa u visokotehnoloških industrijama“_ u iznosi 970.000 kn. Temeljem
+_predmetnog Ugovora, Sveučilište je u 2021.god. raspisalo „Natječaje_ za dodjelu bespovratnih
+sredstava - potpora za poticanje start- _up poduzetništva u sklopu Programa inkubacije i edukacije za
+razvoj poduzetništva i start_ - _upa visokotehnoloških industrija“ te su u obvezi Gradu dostavljati izvješća
+po provedenim natječ_ ajima.
 
-*** U tijeku je realizacija N atječaj a za dodjelu potpora obrtništvu grada Splita u 2021. godini
+*** U tijeku je realizacija N _atječaj_ a _za dodjelu potpora obrtništvu grada Splita u 2021. godini_
 
+```
 Godina
+```
+```
 Vrsta i namjena
 potpore
+```
+```
 Broj
 pristiglih
 zahtjeva
+```
+```
 Broj
 dodijelje
 nih
 potpora
+```
+```
 Ukupan iznos
 predviđenih
 sredstava
+```
+```
 Ukupan iznos
 dodijeljenih
 sredstava
+```
+```
 2017.
+```
+```
 Obrti 47 42 500.000,00 kn 649.387,52 kn
 Start-up 13 6 170.000,00 kn 130.000,00 kn
 Ukupno 2018: 60 48 670.000,00 kn 779.387,52 kn
 Kreativna
 industrija (obrti i
 trg.društva)
+```
+```
 13 9 300.000,00 kn 234.047,19 kn
+```
+```
 Zapošljavanje 34 26 2.000.000,00 kn 780.000,00 kn
 Start-up 29 6 250.000,00 kn 250.000,00 kn
 Ukupno 2019: 76 41 2.550.000,00 kn 1.264.047,19 kn
 Zapošljavanje –
 COVID 19
 potpora
+```
+```
 250 140 1.200.000,00 kn 1.060.000,00 kn
+```
+```
 Sveučilište u
 Splitu -
 START UP **
+```
+```
 970.000,00 kn 970.000,00 kn
+```
+```
 Ukupno 2020: 250 140 2.170.000,00 kn 2.030.000,00 kn
 Obrti (dodjela u
 tijeku) ***^32484 1.770.000,00 kn 1.769.916,82 kn
+```
+```
 UKUPNO 2017 - 2021 710 313 7.160.000,00 kn 5.843.351,53 kn
+```
+```
 POTPORE SUBJEKTIMA MALOG GOSPODARSTVA
+```
+```
 0 *
+```
+```
 2018.
+```
+```
 2019.
+```
+```
 2020.
+```
+```
 2021.
-godina
+```
+
+2018. godina
+
 U 2018. godini ukupno je ugovoreno 779.387,52 kuna bespovratnih potpora kroz dva
 natječaja:
 
-Natječaj za dodjelu bespovratnih sredstava obrtnicima grada Splita
+1) Natječaj za dodjelu bespovratnih sredstava obrtnicima grada Splita
 Dodijeljeno je ukupno 649.387,52 kuna bespovratnih potpora obrtnicima u cilju povećanja
 učinkovitosti poslovanja obrtnika, jačanje konkurentnosti obrtnika ulaganjem u razvoj
 proizvoda, usluga i procesa, podizanje kvalitete pružanja usluga te postizanje boljih poslovnih
 rezultata putem snažnijeg pozicioniranja na tržištu.
 
-Natječaj za dodjelu bespovratnih sredstava najboljim inovativnim poduzetničkim idejama u
+2) Natječaj za dodjelu bespovratnih sredstava najboljim inovativnim poduzetničkim idejama u
 
-godini
+2018. godini
 S ciljem stvaranja stimulativnog okruženja za razvoj poduzetništva, afirmacija novih
 poduzetničkih ideja te poticanje start-up poduzeća u daljnjem razvoju, Grad Split je po prvi
 puta objavio natječaj usmjeren poticanju poduzetnika početnika kroz nagrađivanje najboljih
 inovativnih poduzetničkih ideja. Ukupno je dodijeljeno šest bespovratnih potpora u ukupnom
 iznosu od 130.000,00 kn.
-godina
+2019. godina
+
 U 2019. godini ukupno je ugovoreno 1.265,285 kuna bespovratnih potpora poduzetnicima kroz
 tri natječaja.
 Kroz Natječaj za dodjelu potpora za poticanje zapošljavanja grada Splita u 2019. godini,
@@ -9997,16 +12817,19 @@ Grad Split, a Ekonomski Fakultet osigurao je Get in the Ring licencu za Hrvatsku
 treninge za sve natjecatelje, dok je o pobjednicima odlučivao međunarodni žiri čiji članovi vode
 ili predstavljaju investicijske fondove spremne za ulaganje u perspektivne start-upe.
 
-godina
+2020. godina
+
 U 2020. godini, obzirom na novonastalu situaciju vezanu za pandemiju koronavirusa,
 financijsko – gospodarski tim Gradonačelnika predložio je niz mjera za pomoć poduzetnicima,
 čime se omogućilo ublažavanje negativnog efekta koronavirusa na gospodarstvo.
 Temeljem „Javnog poziva za dodjelu potpora za otvaranje novih radnih mjesta u gradu Splitu
 
-COVID 19“ isplaćeno je 1.060.000,00 kuna potpora te je zaposleno 265 osoba.
+- COVID 19“ isplaćeno je 1.060.000,00 kuna potpora te je zaposleno 265 osoba.
 Ostale mjere pomoći poduzetnicima grada Splita odnose se na odgodu ovrha, odgodu/otpis
 plaćanja komunalne naknade, oslobađanje/umanjenje od plaćanja zakupa za poslovne
 prostore u vlasništvu Grada Splita te oslobađanje od plaćanja zakupa javnih površina.
+
+
 Također, Grad Split je sa Sveučilištem u Splitu zaključio „Ugovor o suradnji na provedbi mjere
 oporavka gospodarstva grada Splita uslijed pandemije COVID 19 - Program inkubacije i
 edukacije za razvoj poduzetništva i start-upa u visokotehnoloških industrijama“ u iznosu od
@@ -10022,7 +12845,8 @@ inkubacije i edukacije za razvoj poduzetništva i start-upa visokotehnoloških i
 iskorištenja ukupnog dodijeljenog iznosa od 970.000 kn te su u obvezi Gradu dostavljati
 izvješća po provedenim natječajima.
 
-godina
+2021. godina
+
 Javni natječaj za dodjelu potpora obrtništvu grada Splita u 2021. godini je bio raspisan od 26.
 ožujka 2021. godine do 26. travnja 2021. godine.
 Ukupno su pristigle 324 prijave, iznad svih očekivanja i statistički puno više u odnosu na sve
@@ -10037,25 +12861,38 @@ ugovora te isplati odobrenih sredstva.
 
 Sukladno navedenom, u periodu od zadnje 4 godine tj. od lipnja 2017. do lipnja 2021.
 godine, dodijeljeno je 313 bespovratnih potpora u ukupnom iznosu od 5.843.351,53 kn,
-što je gotovo 2,6% više nego u razdoblju od prijašnjih 8 go dina:
+**što je** gotovo **2,6% više nego u razdoblju od prijašnjih 8 go** dina:
 
+```
  U tijeku je priprema pravilnika i natječaja za razvoj starup poduzetništva.
  Raspisivanje ostalih natječaja za pomoć poduzetnicima grada Splita ovisi o rebalansu
 Proračuna za 2021.god.
-POTPORE SUBJEKTIMA MALOG GOSPODARSTVA
+```
+###### POTPORE SUBJEKTIMA MALOG GOSPODARSTVA
+
+```
 Razdoblje Razdoblje Indeks
 2017.- 06.2021. 2010.-2017. 2017-2021 / 2010-2017
 Broj pristiglih
 zahtjeva 710 442 160,63
+```
+```
 Broj
 dodijeljenih
 potpora 313 279 112,19
+```
+```
 Ukupan iznos
 dodijeljenih
 sredstava
+```
+```
 5.843.351,53 kn 5.695.275,77 kn
 102,60
- POTICANJE PROGRAMA I PROJEKTA UDRUGA ZA ZAŠTITU POTROŠAČA
+```
+
+######  POTICANJE PROGRAMA I PROJEKTA UDRUGA ZA ZAŠTITU POTROŠAČA
+
 Zakonom o zaštiti potrošača propisano je da su jedinice lokalne samouprave dužne na svom
 području poduzimati mjere i aktivnosti iz svoje nadležnosti u području zaštite potrošača, a
 posebno informirati i provoditi izobrazbu potrošača, organizirati savjetovanje potrošača,
@@ -10065,27 +12902,42 @@ provedbi Nacionalnog programa zaštite potrošača na lokalnoj razini.
 Sukladno navedenom, Grad Split provodi godišnje natječaje za financiranje projekata udruga
 iz područja zaštite potrošača:
 
-ZAŠTITA
-POTROŠAČA
-2017. 2018. 2019. 2020. 2021.
-UKUPNO -
+###### ZAŠTITA
+
+###### POTROŠAČA
+
+###### 2017. 2018. 2019. 2020. 2021.
+
+###### UKUPNO -
+
+```
 po udruzi
+```
+```
 Ukupan
 iznos
 dodijeljenih
 sredstava
+```
+```
 Ukupan
 iznos
 dodijeljenih
 sredstava
+```
+```
 Ukupan
 iznos
 dodijeljenih
 sredstava
+```
+```
 Ukupan
 iznos
 dodijeljenih
 sredstava
+```
+```
 Ukupan
 iznos
 dodijeljenih
@@ -10093,44 +12945,69 @@ sredstava
 UDRUGA
 DALMATINSKI
 POTROŠAČ
-0 41.127,20 47.762,00 17.278,86 25.000,00 131.168,06
-UDRUGA SPLITSKI
-POTROŠAČ
-0 0 48.000,00 21.700,00 40.000,00 109.700,00
+```
+###### 0 41.127,20 47.762,00 17.278,86 25.000,00 131.168,06
+
+###### UDRUGA SPLITSKI
+
+###### POTROŠAČ
+
+###### 0 0 48.000,00 21.700,00 40.000,00 109.700,00
+
+```
 UKUPNO - po
 godinama^0
-41.127,20
+```
+###### 41.127,20
+
+```
 kn
-95.762,00
+```
+###### 95.762,00
+
+```
 kn
-38.978,86
+```
+###### 38.978,86
+
+```
 kn
-65.000,00
+```
+###### 65.000,00
+
+```
 kn 240.868,06
-u 2018. godini, sklopljen je ugovor s Udrugom za zaštitu potrošača „Dalmatinski potrošač“ za
+```
+- u 2018. godini, sklopljen je ugovor s Udrugom za zaštitu potrošača „Dalmatinski potrošač“ za
 provođenje projekta „Savjetovanje potrošača i mirenje u potrošačkim sporovima“ u iznosu od
 41.127,20 kn.
-u 2019. godini, sklopljeni su ugovori s Udrugom za zaštitu potrošača „Dalmatinski potrošač“
+- u 2019. godini, sklopljeni su ugovori s Udrugom za zaštitu potrošača „Dalmatinski potrošač“
 za provođenje projekta „Potrošači digitalnog doba“ u iznosu od 47.762,00 kn, te s Udrugom za
 zaštitu prava potrošača „Splitski potrošač“ za provođenje projekta „Savjetovanje potrošača na
 području grada Splita u 2019. godini“ u iznosu od 48.000,00 kn.
-u 2020. godini, sklopljeni su ugovori s Udrugom za zaštitu potrošača „Dalmatinski potrošač“
+- u 2020. godini, sklopljeni su ugovori s Udrugom za zaštitu potrošača „Dalmatinski potrošač“
 u iznosu od 21.700,00 kn, te s Udrugom za zaštitu prava potrošača „Splitski potrošač“ u iznosu
 od 17.278,86 kn.
-u 202 1. godini, odobrena su sredstva Udruzi za zaštitu potrošača „Dalmatinski potrošač“ za
+- u 202 1. godini, odobrena su sredstva Udruzi za zaštitu potrošača „Dalmatinski potrošač“ za
 provođenje projekta „Edukacija i informiranja potrošača na području grada Splita u
 2021.godini“ u iznosu od 25.000,00 kn, te Udruzi za zaštitu prava potrošača „Splitski potrošač“
 za provođenje projekta „Savjetovanje i edukacija potrošača na području grada Splita u
 2021.godini“ u iznosu od 39.999,96 kn.
+
+```
  Program raspolaganja poljoprivrednim zemljištem u vlasništvu RH
+```
 Donesen je Program raspolaganja poljoprivrednim zemljištem u vlasništvu RH za Grad Split,
 na 17. sjednici Gradskog vijeća, održanoj 20. prosinca 2018. godine uz obvezu dobivanja
 suglasnosti Ministarstva poljoprivrede. Ministarstvo poljoprivrede je isti uputilo na donošenje
 od strane Splitsko – dalmatinske županije. Program je donesen od strane SDŽ 10. svibnja
+2019. god.
 
-god.
-ODSJEK ZA TURIZAM
- PROGRAM POTICANJA OBOGAĆIVANJA TURISTIČKE PONUDE
+
+###### ODSJEK ZA TURIZAM
+
+######  PROGRAM POTICANJA OBOGAĆIVANJA TURISTIČKE PONUDE
+
 Kroz program poticanja i obogaćivanja turističke ponude Služba prati provedbu i organizaciju
 raznih događanja u organizaciji Turističke zajednice grada Splita.
 
@@ -10147,69 +13024,90 @@ sufinancirati te pojedinačni iznosi i raspodjela sredstava za organizaciju mani
 Sredstva se dodjeljuju putem Ugovora o donaciji Turističkoj zajednici grada Splita za
 organizaciju manifestacija koje ista organizira tijekom cijele godine.
 
+```
 DOGAĐAJ 2017 2018 2019 2020 2021 Ukupno
+```
+```
 1 TZ adventska događanja-^ Nova godina -^ 900.000 900.000 1.340.000 900.000 4.040.000
+```
+```
 2 TZ - Karneval 300.000 300.000 300.000 900.000
 3 TZ - Sudamja 309.000 500.000 500.000 140.000 1.449.000
 4 TZ - Splitski festival 500.000 500.000 500.000 400.000 500.000 2.400.000
 5 TZ- Koncertni program 391.000 200.000 410.000 1.001.000
 Ukupno:^ 2.100.000^ 2.400.000^ 3.050.000^ 1.600.000^ 640.000^ 9.790.000^
+```
 Zbog epidemije koronavirusa tijekom 2020./2021.god. niz planiranih manifestacija i događaja
 nije se mogao održati.
 
- POTICANJE GOSPODARSKO - TURISTIČKIH MANIFESTACIJA
+######  POTICANJE GOSPODARSKO - TURISTIČKIH MANIFESTACIJA
+
 Kroz proračun Službe odobravaju se sredstva za poticanje i sufinanciranje raznih gospodarsko
 
-turističkih manifestacija koje promoviraju razvoj turizma u cilju obogaćivanja i poboljšanja
+- turističkih manifestacija koje promoviraju razvoj turizma u cilju obogaćivanja i poboljšanja
 turističke ponude, te potiču i razvijaju gospodarsku aktivnost u Gradu Splitu.
+
 Zbog epidemije koronavirusa tijekom 2020./2021.god., niz planiranih manifestacija i događaja
 nije se mogao održati zbog epidemioloških mjera.
 
- ULTRA EUROPE MUSIC FESTIVAL
+######  ULTRA EUROPE MUSIC FESTIVAL
+
 ULTRA EUROPE je manifestacija elektroničke glazbe koja se od 2013. godine održava u
 Splitu i koja se profilirala u jednu od najvećih i najpoznatijih glazbenih manifestacija te vrste u
 svijetu.
 
+
 Zbog epidemije koronavirusa, manifestacija ULTRA EUROPE se u 2020.godini nije održala.
 Također, izvjesno je da se ista neće održati ni ove godine.
 
- UGOSTITELJSTVO
+####  UGOSTITELJSTVO
+
 U okviru svog redovnog rada, Služba provodi upravne postupke za određivanje ranijeg
 završetka radnog vremena ugostiteljskih objekata, te postupke kasnijeg završetka radnog
 vremena sukladno Zakonu o ugostiteljskoj djelatnosti.
 
- OSTALE AKTIVNOSTI :
-U promatranom razdoblju donesene su odluke:
-Odluka o ugostiteljskoj djelatnosti na području Grada Splita
-Odluka o visini turističke pristojbe za brodove na kružnom putovanju u međunarodnom
-pomorskom prometu kada se brod nalazi na vezu u luci ili sidrištu luke na području
-grada Splita za 2021. godinu
-Odluka o visini turističke pristojbe za brodove na kružnom putovanju u međunarodnom
-pomorskom prometu kada se brod nalazi na vezu u luci ili sidrištu luke na području
-grada Splita za 2022.godinu
-Služba izrađuje razne statističke izvještaje i analize turističkih kretanja koji služe kao podloga
+######  OSTALE AKTIVNOSTI :
+
+- U promatranom razdoblju donesene su odluke:
+    1) Odluka o ugostiteljskoj djelatnosti na području Grada Splita
+    2) Odluka o visini turističke pristojbe za brodove na kružnom putovanju u međunarodnom
+       pomorskom prometu kada se brod nalazi na vezu u luci ili sidrištu luke na području
+       grada Splita za 2021. godinu
+    3) Odluka o visini turističke pristojbe za brodove na kružnom putovanju u međunarodnom
+       pomorskom prometu kada se brod nalazi na vezu u luci ili sidrištu luke na području
+       grada Splita za 2022.godinu
+- Služba izrađuje razne statističke izvještaje i analize turističkih kretanja koji služe kao podloga
+
 za sudjelovanje na različitim gospodarsko - turističkim manifestacijama u zemlji i inozemstvu,
 
 izdaje preporuke za korištenje javnih površina radi organizacije gospodarsko - turističkih
 manifestacija, priprema tekstove za otvorenje različitih gospodarsko - turističkih manifestacija.
 
-Služba redovito informira i savjetuje zainteresirane postojeće i potencijalne poduzetnike o
+- Služba redovito informira i savjetuje zainteresirane postojeće i potencijalne poduzetnike o
 mogućnostima dobivanja bespovratnih sredstava za natječaje koje provodi Grad, kao i za
+
 aktualne natječaje koji se provode na državnoj i regionalnoj razini.
 
-Predstavnici Službe redovito sudjeluju i predstavljaju Grad Split na različitim konferencijama,
+- Predstavnici Službe redovito sudjeluju i predstavljaju Grad Split na različitim konferencijama,
+
 gospodarsko-turističkim manifestacijama, radionicama organiziranim od strane ministarstava,
 državnih agencija, kao i institucija na lokalnoj sredini, od Splitsko- dalmatinske županije,
 
 Hrvatske gospodarske komore, Udruženja obrtnika grada Splita, Sveučilišta u Splitu, i sl.
 
+2015. 2016. 2017. 2018. 2019.
 913.000 2.000.000 1.000.000 2.000.000 2.000.000
 
+```
 TROŠAK SPONZORSTVA MANIFESTACIJE ULTRA EUROPE MUSIC FESTIVAL
 SPLIT 2015. - 2019.
 Ukupno
 7.913.000
-AKTIVNOSTI U NAREDNOM RAZDOBLJU:
+```
+
+###### AKTIVNOSTI U NAREDNOM RAZDOBLJU:
+
+```
  Lipanj/srpanj 2021.god. - izrada 84 ugovora za dodjelu potpora obrtništvu te
 potpisivanje istih od stane Gradonačelnika i korisnika potpore
  Rujan/listopad 2021.god. - Natječaja za razvoj starup poduzetništva. Proračunom su
@@ -10219,8 +13117,16 @@ Proračuna za 2021.god.
  Prosinac 2021.god. - izrada Odluke o visini turističke pristojbe za brodove na kružnom
 putovanju u međunarodnom pomorskom prometu kada se brod nalazi na vezu u luci ili
 sidrištu luke na području grada Splita za 2023.godinu. Odluku donosi Gradsko vijeće
-PROČELNICA P.O.
+```
+###### PROČELNICA P.O.
+
+```
 Ela Žižić
-SLUŽBA PRAVNIH POSLOVA, ZAŠTITE I ZASTUPANJA
-NAPOMENA: Izvješće Službe pravnih poslova, zaštite i zastupanja je izostavljeno radi zaštite
+```
+
+###### SLUŽBA PRAVNIH POSLOVA, ZAŠTITE I ZASTUPANJA
+
+NAPOMENA: _Izvješće Službe pravnih poslova, zaštite i zastupanja je izostavljeno radi zaštite_
 interesa grada.
+
+
